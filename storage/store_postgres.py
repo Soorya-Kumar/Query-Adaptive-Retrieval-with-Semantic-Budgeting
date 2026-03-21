@@ -97,22 +97,30 @@ def fetch_descriptor_embeddings(
     return result
 
 
-def bm25_search(query: str, top_k: int = 500) -> List[dict]:
-    """Full-text search over descriptor tags using tsvector."""
-    with get_conn() as conn, conn.cursor() as cur:
-        cur.execute(
-            """
-            SELECT chunk_id, SUM(confidence * ts_rank(tag_tsv, query)) AS score
-            FROM descriptor_tags, to_tsquery('english', %s) query
-            WHERE tag_tsv @@ query
-            GROUP BY chunk_id
-            ORDER BY score DESC
-            LIMIT %s
-            """,
-            (_to_tsquery(query), top_k),
-        )
-        rows = cur.fetchall()
+import re
 
+def _to_or_tsquery(text: str) -> str:
+    tokens = [re.sub(r"[^A-Za-z0-9']", "", t).lower() for t in text.split()]
+    tokens = [t for t in tokens if t]
+    if not tokens:
+        return text
+    return " | ".join(tokens)
+
+def bm25_search(query: str, top_k: int = 500) -> List[dict]:
+    """Full-text search over chunk.raw_text using OR semantics for high recall."""
+    sql = """
+    WITH q AS (SELECT to_tsquery('english', %s) AS query)
+    SELECT c.chunk_id,
+           ts_rank_cd(c.raw_text_tsv, q.query)::float AS score
+    FROM chunks c, q
+    WHERE c.raw_text_tsv @@ q.query
+    ORDER BY score DESC
+    LIMIT %s
+    """
+    qtext = _to_or_tsquery(query)
+    with get_conn() as conn, conn.cursor() as cur:
+        cur.execute(sql, (qtext, top_k))
+        rows = cur.fetchall()
     return [{"chunk_id": r[0], "score": float(r[1])} for r in rows]
 
 
@@ -126,12 +134,6 @@ def fetch_chunk_metadata(chunk_id: str) -> dict:
     if not row:
         return {}
     return {"doc_id": row[0], "anchor_year": row[1], "relativity_class": row[2]}
-
-
-def _to_tsquery(text: str) -> str:
-    """Convert raw query string to tsquery format (AND of terms)."""
-    terms = [t.strip() for t in text.split() if t.strip()]
-    return " & ".join(terms)
 
 
 def fetch_tags_for_document(doc_id: str):

@@ -207,7 +207,7 @@ def analyze(query: str) -> QueryAnalysis:
         "options": {"temperature": 0.0}
     }
 
-    response = httpx.post(OLLAMA_URL, json=payload, timeout=60)
+    response = httpx.post(OLLAMA_URL, json=payload, timeout=180)
     response.raise_for_status()
 
     raw = response.json()["message"]["content"].strip()

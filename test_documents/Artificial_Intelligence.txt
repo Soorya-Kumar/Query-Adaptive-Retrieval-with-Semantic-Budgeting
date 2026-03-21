@@ -1,4 +1,4 @@
 TITLE: Artificial Intelligence
 ID: doc18
 --------------------------------------------------
-Artificial intelligence involves creating machines that can think and learn like humans. Modern AI includes machine learning, deep learning, and neural networks. Applications range from voice assistants like Siri to recommendation systems on Netflix and autonomous vehicles.
+Artificial intelligence is the latest tech involves creating machines that can think and learn like humans. Modern AI includes machine learning, deep learning, and neural networks. Applications range from voice assistants like Siri to recommendation systems on Netflix and autonomous vehicles.

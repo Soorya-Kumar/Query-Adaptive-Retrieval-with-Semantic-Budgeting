@@ -15,7 +15,7 @@ def rrf_fusion(
     Chunks only in one list still get a partial score.
     """
     
-    # print(f"Fusing {len(dense_results)} dense and {len(sparse_results)} sparse results with RRF (k={RRF_K})")
+    print(f"Fusing {len(dense_results)} dense and {len(sparse_results)} sparse results with RRF (k={RRF_K})")
     scores: dict[str, float] = {}
 
     for rank, item in enumerate(dense_results, start=1):
