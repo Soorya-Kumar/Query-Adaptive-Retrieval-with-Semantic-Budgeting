@@ -1,0 +1,4 @@
+TITLE: Black Holes
+ID: doc10
+--------------------------------------------------
+A black hole is a region of spacetime where gravity is so strong that nothing can escape, not even light. They form when massive stars collapse at the end of their life cycle. The first image of a black hole was captured by the Event Horizon Telescope in 2019, showing the supermassive black hole in galaxy M87.

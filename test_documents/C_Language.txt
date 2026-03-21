@@ -1,0 +1,4 @@
+TITLE: C++ Language
+ID: doc4
+--------------------------------------------------
+C++ is a powerful general-purpose programming language created by Bjarne Stroustrup. It supports both low-level memory manipulation and object-oriented programming features. C++ is widely used in systems software, game development, drivers, and performance-critical applications.

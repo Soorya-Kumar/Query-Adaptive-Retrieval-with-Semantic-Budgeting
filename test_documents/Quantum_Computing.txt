@@ -1,0 +1,4 @@
+TITLE: Quantum Computing
+ID: doc20
+--------------------------------------------------
+Quantum computing uses quantum-mechanical phenomena like superposition and entanglement to perform computations. Unlike classical computers using bits (0 or 1), quantum computers use qubits that can represent multiple states simultaneously. This could revolutionize fields like cryptography and drug discovery.

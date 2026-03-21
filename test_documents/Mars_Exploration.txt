@@ -1,0 +1,4 @@
+TITLE: Mars Exploration
+ID: doc9
+--------------------------------------------------
+Mars is the fourth planet from the Sun and has been a focus of space exploration. NASA's Perseverance rover landed in 2021 to search for signs of ancient life. Mars has the largest volcano in the solar system, Olympus Mons, and evidence suggests it once had liquid water on its surface.

@@ -1,0 +1,4 @@
+TITLE: International Space Station
+ID: doc12
+--------------------------------------------------
+The International Space Station is a modular space station in low Earth orbit. It's a multinational collaborative project involving NASA, Roscosmos, JAXA, ESA, and CSA. The ISS serves as a microgravity laboratory where crews conduct experiments in biology, physics, astronomy, and meteorology.

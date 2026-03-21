@@ -1,0 +1,4 @@
+TITLE: Cloud Computing
+ID: doc17
+--------------------------------------------------
+Cloud computing delivers computing services including servers, storage, databases, networking, and software over the Internet. Major providers include AWS, Microsoft Azure, and Google Cloud. It offers benefits like scalability, cost efficiency, and remote access from anywhere.

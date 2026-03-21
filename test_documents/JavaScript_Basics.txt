@@ -1,0 +1,4 @@
+TITLE: JavaScript Basics
+ID: doc2
+--------------------------------------------------
+JavaScript is a lightweight, interpreted programming language primarily used for web development. It enables interactive web pages and is an essential technology of the World Wide Web, alongside HTML and CSS. JavaScript supports event-driven, functional, and object-oriented programming styles.

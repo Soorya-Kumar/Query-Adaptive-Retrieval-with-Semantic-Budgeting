@@ -1,0 +1,4 @@
+TITLE: Blockchain Technology
+ID: doc19
+--------------------------------------------------
+Blockchain is a distributed ledger technology that maintains a secure and decentralized record of transactions. It gained prominence as the technology behind Bitcoin and other cryptocurrencies. Beyond finance, blockchain has potential applications in supply chain, voting systems, and digital identity.

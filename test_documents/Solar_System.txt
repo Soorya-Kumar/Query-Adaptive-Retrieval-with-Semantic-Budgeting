@@ -1,0 +1,4 @@
+TITLE: Solar System
+ID: doc11
+--------------------------------------------------
+Our solar system consists of the Sun, eight planets, five dwarf planets, and countless asteroids and comets. The four inner planets are Mercury, Venus, Earth, and Mars, while the outer planets are Jupiter, Saturn, Uranus, and Neptune. The solar system formed 4.6 billion years ago from a giant molecular cloud.

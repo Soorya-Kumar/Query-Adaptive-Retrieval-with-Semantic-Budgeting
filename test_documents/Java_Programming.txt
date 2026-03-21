@@ -1,0 +1,4 @@
+TITLE: Java Programming
+ID: doc3
+--------------------------------------------------
+Java is a class-based, object-oriented programming language designed to have as few implementation dependencies as possible. It's widely used for building enterprise-scale applications, Android mobile apps, and large systems development. Java applications are typically compiled to bytecode that runs on any Java Virtual Machine.

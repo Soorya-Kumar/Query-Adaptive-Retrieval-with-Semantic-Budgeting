@@ -1,0 +1,4 @@
+TITLE: Roman Empire
+ID: doc13
+--------------------------------------------------
+The Roman Empire was founded in 27 BCE when Augustus became the first emperor. At its height, it controlled territory spanning from Britain to North Africa and from Spain to the Middle East. The empire fell in 476 CE in the west but continued as the Byzantine Empire in the east until 1453.

@@ -1,0 +1,4 @@
+TITLE: Python Programming
+ID: doc1
+--------------------------------------------------
+Python is a high-level, interpreted programming language known for its simplicity and readability. Created by Guido van Rossum in 1991, it emphasizes code readability with its notable use of significant whitespace. Python supports multiple programming paradigms including procedural, object-oriented, and functional programming.

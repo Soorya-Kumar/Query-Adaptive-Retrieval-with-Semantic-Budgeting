@@ -1,0 +1,6 @@
+docker exec -it ollama ollama pull qwen2.5:7b-instruct
+
+docker exec -it pgvector psql -U user -d postgres
+
+docker exec -it pgvector psql -U user -d fyp1
+and then paste storage/schema.sql to create the table.
