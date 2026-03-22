@@ -1,0 +1,28 @@
+The present paper is an attempt to formulate a positive
+theory of motivation which will satisfy these theoretical
+demands and at the same time conform to the known facts,
+clinical and observational as well as experimental.  It
+derives most directly, however, from clinical experience.
+This theory is, I think, in the functionalist tradition of
+James and Dewey, and is fused with the holism of Wertheimer,
+Goldstein, and Gestalt Psychology, and with the dynamicism of
+Freud and Adler.  This fusion of synthesis may arbitrarily 
+be called a 'general-dynamic' theory.
+.X
+285	1	1233
+296	1	1233
+298	1	1233
+304	1	1233
+418	1	1233
+843	1	1233
+844	1	1233
+1015	1	1233
+1020	1	1233
+1041	1	1233
+1048	2	1233
+1069	2	1233
+1070	1	1233
+1150	1	1233
+1233	9	1233
+1455	2	1233
+1455	2	1233

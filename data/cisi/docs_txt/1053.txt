@@ -1,0 +1,31 @@
+This book is meant to be an aid and reference work
+for those people who are interested in the design of
+information systems.  Such information systems are
+typified by the traditional libraries, but the same
+problems of information processing, storage, and
+retrieval are present in many government and
+industrial organizations in many places besides the
+library.  This book provides an illustration of the
+tools, equipment, and methodology that might be
+applied to those problems.
+.X
+140	1	1053
+146	1	1053
+337	1	1053
+346	1	1053
+360	1	1053
+458	1	1053
+471	1	1053
+495	1	1053
+563	1	1053
+835	1	1053
+851	1	1053
+862	1	1053
+911	1	1053
+966	1	1053
+967	1	1053
+1053	6	1053
+1231	1	1053
+1309	1	1053
+1393	1	1053
+1393	1	1053

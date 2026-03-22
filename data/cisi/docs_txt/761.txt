@@ -1,0 +1,28 @@
+Words have no precision, though in information storage and retrieval we are
+required to act as if they did.. We have, therefore, to impose certain 
+arbitrary conditions to reduce the element of personal interpretation..
+'Meaning' must be remove from the indexing stage to that of vocabulary 
+construction.. Vocabularies can be reduced to a minimum, first to a core of 
+terms used in specialist science, and, following Russel, ultimately to
+undefined terms symbolic of sense experience.. 'Basic English' has shown 
+similar minimizing to be feasible for a natural language.. The success of
+Batten cards shown that the principle could be equally applicable to specialist 
+indexing vocabularies..
+.X
+42	1	761
+119	1	761
+149	1	761
+152	1	761
+258	1	761
+388	1	761
+458	1	761
+558	1	761
+714	1	761
+761	5	761
+907	1	761
+1175	1	761
+1309	1	761
+1381	1	761
+1394	1	761
+1407	1	761
+1407	1	761

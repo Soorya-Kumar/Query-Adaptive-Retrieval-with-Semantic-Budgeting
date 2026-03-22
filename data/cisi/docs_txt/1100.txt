@@ -1,0 +1,9 @@
+A method for economic efficiency determination of scientific and technical
+information is suggested..
+.X
+372	3	1100
+1100	8	1100
+1161	1	1100
+1168	1	1100
+1176	1	1100
+1176	1	1100

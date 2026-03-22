@@ -1,0 +1,51 @@
+A detailed comparison of how 334 papers in Volume 112 of Physical Review form
+related groups according to two criteria of relatedness.. The criteria are: (1)
+the Analytic Subject Index as used by the editors of the Physical Review; and
+(2) the method of Bibliographic Coupling.. The similarities and differences 
+between the groups thus formed are illustrated and discussed..
+.X
+39	2	50
+41	1	50
+43	1	50
+47	1	50
+50	8	50
+65	1	50
+75	1	50
+105	1	50
+131	2	50
+175	2	50
+233	1	50
+326	1	50
+382	1	50
+395	1	50
+446	1	50
+473	3	50
+485	2	50
+486	1	50
+503	1	50
+572	1	50
+586	1	50
+616	1	50
+632	1	50
+769	1	50
+773	1	50
+778	1	50
+780	1	50
+785	1	50
+791	1	50
+893	1	50
+907	1	50
+958	2	50
+965	1	50
+966	1	50
+1123	1	50
+1207	2	50
+1255	1	50
+1277	1	50
+1280	1	50
+1283	1	50
+1285	3	50
+1287	2	50
+1341	1	50
+1426	1	50
+1426	1	50

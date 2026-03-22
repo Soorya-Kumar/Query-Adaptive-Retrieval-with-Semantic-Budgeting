@@ -1,0 +1,86 @@
+Of all the problems which have, of recent years,
+engaged the attention of educators and librarians
+none have been more puzzling than those posed by
+the astonishing growth of our great research 
+libraries.  My own interest in this subject has, 
+over several years, resulted in a series of papers,
+some of them mainly analyzes, but others of them
+endeavoring to suggest answers to what has 
+sometimes seemed to be an almost insoluble puzzle.
+.X
+3	1	1268
+9	1	1268
+20	1	1268
+42	1	1268
+60	1	1268
+61	1	1268
+62	1	1268
+85	1	1268
+129	1	1268
+148	1	1268
+159	1	1268
+172	4	1268
+207	1	1268
+222	1	1268
+223	1	1268
+260	1	1268
+283	1	1268
+286	2	1268
+293	1	1268
+296	2	1268
+297	1	1268
+298	2	1268
+300	1	1268
+301	1	1268
+302	1	1268
+358	1	1268
+360	2	1268
+364	1	1268
+383	1	1268
+469	1	1268
+515	1	1268
+535	1	1268
+585	1	1268
+599	1	1268
+625	1	1268
+629	1	1268
+631	1	1268
+634	1	1268
+640	1	1268
+652	1	1268
+665	1	1268
+762	1	1268
+791	1	1268
+803	1	1268
+811	1	1268
+816	1	1268
+818	1	1268
+823	1	1268
+843	1	1268
+844	1	1268
+846	1	1268
+907	3	1268
+915	1	1268
+961	1	1268
+962	1	1268
+964	1	1268
+981	1	1268
+994	1	1268
+1014	1	1268
+1015	1	1268
+1022	1	1268
+1045	1	1268
+1150	1	1268
+1219	2	1268
+1242	1	1268
+1247	1	1268
+1255	1	1268
+1268	15	1268
+1286	1	1268
+1354	1	1268
+1380	1	1268
+1402	1	1268
+1417	1	1268
+1418	1	1268
+1426	2	1268
+1426	2	1268

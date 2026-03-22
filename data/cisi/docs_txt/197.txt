@@ -1,0 +1,162 @@
+The paper reviews the highlights of a four-week trial period (November 19 -
+December 18, 1970) during which the Medical Library of the University of
+Virginia experimented with a new remote-access bibliographical control and
+retrieval system via its TWX machine.. The system, called AIM-TWX, was
+sponsored by the Lister Hill National Center for Biomedical Communications
+and utilized a time-shared IBM 360/67 computer in Santa Monica, California..
+Citations from 109 clinically-oriented  journals from 1966 to date, including
+those currently included in the Abridged Index Medicus, may be retrieved
+either on- or off-line..
+   Various aspects of this service are described, including problems of
+staffing, training, and record keeping, as well as the role of the MeSH
+vocabulary which is the principle "language" of the man-computer dialog..
+   The statistical results indicated that the system was used for approximately
+200 minuted on nineteen days and that an average of sixteen searches were run
+on any given day, or about 4.6 searches per hour of use.. In spite of an 
+inexperienced staff who had little knowledge of the MeSH vocabulary and whose
+training schedule was limited to one four-hour session, the experiment was
+highly successful in terms of searches and citations..
+   At the end of the period, 298 searches had been run for 114 requestors,
+and  5,343 citations had been produced.. Only fifty-five searches yielded no 
+citations.. The experiment generated a great deal of excitement and interest
+among the staff of the Library and of the Medical Center.. Moreover, a large
+number of medical practitioners in large and small communities  of Virginia
+participated in this experiment, indicating that there exists a great demand
+for this type of literature searching which AIM-TWX is able to provide with
+great rapidity..
+.X
+66	1	197
+120	1	197
+124	1	197
+127	1	197
+129	1	197
+161	1	197
+190	1	197
+191	1	197
+197	5	197
+211	1	197
+214	1	197
+218	2	197
+243	1	197
+307	1	197
+330	1	197
+332	1	197
+375	1	197
+378	1	197
+382	1	197
+445	1	197
+450	1	197
+451	1	197
+452	1	197
+454	1	197
+459	1	197
+468	1	197
+472	1	197
+484	1	197
+492	1	197
+503	1	197
+506	2	197
+507	1	197
+508	1	197
+511	1	197
+512	1	197
+514	1	197
+518	1	197
+520	1	197
+523	1	197
+524	1	197
+525	1	197
+526	1	197
+529	1	197
+530	1	197
+534	1	197
+546	2	197
+553	1	197
+554	1	197
+579	2	197
+591	1	197
+593	2	197
+594	3	197
+595	1	197
+596	1	197
+597	1	197
+599	1	197
+600	1	197
+603	2	197
+604	2	197
+606	3	197
+609	1	197
+610	1	197
+611	1	197
+612	1	197
+625	1	197
+626	1	197
+630	1	197
+634	1	197
+636	1	197
+637	1	197
+642	1	197
+648	1	197
+650	1	197
+692	1	197
+696	2	197
+699	1	197
+703	1	197
+705	2	197
+708	1	197
+723	1	197
+724	1	197
+726	1	197
+727	1	197
+728	1	197
+731	1	197
+732	1	197
+733	1	197
+734	1	197
+736	2	197
+738	1	197
+739	1	197
+740	1	197
+741	1	197
+742	1	197
+743	1	197
+744	1	197
+755	1	197
+795	1	197
+801	1	197
+805	1	197
+806	1	197
+820	1	197
+826	2	197
+827	1	197
+836	1	197
+866	1	197
+867	1	197
+879	1	197
+883	1	197
+956	1	197
+989	1	197
+1004	1	197
+1035	2	197
+1078	1	197
+1089	1	197
+1091	1	197
+1207	1	197
+1264	1	197
+1297	1	197
+1298	1	197
+1299	1	197
+1303	1	197
+1327	1	197
+1356	1	197
+1364	1	197
+1368	1	197
+1370	1	197
+1372	1	197
+1373	1	197
+1374	1	197
+1375	1	197
+1376	1	197
+1377	1	197
+1405	1	197
+1405	1	197

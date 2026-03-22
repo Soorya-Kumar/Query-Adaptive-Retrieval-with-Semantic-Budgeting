@@ -1,0 +1,68 @@
+New filing rules have been developed for the catalogs of the Library of 
+Congress to ease the tasks of filers and users and to pave the way for
+computer-assisted filing.. This article discusses preliminary considerations
+about the functions of large bibliographic files,the complexities of cataloging,
+the interaction between users and catalogs, and ways to simplify arrangements..
+The assumptions and principles that underlie the proposed rules are stated, and 
+their organization and anticipated use are described.. An abridged version of 
+the rules is illustrated by an extended example..
+.X
+57	1	991
+75	1	991
+90	1	991
+92	1	991
+176	1	991
+231	1	991
+235	1	991
+246	2	991
+247	2	991
+261	1	991
+295	1	991
+299	1	991
+326	1	991
+329	1	991
+333	1	991
+334	1	991
+354	1	991
+565	1	991
+572	1	991
+595	1	991
+596	1	991
+608	2	991
+610	1	991
+617	1	991
+619	1	991
+620	1	991
+810	1	991
+812	1	991
+813	1	991
+814	1	991
+815	1	991
+836	1	991
+870	1	991
+874	1	991
+894	1	991
+928	1	991
+938	1	991
+939	1	991
+950	1	991
+963	1	991
+990	1	991
+991	7	991
+992	1	991
+997	1	991
+1000	1	991
+1153	1	991
+1216	1	991
+1221	1	991
+1255	1	991
+1265	1	991
+1266	1	991
+1318	1	991
+1365	1	991
+1390	1	991
+1395	1	991
+1413	1	991
+1441	1	991
+1445	1	991
+1445	1	991

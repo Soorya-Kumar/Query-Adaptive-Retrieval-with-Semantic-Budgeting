@@ -1,0 +1,103 @@
+Abstracts of scientific papers from
+journals and other serial publications,
+which now make up about 85% of
+the abstracts in CA, increased at an
+average annual rate of 8.4% between
+1961 and 1970, compared with 8.2% in 
+the previous decade.  The number of
+such abstracts published annually
+now is doubling every 9 years.  The
+number of patent abstracts increased 
+at an average rate of 5% per year in
+the 1960's compared with 11.7% in the
+1950's.  However, the total number of
+patents covered by CA, either by
+actual abstracts or through the CA
+patent concordance, grew at an
+average rate of 10.9% from 1961 
+through 1970.
+.X
+19	1	253
+37	2	253
+39	1	253
+40	2	253
+47	1	253
+88	1	253
+97	1	253
+102	1	253
+103	1	253
+218	1	253
+233	1	253
+243	1	253
+253	8	253
+313	1	253
+359	1	253
+375	1	253
+377	1	253
+379	1	253
+395	1	253
+408	1	253
+492	1	253
+497	1	253
+505	1	253
+506	1	253
+507	1	253
+508	1	253
+510	1	253
+548	1	253
+560	1	253
+573	1	253
+580	1	253
+594	1	253
+601	1	253
+604	1	253
+607	1	253
+618	2	253
+622	1	253
+632	1	253
+635	1	253
+667	1	253
+677	1	253
+687	2	253
+706	1	253
+748	1	253
+749	1	253
+751	1	253
+764	1	253
+765	1	253
+777	2	253
+778	1	253
+782	1	253
+804	1	253
+805	1	253
+866	1	253
+867	1	253
+893	1	253
+952	1	253
+1016	1	253
+1042	1	253
+1061	1	253
+1085	1	253
+1086	1	253
+1087	2	253
+1182	1	253
+1200	1	253
+1208	1	253
+1274	1	253
+1275	1	253
+1277	1	253
+1278	1	253
+1280	1	253
+1287	1	253
+1301	3	253
+1302	2	253
+1304	1	253
+1313	1	253
+1327	1	253
+1338	1	253
+1344	1	253
+1347	1	253
+1380	2	253
+1428	1	253
+1444	2	253
+1444	2	253

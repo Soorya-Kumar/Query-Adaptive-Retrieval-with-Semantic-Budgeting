@@ -1,0 +1,87 @@
+The present investigation deals with the serial
+literature of geology, including mineralogy.  Six
+American journals for 1929 were chosen, and the
+references tabulated.  In Table I are listed these
+source journals, together with the total number of
+pages of the actual articles studied, the total number
+of citations in each journal, the number of references
+to books and to personal communications, and the net
+total, which represents the citations to serial
+literature.  It is these last mentioned references
+which will be considered in further detail.  The
+totals are probably slightly high, due to unintentional
+counting in single articles of repetitions of the same
+citation.
+.X
+33	1	1276
+36	1	1276
+37	1	1276
+41	1	1276
+89	1	1276
+97	1	1276
+102	1	1276
+111	1	1276
+112	1	1276
+163	1	1276
+183	1	1276
+184	1	1276
+193	1	1276
+198	1	1276
+199	1	1276
+203	1	1276
+210	1	1276
+225	1	1276
+255	1	1276
+269	1	1276
+373	1	1276
+543	1	1276
+545	1	1276
+552	1	1276
+587	1	1276
+605	1	1276
+613	1	1276
+614	2	1276
+638	2	1276
+735	2	1276
+747	1	1276
+750	1	1276
+753	1	1276
+766	1	1276
+767	1	1276
+775	1	1276
+782	1	1276
+784	1	1276
+788	1	1276
+789	1	1276
+793	1	1276
+800	1	1276
+808	1	1276
+905	1	1276
+952	2	1276
+953	2	1276
+977	1	1276
+983	1	1276
+1016	1	1276
+1023	1	1276
+1030	1	1276
+1055	1	1276
+1087	1	1276
+1090	1	1276
+1135	1	1276
+1210	1	1276
+1260	3	1276
+1275	4	1276
+1276	5	1276
+1278	1	1276
+1280	1	1276
+1285	1	1276
+1286	1	1276
+1287	1	1276
+1302	3	1276
+1335	1	1276
+1390	1	1276
+1397	1	1276
+1417	1	1276
+1428	1	1276
+1432	2	1276
+1432	2	1276

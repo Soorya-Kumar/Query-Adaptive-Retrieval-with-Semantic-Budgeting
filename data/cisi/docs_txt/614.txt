@@ -1,0 +1,153 @@
+The purpose of this investigation was to reveal the use of patterns of the
+physics journals in the M.I.T. Science Library.. The findings are based upon
+an analysis of actual use data recorded from all volumes and issues left by
+library users on study tables and on trucks in the photocopy area from
+March 15 to June 31, 1971.. The Science Library contains some 220 physics
+journals.. The study reveals that only 138 journals (62.7%) were used even
+once during the 3 1/2-month interval.. A core of 49 journals supplies 90%
+of use, and these items would cost 51.1% of the total single subscription
+costs of the 138 used titles:  52.3% of use occurs in journal volumes less
+than 6 years old.. English is the most used language of physics journals and
+the English journals account for 95.3% of use.. American journals, 57.2% of
+which are published by the American Institute of Physics, supply 59.4% of the
+total use..
+.X
+33	3	614
+36	1	614
+37	1	614
+41	1	614
+48	1	614
+55	1	614
+89	1	614
+91	1	614
+97	1	614
+102	1	614
+111	1	614
+112	1	614
+147	1	614
+161	1	614
+163	1	614
+167	1	614
+183	1	614
+184	1	614
+193	2	614
+195	1	614
+196	1	614
+198	1	614
+199	1	614
+201	1	614
+203	1	614
+205	1	614
+210	2	614
+219	2	614
+225	2	614
+267	1	614
+269	1	614
+300	1	614
+373	1	614
+429	1	614
+439	1	614
+513	1	614
+528	1	614
+543	1	614
+545	1	614
+552	1	614
+560	1	614
+582	1	614
+587	1	614
+588	1	614
+589	1	614
+603	1	614
+605	1	614
+613	2	614
+614	15	614
+618	1	614
+624	1	614
+635	1	614
+638	8	614
+651	1	614
+657	1	614
+685	1	614
+686	1	614
+691	1	614
+721	1	614
+722	1	614
+724	1	614
+725	1	614
+735	2	614
+747	1	614
+748	3	614
+750	1	614
+751	1	614
+753	2	614
+756	1	614
+757	1	614
+764	1	614
+765	1	614
+766	1	614
+767	1	614
+775	1	614
+778	1	614
+782	1	614
+784	1	614
+786	1	614
+787	1	614
+788	1	614
+789	1	614
+791	1	614
+792	1	614
+793	4	614
+800	2	614
+808	2	614
+811	1	614
+818	1	614
+821	2	614
+831	1	614
+889	1	614
+905	2	614
+925	2	614
+948	1	614
+952	2	614
+953	2	614
+958	1	614
+977	2	614
+983	2	614
+987	1	614
+988	1	614
+1016	1	614
+1019	1	614
+1023	1	614
+1030	1	614
+1055	1	614
+1083	1	614
+1086	1	614
+1087	1	614
+1090	3	614
+1135	1	614
+1208	1	614
+1210	2	614
+1254	1	614
+1256	1	614
+1260	3	614
+1275	4	614
+1276	2	614
+1278	2	614
+1280	1	614
+1285	1	614
+1286	1	614
+1287	1	614
+1293	1	614
+1302	6	614
+1335	1	614
+1352	1	614
+1355	2	614
+1369	4	614
+1373	1	614
+1390	1	614
+1397	2	614
+1404	1	614
+1417	1	614
+1418	1	614
+1428	1	614
+1432	1	614
+1432	1	614

@@ -1,0 +1,95 @@
+The Problem of assessing the "quality" of scientific
+publications has long been a major impediment to
+progress in the sociology of science.  Most researchers
+have typically paid homage to the belief that quantity of
+output is not the equivalent of quality and have then gone
+ahead and used publication counts anyway (Coler, 1963;
+Crane, 1965; Price, 1963; Wilson, 1964).  There seemed
+to be no practicable way to measure the quality of large
+numbers of papers or the life's work of large numbers of
+scientists.  The invention of the Science Citation Index
+(SCI) a few years ago provides a new and reliable tool
+to measure the significance of individual scientists'
+contributions.  Starting in 1961, the SCI has listed all
+bibliographic references appearing in an increasingly large
+number of journals.  The number of citations an
+individual receives may be tabulated and used as an indicator
+of the relative scientific significance or "quality" of that
+individual's publications.
+.X
+39	1	113
+47	1	113
+48	4	113
+88	1	113
+89	3	113
+100	1	113
+102	7	113
+103	1	113
+104	2	113
+105	2	113
+106	3	113
+107	1	113
+108	2	113
+110	2	113
+111	6	113
+112	4	113
+113	14	113
+161	1	113
+163	1	113
+170	1	113
+199	1	113
+243	1	113
+312	1	113
+314	2	113
+356	2	113
+360	1	113
+456	1	113
+487	1	113
+503	1	113
+513	1	113
+544	1	113
+545	4	113
+560	3	113
+592	1	113
+602	1	113
+605	1	113
+607	1	113
+632	1	113
+764	1	113
+784	1	113
+793	2	113
+911	1	113
+1030	1	113
+1062	1	113
+1087	1	113
+1210	1	113
+1270	1	113
+1273	3	113
+1274	2	113
+1280	1	113
+1285	4	113
+1287	3	113
+1291	3	113
+1293	1	113
+1296	1	113
+1298	1	113
+1300	3	113
+1301	1	113
+1302	3	113
+1304	2	113
+1308	1	113
+1312	1	113
+1313	3	113
+1315	1	113
+1335	2	113
+1337	2	113
+1338	3	113
+1340	1	113
+1341	2	113
+1344	3	113
+1345	1	113
+1346	5	113
+1347	4	113
+1386	2	113
+1444	1	113
+1444	1	113

@@ -1,0 +1,117 @@
+This paper reports correlates of departmental prestige (American Council on
+Education rating of the quality of graduate faculty, 1966) for a sample of 125
+departments in mathematics, physics, chemistry, and biology.. The analysis 
+mostly uses multivariate linear regression.. Large and significant correlations
+with departmental prestige exist for measures of department size, research
+production, research opportunities, faculty background (including quality of
+PhD university), and faculty awards and offices.. Combinations of from six to
+nine indicators of these variables account for about three-fourths of the 
+variance in departmental prestige; when other types of variables are held
+constant, indicators of all except research opportunities remain significantly
+associated with departmental prestige.. Correlations of prestige with rates of
+inbreeding and the proportion of foreign doctorates are discussed.. Differences
+in the correlates of prestige are small among the four fields studied.. It is
+shown that prestige is correlated with average amount of informal scientific
+communication and with departmental morale even after possible confounding
+variables are held constant..
+.X
+19	1	1347
+37	1	1347
+39	2	1347
+40	1	1347
+41	1	1347
+47	1	1347
+48	1	1347
+88	2	1347
+89	1	1347
+97	1	1347
+99	1	1347
+102	3	1347
+103	2	1347
+104	1	1347
+105	1	1347
+106	1	1347
+107	1	1347
+110	2	1347
+111	3	1347
+112	2	1347
+113	4	1347
+161	1	1347
+163	1	1347
+170	2	1347
+233	1	1347
+243	1	1347
+253	1	1347
+313	1	1347
+356	1	1347
+359	1	1347
+377	1	1347
+379	1	1347
+395	1	1347
+456	1	1347
+505	1	1347
+545	2	1347
+560	3	1347
+573	1	1347
+592	1	1347
+602	1	1347
+607	1	1347
+618	1	1347
+632	2	1347
+635	1	1347
+667	1	1347
+748	1	1347
+749	1	1347
+751	1	1347
+764	1	1347
+765	1	1347
+777	1	1347
+778	1	1347
+782	1	1347
+784	1	1347
+793	1	1347
+804	1	1347
+805	1	1347
+893	1	1347
+952	1	1347
+1010	1	1347
+1016	1	1347
+1030	1	1347
+1061	1	1347
+1062	1	1347
+1085	1	1347
+1086	1	1347
+1087	1	1347
+1182	1	1347
+1200	1	1347
+1273	1	1347
+1274	1	1347
+1277	2	1347
+1278	1	1347
+1280	1	1347
+1283	1	1347
+1285	2	1347
+1287	3	1347
+1291	1	1347
+1293	1	1347
+1296	1	1347
+1298	1	1347
+1300	1	1347
+1301	1	1347
+1302	4	1347
+1304	2	1347
+1313	1	1347
+1315	1	1347
+1320	1	1347
+1337	1	1347
+1338	1	1347
+1340	1	1347
+1341	1	1347
+1344	4	1347
+1345	1	1347
+1346	3	1347
+1347	9	1347
+1380	1	1347
+1428	1	1347
+1444	2	1347
+1444	2	1347

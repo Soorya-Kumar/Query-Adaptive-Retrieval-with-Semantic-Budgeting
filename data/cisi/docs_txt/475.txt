@@ -1,0 +1,90 @@
+A structured questionnaire was administered to professional personnel in 
+industrial and government organizations, asking the subjects to rank eight 
+information gathering methods according to their preference in given
+hypothetical situation.. The subjects were then asked to rate the methods on a
+seven point scale according to (a) ease of use and (b) amount of information 
+expected.. The subjects were divided into two groups determined by their time
+spent in research or research related activities.. The groups were designated
+"research" and "nonresearch"..
+   A statistical analysis of the data from 96 subjects (52 in research, 44 in
+nonresearch) showed that no statistically significant differences were present 
+in either the rankings or ratings between research and nonresearch personnel.. 
+   The results of the study infer that the ease of use of an information
+gathering method is more important than the amount of information expected for
+information gathering methods in industrial and government, regardless of the 
+research orientation of the users..
+.X
+2	1	475
+13	1	475
+15	1	475
+29	1	475
+31	1	475
+32	1	475
+66	1	475
+76	1	475
+95	1	475
+100	1	475
+103	1	475
+132	1	475
+137	1	475
+139	1	475
+152	2	475
+155	1	475
+157	1	475
+183	1	475
+191	1	475
+195	1	475
+201	1	475
+203	1	475
+204	1	475
+210	1	475
+312	1	475
+356	1	475
+359	1	475
+371	1	475
+373	1	475
+379	1	475
+382	1	475
+459	1	475
+475	11	475
+552	1	475
+592	1	475
+594	1	475
+602	1	475
+656	1	475
+658	3	475
+664	1	475
+728	1	475
+748	1	475
+760	2	475
+770	1	475
+771	1	475
+774	1	475
+775	1	475
+776	1	475
+783	1	475
+788	2	475
+789	1	475
+837	1	475
+839	1	475
+907	1	475
+967	2	475
+968	1	475
+977	1	475
+1019	1	475
+1038	1	475
+1055	1	475
+1056	1	475
+1173	1	475
+1203	1	475
+1254	1	475
+1281	1	475
+1284	1	475
+1288	1	475
+1291	1	475
+1303	1	475
+1358	1	475
+1361	1	475
+1404	1	475
+1451	1	475
+1451	1	475

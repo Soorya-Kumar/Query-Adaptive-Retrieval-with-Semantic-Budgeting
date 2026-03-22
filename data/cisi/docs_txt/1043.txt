@@ -1,0 +1,37 @@
+The MARC project has progressed from a
+pilot to test the feasibility of a distribution
+service of centrally produced machine-readable
+cataloging data to a full-scale operational
+system in the design stages in two short years.
+The library community, both here and abroad, has
+accepted MARC and recognizes its potential
+for the future.  The single most significant
+result of MARC has been the impetus to set
+standards.  There is no doubt that eventually
+standards would have been designed for
+machine-readable bibliographic records, character
+sets, and codes for place and language.  MARC
+accelerated standardization and still more
+important, the standards are being set and agreed
+to be a large segment of the library community.
+The cooperation among the producers and users
+of bibliographic description has been a
+rewarding experience.
+.X
+159	1	1043
+178	1	1043
+249	2	1043
+852	1	1043
+854	1	1043
+857	1	1043
+858	1	1043
+859	1	1043
+861	1	1043
+930	1	1043
+970	1	1043
+1012	1	1043
+1042	1	1043
+1043	5	1043
+1252	3	1043
+1393	1	1043
+1393	1	1043

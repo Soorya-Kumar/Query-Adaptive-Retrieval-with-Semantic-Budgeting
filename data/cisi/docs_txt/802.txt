@@ -1,0 +1,72 @@
+The feasibility is examined of devising a scheme for operating a joint 
+keyword system in a given subject area using several independently compiled 
+thesauri.. It is suggested that if the individual keywords of each 
+participating thesaurus represent indentifiable concepts, and these concepts are
+given unique code numbers, then the code numbers enable the keywords of any
+participating thesaurus to be converted into the appropriate keywords of any
+other participant.. Incompatibilities between keywords systems arise from 
+differences in the selection and form of keywords.. Eleven types of 
+incompatibility are identified and a method of reconciliation is proposed for 
+each.. The types of incompatibility that can arise in a single language include 
+those that arise between one language and another, so that a multilingual joint 
+system presents no additional problems..
+.X
+16	1	802
+114	1	802
+148	1	802
+151	1	802
+154	2	802
+159	1	802
+194	1	802
+212	1	802
+257	1	802
+333	1	802
+346	1	802
+429	1	802
+449	1	802
+454	1	802
+458	1	802
+477	1	802
+489	1	802
+493	1	802
+498	1	802
+501	2	802
+504	1	802
+530	1	802
+553	1	802
+582	1	802
+583	1	802
+627	1	802
+628	1	802
+653	2	802
+655	1	802
+688	1	802
+770	1	802
+781	1	802
+796	4	802
+797	1	802
+798	1	802
+801	1	802
+802	7	802
+819	1	802
+838	1	802
+874	1	802
+877	1	802
+878	1	802
+940	1	802
+941	1	802
+989	1	802
+992	1	802
+993	1	802
+995	1	802
+1079	1	802
+1216	1	802
+1392	1	802
+1405	1	802
+1421	1	802
+1431	2	802
+1434	1	802
+1435	1	802
+1436	1	802
+1448	1	802
+1448	1	802

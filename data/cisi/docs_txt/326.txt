@@ -1,0 +1,53 @@
+The need to establish a filing code for computer arrangement
+has become increasingly apparent as more and more book
+catalogs and indexes have been prepared mechanically.  Many
+of the difficulties in manual filing, as shown in the A.L.A. Rules
+for Filing Catalog Cards, become even more intricate to cope
+with when computers are used.  Of course, if cost is not an
+object, the theoretical potentialities for computer programming are
+practically limitless.  However, modifications in rules and procedures
+can make the alphabetic arranging or merging of index, catalog,
+or bibliographic entries by computer more readily possible, and
+these modifications are made in this proposed code for computer
+filing of complex alphabetic entries.
+.X
+39	1	326
+50	1	326
+92	1	326
+209	1	326
+235	1	326
+246	1	326
+247	1	326
+276	1	326
+326	7	326
+333	1	326
+446	1	326
+473	1	326
+485	1	326
+503	1	326
+572	1	326
+616	1	326
+632	1	326
+746	1	326
+773	1	326
+848	1	326
+874	1	326
+880	1	326
+922	1	326
+928	1	326
+950	1	326
+958	1	326
+963	1	326
+973	1	326
+991	1	326
+997	1	326
+1000	1	326
+1153	1	326
+1207	1	326
+1216	1	326
+1266	1	326
+1283	1	326
+1395	1	326
+1426	1	326
+1441	1	326
+1441	1	326

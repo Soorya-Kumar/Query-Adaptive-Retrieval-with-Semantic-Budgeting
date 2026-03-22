@@ -1,0 +1,86 @@
+This paper defines and describes the KWIC (keyword in context) index concept,
+providing a history of the concept and of its literature.. It discusses 
+variations of the index, such as the Bell Telephone Index, KWOC indexes, and 
+the WADEX..
+   The paper discusses improvements and variations to the KWIC index, such as 
+manipulation of the index line, variations of the code, addition of 
+classification information, combination of author index and title index, and 
+improvements to the preparation of the KWIC indexes, such as improvement of 
+titles and use of a thesaurus, and discusses improvement of the use of the KWIC 
+index.. The paper discusses the usage of the KWIC index and comments on the 
+future of KWIC indexes of the KWIC concept..
+.X
+18	1	53
+34	4	53
+49	1	53
+53	7	53
+59	1	53
+150	1	53
+164	1	53
+175	1	53
+202	1	53
+213	1	53
+224	1	53
+243	1	53
+252	1	53
+421	1	53
+465	1	53
+466	1	53
+480	1	53
+490	1	53
+491	1	53
+506	1	53
+507	1	53
+510	1	53
+512	1	53
+565	1	53
+589	1	53
+591	1	53
+595	1	53
+603	1	53
+604	1	53
+622	1	53
+623	1	53
+629	1	53
+633	1	53
+639	1	53
+659	1	53
+674	1	53
+676	1	53
+680	1	53
+711	4	53
+715	2	53
+722	1	53
+723	1	53
+726	1	53
+728	1	53
+730	1	53
+731	1	53
+732	1	53
+746	1	53
+760	1	53
+809	1	53
+810	1	53
+813	1	53
+814	1	53
+820	1	53
+822	1	53
+828	1	53
+850	1	53
+870	1	53
+879	1	53
+1045	1	53
+1091	1	53
+1118	1	53
+1195	1	53
+1281	2	53
+1283	1	53
+1298	1	53
+1299	1	53
+1327	1	53
+1363	1	53
+1366	1	53
+1367	1	53
+1368	1	53
+1396	1	53
+1396	1	53

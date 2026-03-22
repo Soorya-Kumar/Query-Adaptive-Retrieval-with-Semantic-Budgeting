@@ -1,0 +1,39 @@
+Orderly communication through research journals may be jeopardized by a
+developing national information system that is beginning to encroach on the
+domain of the primary publication system.  The author also believes mass
+distribution of unedited, unreferred and often unproofed preprints, which
+has recently been proposed, would put journals out of business or transform
+them into depositories.
+.X
+40	1	1209
+110	1	1209
+473	1	1209
+592	1	1209
+685	2	1209
+686	1	1209
+691	1	1209
+721	1	1209
+725	1	1209
+735	1	1209
+765	1	1209
+770	1	1209
+776	1	1209
+795	1	1209
+796	1	1209
+798	1	1209
+902	1	1209
+906	1	1209
+907	2	1209
+1030	2	1209
+1062	1	1209
+1089	1	1209
+1208	1	1209
+1209	6	1209
+1235	1	1209
+1289	2	1209
+1290	2	1209
+1293	1	1209
+1294	1	1209
+1296	1	1209
+1319	1	1209
+1319	1	1209

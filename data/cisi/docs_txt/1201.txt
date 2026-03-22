@@ -1,0 +1,98 @@
+It is pointed out that communication processes can be represented as 
+epidemic processes.. Consequently, epidemic theory can be applied to the
+study of any process in which information is transmitted within a population.. 
+The members of such populations need not be human beings but could be
+micro-organisms or even machines.. The fundamental notion of stability of an
+epidemic process is introduced and a stability theorem is derived.. A 
+mechanism, called an information retrieval process, which instigates an epidemic
+process is defined, certain general properties of the mechanism are established 
+and the means of controlling it are discussed.. Pontryagin's maximum principle
+is applied to the problem of achieving optimal control of an epidemic process 
+and it is shown that stability of the process is equivalent to stability in the
+sense of Lyapunov.. This result makes it possible to determine the conditions 
+for stability without knowledge of the solution of the differential equations
+which represent the process..
+.X
+29	1	1201
+35	1	1201
+36	1	1201
+39	1	1201
+42	1	1201
+43	1	1201
+44	1	1201
+57	2	1201
+58	1	1201
+70	1	1201
+76	1	1201
+81	1	1201
+84	1	1201
+144	1	1201
+162	1	1201
+184	1	1201
+193	1	1201
+195	1	1201
+201	1	1201
+203	1	1201
+204	1	1201
+205	1	1201
+233	1	1201
+267	1	1201
+359	3	1201
+379	1	1201
+395	1	1201
+416	1	1201
+444	2	1201
+445	2	1201
+447	1	1201
+449	1	1201
+474	1	1201
+486	1	1201
+505	1	1201
+532	1	1201
+587	1	1201
+625	1	1201
+660	1	1201
+667	2	1201
+748	3	1201
+750	1	1201
+751	1	1201
+753	1	1201
+759	2	1201
+762	1	1201
+764	1	1201
+765	3	1201
+767	1	1201
+778	4	1201
+787	2	1201
+791	2	1201
+792	1	1201
+793	1	1201
+800	2	1201
+893	2	1201
+1016	2	1201
+1030	1	1201
+1045	2	1201
+1081	4	1201
+1082	3	1201
+1083	6	1201
+1084	2	1201
+1085	4	1201
+1086	3	1201
+1088	3	1201
+1182	1	1201
+1195	1	1201
+1201	14	1201
+1222	1	1201
+1227	1	1201
+1235	1	1201
+1270	1	1201
+1274	1	1201
+1278	1	1201
+1281	1	1201
+1285	4	1201
+1380	1	1201
+1401	1	1201
+1417	1	1201
+1418	1	1201
+1444	1	1201
+1444	1	1201

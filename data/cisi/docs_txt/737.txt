@@ -1,0 +1,53 @@
+This paper first presents a brief tutorial on the principal random file
+organization methods for handling two major applications - Transaction
+oriented systems and Information storage and retrieval systems.  It then
+addresses a particular large data base dilemma, not satisfactorily
+resolved by any of these methods, and which is currently under active
+investigation.  Two approaches to a solution are described.  One is
+called the hybrid inverted list; the other is based upon an old technique
+called super-imposed coding.  The former has been implemented and has 
+recently been installed in an operational system.  Some statistics related
+to file characteristics in this application are provided, but operational
+cost and performance statistics are not yet available.
+.X
+62	1	737
+125	1	737
+127	2	737
+129	1	737
+310	1	737
+318	1	737
+363	2	737
+409	1	737
+432	1	737
+460	1	737
+461	1	737
+462	1	737
+580	1	737
+604	1	737
+622	1	737
+642	1	737
+643	2	737
+644	2	737
+645	1	737
+646	1	737
+649	1	737
+650	1	737
+670	1	737
+690	1	737
+699	2	737
+700	2	737
+708	2	737
+736	1	737
+737	5	737
+738	1	737
+739	1	737
+741	1	737
+853	1	737
+875	1	737
+883	1	737
+1044	1	737
+1274	1	737
+1374	1	737
+1376	1	737
+1419	1	737
+1419	1	737

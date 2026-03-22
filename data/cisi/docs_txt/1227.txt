@@ -1,0 +1,94 @@
+Anything that goes under the name of "production and distribution"
+sounds as if it clearly fell into the economist's domain.  An analysis of
+"knowledge," on the other hand, seems to be the philosopher's task,
+though some aspects of it are claimed by the sociologist.  But if one
+speaks of the "communication of knowledge in the United States," the
+specialist in education may feel that this is in his bailiwick; also the
+mathematician or operations researcher specializing in communication
+theory and information systems may prick up his ears.  In fact, some of
+the knowledge to be discussed here is technological, and thus the
+engineer may properly be interested.  When I tried out the title of this
+study on representatives of various disciplines, many were rather surprised
+that an economist would find himself qualified to undertake this kind of
+research.
+.X
+5	1	1227
+10	1	1227
+22	1	1227
+74	1	1227
+83	1	1227
+90	1	1227
+91	1	1227
+127	1	1227
+144	1	1227
+145	1	1227
+158	1	1227
+169	1	1227
+222	1	1227
+223	1	1227
+239	1	1227
+245	1	1227
+273	1	1227
+279	1	1227
+288	1	1227
+331	1	1227
+358	1	1227
+368	1	1227
+369	1	1227
+376	1	1227
+381	1	1227
+400	1	1227
+408	1	1227
+435	1	1227
+471	1	1227
+490	1	1227
+496	1	1227
+591	1	1227
+592	1	1227
+615	1	1227
+723	1	1227
+724	1	1227
+781	1	1227
+815	1	1227
+834	1	1227
+860	1	1227
+910	1	1227
+925	2	1227
+935	1	1227
+946	1	1227
+957	3	1227
+976	1	1227
+1005	1	1227
+1006	1	1227
+1018	1	1227
+1023	1	1227
+1032	1	1227
+1049	1	1227
+1056	1	1227
+1081	1	1227
+1082	1	1227
+1145	3	1227
+1148	3	1227
+1201	1	1227
+1219	1	1227
+1227	18	1227
+1232	1	1227
+1240	1	1227
+1270	1	1227
+1302	1	1227
+1306	1	1227
+1317	1	1227
+1353	1	1227
+1359	1	1227
+1360	1	1227
+1365	1	1227
+1384	1	1227
+1389	1	1227
+1390	2	1227
+1396	1	1227
+1400	1	1227
+1406	1	1227
+1410	1	1227
+1424	1	1227
+1444	1	1227
+1444	1	1227

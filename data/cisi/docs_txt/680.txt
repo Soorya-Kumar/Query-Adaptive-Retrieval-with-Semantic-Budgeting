@@ -1,0 +1,42 @@
+A unique method of computerized storage and retrieval of technical information
+is applied in the SWIFT (Significant Word in Full Title) program.  SWIFT chooses
+potential keywords from the titles, compares the key words with an exclusion 
+word glossary to remove insignificant words and an internal glossary to prevent
+duplication of terms.  The keywords may be either a full or fragmented term.
+An option is available to index also by author.  Indexes, containing full 
+citations, are printed periodically and cumulatively.  The magnetic tape file
+is available for computer search through a sort and print program.  Responses
+to inquiries conducted through the computer program are listed in full citation
+format.
+.X
+29	1	680
+34	1	680
+53	1	680
+68	1	680
+69	1	680
+175	1	680
+252	1	680
+261	1	680
+346	1	680
+382	1	680
+458	1	680
+476	1	680
+477	1	680
+478	1	680
+479	1	680
+480	2	680
+484	1	680
+485	1	680
+565	1	680
+566	1	680
+673	1	680
+674	1	680
+680	5	680
+704	1	680
+711	1	680
+715	1	680
+746	1	680
+781	1	680
+1118	1	680
+1175	1	680
+1175	1	680

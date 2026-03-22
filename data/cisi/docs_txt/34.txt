@@ -1,0 +1,82 @@
+A distinction is made between bibliographical indexes for new and past
+literature based on the willingness of the user to trade perfection for 
+currency.. Indexes giving keywords in their context are proposed as suitable 
+for disseminating new information.. These can be entirely machine-generated 
+and hence kept up-to-date with the current literature.. A compatible coding 
+scheme to identify the indexed documents is also proposed.. In it elements are
+automatically extracted from the usual identifiers of the document so that the 
+coded identifier yields a maximum of information while remaining susceptible 
+to normal methods of ordering..
+.X
+18	1	34
+34	8	34
+49	1	34
+53	4	34
+59	1	34
+164	1	34
+175	1	34
+202	1	34
+213	1	34
+224	1	34
+243	1	34
+252	1	34
+421	1	34
+465	1	34
+466	1	34
+480	1	34
+490	1	34
+491	1	34
+506	1	34
+507	1	34
+510	2	34
+512	1	34
+565	1	34
+591	1	34
+595	1	34
+603	2	34
+604	1	34
+622	1	34
+623	1	34
+629	1	34
+633	1	34
+639	1	34
+659	1	34
+673	1	34
+674	1	34
+676	1	34
+680	1	34
+711	4	34
+715	1	34
+722	1	34
+723	1	34
+726	1	34
+728	1	34
+730	1	34
+731	1	34
+732	1	34
+746	1	34
+760	1	34
+809	1	34
+810	1	34
+813	1	34
+814	1	34
+820	1	34
+822	1	34
+828	1	34
+870	1	34
+879	1	34
+1045	1	34
+1091	1	34
+1118	1	34
+1281	1	34
+1283	1	34
+1298	1	34
+1299	1	34
+1327	1	34
+1363	1	34
+1366	1	34
+1367	1	34
+1368	1	34
+1396	1	34
+1448	1	34
+1448	1	34

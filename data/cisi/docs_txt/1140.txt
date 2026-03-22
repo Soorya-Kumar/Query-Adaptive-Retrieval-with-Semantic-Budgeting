@@ -1,0 +1,29 @@
+The nature of an arbitrary classification is considered from the viewpoint
+of its sign function.. The structure of the taxons described by a given 
+classification is treated as the referent (the denotate).. The formation of
+taxons is shown to be connected with the preliminary arrangement of the subject
+area into a classification field..
+   The classification concept is connected with the structure and nature of
+the classification characteristics.. A typology of classifications is 
+introduced, distinguishing them by intensionality, or capacity for expression
+of the concept independent of the subject area.. Differences are pointed out
+that exist between the classificatory and thematic relationships and the 
+correlations between these two groups of relationships are analyzed..
+.X
+25	1	1140
+179	2	1140
+455	1	1140
+464	1	1140
+509	1	1140
+564	1	1140
+566	1	1140
+853	1	1140
+1117	3	1140
+1119	1	1140
+1137	4	1140
+1140	8	1140
+1141	3	1140
+1220	1	1140
+1267	1	1140
+1409	1	1140
+1409	1	1140

@@ -1,0 +1,110 @@
+As Director of the Office of Scientific Research and Development,
+Dr. Vannevar Bush has coordinated the activities of some six
+thousand leading American scientists in the application of
+science to warfare.  In this significant article he holds up
+an incentive for scientists when the fighting has ceased.  He
+urges that men of science should then turn to the massive task
+of making more accessible our bewildering store of knowledge.
+For years inventions have extended man's physical powers rather than
+the powers of his mind.  Trip hammers that multiply the fists,
+microscopes that sharpen the eye, and engines of destruction and
+detection are new results, but not the end results, of modern
+science.  Now, says Dr.Bush, instruments are at hand which, if properly
+developed, will give man access to and command over the inherited
+knowledge of the ages.  The perfection of these pacific instruments
+should be the first objective of our scientists as they emerge from
+their war work.  Like Emerson's famous address of 1837 on "The
+American Scholar," this paper by Dr. Bush calls for a new relationship
+between thinking man and the sum of our knowledge. - The Editor
+.X
+3	1	172
+20	1	172
+42	1	172
+58	1	172
+60	1	172
+62	1	172
+85	1	172
+120	1	172
+129	1	172
+164	1	172
+172	14	172
+178	1	172
+191	1	172
+194	1	172
+211	1	172
+212	1	172
+214	1	172
+216	1	172
+217	1	172
+218	1	172
+220	1	172
+274	1	172
+283	1	172
+293	1	172
+296	1	172
+360	2	172
+365	1	172
+374	1	172
+386	1	172
+417	1	172
+419	1	172
+421	1	172
+446	1	172
+453	1	172
+458	1	172
+469	1	172
+481	1	172
+482	1	172
+485	1	172
+491	1	172
+497	1	172
+507	1	172
+520	1	172
+523	1	172
+572	1	172
+577	1	172
+578	2	172
+579	1	172
+585	1	172
+599	1	172
+615	1	172
+623	1	172
+640	2	172
+652	2	172
+665	1	172
+762	1	172
+803	1	172
+822	1	172
+825	1	172
+856	1	172
+886	1	172
+888	1	172
+891	1	172
+902	1	172
+907	5	172
+913	1	172
+943	1	172
+963	1	172
+967	1	172
+1004	1	172
+1022	1	172
+1030	1	172
+1033	1	172
+1045	1	172
+1084	1	172
+1147	1	172
+1150	1	172
+1207	1	172
+1219	2	172
+1257	1	172
+1258	1	172
+1268	4	172
+1279	1	172
+1387	1	172
+1402	1	172
+1417	1	172
+1418	1	172
+1426	3	172
+1433	1	172
+1441	1	172
+1441	1	172

@@ -1,0 +1,88 @@
+This paper is developed in two stages.  The first
+stage describes an experiment that explores properties
+of the class of words that are not useful in conveying
+subject meaning and distinguishes them from those
+classes of words that do convey subject meaning to
+various degrees.  In particular, we study the clustering
+properties of these words; the analysis is based on
+statistical properties alone, and techniques are
+introduced that may be of value in other areas of
+information science.  On the basis of the results of this
+experiment, a model of word occurrences is introduced and
+discussed.  Later papers by us and by Harter will apply
+this model to indexing.
+.X
+26	1	577
+51	2	577
+57	1	577
+61	1	577
+69	1	577
+73	1	577
+75	1	577
+79	1	577
+114	1	577
+144	1	577
+172	1	577
+175	1	577
+176	2	577
+191	1	577
+194	1	577
+212	1	577
+274	2	577
+315	1	577
+390	1	577
+417	1	577
+419	3	577
+422	1	577
+441	2	577
+445	1	577
+446	1	577
+449	1	577
+458	2	577
+485	1	577
+518	1	577
+531	1	577
+565	1	577
+566	1	577
+572	1	577
+575	2	577
+577	9	577
+579	1	577
+615	1	577
+625	1	577
+634	1	577
+640	1	577
+641	1	577
+643	2	577
+644	4	577
+645	1	577
+649	3	577
+650	1	577
+652	1	577
+660	5	577
+662	3	577
+664	1	577
+709	1	577
+752	2	577
+754	1	577
+755	1	577
+780	3	577
+785	1	577
+812	3	577
+824	3	577
+825	1	577
+829	1	577
+830	2	577
+895	1	577
+902	1	577
+956	1	577
+1033	1	577
+1084	1	577
+1135	1	577
+1202	1	577
+1279	1	577
+1282	4	577
+1294	1	577
+1327	1	577
+1387	1	577
+1387	1	577

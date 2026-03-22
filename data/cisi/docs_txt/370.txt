@@ -1,0 +1,32 @@
+Educating the Library User is a collection of original essays, case
+studies, and research reports on the problems, hopes, and techniques of 
+instructing library users and nonusers, from the kindergartener to the 
+preschool adult, in the effective use of libraries and their resources.
+Merging the library-use teachings of school, public, and academic
+libraries, this book demonstrates the need for a consistent, sequential
+plan of library-use instruction that crosses traditional library boundaries.
+.X
+128	1	370
+130	1	370
+191	1	370
+274	1	370
+339	1	370
+370	11	370
+376	1	370
+387	1	370
+453	1	370
+629	1	370
+648	2	370
+652	1	370
+768	1	370
+774	1	370
+818	2	370
+839	1	370
+847	3	370
+1068	1	370
+1246	2	370
+1263	1	370
+1376	1	370
+1403	1	370
+1457	1	370
+1457	1	370

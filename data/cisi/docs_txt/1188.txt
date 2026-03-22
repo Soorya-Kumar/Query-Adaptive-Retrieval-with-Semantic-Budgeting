@@ -1,0 +1,38 @@
+This book might be considered a conceptual inventory.  This is a
+departure from the recent fashion of conducting "propositional
+inventories," which assumes that important relationships have already been
+explored (Berelson and Steiner, 1964).  I assume merely that the concepts
+relevant to important relationships exist, and once having identified some,
+I hope to generate potentially significant propositions.  We lack the
+systematic evidence that eventually must come, but there are illustrative
+studies cited to indicate that the propositions which are neither time- nor
+space-bound.
+    I assume that there are differences among organizations, and hope
+to account for some of them.  But I also assume that there is not a one-
+to-one correspondence between significant organizational differences and
+the typical categories of business, government, medicine, and education.
+Likewise, I believe there is not a direct correlation between the academic
+disciplines and useful categories of complex organizations.
+.X
+15	1	1188
+105	1	1188
+214	1	1188
+218	1	1188
+227	1	1188
+250	1	1188
+340	1	1188
+348	1	1188
+375	1	1188
+560	1	1188
+855	1	1188
+986	1	1188
+1012	1	1188
+1036	1	1188
+1041	1	1188
+1048	1	1188
+1154	1	1188
+1186	1	1188
+1188	5	1188
+1379	1	1188
+1408	1	1188
+1408	1	1188

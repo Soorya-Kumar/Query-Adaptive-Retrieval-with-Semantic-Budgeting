@@ -1,0 +1,32 @@
+This book was written with several diverse audiences in mind: (1)
+social and behavioral scientists and their students, (2) librarians and
+library-science students who are favorable about employing computers
+and computer-usable information in their work and classes, and (3)
+archivists and their employees who desire to have more than a current
+overview of the problems and their tentative solutions.  Because of the
+diversity of material, it is not expected that all readers will use the book
+in the same way.  Rather, it is assumed that readers will supplement a
+subset of the book with bibliographical materials from the reference
+sections.
+.X
+114	1	345
+169	1	345
+289	1	345
+345	7	345
+400	1	345
+456	1	345
+459	1	345
+493	1	345
+548	1	345
+607	1	345
+627	1	345
+803	1	345
+990	1	345
+1031	1	345
+1073	1	345
+1328	2	345
+1368	1	345
+1392	1	345
+1414	1	345
+1448	1	345
+1448	1	345

@@ -1,0 +1,67 @@
+ELMS (Experimental Library Management System) is an experimental
+system for total library management, operating on-line with an IBM 360
+through IBM 2260 and 2741 terminals.. The system is designed to handle
+large amounts of highly variable information which it processes on 
+command, giving on-line computer service for all library operations..
+At the same time, it must accommodate the different needs and skills
+of a broad range of library users, from new patrons to well-trained
+librarians..
+   Such a system presents programming problems that will be typical
+of large, interactive computer systems in the seventies.. This paper
+discusses ELMS features that facilitate user interaction, and may prove
+useful in similar systems:  techniques for tutoring the user (display
+format, one-question, one-answer displays, and KWIC indexing); adaptability
+for the experienced user (command chains and a standard set of four-letter
+mnemonic codes for higher-level control); minimization of keying (line
+numbers, one-character mnemonic codes used with procedures, and use of
+default conditions); performance of clerical tasks by exception notification;
+and collection of operational statistics to help improve the system..
+.X
+66	1	593
+78	1	593
+161	1	593
+175	1	593
+197	2	593
+218	1	593
+332	1	593
+375	1	593
+445	1	593
+454	1	593
+472	1	593
+503	1	593
+506	1	593
+507	1	593
+546	1	593
+547	1	593
+554	1	593
+579	1	593
+585	1	593
+591	1	593
+592	1	593
+593	5	593
+594	2	593
+595	2	593
+596	1	593
+597	1	593
+599	1	593
+600	1	593
+603	1	593
+604	1	593
+606	2	593
+723	1	593
+724	1	593
+801	1	593
+805	1	593
+806	1	593
+836	1	593
+866	1	593
+867	1	593
+956	1	593
+989	1	593
+1035	1	593
+1298	1	593
+1299	1	593
+1309	1	593
+1327	1	593
+1405	1	593
+1405	1	593

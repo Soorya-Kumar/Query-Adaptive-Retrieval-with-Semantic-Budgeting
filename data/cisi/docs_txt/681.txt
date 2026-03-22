@@ -1,0 +1,20 @@
+A computer program has been written to generate the canonical Wiswesser
+notation for complex polycyclic structures.. The program accepts as input the 
+connection between all the ring atoms and then selects the path which conforms 
+to the notation rules.. The operation of the program is described..
+.X
+150	1	681
+347	1	681
+371	1	681
+465	1	681
+480	1	681
+679	1	681
+681	5	681
+682	1	681
+704	1	681
+716	1	681
+717	1	681
+1261	1	681
+1292	1	681
+1452	4	681
+1452	4	681

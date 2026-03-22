@@ -1,0 +1,118 @@
+The research project which produced this book concentrated on the problem
+of the design and development of statistical information systems that would
+provide quantitative information for effective management of university and
+large public libraries.  Since there is an inseparable need not only for
+improved library statistical data systems but also for the above-mentioned
+frameworks for rational planning and decision making, we have devoted
+considerable effort to the development of analytical models that might assist
+library administrators in making decisions that would maximize the flow of
+benefits imparted to the communities the library serves.  Some of the results of
+this model-building effort are repored in these pages.
+.X
+5	1	948
+10	1	948
+33	1	948
+115	1	948
+158	1	948
+190	1	948
+207	1	948
+222	1	948
+225	1	948
+232	1	948
+234	3	948
+241	1	948
+244	1	948
+245	1	948
+249	1	948
+267	2	948
+292	1	948
+304	2	948
+305	1	948
+306	2	948
+331	1	948
+338	1	948
+358	2	948
+364	1	948
+365	1	948
+385	1	948
+394	1	948
+406	1	948
+408	1	948
+433	1	948
+459	1	948
+494	1	948
+502	1	948
+515	1	948
+534	1	948
+587	1	948
+614	1	948
+638	1	948
+646	1	948
+647	1	948
+651	2	948
+702	1	948
+731	1	948
+732	1	948
+748	1	948
+751	1	948
+764	1	948
+765	1	948
+778	1	948
+786	1	948
+791	1	948
+792	1	948
+793	1	948
+800	1	948
+811	3	948
+816	1	948
+817	1	948
+818	1	948
+820	1	948
+823	4	948
+825	1	948
+826	1	948
+827	1	948
+828	1	948
+840	1	948
+841	1	948
+842	2	948
+896	1	948
+925	6	948
+942	1	948
+943	1	948
+944	2	948
+946	1	948
+947	1	948
+948	16	948
+962	1	948
+963	1	948
+964	1	948
+983	1	948
+1017	2	948
+1019	1	948
+1023	1	948
+1033	1	948
+1049	1	948
+1058	1	948
+1079	1	948
+1146	1	948
+1206	1	948
+1219	1	948
+1230	1	948
+1237	1	948
+1242	1	948
+1257	2	948
+1317	1	948
+1324	1	948
+1378	1	948
+1379	1	948
+1390	1	948
+1400	1	948
+1401	1	948
+1403	1	948
+1416	1	948
+1417	1	948
+1440	1	948
+1450	1	948
+1453	1	948
+1453	1	948

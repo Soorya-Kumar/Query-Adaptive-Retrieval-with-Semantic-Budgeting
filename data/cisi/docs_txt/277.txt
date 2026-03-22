@@ -1,0 +1,61 @@
+The authors derive a book fund distribution formula from a factor analysis 
+of twenty-two variables which measure and quantify academic departments.. The
+analysis generates a 22 x 22 matrix of correlations.. A few of the significant
+correlations are discussed; e.g. those between books published and books 
+circulated (high correlation) and circulation-by-subject and 
+circulation-by-person (low correlation).. The factor analysis sorts out the 
+complex relationships between the twenty-two variables and reduces them to 
+three main factors - two of which seem to describe materials used and users.. 
+The third may describe needs.. The three factors are the chief elements in the 
+formula.. Each factor can be represented by any one or more of the variables 
+in that factor..
+.X
+71	1	277
+72	1	277
+73	1	277
+74	1	277
+75	1	277
+77	1	277
+78	1	277
+79	1	277
+81	1	277
+82	1	277
+83	1	277
+86	1	277
+153	1	277
+156	1	277
+206	1	277
+207	1	277
+208	1	277
+211	1	277
+212	1	277
+245	2	277
+266	2	277
+271	1	277
+275	2	277
+277	7	277
+279	1	277
+280	1	277
+282	4	277
+290	1	277
+305	2	277
+408	1	277
+486	1	277
+591	1	277
+720	1	277
+748	1	277
+785	1	277
+786	1	277
+787	1	277
+788	1	277
+789	1	277
+791	1	277
+925	2	277
+943	1	277
+964	1	277
+975	1	277
+976	1	277
+984	1	277
+1005	1	277
+1400	1	277
+1400	1	277

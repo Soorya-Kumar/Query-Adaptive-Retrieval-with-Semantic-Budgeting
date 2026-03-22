@@ -1,0 +1,34 @@
+After many years of neglect, technological change is receiving the attention
+from economists that it deserves, the 1960's being a time of a enormous 
+interest in this area in academic, government, and business circles.. Central 
+to the economics of technological change is the manner in which new processes
+and products are conceived, developed, commercialized, and accepted.. To help
+promote a better understanding of this process, I have been engaged for a 
+number of years in a series of related econometric studies of industrial 
+research and technological innovation.. The purpose of this book is to bring
+together the results of these studies..
+.X
+227	1	436
+312	2	436
+356	3	436
+391	3	436
+423	1	436
+424	1	436
+425	1	436
+426	1	436
+428	1	436
+436	8	436
+437	4	436
+561	1	436
+658	2	436
+1036	1	436
+1039	1	436
+1040	2	436
+1041	1	436
+1050	3	436
+1154	1	436
+1187	1	436
+1288	3	436
+1333	1	436
+1406	1	436
+1406	1	436

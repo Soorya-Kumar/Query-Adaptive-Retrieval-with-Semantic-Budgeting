@@ -1,0 +1,21 @@
+An experiment showing that 3, 1, 1, 1 search keys derived from titles are 
+sufficiently specific to be an efficient computerized, interactive index to a 
+file of 135,938 MARC II records..
+.X
+90	1	869
+318	1	869
+620	1	869
+836	1	869
+851	1	869
+867	1	869
+868	6	869
+869	8	869
+871	4	869
+872	2	869
+875	1	869
+876	3	869
+897	1	869
+1193	1	869
+1196	7	869
+1197	2	869
+1197	2	869

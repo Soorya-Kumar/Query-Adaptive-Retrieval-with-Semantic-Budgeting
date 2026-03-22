@@ -1,0 +1,46 @@
+My problem is that I have been persecuted by an integer.  For seven years
+this number has followed me around, has intruded in my most private data, and
+has assaulted me from the pages of our most public journals.  This number 
+assumes a variety of disguises, being sometimes a little larger and sometimes a
+little smaller than usual, but never changing so much as to be unrecognizable.
+The persistence with which this number plagues me is far more than
+a random accident.  There is, to quote a famous senator, a design behind it,
+some pattern governing its appearances. Either there really is something 
+unusual about the number or else I am suffering from delusions of persecution.
+.X
+26	1	1232
+35	1	1232
+42	1	1232
+43	1	1232
+52	1	1232
+70	1	1232
+73	1	1232
+81	1	1232
+95	1	1232
+228	1	1232
+229	1	1232
+311	1	1232
+420	1	1232
+484	1	1232
+578	1	1232
+582	1	1232
+589	1	1232
+594	1	1232
+595	1	1232
+655	1	1232
+656	1	1232
+657	1	1232
+842	1	1232
+1046	1	1232
+1054	1	1232
+1154	1	1232
+1227	1	1232
+1232	7	1232
+1236	1	1232
+1281	1	1232
+1295	1	1232
+1298	1	1232
+1385	1	1232
+1400	1	1232
+1427	1	1232
+1427	1	1232

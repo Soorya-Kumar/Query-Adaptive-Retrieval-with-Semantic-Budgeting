@@ -1,0 +1,85 @@
+The problem of determining the optimal cross-reference structure for a given 
+index and for a given community of users is discussed.. A ross-reference 
+structure is represented as a graph in which the nodes are index terms and the 
+links are relations between index terms.. In order to clarify the concept of 
+'level of cross-referencing' the characteristics of cross-referencing structure
+are studied.. Some measures of cross-reference distributions are suggested as a
+means of comparing the cross-referencing levels of subject indexes..
+   Types of relations linking the terms of cross-references in existing indexes
+and thesauri are examined.. The implications of the study for the construction
+and testing on indexes and thesauri are discussed..
+.X
+29	1	781
+52	1	781
+64	1	781
+68	1	781
+69	1	781
+75	1	781
+81	1	781
+82	1	781
+86	1	781
+149	1	781
+151	1	781
+160	1	781
+175	2	781
+194	1	781
+245	1	781
+261	1	781
+346	1	781
+374	1	781
+382	1	781
+454	1	781
+458	1	781
+476	1	781
+477	3	781
+478	1	781
+479	1	781
+480	2	781
+484	1	781
+485	1	781
+486	1	781
+501	1	781
+502	1	781
+504	1	781
+558	1	781
+566	1	781
+600	1	781
+653	2	781
+680	1	781
+704	1	781
+717	1	781
+746	1	781
+781	9	781
+783	1	781
+795	1	781
+799	1	781
+802	1	781
+817	1	781
+825	1	781
+834	1	781
+835	1	781
+848	1	781
+849	1	781
+850	1	781
+851	1	781
+852	1	781
+901	1	781
+922	1	781
+925	1	781
+981	1	781
+982	1	781
+1024	1	781
+1042	1	781
+1051	1	781
+1054	1	781
+1118	1	781
+1145	1	781
+1175	1	781
+1215	1	781
+1227	1	781
+1255	1	781
+1394	1	781
+1414	1	781
+1415	1	781
+1422	1	781
+1422	1	781

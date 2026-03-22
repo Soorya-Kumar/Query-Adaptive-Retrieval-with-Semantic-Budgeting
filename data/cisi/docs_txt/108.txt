@@ -1,0 +1,41 @@
+The highly skewed distributions of productivity among scientists can be 
+partly explained by a process of accumulative advantage.. Because of feedback
+through recognition and resources, highly productive scientists maintain or
+increase their productivity, while scientists who produce very little produce
+even less later on.. A major implication of accumulative advantage is that the
+distribution of productivity becomes increasingly unequal as a cohort of
+scientists ages.. Cross-sectional survey data support this hypothesis for
+chemists, physicists, and mathematicians, who show strong linear increases in
+inequality with increasing career age.. This increase is highly associated with 
+a changing distribution of time spent on research.. Another implication of 
+accumulative advantage is also corroborated: the association among productivity,
+resources and esteem increases as career age increases..
+.X
+48	1	108
+100	1	108
+102	2	108
+103	1	108
+104	2	108
+106	1	108
+108	5	108
+113	2	108
+170	1	108
+314	1	108
+545	1	108
+893	1	108
+1274	1	108
+1285	1	108
+1291	2	108
+1301	1	108
+1304	1	108
+1313	1	108
+1334	2	108
+1337	2	108
+1338	2	108
+1341	1	108
+1342	2	108
+1343	2	108
+1344	1	108
+1345	1	108
+1386	1	108
+1386	1	108

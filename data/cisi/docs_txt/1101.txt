@@ -1,0 +1,31 @@
+Defines and describes the information selection criteria in the
+psychological aspects of activity, suggestability, progressiveness, 
+representativeness, and the optimal information minimum; their specific nature
+is shown in comparison with other criteria of information selection, and their 
+significance for the further study of the psychological problems of
+informatics is made clear..
+.X
+120	1	1101
+139	1	1101
+540	1	1101
+1095	1	1101
+1099	3	1101
+1101	7	1101
+1102	1	1101
+1103	1	1101
+1105	1	1101
+1116	1	1101
+1121	1	1101
+1125	1	1101
+1128	1	1101
+1130	1	1101
+1161	1	1101
+1165	1	1101
+1169	1	1101
+1172	1	1101
+1178	3	1101
+1181	1	1101
+1195	1	1101
+1220	1	1101
+1350	1	1101
+1350	1	1101

@@ -1,0 +1,85 @@
+The problem of selecting which journals to acquire in order to best satisfy 
+library objectives is modeled as a zero-one linear programming problem and 
+examined in detail.. The model incorporates an objective function based on 
+expected usage as a measure of journal worth and cost constraints which 
+account for the scarcity of capital.. The model can be used to aid the 
+librarian in making better selection decisions, since the objective function 
+can be shown to reflect the evaluation of the library as an information 
+retrieval system and as a service organization.. Moreover, the model of seen to 
+be related to inventory problems and scheduling models in industrial 
+operations.. 
+   Journal usage is discussed as a measure of journal worth and is contrasted 
+to journal productivity.. Constraints are considered for scarce resources other 
+than capital and for journal interrelationships..
+.X
+9	1	515
+207	1	515
+222	2	515
+223	1	515
+267	1	515
+296	1	515
+297	1	515
+298	1	515
+300	1	515
+301	1	515
+302	1	515
+358	1	515
+359	1	515
+364	1	515
+439	1	515
+494	3	515
+505	1	515
+515	7	515
+535	1	515
+573	1	515
+587	1	515
+616	1	515
+618	1	515
+625	1	515
+629	1	515
+631	1	515
+634	1	515
+635	1	515
+654	1	515
+748	1	515
+751	1	515
+759	1	515
+765	1	515
+778	1	515
+787	1	515
+791	1	515
+792	3	515
+811	1	515
+816	1	515
+818	1	515
+823	2	515
+840	3	515
+843	1	515
+844	1	515
+846	1	515
+915	1	515
+925	3	515
+948	1	515
+961	1	515
+962	1	515
+964	1	515
+994	1	515
+1015	1	515
+1016	1	515
+1083	1	515
+1085	1	515
+1090	1	515
+1182	1	515
+1184	1	515
+1219	1	515
+1242	1	515
+1247	1	515
+1268	1	515
+1324	1	515
+1354	1	515
+1365	2	515
+1400	1	515
+1401	1	515
+1416	1	515
+1417	1	515
+1417	1	515

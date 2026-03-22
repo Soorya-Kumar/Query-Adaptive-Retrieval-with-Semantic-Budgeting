@@ -1,0 +1,113 @@
+When it was decided that Cognitive Psychology would not specify
+size limits for articles, and that we would publish relevant papers in
+artificial intelligence, we hardly anticipated devoting an entire issue to a
+single piece of work.  However, Winograd's "Program for Understanding
+Natural Language" seems sufficiently general and important in its
+implications to warrant the experiment.  Some readers will find sufficient
+the first two sections, which present, respectively, an overview of the
+system and what it does, and a first-rate evaluation of research in artificial
+intelligence on natural language processing, semantics, and theorem proving.
+Others will want to explore in detail the structure of the syntactic
+component, the treatment of semantics, and the programming language
+for specifying theories of problem solving.  Each of these contributions
+is significant in its own right.  Together they form a unique, integrated
+system capable of parsing, interpreting, and acting upon the information
+contained in complex natural language discourse.
+.X
+26	1	1427
+51	1	1427
+54	1	1427
+69	1	1427
+71	1	1427
+73	1	1427
+77	1	1427
+79	1	1427
+168	1	1427
+175	1	1427
+176	1	1427
+310	1	1427
+315	1	1427
+319	1	1427
+320	1	1427
+321	1	1427
+332	1	1427
+382	1	1427
+397	3	1427
+399	1	1427
+417	3	1427
+430	3	1427
+443	3	1427
+448	1	1427
+455	3	1427
+464	3	1427
+480	1	1427
+483	1	1427
+484	3	1427
+486	1	1427
+488	1	1427
+491	1	1427
+493	1	1427
+503	1	1427
+507	1	1427
+508	1	1427
+509	2	1427
+510	1	1427
+512	1	1427
+517	1	1427
+519	1	1427
+520	1	1427
+522	1	1427
+523	1	1427
+526	1	1427
+527	1	1427
+528	2	1427
+531	1	1427
+534	1	1427
+546	1	1427
+565	2	1427
+566	1	1427
+579	1	1427
+581	1	1427
+594	1	1427
+596	1	1427
+603	1	1427
+606	1	1427
+608	1	1427
+625	1	1427
+626	1	1427
+633	1	1427
+637	1	1427
+643	1	1427
+659	1	1427
+660	1	1427
+715	1	1427
+745	3	1427
+754	1	1427
+780	1	1427
+785	1	1427
+790	1	1427
+805	1	1427
+809	1	1427
+810	2	1427
+812	1	1427
+813	1	1427
+814	1	1427
+817	1	1427
+824	1	1427
+825	1	1427
+826	1	1427
+830	1	1427
+894	1	1427
+1051	1	1427
+1185	1	1427
+1204	3	1427
+1232	1	1427
+1294	1	1427
+1307	1	1427
+1327	1	1427
+1374	1	1427
+1385	1	1427
+1398	3	1427
+1419	1	1427
+1427	15	1427
+1427	15	1427

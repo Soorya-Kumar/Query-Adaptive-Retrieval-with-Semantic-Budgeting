@@ -1,0 +1,31 @@
+The present paper will first deal with some of the objectives, etiology, and
+requirements of the library network as it overtakes and embraces co-operation.
+Next, in this context of network development, a number of activities
+involving special libraries will be reviewed by way of illustration and 
+example.  The greatest proportion of special library interrelationships are,
+on the surface at least, random and  informal.  We shall therefore concentrate
+on such arrangements as have about them some measure of structure and intent.
+Finally, we will deduce from these examples the performance and promise
+which special libraries may offer to a total library network or information 
+system.
+.X
+24	1	955
+74	1	955
+75	1	955
+119	2	955
+122	2	955
+336	1	955
+340	1	955
+431	1	955
+684	1	955
+939	1	955
+955	5	955
+967	1	955
+982	1	955
+1009	1	955
+1011	2	955
+1361	1	955
+1390	1	955
+1424	1	955
+1451	1	955
+1451	1	955

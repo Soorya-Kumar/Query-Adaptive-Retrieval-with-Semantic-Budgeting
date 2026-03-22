@@ -1,0 +1,66 @@
+As early as 1961, we in the engineering Department of
+Du Pont recognized the need for a better system for
+recording chemical structure information for storage and
+subsequent retrieval.  We believed that current methods
+and the then current development of notation systems
+would not completely serve our chemists' long range
+chemical identification needs.
+  Accordingly, we studied and then developed a chemical
+structure storage and search system.  Huber gave a good
+review of the various approaches and applications.  To use
+his terminology, our system is topological coding.
+  Our initial investigation led to singling out the following
+needs for such a system.
+
+.X
+116	1	670
+117	2	670
+165	1	670
+254	1	670
+327	1	670
+445	1	670
+476	1	670
+525	1	670
+590	1	670
+621	1	670
+641	1	670
+643	1	670
+644	1	670
+668	2	670
+670	8	670
+671	6	670
+673	1	670
+674	1	670
+677	1	670
+678	1	670
+679	1	670
+682	1	670
+683	1	670
+689	2	670
+690	1	670
+693	2	670
+694	1	670
+695	1	670
+698	1	670
+699	1	670
+700	2	670
+704	1	670
+706	1	670
+707	1	670
+708	3	670
+709	1	670
+715	1	670
+730	1	670
+737	1	670
+738	1	670
+797	1	670
+819	1	670
+833	1	670
+1026	1	670
+1044	1	670
+1072	1	670
+1077	1	670
+1231	1	670
+1292	1	670
+1452	2	670
+1452	2	670

@@ -1,0 +1,58 @@
+The performance of a retrieval system with a file of only a few hundred 
+references can be measured by assessing the relevance of each reference to each 
+of a number of queries.. A suitable measure of retrieval performance is then the
+Recall ratio - the fraction of the relevant references that are retrieved by the
+system.. When the file is large this method of measuring performance is not 
+practicable, and Recall cannot be measured although it can be estimated.. A
+number of estimation procedures are examined and found unsatisfactory.. Another
+measure of retrieval performance is the Extension ratio which is approximately
+the ratio of the quantity of known relevant references before and after putting 
+a query to the retrieval system.. The properties of this measure are examined 
+and it is applied to 315 MEDLARS searches..
+.X
+75	1	806
+161	1	806
+197	1	806
+375	1	806
+445	1	806
+447	1	806
+454	1	806
+472	1	806
+503	1	806
+506	1	806
+507	1	806
+514	1	806
+526	1	806
+554	1	806
+579	1	806
+591	1	806
+593	1	806
+594	1	806
+595	1	806
+596	1	806
+597	1	806
+599	1	806
+600	1	806
+603	1	806
+604	1	806
+606	1	806
+623	1	806
+639	1	806
+660	1	806
+696	1	806
+723	1	806
+724	1	806
+752	1	806
+801	1	806
+805	1	806
+806	5	806
+836	1	806
+866	1	806
+867	1	806
+956	1	806
+989	1	806
+1298	1	806
+1299	1	806
+1327	1	806
+1405	1	806
+1405	1	806

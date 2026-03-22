@@ -1,0 +1,49 @@
+The IFLA Committee on Cataloging has been at work since 1954 to establish 
+international standards for cataloging and bibliographic records; it was 
+responsible for the International Conference on Cataloging Principles, Paris, 
+1961, and and the International Meeting of Cataloging Experts, Copenhagen, 
+1969.. In recent years there have been increasing demands from national 
+cataloging bodies and bibliographic agencies for uniformity in codes and 
+practices, and in consequence there has been more willingness to make national 
+concessions in order to reach international standards.. The IFLA Cataloging
+Secretariat was established in 1971 to assist this trend by co-ordinating work,
+promoting new projects and acting as a liaison center..
+.X
+141	1	996
+299	1	996
+333	1	996
+361	1	996
+522	1	996
+530	1	996
+627	1	996
+628	1	996
+872	1	996
+873	1	996
+874	1	996
+875	1	996
+876	1	996
+892	1	996
+939	1	996
+940	2	996
+941	3	996
+950	1	996
+978	1	996
+994	1	996
+995	1	996
+996	6	996
+997	1	996
+998	1	996
+1079	1	996
+1080	1	996
+1153	1	996
+1189	1	996
+1251	1	996
+1351	1	996
+1396	1	996
+1420	1	996
+1434	1	996
+1435	2	996
+1436	1	996
+1441	1	996
+1442	1	996
+1442	1	996

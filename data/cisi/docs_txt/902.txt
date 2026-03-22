@@ -1,0 +1,52 @@
+The three chapters of this book are somewhat elaborated versions of
+three lectures, the Beckman lectures, that I delivered at the University
+of California, at Berkeley, in January 1967.  The first is an attempt to
+evaluate past contributions to the study of mind that have been been based
+on research and speculation regarding the nature of language.  The second is
+devoted to contemporary developments in linguistics that have a bearing on
+the study of the mind.  The third is a highly speculative discussion of
+directions that the study of language and mind might take in coming years.
+The three lectures, then, are concerned with the past, the present, and
+the future.
+.X
+21	1	902
+168	2	902
+172	1	902
+191	1	902
+194	1	902
+212	1	902
+274	1	902
+317	1	902
+332	1	902
+417	2	902
+443	1	902
+446	1	902
+458	1	902
+485	1	902
+546	1	902
+572	2	902
+577	1	902
+579	1	902
+608	1	902
+615	1	902
+640	1	902
+795	1	902
+796	1	902
+798	1	902
+902	6	902
+906	1	902
+907	1	902
+1033	1	902
+1046	1	902
+1084	1	902
+1089	1	902
+1209	1	902
+1279	1	902
+1289	1	902
+1294	1	902
+1310	1	902
+1327	1	902
+1386	1	902
+1387	1	902
+1399	2	902
+1399	2	902

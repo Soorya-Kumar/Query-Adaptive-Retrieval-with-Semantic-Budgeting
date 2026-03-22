@@ -1,0 +1,78 @@
+Description of a technique for compressing data to be placed in computer
+auxiliary storage.. The technique operates on the principle of taking two
+alphabetic characters frequently used in combination and replacing them with
+one unused special character code.. Such one-for-two replacement has enabled
+the ILO to achieve a rate of compression of 43.5% on a data base of 
+approximately 40,000 bibliographic records..
+.X
+161	1	867
+197	1	867
+218	1	867
+228	2	867
+229	1	867
+243	1	867
+253	1	867
+318	1	867
+321	1	867
+329	1	867
+375	2	867
+408	1	867
+416	1	867
+442	2	867
+445	1	867
+450	1	867
+454	1	867
+472	1	867
+492	1	867
+497	1	867
+503	1	867
+506	2	867
+507	2	867
+508	1	867
+510	1	867
+511	1	867
+524	1	867
+536	1	867
+548	1	867
+554	1	867
+579	1	867
+591	1	867
+593	1	867
+594	2	867
+595	1	867
+596	1	867
+597	1	867
+599	1	867
+600	1	867
+601	1	867
+603	1	867
+604	2	867
+606	1	867
+607	1	867
+620	1	867
+723	1	867
+724	1	867
+801	1	867
+805	1	867
+806	1	867
+835	1	867
+836	1	867
+851	1	867
+862	1	867
+866	2	867
+867	6	867
+869	1	867
+875	1	867
+956	1	867
+989	1	867
+1042	1	867
+1087	1	867
+1193	1	867
+1194	1	867
+1196	1	867
+1199	1	867
+1298	1	867
+1299	1	867
+1327	2	867
+1405	1	867
+1405	1	867

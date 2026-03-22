@@ -1,0 +1,105 @@
+The main emphasis of this book is on work of a theoretical
+and experimental nature rather than on practical
+applications.  However, the articles selected are viewed
+as having a considerable potential in two major respects:
+they have important implications for the practice of
+information handling, but even more important, they contain
+aspects of generalization.  The book is oriented
+toward basic and experimental work, such as that
+performed by traditional sciences, with the hope that a
+reader may find much relevant to his own interests,
+educational level and background, a bridge toward
+generalizations, a feeling of interconnection between
+seemingly unrelated works either presented in the book or
+found in the literature, an awareness of apparent gaps in
+knowledge, and even ideas for practical solutions or
+further theoretical or experimental work.
+.X
+72	1	554
+75	1	554
+149	1	554
+161	1	554
+175	1	554
+197	1	554
+201	1	554
+224	1	554
+287	1	554
+298	1	554
+348	1	554
+375	1	554
+381	1	554
+382	1	554
+408	2	554
+444	1	554
+445	2	554
+447	1	554
+449	1	554
+454	1	554
+456	1	554
+458	1	554
+472	1	554
+503	1	554
+506	1	554
+507	1	554
+514	1	554
+523	1	554
+532	1	554
+535	1	554
+554	13	554
+575	1	554
+579	2	554
+584	1	554
+591	2	554
+593	1	554
+594	1	554
+595	2	554
+596	1	554
+597	1	554
+599	2	554
+600	1	554
+603	2	554
+604	1	554
+606	1	554
+608	1	554
+615	1	554
+619	1	554
+620	1	554
+621	1	554
+625	1	554
+630	1	554
+654	1	554
+723	1	554
+724	1	554
+752	1	554
+762	1	554
+780	1	554
+801	1	554
+805	1	554
+806	1	554
+822	1	554
+836	1	554
+851	1	554
+856	1	554
+857	1	554
+858	1	554
+859	1	554
+860	1	554
+861	1	554
+862	1	554
+866	1	554
+867	1	554
+907	1	554
+956	2	554
+961	1	554
+989	1	554
+1012	1	554
+1013	1	554
+1035	1	554
+1086	1	554
+1294	1	554
+1298	1	554
+1299	1	554
+1327	2	554
+1405	1	554
+1445	1	554
+1445	1	554

@@ -1,0 +1,16 @@
+With this book I try to offer readers a broad picture of the current
+reprint industry, as well as an account detailed enough to capture the
+fast-moving reprint scene from various viewpoints.
+.X
+56	1	1269
+91	1	1269
+232	1	1269
+341	1	1269
+366	1	1269
+992	1	1269
+1057	2	1269
+1221	1	1269
+1269	9	1269
+1364	1	1269
+1371	1	1269
+1371	1	1269

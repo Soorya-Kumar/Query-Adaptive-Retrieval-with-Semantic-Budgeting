@@ -1,0 +1,134 @@
+More than one million citations from the scientific literature have been 
+processed by the Citation Index Project at the Institute for Scientific 
+Information.. The Project, sponsored by NSF and NIH, will be described briefly,
+and new methods of using citation data for evaluation of publications will be
+discussed..
+   Summaries of statistical data, compiled by computer methods such as the 
+following, will be given..
+   1. Frequency of citation of one journal by another..
+   2. Frequency of current citations to the past literature..
+   3. Frequency of self-citation by journals and authors..
+   4. Number of source citations per cited paper..
+   5. Number of references per source paper..
+   6. Number of papers published per journal..
+.X
+31	1	41
+33	1	41
+36	2	41
+41	9	41
+46	1	41
+47	1	41
+50	1	41
+89	1	41
+97	1	41
+102	1	41
+105	1	41
+106	1	41
+111	1	41
+112	1	41
+132	1	41
+147	1	41
+163	1	41
+181	1	41
+182	1	41
+183	2	41
+184	2	41
+193	2	41
+195	2	41
+196	2	41
+198	2	41
+199	2	41
+201	1	41
+203	2	41
+210	1	41
+215	1	41
+219	1	41
+221	1	41
+225	1	41
+233	1	41
+269	2	41
+359	1	41
+373	1	41
+377	1	41
+395	1	41
+415	1	41
+473	1	41
+545	1	41
+552	1	41
+587	1	41
+605	1	41
+613	1	41
+614	1	41
+632	1	41
+638	1	41
+735	1	41
+747	2	41
+750	1	41
+753	1	41
+760	1	41
+764	1	41
+766	1	41
+767	2	41
+772	1	41
+774	1	41
+775	1	41
+778	1	41
+782	1	41
+784	1	41
+788	1	41
+789	1	41
+793	1	41
+800	1	41
+808	1	41
+891	1	41
+893	1	41
+905	3	41
+952	1	41
+953	2	41
+964	1	41
+965	1	41
+968	1	41
+977	1	41
+983	1	41
+1009	1	41
+1010	1	41
+1016	1	41
+1018	1	41
+1019	1	41
+1023	1	41
+1030	1	41
+1055	1	41
+1071	2	41
+1085	1	41
+1086	1	41
+1087	1	41
+1090	2	41
+1135	1	41
+1147	2	41
+1240	1	41
+1260	1	41
+1274	1	41
+1275	2	41
+1276	1	41
+1277	1	41
+1278	2	41
+1280	2	41
+1283	1	41
+1285	5	41
+1286	1	41
+1287	3	41
+1301	1	41
+1302	5	41
+1313	1	41
+1335	1	41
+1341	1	41
+1347	1	41
+1352	1	41
+1359	1	41
+1390	1	41
+1397	2	41
+1417	2	41
+1428	1	41
+1432	1	41
+1444	1	41
+1444	1	41

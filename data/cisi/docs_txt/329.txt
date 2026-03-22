@@ -1,0 +1,71 @@
+The words of natural language texts exhibit a Poisson (or Zipfian) rank-
+frequency relationship, i.e., a small number of common words accounts for a 
+large proportion of word occurrences, while a large number of the words occur 
+as singletons or only infrequently.. Inverted-file retrieval systems using free
+text data bases commonly identify words as the keys or index terms about which 
+the file is inverted, and through which access is provided.. They therefore 
+involve large and growing dictionaries and many entail inefficient utilization
+of storage because of the distribution characteristics..
+   An alternative approach may be based on the analysis of text in terms of
+sets of variable-length character strings, the frequency distributions of
+which are much less disparate than those of words.. This could lead to 
+substantial reductions in dictionary size, and increased efficiency both in 
+dictionary look-up times and storage utilization.
+.X
+19	2	329
+44	1	329
+57	2	329
+75	1	329
+176	1	329
+228	3	329
+229	1	329
+318	2	329
+321	2	329
+324	1	329
+329	11	329
+346	1	329
+359	1	329
+416	4	329
+442	5	329
+450	4	329
+495	3	329
+511	6	329
+521	2	329
+524	2	329
+536	1	329
+563	1	329
+565	4	329
+567	3	329
+572	1	329
+595	1	329
+596	1	329
+608	1	329
+619	1	329
+700	2	329
+791	3	329
+810	1	329
+812	1	329
+813	1	329
+814	1	329
+835	1	329
+851	1	329
+862	1	329
+867	1	329
+870	1	329
+872	1	329
+875	3	329
+894	2	329
+928	1	329
+963	1	329
+990	1	329
+991	1	329
+1194	2	329
+1196	1	329
+1199	3	329
+1255	1	329
+1362	1	329
+1396	1	329
+1398	1	329
+1413	1	329
+1445	1	329
+1445	1	329

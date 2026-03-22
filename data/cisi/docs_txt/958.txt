@@ -1,0 +1,67 @@
+The characteristics and problems associated with the review literature in the
+sciences were examined.. Three major classes of review articles were identified:
+(1) the annual review which aims to provide a systematic record of the 
+contributions made within the previous year, (2) the critical review which 
+selectively evaluates contributions to the solution of a common research problem,
+and (3) data compilations which are concerned with facts and findings rather 
+than the opinions of the authors of papers from which the data are taken.. The
+role and control of the review article in medicine was described.. Over the
+past fifteen years, the ratio of review to nonreview articles in medicine has 
+been on the order of 1:38.. Possible solutions to a number of problems associated
+with the review literature are discussed, such as the selection of articles for 
+review..Further examination of some critical questions relating to the production
+and organization of reviews will have to be undertaken before the review, as a
+means of bringing the most significant information to its users, will be 
+accepted as a reliable adjunct to the original publications..
+.X
+39	1	958
+43	1	958
+47	1	958
+50	2	958
+65	1	958
+75	1	958
+91	1	958
+326	1	958
+429	1	958
+446	1	958
+473	1	958
+485	1	958
+503	1	958
+513	1	958
+572	1	958
+582	1	958
+586	1	958
+588	1	958
+589	1	958
+603	1	958
+613	1	958
+614	1	958
+616	1	958
+618	1	958
+632	1	958
+657	1	958
+685	1	958
+686	1	958
+691	1	958
+718	1	958
+719	2	958
+721	1	958
+722	1	958
+724	1	958
+725	1	958
+773	1	958
+778	1	958
+791	1	958
+952	1	958
+953	1	958
+958	7	958
+987	1	958
+988	1	958
+1207	1	958
+1208	1	958
+1235	1	958
+1283	1	958
+1293	1	958
+1302	1	958
+1426	1	958
+1426	1	958

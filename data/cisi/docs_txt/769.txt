@@ -1,0 +1,44 @@
+Recent work at the Cambridge Language Research Unit has been
+concerned with the development of automatic classification procedures for
+information retrieval.  This has taken the form of research into methods of
+classification of keywords extracted from documents, with a view to using
+the classes found for co-ordinate indexing of technical material.  We cannot
+claim to have solved this problem because the methods we have been able 
+to develop so far cannot be applied on a sufficiently large scale.  We have,
+however, made enough progress to make us feel that this a fruitful line of
+research.
+.X
+26	1	769
+45	1	769
+50	1	769
+131	1	769
+174	2	769
+175	1	769
+310	1	769
+328	1	769
+382	1	769
+389	2	769
+419	1	769
+422	1	769
+454	1	769
+479	2	769
+483	1	769
+485	2	769
+562	1	769
+564	2	769
+565	1	769
+660	1	769
+661	2	769
+662	2	769
+663	2	769
+664	1	769
+769	7	769
+780	1	769
+785	1	769
+966	1	769
+1118	1	769
+1144	1	769
+1255	1	769
+1327	1	769
+1419	1	769
+1419	1	769

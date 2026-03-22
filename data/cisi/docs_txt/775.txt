@@ -1,0 +1,123 @@
+The citation characteristic of papers in the Monthly Notices of the Royal
+Astronomical Society (especially for the years 1963-5) have been examined as a 
+means of studying the usage of astronomical literature in the United Kingdom..
+The decrease of usage with age has been investigated and the decay half-life 
+determined.. Particular attention has been paid to the immediacy affect, and
+to its possible variation in different sub-fields of astronomy.. The citations
+have also been separated according to journal of origin.. As a result of this 
+study, a quantitative estimate has been made of the titles and backruns that are
+required to satisfy a given percentage of the demand for astronomical research
+literature in the country..
+.X
+2	1	775
+33	3	775
+36	1	775
+41	1	775
+76	1	775
+89	1	775
+97	1	775
+101	1	775
+102	1	775
+105	1	775
+111	1	775
+112	1	775
+132	1	775
+137	1	775
+139	1	775
+152	1	775
+155	2	775
+163	1	775
+183	2	775
+184	1	775
+189	1	775
+193	1	775
+195	1	775
+198	1	775
+199	1	775
+203	2	775
+204	1	775
+210	2	775
+221	1	775
+225	1	775
+269	1	775
+314	1	775
+359	1	775
+361	1	775
+373	2	775
+379	1	775
+415	1	775
+475	1	775
+544	1	775
+545	1	775
+552	2	775
+560	1	775
+587	3	775
+588	1	775
+605	2	775
+613	1	775
+614	1	775
+616	1	775
+638	1	775
+667	1	775
+685	1	775
+735	2	775
+747	1	775
+748	1	775
+750	3	775
+753	1	775
+759	2	775
+760	2	775
+766	1	775
+767	2	775
+774	1	775
+775	11	775
+776	2	775
+782	1	775
+784	1	775
+788	2	775
+789	2	775
+793	3	775
+794	2	775
+800	4	775
+808	3	775
+821	1	775
+905	2	775
+952	1	775
+953	1	775
+977	2	775
+983	1	775
+1016	1	775
+1023	1	775
+1030	1	775
+1055	2	775
+1056	1	775
+1063	1	775
+1071	1	775
+1081	1	775
+1082	1	775
+1087	1	775
+1088	1	775
+1090	1	775
+1135	1	775
+1260	1	775
+1275	4	775
+1276	1	775
+1278	1	775
+1280	1	775
+1285	5	775
+1286	2	775
+1287	3	775
+1290	1	775
+1302	3	775
+1308	2	775
+1312	1	775
+1334	1	775
+1335	1	775
+1355	1	775
+1390	1	775
+1397	1	775
+1417	1	775
+1428	1	775
+1432	2	775
+1451	1	775
+1451	1	775

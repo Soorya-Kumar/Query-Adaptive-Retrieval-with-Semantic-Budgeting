@@ -1,0 +1,80 @@
+The controversial ISBD will mean radical changes in descriptive cataloging
+practice if put into operation, as planned, by the Library of Congress.
+Users of LC catalog cards will require retraining: all reference librarians 
+will experience an immediate and continuing demand for explanation of the 
+new catalog cards to users; those large public and research libraries with 
+computer-based systems will require costly modifications of computer programs.
+Yet the ISBD (International Standard Bibliographic Description) is destined 
+to be implemented by the Library of Congress with the sanction of ALA but 
+without even being considered by the recognized standards associations (ISO, 
+ANSI), to say nothing of the other professional and information industry 
+organizations.
+.X
+92	1	941
+141	2	941
+244	1	941
+246	1	941
+299	3	941
+333	3	941
+361	1	941
+365	1	941
+449	1	941
+522	1	941
+529	1	941
+530	2	941
+553	1	941
+627	2	941
+628	3	941
+630	1	941
+802	1	941
+819	1	941
+822	1	941
+825	1	941
+854	1	941
+871	1	941
+872	2	941
+873	2	941
+874	4	941
+875	3	941
+876	2	941
+877	2	941
+878	2	941
+879	1	941
+880	1	941
+883	1	941
+892	3	941
+930	1	941
+939	1	941
+940	4	941
+941	7	941
+950	2	941
+978	2	941
+988	1	941
+990	1	941
+992	1	941
+993	1	941
+994	2	941
+995	3	941
+996	3	941
+997	3	941
+998	2	941
+1079	5	941
+1080	1	941
+1143	1	941
+1153	1	941
+1189	1	941
+1216	2	941
+1230	1	941
+1251	1	941
+1257	1	941
+1303	1	941
+1351	2	941
+1396	2	941
+1420	2	941
+1421	1	941
+1434	3	941
+1435	5	941
+1436	3	941
+1441	1	941
+1442	2	941
+1442	2	941

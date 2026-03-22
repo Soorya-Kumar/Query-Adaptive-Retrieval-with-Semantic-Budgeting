@@ -1,0 +1,53 @@
+The authors of this article represent two specializations in the
+spectrum of information transfer activities, that of the computer and
+communication system engineer and that of the librarian.  These points
+of view are combined in examining the requirements for standardization
+in the national efforts to use automation in publication, library,
+abstracting and indexing, and information-retrieval activities.
+Standardization is necessary to both the representation of information
+and to the procedures being developed for handling it.
+.X
+119	1	1012
+166	1	1012
+214	2	1012
+218	1	1012
+241	1	1012
+250	1	1012
+287	1	1012
+340	1	1012
+348	2	1012
+375	1	1012
+408	2	1012
+491	1	1012
+496	1	1012
+554	1	1012
+582	1	1012
+584	1	1012
+654	1	1012
+657	1	1012
+690	1	1012
+851	1	1012
+855	1	1012
+856	1	1012
+857	1	1012
+858	1	1012
+859	1	1012
+860	1	1012
+861	1	1012
+862	1	1012
+916	1	1012
+986	2	1012
+1012	6	1012
+1013	1	1012
+1035	1	1012
+1042	1	1012
+1043	1	1012
+1084	1	1012
+1188	1	1012
+1252	1	1012
+1293	1	1012
+1295	1	1012
+1296	1	1012
+1379	1	1012
+1445	1	1012
+1445	1	1012

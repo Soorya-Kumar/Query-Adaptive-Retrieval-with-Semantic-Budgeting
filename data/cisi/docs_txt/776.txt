@@ -1,0 +1,78 @@
+In a previous paper (J. Doc. 20 (4) 1964, 212-35) a series of tests on
+the coverage, overlap, and indexing of abstracts journals were described.
+Briefly, these were carried out by selecting recent, comprehensive
+bibliographies on specific subjects, searching the appropriate abstracts
+journals via the author indexes to determine the number of references given
+in the bibliography that were abstracted, then consulting the subject
+indexes to try to locate those references which are known to have been 
+abstracted.  A further eight bibliographies have been studied, and the
+results are reported here.
+   Our results are presented below in the following form:
+1. Title of bibliography, source, content (number of journal references,
+   reports, etc.).
+2. Abstracts journals consulted.
+3. Coverage and multiple coverage.  This is a bar-chart showing number of
+   references not abstracted, those covered once, twice, and so on.
+4. Coverage by each abstracts journal, given as a bar-chart, the last column
+   showing coverage by all services combined.  (Where bar-charts are given
+   they show coverages as percentages of the whole bibliography, actual
+   numbers of references being shown beneath the appropriate columns.
+5. Taking each abstracts journal separately, we show the headings under
+   which references were found in the subject index.  Some references we
+   were unable to locate, so there is often an apparent discrepancy with the
+   figures given in 4.
+.X
+2	1	776
+4	1	776
+65	2	776
+158	1	776
+162	1	776
+359	1	776
+361	1	776
+371	1	776
+382	1	776
+458	1	776
+475	1	776
+513	2	776
+545	1	776
+580	1	776
+582	2	776
+591	1	776
+613	1	776
+622	1	776
+658	1	776
+685	1	776
+686	1	776
+691	1	776
+696	1	776
+705	1	776
+721	1	776
+722	1	776
+725	1	776
+728	1	776
+729	1	776
+759	3	776
+760	2	776
+765	2	776
+770	8	776
+775	2	776
+776	16	776
+782	1	776
+815	1	776
+967	1	776
+981	1	776
+1030	1	776
+1076	1	776
+1097	3	776
+1098	2	776
+1157	1	776
+1176	2	776
+1182	1	776
+1208	1	776
+1209	1	776
+1275	1	776
+1290	1	776
+1404	1	776
+1414	1	776
+1432	1	776
+1432	1	776

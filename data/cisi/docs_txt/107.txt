@@ -1,0 +1,47 @@
+Kuhn's concept of paradigm suggests that academic disciplines could be viewed
+as technologies involving degree of task predictability.. A series of hypotheses
+were developed in which relatively high paradigm development in a discipline was 
+predicted to facilitate research and teaching through improved processes of 
+communication and access to stored information.. Using questionnaire data 
+collected from 80 university graduate departments, physicists and chemists were 
+found to exhibit more agreement over field content, and to be more willing and 
+satisfied to spend time with graduate students than sociologists and political 
+scientists.. In addition, chemists were found to collaborate with larger 
+numbers of graduate students in research than scientists in the other fields..
+Two other aspects of scientific structure are discussed: the level of innovation 
+being pursued within a field of a given time, and the degree of 
+institutionalized differentiation of the field into subdisciplines..
+.X
+33	1	107
+89	1	107
+95	1	107
+98	1	107
+100	2	107
+107	6	107
+110	1	107
+111	3	107
+112	1	107
+113	1	107
+155	1	107
+308	1	107
+359	1	107
+386	1	107
+544	1	107
+602	1	107
+1062	2	107
+1083	1	107
+1085	1	107
+1273	1	107
+1291	1	107
+1296	1	107
+1300	2	107
+1301	1	107
+1302	2	107
+1312	1	107
+1313	1	107
+1315	1	107
+1338	1	107
+1345	2	107
+1347	1	107
+1386	1	107
+1386	1	107

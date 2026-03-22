@@ -1,0 +1,113 @@
+Mailed questionnaires were used to study the use of two printed current
+awareness devices in specialized areas of the neurosciences, one manually
+prepared and the other a product of MEDLARS.  The study determined who
+uses each publication, how much, for what purpose, and with what degree of
+success.  A major purpose was to discover how valuable the publications are
+to users and what impact they have had on their own research or professional
+practice as well as on their information seeking behaviour.  Comparisons
+are made between the results for the two publications.  Some conclusions are
+drawn on information seeking behaviour in the neuroscience community and
+on requirements for effective current awareness services in this field.
+.X
+10	1	828
+18	1	828
+34	1	828
+49	1	828
+53	1	828
+59	1	828
+76	1	828
+89	1	828
+164	1	828
+183	1	828
+184	1	828
+190	1	828
+193	1	828
+198	1	828
+201	1	828
+202	1	828
+204	1	828
+213	1	828
+224	2	828
+225	1	828
+243	1	828
+244	1	828
+304	1	828
+305	1	828
+306	1	828
+358	1	828
+385	1	828
+394	1	828
+421	1	828
+433	1	828
+459	1	828
+465	1	828
+466	1	828
+490	1	828
+491	1	828
+506	1	828
+507	1	828
+510	1	828
+512	1	828
+534	1	828
+552	1	828
+591	1	828
+595	1	828
+603	1	828
+604	1	828
+622	1	828
+623	1	828
+629	1	828
+633	1	828
+639	1	828
+659	1	828
+676	1	828
+702	1	828
+711	1	828
+722	1	828
+723	1	828
+726	1	828
+728	1	828
+730	1	828
+731	2	828
+732	2	828
+735	1	828
+766	1	828
+784	1	828
+809	1	828
+810	1	828
+813	1	828
+814	1	828
+817	1	828
+820	2	828
+822	1	828
+823	1	828
+825	1	828
+826	1	828
+827	1	828
+828	6	828
+845	1	828
+870	1	828
+879	1	828
+947	1	828
+948	1	828
+1017	1	828
+1055	1	828
+1058	1	828
+1091	1	828
+1146	1	828
+1230	1	828
+1257	1	828
+1283	1	828
+1298	1	828
+1299	1	828
+1363	1	828
+1366	1	828
+1367	1	828
+1368	1	828
+1372	1	828
+1374	1	828
+1390	1	828
+1396	1	828
+1397	1	828
+1432	1	828
+1432	1	828

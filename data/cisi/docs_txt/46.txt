@@ -1,0 +1,70 @@
+The strategy outlined in this article describes a possible aid to the 
+librarian for thinning a library's stack according to the criterion of user 
+needs.. The method uses the last circulation date as a parameter of user 
+circulation requirements.. The resulting stack collection would, by design,
+satisfy over 99 percent of the user circulation requirements and yet be of
+minimum size.. Preliminary, but not yet fully validated research, indicates 
+that the number of volumes in a library's holdings may be reduced by 60 to 70 
+percent and yet satisfy well over 99 percent of the user requirements.. It may
+also be possible to determine which books should have multiple copies in order
+that user disappointment can be minimized.. The effective result of this 
+approach is that there now may be a quantitative method of maintaining the 
+library's holdings at a reasonable level and, in addition, a reduction in the 
+disappointment of the user who is unable to find the book he wants because of 
+use by another..
+.X
+31	3	46
+33	1	46
+36	2	46
+41	1	46
+46	14	46
+115	1	46
+181	1	46
+182	1	46
+183	1	46
+184	1	46
+193	1	46
+195	1	46
+198	1	46
+201	1	46
+206	1	46
+207	1	46
+208	1	46
+266	1	46
+269	3	46
+278	1	46
+280	2	46
+282	1	46
+290	2	46
+367	1	46
+395	1	46
+415	1	46
+759	1	46
+760	1	46
+767	2	46
+774	1	46
+778	2	46
+891	1	46
+905	1	46
+925	2	46
+943	1	46
+952	1	46
+953	1	46
+964	2	46
+968	1	46
+977	1	46
+983	3	46
+1009	1	46
+1018	1	46
+1019	4	46
+1023	1	46
+1030	1	46
+1086	1	46
+1203	2	46
+1240	1	46
+1359	1	46
+1397	1	46
+1416	2	46
+1417	3	46
+1450	1	46
+1450	1	46

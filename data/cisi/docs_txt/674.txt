@@ -1,0 +1,56 @@
+Since 1958 the Chemical Abstracts Service has been
+working toward establishing a computer-based system for
+handling chemical information.  Briefly, the concept of
+the CAS system consists of sets of special subject files
+in the following categories: (1) physical properties, (2)
+chemical reactivities, (3) biochemical activities, and (4)
+applications.  With the importance of compounds in
+correlation studies, and the need to interrelate compounds
+and the huge collections of chemical and other data, a
+highly developed subsystem, called the Registry System,
+for handling compounds must be the first step in the
+actual operation of an over-all computer-based service.
+The Registry System will include files of compounds 
+interconnected with files of associated data that permit
+identifying the compounds and retrieving them from the
+files.
+
+.X
+34	1	674
+53	1	674
+117	1	674
+165	1	674
+252	1	674
+445	1	674
+476	1	674
+480	1	674
+525	1	674
+565	1	674
+590	1	674
+621	1	674
+668	1	674
+670	1	674
+671	3	674
+674	9	674
+675	1	674
+679	1	674
+680	1	674
+682	1	674
+683	1	674
+687	1	674
+689	1	674
+694	1	674
+695	1	674
+697	2	674
+698	1	674
+709	3	674
+711	1	674
+715	2	674
+746	1	674
+797	1	674
+819	1	674
+1077	1	674
+1231	1	674
+1261	1	674
+1452	2	674
+1452	2	674

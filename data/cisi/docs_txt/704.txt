@@ -1,0 +1,70 @@
+A computer-operated storage and retrieval system for chemical structures
+based on the use of the IUPAC notation has been in operation at Shell
+Research Limited, Sittingbourne, Kent, England, since 1965, involving a
+file of nearly 50,000 compounds.  Use of the IUPAC cipher has proved 
+advantageous as regards speed and cost of both input and searching.  For
+most searches, scanning of the information explicit in the cipher has proved
+adequate.  Our computer programs also enable conversion of ciphers into atom-
+connection tables and generation of fragmentation codes.  The integrated use
+of these facilities and their merits relative to other approaches are discussed.
+.X
+29	1	704
+68	1	704
+69	1	704
+116	1	704
+117	1	704
+150	1	704
+175	1	704
+254	1	704
+261	1	704
+327	1	704
+346	1	704
+347	1	704
+371	1	704
+382	1	704
+458	1	704
+465	1	704
+476	1	704
+477	1	704
+478	1	704
+479	1	704
+480	2	704
+484	1	704
+485	1	704
+566	1	704
+641	1	704
+668	1	704
+669	1	704
+670	1	704
+671	1	704
+673	2	704
+675	1	704
+677	1	704
+678	2	704
+679	1	704
+680	1	704
+681	1	704
+682	3	704
+689	1	704
+690	1	704
+693	1	704
+694	1	704
+695	1	704
+698	1	704
+700	1	704
+704	7	704
+706	1	704
+707	1	704
+716	1	704
+717	1	704
+730	1	704
+738	1	704
+781	1	704
+833	1	704
+1026	1	704
+1072	1	704
+1118	1	704
+1175	1	704
+1292	1	704
+1452	3	704
+1452	3	704

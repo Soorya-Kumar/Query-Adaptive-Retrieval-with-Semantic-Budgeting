@@ -1,0 +1,76 @@
+The term statistical bibliography seems to have been first used by E.
+Wyndham Hulme in 1922 when he delivered two lectures as the Sandars Reader
+in bibliography at the University of Cambridge.  Subsequently the lectures
+were published as a book.  Although the debt has never been explicitly
+recognized by means of citations, Hulme anticipated modern work on the
+history of science.  He used the term to mean the illumination of the
+processes of science and technology by means of counting documents.  Hulme
+both summarized the results of Cole and Eales and produced original work
+on the growth of UK patents (relating these to social progress in the
+UK) and on the changes displayed in the International Catalogue of
+Scientific Literature (relating changes in subject and country production
+of literature to international developments).
+.X
+19	1	749
+37	1	749
+39	2	749
+40	1	749
+47	1	749
+88	1	749
+97	1	749
+102	1	749
+103	1	749
+162	2	749
+233	1	749
+253	1	749
+313	1	749
+359	1	749
+377	1	749
+379	2	749
+395	1	749
+505	1	749
+560	1	749
+573	1	749
+583	1	749
+618	1	749
+632	2	749
+635	1	749
+667	1	749
+748	1	749
+749	6	749
+751	1	749
+764	1	749
+765	2	749
+770	1	749
+777	1	749
+778	1	749
+782	1	749
+804	1	749
+805	1	749
+893	2	749
+914	1	749
+952	1	749
+1016	1	749
+1061	1	749
+1076	1	749
+1085	1	749
+1086	1	749
+1087	1	749
+1182	1	749
+1200	1	749
+1274	1	749
+1277	1	749
+1278	1	749
+1280	1	749
+1287	1	749
+1301	1	749
+1302	1	749
+1304	1	749
+1313	1	749
+1338	1	749
+1344	1	749
+1347	1	749
+1380	2	749
+1428	2	749
+1444	1	749
+1444	1	749

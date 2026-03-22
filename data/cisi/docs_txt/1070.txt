@@ -1,0 +1,71 @@
+This book reports the findings from a study of job motivation
+based on a fresh approach to this problem.  It is an important
+study, since the analyses and interpretations of the authors
+suggest that a breakthrough may well have been made to provide
+new insights into the nature and method of operation of job
+attitudes.
+  The senior authors were well prepared for their task, having
+recently completed a comprehensive review and analysis of the
+research in this field, reported in Job Attitudes: Review of
+Research and Opinion.  This review of several thousand articles
+and books regarding the factors relating to job attitudes and the
+effect of job attitudes on work performance indicated much
+disagreement and confusion in the field.  It appeared that one of
+the major contributors to this apparent diversity of results was
+the unstable nature of the subjective data on which studies in
+this field have been typically based.
+.X
+4	1	1070
+128	1	1070
+129	1	1070
+130	1	1070
+167	1	1070
+173	1	1070
+223	1	1070
+225	1	1070
+227	1	1070
+234	1	1070
+280	1	1070
+285	1	1070
+293	1	1070
+296	1	1070
+298	1	1070
+301	1	1070
+302	1	1070
+393	1	1070
+418	5	1070
+468	1	1070
+494	1	1070
+639	1	1070
+646	1	1070
+647	1	1070
+651	1	1070
+765	1	1070
+768	1	1070
+774	1	1070
+818	1	1070
+822	1	1070
+823	2	1070
+827	1	1070
+842	1	1070
+843	1	1070
+844	1	1070
+925	2	1070
+943	1	1070
+944	1	1070
+1015	1	1070
+1069	3	1070
+1070	6	1070
+1085	1	1070
+1150	2	1070
+1186	1	1070
+1187	1	1070
+1214	2	1070
+1233	1	1070
+1374	1	1070
+1390	1	1070
+1401	1	1070
+1437	1	1070
+1454	1	1070
+1455	2	1070
+1455	2	1070

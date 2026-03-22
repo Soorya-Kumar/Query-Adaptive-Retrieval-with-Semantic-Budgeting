@@ -1,0 +1,75 @@
+Libraries find it increasingly necessary to use their limited resources in the
+most efficient manner.. This requires the use of decision rules which permit 
+library resources to be directed to those activities which yield the highest 
+returns.. An effort is made to utilize part of welfare economics to suggest
+which groups of library users will provide the greatest return to society..
+   An evaluation of the traditional library functions of education, information,
+and leisure suggests that libraries should direct their resources toward 
+educational activities and not toward recreation when public monies are 
+involved.. A case can be made for subsidizing the library activities of 
+school-age children, other explicitly involved in education, disadvantages 
+minority groups and governmental officials and staff..
+   Since public and school libraries produce and distribute essentially the same
+services, it is an uneconomic use of the communities' resources to maintain two
+separate institutions, one of which imposes costs on the other as children are 
+forced to use public library facilities due to school library inadequacies..
+.X
+5	1	957
+74	1	957
+83	1	957
+90	1	957
+91	1	957
+158	1	957
+222	1	957
+223	1	957
+245	1	957
+273	1	957
+279	1	957
+288	2	957
+291	1	957
+292	1	957
+331	1	957
+368	1	957
+381	1	957
+408	1	957
+435	1	957
+490	1	957
+496	1	957
+591	2	957
+592	1	957
+615	1	957
+723	1	957
+724	1	957
+815	1	957
+834	1	957
+860	1	957
+865	1	957
+915	1	957
+925	2	957
+957	5	957
+959	2	957
+960	1	957
+961	1	957
+962	2	957
+972	1	957
+976	1	957
+984	1	957
+1005	1	957
+1018	1	957
+1023	1	957
+1148	1	957
+1149	1	957
+1219	1	957
+1227	3	957
+1317	1	957
+1333	1	957
+1353	2	957
+1359	1	957
+1360	1	957
+1365	1	957
+1390	1	957
+1400	2	957
+1401	1	957
+1410	1	957
+1424	1	957
+1424	1	957

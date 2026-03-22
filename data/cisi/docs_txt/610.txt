@@ -1,0 +1,174 @@
+A semantic differential (SD) is a commonly used instrument which can
+be used to reliably measure attitude toward a variety of objects or
+concepts.. Each SD consists of a series of bipolar adjective scales on
+which a respondent reacts, in relation to the object or concept of interest..
+To interpret completed SDs, it simplifies the procedures and aids in the
+development of theory if the adjective scales are grouped into one or more
+independent clusters.. The primary purpose of this study was to identify
+those clusters (or dimensions) applied by a user of an on-line user-oriented
+reference retrieval system when he reacts toward such a system..
+   Seventy-one who used or were familiar with a working on-line reference
+retrieval system completed a packet of 20 SDs, each consisting of the same
+19 adjective scales.. The correlations among the scales were factor 
+analyzed.. Three independent dimensions were identified.. Factor I was 
+labeled "evaluative-specific" and accounted for over 23% of the total
+variance.. Factor II was called "desirability"; it accounted for over 
+17% of the total variance.. And, Factor III, entitled "enormity" accounted
+for over 10% of the total variance.. Another analysis showed the factor
+structure to be highly reliable.. Therefore, if the derived three
+dimensional structure underlies users' attitudes toward a more general
+class of retrieval systems, then undimensional or unstructured system
+evaluation of users' attitudes will be simplistic and possibly misleading..
+   In order to construct a working semantic differential, 10 adjective
+scales were identified which best represented the three dimensions..
+Brief instructions are included which outline how to use this SD..
+The discussion is mainly concerned with the obtained factor structure
+and the need for a predicative replication of the study..     
+.X
+90	1	610
+124	3	610
+125	1	610
+127	1	610
+129	1	610
+165	1	610
+190	1	610
+191	1	610
+197	1	610
+211	1	610
+214	1	610
+218	1	610
+231	1	610
+243	1	610
+261	1	610
+295	1	610
+299	1	610
+307	1	610
+330	1	610
+334	1	610
+343	1	610
+354	1	610
+378	1	610
+381	1	610
+417	1	610
+448	1	610
+450	1	610
+451	1	610
+452	2	610
+459	1	610
+468	1	610
+484	2	610
+492	1	610
+508	1	610
+511	2	610
+512	1	610
+514	2	610
+516	1	610
+518	2	610
+520	1	610
+521	1	610
+522	1	610
+523	2	610
+524	1	610
+525	1	610
+526	2	610
+527	1	610
+528	1	610
+529	2	610
+530	1	610
+534	1	610
+546	2	610
+553	1	610
+575	1	610
+579	1	610
+586	1	610
+591	1	610
+594	1	610
+597	1	610
+603	2	610
+604	1	610
+606	2	610
+608	2	610
+609	1	610
+610	9	610
+611	2	610
+612	3	610
+615	1	610
+617	1	610
+620	1	610
+625	2	610
+626	3	610
+630	1	610
+636	2	610
+637	1	610
+642	1	610
+648	1	610
+650	1	610
+692	1	610
+696	1	610
+699	1	610
+700	1	610
+703	1	610
+705	2	610
+707	1	610
+708	1	610
+726	1	610
+727	2	610
+728	1	610
+731	1	610
+732	1	610
+733	1	610
+734	1	610
+736	1	610
+738	1	610
+739	1	610
+740	1	610
+741	1	610
+742	1	610
+743	1	610
+744	1	610
+754	1	610
+755	1	610
+812	1	610
+815	1	610
+817	1	610
+820	1	610
+824	1	610
+826	1	610
+827	1	610
+875	1	610
+879	1	610
+883	1	610
+938	1	610
+939	1	610
+986	1	610
+991	1	610
+992	1	610
+1004	1	610
+1035	1	610
+1047	1	610
+1078	1	610
+1089	1	610
+1091	1	610
+1207	1	610
+1221	1	610
+1264	1	610
+1297	1	610
+1303	3	610
+1318	1	610
+1327	1	610
+1356	1	610
+1364	2	610
+1365	1	610
+1366	1	610
+1367	1	610
+1368	2	610
+1370	1	610
+1372	1	610
+1373	1	610
+1374	1	610
+1375	1	610
+1376	1	610
+1377	1	610
+1387	1	610
+1390	1	610
+1390	1	610

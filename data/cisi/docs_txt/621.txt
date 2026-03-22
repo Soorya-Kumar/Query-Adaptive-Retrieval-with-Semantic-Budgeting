@@ -1,0 +1,69 @@
+A taxonomy for modeling information systems is presented.. The taxonomy
+derives from the history of modern epistemology.. Epistemology is used as a
+prescriptive modeling basis because (1) the fundamental problems of 
+epistemology are concerned with information, and (2), because the history of
+epistemology identifies any archetypal ways that men have conceived of
+information and of models..
+   It is shown how the different models of epistemology can be made
+scientifically operational through the use of a special kind of systems
+analysis..
+   Finally, the results of a preliminary experiment based on one of the models
+are presented in the form of prescriptive rules for the design of future
+experiments.. 
+.X
+117	1	621
+120	1	621
+128	1	621
+135	1	621
+165	3	621
+175	1	621
+224	1	621
+244	1	621
+245	1	621
+291	1	621
+298	1	621
+350	1	621
+381	1	621
+445	1	621
+456	1	621
+458	1	621
+459	1	621
+476	1	621
+514	1	621
+525	2	621
+530	1	621
+554	1	621
+575	2	621
+579	1	621
+590	1	621
+591	1	621
+595	1	621
+599	2	621
+603	1	621
+615	1	621
+619	1	621
+620	1	621
+621	6	621
+625	1	621
+630	2	621
+641	2	621
+668	1	621
+670	1	621
+671	1	621
+674	1	621
+683	1	621
+689	1	621
+692	1	621
+715	1	621
+752	1	621
+780	1	621
+797	1	621
+819	1	621
+822	1	621
+898	1	621
+907	1	621
+925	1	621
+1077	2	621
+1231	3	621
+1402	1	621
+1402	1	621

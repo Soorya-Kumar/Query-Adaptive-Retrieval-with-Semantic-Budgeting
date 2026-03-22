@@ -1,0 +1,86 @@
+It was first observed by Bradford that, for a large collection of journal
+references on a given subject, most of the articles are derived from a small
+proportion of the total titles.  Bradford listed the journals concerned in order
+of decreasing productivity and, by plotting the logarithms of the cumulative
+totals of titles against the cumulative totals of relevant articles produced,
+he obtained a straight line.  (Similar results have been obtained by many later
+workers.  The pattern is illustrated by Table I which shows the distribution
+of references among journal titles obtained by the author during a study of
+literature usage in the petroleum industry.)  On the basis of these results
+Bradford then formulated a simple mathematical model to describe reference
+scattering.  Vickery later pointed out that this 'law of scattering' predicted
+not a straight line but a curve.  Kendall has now provided a more refined
+statistical explanation of the straight line observed by Bradford.
+.X
+33	1	759
+36	1	759
+44	1	759
+46	1	759
+57	2	759
+76	1	759
+81	1	759
+184	1	759
+193	1	759
+195	1	759
+201	1	759
+203	1	759
+204	1	759
+205	1	759
+233	1	759
+267	1	759
+359	5	759
+361	3	759
+367	1	759
+395	1	759
+416	2	759
+505	1	759
+515	1	759
+573	1	759
+587	1	759
+616	1	759
+667	1	759
+748	3	759
+750	1	759
+751	2	759
+759	12	759
+760	1	759
+765	7	759
+767	2	759
+775	2	759
+776	3	759
+778	4	759
+787	2	759
+791	1	759
+792	1	759
+793	1	759
+800	1	759
+893	1	759
+977	1	759
+983	1	759
+1016	1	759
+1030	1	759
+1076	1	759
+1081	2	759
+1082	2	759
+1083	3	759
+1085	2	759
+1086	1	759
+1090	1	759
+1097	1	759
+1098	1	759
+1114	1	759
+1122	1	759
+1157	1	759
+1170	2	759
+1173	1	759
+1182	4	759
+1201	2	759
+1226	1	759
+1275	1	759
+1278	1	759
+1381	1	759
+1401	1	759
+1417	1	759
+1418	1	759
+1432	1	759
+1432	1	759

@@ -1,0 +1,102 @@
+This volume represents what we believe to be as complete
+and thorough an analysis as possible of the available economic
+data on college and university libraries.  In the course
+of our study, we have examined the data for comprehensiveness
+and consistency; we have investigated their intertemporal
+behavior, both as a basis for projection and as an
+instrument for long-range planning; and we have constructed
+a set of analytic interrelationships which permit us to derive
+statistical estimates of the interrelations of some of the most
+critical economic variables relating to library operations.  In
+particular, in the course of this last step, we have provided
+relationships explaining statistically the determination of
+such variables as the size of libraries' budgets and the
+magnitude of their professional staffs.
+.X
+5	1	365
+115	1	365
+119	1	365
+122	1	365
+141	1	365
+172	1	365
+234	1	365
+244	1	365
+245	1	365
+249	1	365
+250	1	365
+262	1	365
+299	1	365
+353	1	365
+364	1	365
+365	10	365
+394	1	365
+408	1	365
+453	2	365
+526	1	365
+528	1	365
+529	1	365
+612	1	365
+630	1	365
+652	1	365
+764	1	365
+811	1	365
+816	1	365
+818	1	365
+822	1	365
+823	1	365
+825	1	365
+842	1	365
+854	1	365
+856	1	365
+871	1	365
+872	2	365
+873	1	365
+874	1	365
+875	1	365
+876	1	365
+877	1	365
+878	1	365
+879	1	365
+880	1	365
+886	1	365
+888	1	365
+892	1	365
+913	1	365
+925	1	365
+938	1	365
+940	2	365
+941	1	365
+943	1	365
+944	1	365
+948	1	365
+963	1	365
+974	1	365
+984	1	365
+990	1	365
+994	1	365
+997	1	365
+998	1	365
+1004	1	365
+1023	1	365
+1068	1	365
+1079	1	365
+1143	2	365
+1203	1	365
+1211	1	365
+1212	1	365
+1230	1	365
+1247	1	365
+1257	3	365
+1258	1	365
+1264	1	365
+1266	1	365
+1303	1	365
+1317	1	365
+1367	1	365
+1396	1	365
+1425	1	365
+1433	1	365
+1435	2	365
+1436	2	365
+1441	1	365
+1441	1	365

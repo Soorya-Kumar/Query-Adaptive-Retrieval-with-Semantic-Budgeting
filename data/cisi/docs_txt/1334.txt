@@ -1,0 +1,37 @@
+We have tried in this paper to describe some of the main features of the
+emergence and growth of radio astronomy, with special reference to the crucial
+developments occurring in the UK.  Much of what we have written above needs
+to be discussed in the light of current theories about the nature of
+scientific growth and compared with data from other case studies.
+
+.X
+33	1	1334
+101	2	1334
+103	1	1334
+104	1	1334
+105	1	1334
+108	2	1334
+170	1	1334
+544	1	1334
+560	1	1334
+605	1	1334
+667	1	1334
+750	1	1334
+775	1	1334
+800	1	1334
+893	1	1334
+1063	1	1334
+1081	1	1334
+1082	1	1334
+1088	1	1334
+1285	1	1334
+1286	1	1334
+1287	1	1334
+1308	1	1334
+1312	1	1334
+1334	5	1334
+1342	2	1334
+1343	2	1334
+1345	1	1334
+1387	1	1334
+1387	1	1334

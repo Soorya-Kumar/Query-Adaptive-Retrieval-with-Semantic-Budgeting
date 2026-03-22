@@ -1,0 +1,35 @@
+The purpose of this paper is to offer a solution to the problems of 
+documentation and bibliographic control of machine-readable data files.. It is a
+solution which attempts to meet both the needs of the data user and the data
+librarian.. It is design to make readily feasible the conversion completely or 
+in part to a computer-based operation and to tie in directly to an information 
+retrieval system in the future.. The four elements of this documentation and 
+control system are:standard catalogue entries, data abstract and data description
+forms, content documentation codebooks, and records of physical and logical 
+characteristics of the data set..
+.X
+130	1	993
+333	1	993
+357	2	993
+449	1	993
+530	1	993
+553	1	993
+628	1	993
+710	1	993
+802	1	993
+819	1	993
+874	1	993
+877	1	993
+878	1	993
+940	1	993
+941	1	993
+992	1	993
+993	6	993
+995	1	993
+1079	1	993
+1216	1	993
+1421	1	993
+1434	1	993
+1435	1	993
+1436	1	993
+1436	1	993

@@ -1,0 +1,30 @@
+The major intellectual challenges confronting an architect of a total
+computerized library system is organization of a efficient file of millions of
+bibliographic references from which a single entry can be retrieved swiftly
+and uniquely.  Research on file organization has concentrated on retrieval of 
+multiple entries possessing some equal or similar characteristic.  However, a
+basic library bibliographic file should be organized to yield a record unequal
+and dissimilar to all others.  Such a file is analogous to the familiar main
+entry catalog, which every library maintains, and would have associated with
+it supplementary index files of subjects, titles, call numbers, and perhaps 
+other attributes.
+.X
+90	1	1197
+281	1	1197
+348	1	1197
+601	1	1197
+835	3	1197
+836	2	1197
+851	6	1197
+862	2	1197
+863	1	1197
+868	4	1197
+869	2	1197
+871	1	1197
+872	1	1197
+981	1	1197
+984	1	1197
+1013	1	1197
+1196	4	1197
+1197	9	1197
+1197	9	1197

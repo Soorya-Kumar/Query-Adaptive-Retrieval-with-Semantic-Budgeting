@@ -1,0 +1,140 @@
+A new testing process is described designed to compare conventional retrieval
+(MEDLARS) and automatic text analysis methods (SMART).. The results obtained 
+with a collection of documents chosen independently of either SMART or MEDLARS
+indicate that a simple automatic extraction of keywords from document abstracts
+produces a 30 to 40 percent loss compared with MEDLARS indexing.. A replacement
+of the unranked Boolean searches used in MEDLARS by the standard ranked output 
+normally provided by SMART reduces the loss to between 15 and 20 percent.. When
+automatically generated word control list or a thesaurus is used as part of the 
+SMART analysis, the results are comparable in effectiveness to those obtained 
+by the intellectual MEDLARS indexing.. Finally, the incorporation of user 
+feedback procedures into SMART furnishes an improvement over the normal MEDLARS 
+output of 15 to 30 percent.. 
+   One concludes again that no technical justification exists for maintaining 
+controlled, manual indexing in operational retrieval environments..
+.X
+38	1	608
+51	1	608
+57	1	608
+69	1	608
+71	1	608
+72	1	608
+75	2	608
+77	1	608
+79	2	608
+86	1	608
+90	1	608
+149	1	608
+168	2	608
+175	3	608
+176	2	608
+231	1	608
+261	1	608
+295	1	608
+299	1	608
+315	1	608
+317	1	608
+329	1	608
+332	1	608
+334	1	608
+354	1	608
+361	1	608
+382	5	608
+389	1	608
+390	1	608
+417	1	608
+443	1	608
+448	1	608
+480	1	608
+483	1	608
+484	1	608
+486	1	608
+488	1	608
+491	1	608
+493	1	608
+503	1	608
+507	1	608
+509	1	608
+510	1	608
+512	1	608
+514	1	608
+517	1	608
+520	2	608
+522	1	608
+527	1	608
+528	1	608
+531	1	608
+546	1	608
+554	1	608
+565	3	608
+566	1	608
+570	1	608
+572	2	608
+576	1	608
+581	1	608
+583	1	608
+586	3	608
+591	1	608
+595	1	608
+596	2	608
+603	2	608
+608	11	608
+610	2	608
+617	1	608
+619	1	608
+620	1	608
+633	1	608
+636	1	608
+643	1	608
+659	2	608
+715	1	608
+754	1	608
+762	1	608
+790	1	608
+805	1	608
+809	1	608
+810	2	608
+812	2	608
+813	2	608
+814	2	608
+815	1	608
+817	1	608
+820	1	608
+824	1	608
+825	2	608
+870	1	608
+894	3	608
+902	1	608
+928	1	608
+938	1	608
+939	1	608
+956	1	608
+961	1	608
+963	1	608
+966	1	608
+986	1	608
+990	1	608
+991	2	608
+992	1	608
+997	1	608
+1046	1	608
+1051	1	608
+1144	1	608
+1216	1	608
+1221	1	608
+1255	1	608
+1266	1	608
+1294	3	608
+1313	1	608
+1318	1	608
+1327	4	608
+1365	1	608
+1390	1	608
+1395	1	608
+1399	1	608
+1413	1	608
+1419	2	608
+1421	1	608
+1427	1	608
+1445	1	608
+1445	1	608

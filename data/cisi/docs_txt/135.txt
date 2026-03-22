@@ -1,0 +1,56 @@
+This review has selected for emphasis reports on concepts of systems
+analysis and on the procedures for applying these concepts to the design
+of information systems.  Literature dealing with the automation of libraries
+and information centers has been explicitly excluded, while material on
+user studies, file organization, evaluation, etc., is only mentioned briefly
+since it is covered more thoroughly in other chapters.
+  The selected, relevant, and available literature that has been published
+in the last year or so is organized into four groups as follows:
+     1. Articles that help define the process of systems analysis and
+     the relationship to information science.
+     2. Articles that describe the concepts of systems analysis as
+     applied to the analysis and design of information systems.
+     3. Articles primarily concerned with the design of document
+     storage and retrieval systems.
+.X
+61	1	135
+67	1	135
+70	1	135
+71	1	135
+72	1	135
+73	1	135
+120	2	135
+128	1	135
+135	5	135
+137	1	135
+175	1	135
+206	1	135
+207	1	135
+208	1	135
+244	1	135
+245	1	135
+291	1	135
+382	1	135
+458	1	135
+459	1	135
+481	1	135
+483	1	135
+485	1	135
+537	1	135
+575	1	135
+599	1	135
+621	1	135
+630	1	135
+692	1	135
+779	1	135
+780	1	135
+925	1	135
+981	1	135
+982	1	135
+1038	2	135
+1358	2	135
+1359	1	135
+1402	2	135
+1410	1	135
+1417	1	135
+1417	1	135

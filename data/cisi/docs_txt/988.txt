@@ -1,0 +1,73 @@
+When we were asked in October 1969 for an expression of attitude
+about a renewal of cataloging-in-source, our response was positive.
+We were interested and we were determined to make it succeed.  Profiting
+from the experience gained in the 1958-59 experiment, we specified that:
+    1. A survey of libraries be conducted;
+    2. a survey of publishers be conducted;
+    3. an expert investigator be secured;
+    4. there must be adequate funding;
+    5. there be adequate space; and,
+    6. that those factors be eliminated which represented the most
+       crucial problem areas in the 1958-59 experiment.
+.X
+63	1	988
+91	1	988
+92	1	988
+175	1	988
+246	1	988
+348	1	988
+389	1	988
+390	1	988
+429	1	988
+487	1	988
+502	1	988
+513	1	988
+579	1	988
+582	1	988
+588	1	988
+589	1	988
+596	1	988
+600	1	988
+601	1	988
+603	1	988
+613	1	988
+614	1	988
+618	1	988
+657	1	988
+685	1	988
+686	1	988
+691	1	988
+721	1	988
+722	1	988
+724	1	988
+725	1	988
+799	1	988
+805	1	988
+807	1	988
+825	1	988
+863	1	988
+864	1	988
+883	1	988
+930	2	988
+941	1	988
+950	1	988
+956	1	988
+958	1	988
+963	1	988
+978	1	988
+987	5	988
+988	6	988
+989	1	988
+997	1	988
+1000	1	988
+1079	1	988
+1152	1	988
+1208	1	988
+1216	1	988
+1265	1	988
+1293	1	988
+1294	1	988
+1302	1	988
+1327	1	988
+1434	1	988
+1434	1	988

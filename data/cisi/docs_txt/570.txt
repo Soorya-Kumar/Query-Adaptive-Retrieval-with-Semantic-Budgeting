@@ -1,0 +1,66 @@
+We discuss how alternative methods of automatic
+term clustering may provide insight into how terms are
+related within a corpus.  The work reported uses a
+corpus of 2267 documents that contain 3950 index
+terms.	A similarity matrix is developed using the
+document - term matrix.  A threshold level T is applied to
+the similarity matrix.  Entries in the matrix that are
+greater than or equal to the threshold level are set
+equal to one, and the remaining entries are set to zero.
+  Three definitions are applied to the corresponding
+graph of each threshold matrix to develop clusters.
+These are, (1) the connected components of the graph,
+(2) the maximal complete subgraphs of the graph, and
+(3) the combined maximal complete subgraphs of the
+graph as described that show how insight may be
+gained into the term relations by varying the threshold
+levels and the cluster definitions.
+.X
+77	1	570
+79	1	570
+86	1	570
+168	1	570
+175	3	570
+176	1	570
+317	1	570
+320	1	570
+382	2	570
+389	1	570
+390	1	570
+422	1	570
+458	1	570
+479	1	570
+485	1	570
+488	3	570
+489	1	570
+493	1	570
+498	1	570
+499	1	570
+514	1	570
+520	1	570
+562	1	570
+564	1	570
+566	1	570
+570	5	570
+576	1	570
+581	1	570
+586	1	570
+596	1	570
+608	1	570
+636	1	570
+643	1	570
+659	2	570
+660	1	570
+785	1	570
+790	1	570
+820	1	570
+894	1	570
+1044	1	570
+1154	1	570
+1218	1	570
+1294	1	570
+1313	1	570
+1327	1	570
+1419	1	570
+1443	1	570
+1443	1	570

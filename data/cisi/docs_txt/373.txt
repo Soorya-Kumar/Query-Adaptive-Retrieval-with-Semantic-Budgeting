@@ -1,0 +1,98 @@
+Librarians, publishers, and information system engineers have very
+little verified information and few guidelines to describe the user's specific
+requirements for information.  Such information is needed to properly
+design or evaluate the information systems.  To date, most of the statements
+of requirements have been rather subjective, and often reflect opinion
+rather than actual fact.  Relatively little objective data have been
+obtained.  This is probably due in large part to the fact that there are
+extremely difficult methodological problems in trying to determine and
+state user requirements in a meaningful manner.  This paper suggests an
+approach or point of view that might help this situation by providing a
+method of phrasing the statements of user requirements in a more
+convenient and meaningful manner.  This paper also furnishes several
+examples of such statements, and discusses the techniques and data that
+support these statements.
+  In this paper, attention is initially focused on the information requirements
+of workers in the field of science and technology, with no serious
+attempt made to include workers in other fields.  However, it seems quite
+likely that the approach, and perhaps even the stated principles, could be
+extended and generalized to cover other fields of knowledge.
+.X
+31	1	373
+33	2	373
+36	1	373
+41	1	373
+89	1	373
+97	1	373
+102	1	373
+111	1	373
+112	1	373
+163	1	373
+183	1	373
+184	1	373
+193	1	373
+199	1	373
+201	3	373
+203	3	373
+210	1	373
+225	1	373
+269	1	373
+359	1	373
+373	6	373
+379	1	373
+475	1	373
+545	1	373
+552	1	373
+587	1	373
+605	1	373
+613	1	373
+614	1	373
+638	1	373
+735	1	373
+747	1	373
+748	1	373
+750	1	373
+753	1	373
+766	1	373
+767	1	373
+775	2	373
+782	1	373
+784	1	373
+788	1	373
+789	1	373
+793	1	373
+800	1	373
+808	1	373
+889	1	373
+905	1	373
+953	1	373
+977	3	373
+983	1	373
+1016	1	373
+1019	1	373
+1023	1	373
+1030	1	373
+1055	1	373
+1087	1	373
+1090	1	373
+1135	1	373
+1173	1	373
+1203	2	373
+1256	1	373
+1260	1	373
+1275	1	373
+1276	1	373
+1278	1	373
+1280	1	373
+1285	1	373
+1286	1	373
+1287	1	373
+1302	1	373
+1335	1	373
+1352	1	373
+1390	1	373
+1397	2	373
+1417	1	373
+1428	1	373
+1432	1	373
+1432	1	373

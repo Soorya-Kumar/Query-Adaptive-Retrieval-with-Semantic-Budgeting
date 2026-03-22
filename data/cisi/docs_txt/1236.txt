@@ -1,0 +1,26 @@
+This book was written as an introduction to the administrative
+relationships between small and medium-sized public libraries
+and the cooperative library system.  In this book, the definition
+of a cooperative system is as follows:  A cooperative library system
+is the combining of the talents and the resources of a group of
+independent libraries, within a reasonable geographic radius, for
+the purpose of attaining excellence in service and resources for
+the benefit of the actual and potential users of all the member
+libraries.  The plan for the book originated with questions directed
+to a public library administrator and to a system director.  The
+most pertinent of the repeated questions was, "How does system
+membership change local library administration?"  The sharpest
+question was, "Will the system ultimately take over local rights and
+responsibilities?" 
+.X
+311	1	1236
+340	1	1236
+431	1	1236
+842	1	1236
+910	1	1236
+939	1	1236
+1232	1	1236
+1236	6	1236
+1238	1	1236
+1400	1	1236
+1400	1	1236

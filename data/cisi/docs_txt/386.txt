@@ -1,0 +1,65 @@
+Formal and informal scientific communication are complementary;
+they must not be thought of as alternatives in the sense that,
+perhaps, certain messages are obtained exclusively through the printed
+word, the library, and the mechanized search-and-retrieval system,
+whereas others are obtained by the exclusive use of word-of-mouth and
+the telephone.  The much more typical event is one in which the receipt
+of a single message is secured by the successive interplay of these two
+kinds of communication.  For any given transaction between a scientist
+as a receiver of information and the channel that brings him that
+information usually has a history behind it and a future ahead of it that
+may be very relevant to the evaluation of the success of that transaction
+and to the prognosis of whether this kind of transaction will happen
+again with similar results.
+.X
+24	1	386
+58	1	386
+62	1	386
+65	1	386
+66	1	386
+75	1	386
+76	1	386
+95	2	386
+98	1	386
+100	1	386
+105	1	386
+107	1	386
+109	1	386
+137	1	386
+163	1	386
+172	1	386
+210	1	386
+278	1	386
+279	1	386
+280	1	386
+386	6	386
+395	1	386
+398	4	386
+544	2	386
+560	1	386
+578	1	386
+658	1	386
+716	1	386
+748	1	386
+782	1	386
+788	1	386
+789	1	386
+837	1	386
+925	1	386
+1063	1	386
+1083	1	386
+1142	1	386
+1270	1	386
+1284	2	386
+1300	2	386
+1312	1	386
+1313	1	386
+1345	1	386
+1361	1	386
+1386	1	386
+1400	1	386
+1404	1	386
+1408	1	386
+1446	1	386
+1447	1	386
+1447	1	386

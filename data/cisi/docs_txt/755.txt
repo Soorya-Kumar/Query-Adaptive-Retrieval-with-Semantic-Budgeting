@@ -1,0 +1,133 @@
+This paper examines the implications of the findings of evaluative tests
+regarding the retrieval performance of natural language in various subject
+fields.  It suggests parallel investigations into the structure of natural
+language, with particular reference to terminology, as used in the different
+branches of basic science.  The criteria for defining the terminological
+consistency of a subject are formulated and a measure suggested for
+determining the degree of terminological consistency.
+  The terminological and information structures of specific disciplines such
+as, chemistry, physics, botany, zoology, and geology; the circumstances in
+which terms originate; and the efforts made by the international scientific
+community to standardize the terminology in their respective disciplines -
+are examined in detail.  This investigation shows why and how an artificially
+created scientific language finds it impossible to keep pace with current
+developments and thus points to the source of natural language.
+.X
+38	1	755
+124	1	755
+127	1	755
+129	1	755
+190	1	755
+191	1	755
+197	1	755
+211	1	755
+214	1	755
+218	1	755
+243	1	755
+307	1	755
+324	1	755
+330	1	755
+378	1	755
+422	1	755
+441	1	755
+450	1	755
+451	1	755
+452	1	755
+459	1	755
+468	1	755
+484	1	755
+492	1	755
+508	1	755
+510	1	755
+511	1	755
+512	1	755
+514	2	755
+518	1	755
+520	2	755
+523	1	755
+524	1	755
+525	1	755
+526	1	755
+529	1	755
+530	1	755
+534	1	755
+546	1	755
+553	1	755
+577	1	755
+579	1	755
+582	1	755
+594	1	755
+603	2	755
+604	1	755
+606	1	755
+609	1	755
+610	1	755
+611	1	755
+612	1	755
+625	1	755
+626	1	755
+630	1	755
+636	1	755
+637	1	755
+641	1	755
+642	1	755
+643	1	755
+644	1	755
+645	1	755
+648	1	755
+649	1	755
+650	2	755
+692	1	755
+696	1	755
+699	1	755
+703	1	755
+705	1	755
+708	1	755
+709	1	755
+726	2	755
+727	1	755
+728	1	755
+731	1	755
+732	1	755
+733	1	755
+734	1	755
+736	1	755
+738	1	755
+739	1	755
+740	1	755
+741	1	755
+742	1	755
+743	1	755
+744	1	755
+755	5	755
+813	1	755
+820	2	755
+822	1	755
+825	1	755
+826	1	755
+827	2	755
+830	1	755
+879	1	755
+883	1	755
+1004	1	755
+1035	1	755
+1078	1	755
+1084	1	755
+1089	1	755
+1091	2	755
+1207	1	755
+1264	1	755
+1297	1	755
+1303	1	755
+1356	1	755
+1364	1	755
+1368	1	755
+1370	1	755
+1372	1	755
+1373	1	755
+1374	1	755
+1375	1	755
+1376	1	755
+1377	1	755
+1448	1	755
+1448	1	755

@@ -1,0 +1,44 @@
+This book has two objectives.  First, to reassess thoroughly the functions
+of an indexing language or thesaurus in a information storage and retrieval
+system and in the light of this reassessment to analyze the structure of 
+indexing languages and thesauri.  Most importantly, this reassessment is based
+on a unified view of indexing languages (classification schemes) and thesauri 
+as information storage and retrieval systems on the other.  It results in 
+general principles that are applicable to a wide range of situations.
+.X
+30	1	434
+176	1	434
+259	1	434
+263	1	434
+335	1	434
+342	1	434
+363	1	434
+388	1	434
+419	1	434
+434	16	434
+445	1	434
+449	1	434
+483	1	434
+501	1	434
+534	1	434
+639	1	434
+643	1	434
+644	1	434
+645	1	434
+661	1	434
+874	1	434
+885	1	434
+947	2	434
+1162	1	434
+1164	1	434
+1215	1	434
+1231	1	434
+1255	1	434
+1265	1	434
+1374	1	434
+1413	3	434
+1414	3	434
+1437	1	434
+1441	1	434
+1448	5	434
+1448	5	434

@@ -1,0 +1,76 @@
+Perhaps the fundamental problem of those that work in the scientific
+information industry is that it is not just that special part of an information
+industry that happens to deal with material having a scientific content.  
+Technical librarianship involves much more than librarianship applied to 
+books with an esoteric vocabulary and much mathematics.
+  My reason for choosing this problem as a contribution for such a strategic
+conference is that I know well as an historian of science that the greatest and
+most useful advances in our technologies have not come from the applied
+research of trained people trying to make themselves useful to society, but
+rather from basic research aimed at furthering understanding and curiousity,
+and powered by the latest instrumentation that the useful people have devised.
+I suspect that all the new indexing tools and computer handlings will be more
+useful to basic research in understanding scientists than they will to
+solving practical problems for which they are designed.  It seems clear,
+however, that it is only such new understanding that can bring success,
+whatever solutions ultimately emerge.
+.X
+33	1	314
+48	1	314
+89	1	314
+100	1	314
+102	2	314
+105	1	314
+106	3	314
+108	1	314
+110	1	314
+113	2	314
+155	1	314
+157	1	314
+314	7	314
+356	1	314
+359	1	314
+544	1	314
+545	1	314
+560	1	314
+573	1	314
+582	1	314
+587	1	314
+605	1	314
+656	1	314
+685	1	314
+748	1	314
+750	1	314
+767	2	314
+775	1	314
+778	1	314
+787	1	314
+791	1	314
+793	1	314
+794	1	314
+800	2	314
+808	1	314
+1030	1	314
+1050	1	314
+1062	1	314
+1256	1	314
+1273	1	314
+1274	1	314
+1284	1	314
+1285	4	314
+1290	1	314
+1291	1	314
+1293	1	314
+1294	1	314
+1295	1	314
+1296	1	314
+1297	1	314
+1312	1	314
+1313	1	314
+1319	1	314
+1337	1	314
+1338	1	314
+1346	1	314
+1352	1	314
+1386	2	314
+1386	2	314

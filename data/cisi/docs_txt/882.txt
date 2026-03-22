@@ -1,0 +1,38 @@
+The purposes of this paper are to explain what the CONSER Project is, to
+answer some of the questions that have been raised concerning it, and to make
+some general comments on the problems associated with this type of project..
+This paper will not attempt to review in detail the history and operational
+facets of the project since these are available elsewhere..
+.X
+141	1	882
+363	1	882
+409	1	882
+645	1	882
+647	1	882
+651	1	882
+739	1	882
+872	1	882
+874	1	882
+881	4	882
+882	8	882
+883	1	882
+884	2	882
+885	2	882
+886	2	882
+887	1	882
+888	2	882
+904	2	882
+917	1	882
+921	2	882
+998	1	882
+999	3	882
+1000	3	882
+1001	3	882
+1002	3	882
+1003	3	882
+1004	2	882
+1060	1	882
+1375	1	882
+1376	1	882
+1437	1	882
+1437	1	882

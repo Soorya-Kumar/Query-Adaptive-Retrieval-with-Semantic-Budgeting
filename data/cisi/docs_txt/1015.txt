@@ -1,0 +1,61 @@
+Theory and practice regarding patterns of decision-
+making in libraries have been relatively neglected aspects of
+library administration.  Yet the decisions by which a library
+attempts to control its operations are of major importance to its
+welfare and effectiveness.  Recent theories in management and social
+psychology have addressed themselves to the implications of 
+participative management and group decision-making, and their findings 
+appear to have important applications to libraries, not the least of
+which is personnel development.
+.X
+9	1	1015
+207	1	1015
+222	1	1015
+223	1	1015
+270	1	1015
+285	4	1015
+289	1	1015
+293	1	1015
+296	3	1015
+297	1	1015
+298	2	1015
+300	1	1015
+301	5	1015
+302	2	1015
+304	1	1015
+358	1	1015
+364	1	1015
+418	1	1015
+515	1	1015
+535	1	1015
+625	1	1015
+629	1	1015
+631	1	1015
+634	1	1015
+791	1	1015
+811	1	1015
+816	1	1015
+818	1	1015
+823	1	1015
+843	1	1015
+844	1	1015
+846	1	1015
+915	1	1015
+925	1	1015
+961	1	1015
+962	1	1015
+964	1	1015
+994	1	1015
+1015	10	1015
+1065	1	1015
+1069	1	1015
+1070	1	1015
+1150	2	1015
+1214	1	1015
+1233	1	1015
+1242	1	1015
+1247	1	1015
+1268	1	1015
+1354	1	1015
+1454	3	1015
+1454	3	1015

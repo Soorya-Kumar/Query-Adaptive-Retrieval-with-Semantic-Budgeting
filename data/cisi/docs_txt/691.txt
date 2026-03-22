@@ -1,0 +1,43 @@
+A selected sample of 281 readers of the Journal of Organic Chemistry has been
+interviewed personally to obtain data on their reading patterns of the November
+1968 issue.  Approximately 35% of the individual subscribers to JOC had read
+or looked through the journal within the first seven days of receipt.  The 
+average reader claims to have read part or all of 14 articles out of the 81
+available.  At least 75% of every one of the 81 articles was read, ranging
+from a low of 0.7% to a high of 10.2%.  Structures or equations rated high as
+a "noted" segment of an article.  In addition to data on amount of reading of
+the issue, respondents were asked about amount of time spent reading, other
+journals read, and journals subscribed to.  Correlations have been developed
+between subject interest as stated by respondent and his actual reading pattern.
+
+.X
+91	1	691
+429	1	691
+513	1	691
+582	1	691
+588	1	691
+589	1	691
+603	1	691
+613	1	691
+614	1	691
+618	1	691
+657	1	691
+685	2	691
+686	3	691
+691	5	691
+721	2	691
+722	1	691
+724	1	691
+725	3	691
+765	1	691
+770	1	691
+776	1	691
+958	1	691
+987	1	691
+988	1	691
+1208	2	691
+1209	1	691
+1290	1	691
+1293	1	691
+1302	1	691
+1302	1	691

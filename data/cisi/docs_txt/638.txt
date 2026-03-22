@@ -1,0 +1,125 @@
+Chen's data for the raw frequency of use of 138 physics journals in the
+science library at M I T are re-examined and converted to densities of
+use-per-meter of shelf.. Other units of size for obtaining densities,
+and their measurement are discussed.. There is no evidence for synchronous
+obsolescence in the 1955 to 1968 volumes of these journals: instead there is
+some statistically significant evidence of greater density of use with
+greater age.. Similar evidence elsewhere is cited.. The ranking order for
+heaviness of use is also radically altered by converting raw frequencies
+to densities of use.. 
+   It is suggested that, for comparing the relative values of different
+journals, or age groups, in library use or citation studies, analyses of
+raw frequencies are valueless, and indeed potentially dangerously misleading, 
+until they are converted to allow for the numbers of available items in each 
+group examined..
+.X
+33	3	638
+36	1	638
+37	1	638
+41	1	638
+48	1	638
+89	1	638
+97	1	638
+102	1	638
+111	1	638
+112	1	638
+163	1	638
+167	1	638
+183	1	638
+184	1	638
+193	2	638
+195	1	638
+196	1	638
+198	1	638
+199	1	638
+201	1	638
+203	1	638
+205	1	638
+207	2	638
+210	1	638
+219	1	638
+225	2	638
+234	1	638
+267	1	638
+269	1	638
+373	1	638
+543	1	638
+545	1	638
+552	1	638
+587	1	638
+605	1	638
+613	1	638
+614	8	638
+635	1	638
+638	14	638
+651	1	638
+735	2	638
+747	1	638
+748	2	638
+750	1	638
+751	1	638
+753	3	638
+756	2	638
+757	1	638
+764	4	638
+765	1	638
+766	1	638
+767	1	638
+775	1	638
+778	1	638
+782	1	638
+784	1	638
+786	1	638
+787	1	638
+788	1	638
+789	1	638
+791	1	638
+792	1	638
+793	2	638
+800	2	638
+808	2	638
+811	2	638
+816	1	638
+821	2	638
+831	1	638
+905	2	638
+925	2	638
+948	1	638
+952	2	638
+953	2	638
+977	2	638
+983	2	638
+1016	1	638
+1019	1	638
+1023	1	638
+1030	1	638
+1055	1	638
+1083	1	638
+1087	1	638
+1090	1	638
+1135	1	638
+1210	2	638
+1254	1	638
+1256	1	638
+1260	3	638
+1275	4	638
+1276	2	638
+1278	2	638
+1280	1	638
+1285	1	638
+1286	1	638
+1287	1	638
+1302	6	638
+1308	1	638
+1335	1	638
+1352	1	638
+1355	2	638
+1369	4	638
+1373	1	638
+1390	1	638
+1397	2	638
+1417	1	638
+1418	1	638
+1428	1	638
+1432	1	638
+1432	1	638

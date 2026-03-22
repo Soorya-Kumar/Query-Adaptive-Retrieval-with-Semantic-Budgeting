@@ -1,0 +1,53 @@
+The operational performance over a 17-month period of the previously
+described selective dissemination system is presented.  Of the 21,000 
+notifications sent to about 20 users, 91% were evaluated; of these, 14%
+were of "Document-Ordered Interest," 48% were "Of Interest," 27% were
+"Marginal," and 11% were "Of No Interest."  Recall data obtained from
+about half the users over a period of eight months show the precision-
+factor/recall-factor products are generally greater than 0.5.  The
+effect of iterative profile adjustments on precision-recall performance
+is discussed.  A comparison made with four other SDI systems shows a
+relatively high level of performance for this system.
+.X
+13	1	720
+59	1	720
+71	1	720
+72	1	720
+73	1	720
+74	1	720
+75	2	720
+76	1	720
+77	1	720
+78	1	720
+79	1	720
+81	1	720
+82	1	720
+83	1	720
+86	1	720
+121	1	720
+153	1	720
+156	1	720
+211	1	720
+212	1	720
+213	1	720
+245	1	720
+277	1	720
+279	1	720
+280	1	720
+465	1	720
+466	1	720
+486	1	720
+720	5	720
+748	1	720
+785	1	720
+786	1	720
+787	1	720
+788	1	720
+789	1	720
+791	1	720
+914	1	720
+925	1	720
+984	1	720
+1362	1	720
+1363	1	720
+1363	1	720

@@ -1,0 +1,54 @@
+A CLR Fellowship in 1971-72 enabled the author to examine staff participation
+in the management of large academic libraries.. The report considers the climate
+of participation, preparation given the staff, areas of decision making, the 
+role of the professional staff association, and the reaction of staff to such 
+participation..
+.X
+9	1	301
+207	1	301
+222	1	301
+223	1	301
+270	1	301
+285	3	301
+296	2	301
+297	1	301
+298	1	301
+300	1	301
+301	7	301
+302	2	301
+358	1	301
+364	1	301
+418	1	301
+515	1	301
+535	1	301
+625	1	301
+629	1	301
+631	1	301
+634	1	301
+791	1	301
+811	1	301
+816	1	301
+818	1	301
+823	1	301
+843	1	301
+844	1	301
+846	1	301
+915	1	301
+925	1	301
+954	1	301
+961	1	301
+962	1	301
+964	1	301
+994	1	301
+1015	5	301
+1065	1	301
+1069	1	301
+1070	1	301
+1150	1	301
+1214	1	301
+1242	1	301
+1247	1	301
+1268	1	301
+1354	1	301
+1454	2	301
+1454	2	301

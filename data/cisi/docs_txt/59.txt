@@ -1,0 +1,84 @@
+Although a large number of Selective Dissemination of Information (SDI) 
+Systems have been planned, implemented, and tested over the past few years, 
+insufficient attention has been given to the collection and interpretation of 
+important data needed for evaluation.. We describe some of the defects common 
+to almost all of the reported systems, single out one recent report for 
+detailed discussion and argue in favor of collection and correct interpretation 
+of data on one important and frequently overlooked evaluation factor..
+.X
+18	1	59
+34	1	59
+49	1	59
+53	1	59
+59	8	59
+63	1	59
+164	2	59
+175	1	59
+202	1	59
+213	1	59
+224	1	59
+243	1	59
+274	1	59
+355	1	59
+401	1	59
+421	1	59
+465	1	59
+466	1	59
+481	1	59
+482	1	59
+490	1	59
+491	1	59
+506	1	59
+507	1	59
+510	1	59
+512	1	59
+591	1	59
+595	1	59
+603	1	59
+604	1	59
+622	1	59
+623	1	59
+629	1	59
+633	1	59
+639	1	59
+659	1	59
+676	2	59
+711	1	59
+717	1	59
+718	1	59
+719	1	59
+720	1	59
+722	1	59
+723	1	59
+726	1	59
+728	1	59
+730	1	59
+731	1	59
+732	1	59
+809	1	59
+810	1	59
+813	1	59
+814	1	59
+820	1	59
+822	1	59
+828	1	59
+870	1	59
+879	1	59
+980	1	59
+1042	1	59
+1051	1	59
+1084	1	59
+1091	1	59
+1281	1	59
+1283	1	59
+1298	2	59
+1299	1	59
+1363	1	59
+1366	1	59
+1367	1	59
+1368	1	59
+1396	1	59
+1410	1	59
+1415	1	59
+1426	1	59
+1426	1	59

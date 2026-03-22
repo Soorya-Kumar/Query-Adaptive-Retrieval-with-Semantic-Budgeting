@@ -1,0 +1,68 @@
+During the past year we have been one of the organizations
+participating in the Chemical Society's experiment on the use
+of routine computer searches of Chemical Titles (CT) and Chemical-
+Biological Activities (CBAC) for current awareness.  For some
+time we have also been subscribing to the Automatic Subject Citation
+Alert (ASCA), which is produced by the Institute for Scientific
+Information as a by-product of the Science Citation Index.  These
+three sources differ in their scope and methods, but share the
+same ultimate objective of providing a computer-based current
+awareness service.
+  CT covers journals in all branches of chemistry, but provides only
+authors and titles, the latter translated into American and edited by 
+breaking down complex words so that word fragments can be retrieved.
+CBAC covers only papers on the interaction of chemical compounds with
+biological systems, but provides abstracts which are available for
+computer search.  The computer can also search for molecular
+formulae and for Chemical Abstracts registry numbers of all
+compounds included in the abstracts.  ASCA in its original form
+was based on citations: the search profile can consist of a list of
+references to older work, and the output is then a list of new papers
+citing this work.  Last spring ASCA introduced a 'term search', which
+is a search for words in the titles of current papers and is therefore
+analogous to a CT search.
+  This paper discusses and compares the results we have obtained so
+far with these three services, and the potential use of systems of
+this type.
+.X
+38	2	150
+40	1	150
+52	2	150
+53	1	150
+54	1	150
+150	9	150
+319	1	150
+347	1	150
+371	1	150
+429	1	150
+465	2	150
+480	1	150
+510	2	150
+582	2	150
+589	4	150
+603	3	150
+660	2	150
+662	1	150
+681	1	150
+682	1	150
+704	1	150
+711	1	150
+714	1	150
+716	1	150
+717	1	150
+722	2	150
+726	1	150
+782	1	150
+807	1	150
+810	1	150
+813	1	150
+820	1	150
+830	1	150
+1089	1	150
+1144	1	150
+1151	1	150
+1195	3	150
+1281	1	150
+1421	1	150
+1448	1	150
+1448	1	150

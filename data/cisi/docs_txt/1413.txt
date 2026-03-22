@@ -1,0 +1,43 @@
+Before work can begin on the construction of a thesaurus, a study
+should be made of the information retrieval system it is intended to
+serve.  Only when the requirements of the system are known can
+consideration be given to the type of thesaurus which would be most
+effective in a specific situation.                                
+.X
+57	1	1413
+75	1	1413
+168	1	1413
+176	1	1413
+263	1	1413
+317	1	1413
+329	1	1413
+388	2	1413
+434	3	1413
+501	1	1413
+565	1	1413
+572	1	1413
+595	1	1413
+596	1	1413
+608	1	1413
+619	1	1413
+810	1	1413
+812	1	1413
+813	1	1413
+814	1	1413
+870	1	1413
+894	1	1413
+928	1	1413
+963	1	1413
+990	1	1413
+991	1	1413
+1074	1	1413
+1075	1	1413
+1162	1	1413
+1164	1	1413
+1231	1	1413
+1255	1	1413
+1413	8	1413
+1414	1	1413
+1445	1	1413
+1448	3	1413
+1448	3	1413

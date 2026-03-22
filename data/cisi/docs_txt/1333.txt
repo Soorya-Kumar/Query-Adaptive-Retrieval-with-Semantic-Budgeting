@@ -1,0 +1,45 @@
+In our attempts to extend the description and explanation of
+organizational processes we have shifted from an earlier emphasis on
+traditional concepts of individual psychology and interpersonal
+relations to system constructs.  The interdependent behavior of many
+people in their supportive and complementary actions takes on a form
+or structure which needs to be conceptualized at a more appropriate
+collective level.  Classical organization theory we found unsatisfactory
+because of its implicit assumptions about the closed character of social
+structures.  The development of open-system theory, on the other hand,
+furnished a much more dynamic and adequate framework.  Hence, our
+effort, in the pages that follow, is directed at the utilization of
+an open-system point of view for the study of large-scale organizations.   
+.X
+15	1	1333
+139	1	1333
+274	1	1333
+298	1	1333
+312	1	1333
+348	1	1333
+356	2	1333
+436	1	1333
+437	1	1333
+954	1	1333
+957	1	1333
+959	1	1333
+962	1	1333
+1005	1	1333
+1018	1	1333
+1036	1	1333
+1041	1	1333
+1065	1	1333
+1067	1	1333
+1149	1	1333
+1150	1	1333
+1154	1	1333
+1186	2	1333
+1187	2	1333
+1205	1	1333
+1240	1	1333
+1333	11	1333
+1348	1	1333
+1353	1	1333
+1384	1	1333
+1406	1	1333
+1406	1	1333

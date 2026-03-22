@@ -1,0 +1,212 @@
+Interactive systems, in existence for nearly 15 years, are becoming
+increasingly important, both for information retrieval and library support
+operations.. The virtues of these systems are speed, intimacy, and -
+if time-sharing is involved - economy.. The major problems are the cost of
+the large computers and files necessary for bibliographic data, the still-
+high cost of communications, and the generally poor design of the user-
+system interfaces.. The desirable features of on-line retrieval interfaces
+are only now being defined and tested in a systematic way, e.g., by the
+National Library of Medicine in its AIM-TWX nationwide experimental
+retrieval service.. System implementers must, in addition to engineering
+the right capabilities into on-line systems, also make a careful, 
+concerted effort to engineer user acceptance.. Common pitfalls here
+include overselling system capabilities and failure to take into account
+the social context around the user terminal.. The major national problem
+is to avoid or limit wasteful and expensive duplication in providing
+nationwide search access to the hundreds of public and private data
+bases that will be readily available during the next few years.. We do
+not need technological breakthroughs to exploit the potential of
+on-line systems, but we do need breakthroughs in organizing for
+technological change..
+.X
+35	1	594
+42	1	594
+43	1	594
+52	1	594
+66	1	594
+70	1	594
+73	1	594
+75	1	594
+81	1	594
+95	1	594
+124	2	594
+127	1	594
+129	1	594
+145	1	594
+161	1	594
+190	1	594
+191	2	594
+197	3	594
+211	2	594
+214	1	594
+218	3	594
+235	1	594
+243	2	594
+253	1	594
+289	1	594
+291	1	594
+307	1	594
+312	1	594
+330	1	594
+332	2	594
+375	2	594
+378	1	594
+382	1	594
+408	1	594
+420	1	594
+445	1	594
+450	1	594
+451	1	594
+452	2	594
+454	1	594
+459	3	594
+468	1	594
+472	1	594
+475	1	594
+484	2	594
+492	2	594
+497	1	594
+503	1	594
+505	1	594
+506	2	594
+507	2	594
+508	3	594
+510	1	594
+511	1	594
+512	1	594
+514	2	594
+518	1	594
+520	1	594
+523	3	594
+524	1	594
+525	1	594
+526	2	594
+528	1	594
+529	1	594
+530	1	594
+532	1	594
+533	1	594
+534	2	594
+546	4	594
+547	2	594
+548	2	594
+553	1	594
+554	1	594
+578	1	594
+579	3	594
+582	1	594
+589	1	594
+591	1	594
+593	2	594
+594	14	594
+595	2	594
+596	1	594
+597	2	594
+598	2	594
+599	1	594
+600	1	594
+601	2	594
+602	1	594
+603	2	594
+604	4	594
+606	6	594
+607	1	594
+609	1	594
+610	1	594
+611	2	594
+612	1	594
+619	1	594
+625	1	594
+626	2	594
+630	1	594
+636	1	594
+637	2	594
+642	1	594
+648	1	594
+650	1	594
+655	1	594
+656	1	594
+657	1	594
+692	1	594
+696	1	594
+699	1	594
+703	1	594
+705	1	594
+708	1	594
+723	1	594
+724	1	594
+726	1	594
+727	1	594
+728	3	594
+731	1	594
+732	1	594
+733	2	594
+734	1	594
+736	1	594
+738	1	594
+739	1	594
+740	1	594
+741	1	594
+742	1	594
+743	1	594
+744	1	594
+755	1	594
+801	1	594
+805	1	594
+806	1	594
+820	1	594
+826	2	594
+827	1	594
+830	1	594
+836	2	594
+863	1	594
+864	1	594
+865	1	594
+866	3	594
+867	2	594
+868	1	594
+879	1	594
+883	1	594
+885	1	594
+897	1	594
+916	1	594
+936	1	594
+956	1	594
+972	1	594
+989	1	594
+1004	1	594
+1035	2	594
+1042	1	594
+1051	1	594
+1052	1	594
+1054	1	594
+1078	1	594
+1087	1	594
+1089	1	594
+1091	1	594
+1154	1	594
+1207	1	594
+1232	1	594
+1248	1	594
+1264	1	594
+1281	1	594
+1284	1	594
+1295	1	594
+1297	1	594
+1298	2	594
+1299	1	594
+1303	6	594
+1327	2	594
+1356	1	594
+1364	1	594
+1368	2	594
+1370	1	594
+1372	1	594
+1373	1	594
+1374	2	594
+1375	1	594
+1376	1	594
+1377	1	594
+1405	1	594
+1427	1	594
+1427	1	594

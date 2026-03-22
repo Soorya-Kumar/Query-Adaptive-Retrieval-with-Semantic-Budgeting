@@ -1,0 +1,72 @@
+This book is a slightly modified form of a report on computerized
+library catalogs prepared for the Office of Education of the United States
+Department of Health, Education, and Welfare (Contract OEC-1-7-
+071182-5013).  It consists of seven chapters.  The first poses the problems
+that have been studied, introduces background material to facilitate an
+understanding of their significance, and presents our conclusions and
+general recommendations.  The remaining chapters belong to one of two
+parts, depending on whether their principle concern is the utility or the
+cost of computeerized library catalogs.  Because the problem of utility is the
+more speculative of the two, it has been placed in the second part.
+.X
+74	1	331
+83	1	331
+175	1	331
+232	1	331
+241	1	331
+245	2	331
+246	1	331
+249	1	331
+265	1	331
+273	2	331
+279	1	331
+288	1	331
+331	13	331
+336	1	331
+350	1	331
+358	1	331
+381	1	331
+406	1	331
+408	1	331
+490	1	331
+496	1	331
+563	1	331
+591	1	331
+592	1	331
+723	1	331
+724	1	331
+799	1	331
+834	2	331
+835	1	331
+848	1	331
+851	1	331
+860	1	331
+896	1	331
+919	1	331
+920	1	331
+922	2	331
+925	3	331
+946	1	331
+948	1	331
+957	1	331
+963	1	331
+974	1	331
+976	1	331
+984	1	331
+1033	1	331
+1079	1	331
+1080	1	331
+1144	1	331
+1148	1	331
+1227	1	331
+1317	1	331
+1353	1	331
+1359	2	331
+1360	1	331
+1379	1	331
+1400	2	331
+1403	1	331
+1410	1	331
+1424	1	331
+1445	1	331
+1445	1	331

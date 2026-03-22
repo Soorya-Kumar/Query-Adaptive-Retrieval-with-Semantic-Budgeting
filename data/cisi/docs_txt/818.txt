@@ -1,0 +1,99 @@
+The task of the librarian is to achieve his library's objectives.  A
+simplistic statement, perhaps, but it is rare that a library's objectives
+are defined in any terms other than the broadest - for example, 'to meet
+the needs of its users'.  In fact, the definition of objectives in any
+service organization is likely to be an iterative process, but the
+explicit commitment to users' needs (however mystical this concept may
+be) requires the librarian to examine users' behaviour as a first step
+to determining policy.  Since a complete state-of-the-art in user 
+behaviour would fill a substantial book, this survey is restricted to
+drawing together some threads of research of potential application in
+university libraries.  Methodological problems are not discussed here,
+since these are adequately reviewed elsewhere.
+.X
+5	1	818
+9	1	818
+115	1	818
+128	1	818
+129	1	818
+130	1	818
+167	1	818
+207	1	818
+222	1	818
+223	2	818
+225	1	818
+234	2	818
+245	1	818
+280	1	818
+296	1	818
+297	1	818
+298	1	818
+300	2	818
+301	1	818
+302	1	818
+358	1	818
+364	2	818
+365	1	818
+370	2	818
+393	1	818
+439	1	818
+468	1	818
+494	1	818
+515	1	818
+528	1	818
+535	1	818
+614	1	818
+624	1	818
+625	1	818
+629	1	818
+631	1	818
+634	1	818
+639	1	818
+646	1	818
+647	1	818
+648	1	818
+651	1	818
+764	1	818
+765	1	818
+768	2	818
+774	1	818
+791	1	818
+811	2	818
+816	2	818
+818	8	818
+822	1	818
+823	3	818
+827	1	818
+839	1	818
+842	1	818
+843	2	818
+844	1	818
+845	1	818
+846	1	818
+847	2	818
+915	1	818
+925	2	818
+943	1	818
+944	2	818
+948	1	818
+961	2	818
+962	1	818
+964	1	818
+994	1	818
+1015	1	818
+1020	1	818
+1023	1	818
+1070	1	818
+1085	1	818
+1242	1	818
+1246	1	818
+1247	1	818
+1253	1	818
+1257	1	818
+1268	1	818
+1354	1	818
+1374	1	818
+1390	1	818
+1401	2	818
+1437	1	818
+1437	1	818

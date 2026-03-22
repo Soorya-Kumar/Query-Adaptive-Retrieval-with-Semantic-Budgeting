@@ -1,0 +1,136 @@
+The digital computer has been used as a problem-solving tool for only
+two decades.  During most of this time, computer scientists have
+concentrated on learning how to build the tool: applying electronic
+technology, arranging for data flow between components, and manufacturing
+the hardware.  Now we are entering a new stage in which computing
+power is made available through interactive terminals to people who
+are not computer scientists.  This is possible on a large scale only
+because design and marketing innovators now have confidence in their
+ability to provide reliable, cost-effective service to less sophisticated
+users.  In this new stage, the natural behavior patterns of users become
+an important element in the design of the interface to the tool.
+.X
+124	5	124
+125	1	124
+127	1	124
+129	1	124
+165	1	124
+190	1	124
+191	1	124
+197	1	124
+211	1	124
+214	1	124
+218	1	124
+243	1	124
+307	1	124
+330	1	124
+378	1	124
+381	1	124
+448	1	124
+450	1	124
+451	1	124
+452	2	124
+459	2	124
+468	1	124
+484	2	124
+492	1	124
+508	1	124
+511	2	124
+512	1	124
+514	2	124
+516	1	124
+518	2	124
+520	1	124
+521	1	124
+522	1	124
+523	2	124
+524	1	124
+525	1	124
+526	2	124
+527	1	124
+528	1	124
+529	2	124
+530	1	124
+532	1	124
+533	1	124
+534	1	124
+546	1	124
+553	1	124
+575	1	124
+579	1	124
+594	2	124
+603	1	124
+604	2	124
+606	1	124
+609	1	124
+610	3	124
+611	2	124
+612	1	124
+615	1	124
+625	2	124
+626	2	124
+630	1	124
+636	2	124
+637	1	124
+642	2	124
+643	1	124
+648	2	124
+650	1	124
+692	1	124
+696	1	124
+699	1	124
+700	1	124
+703	1	124
+705	2	124
+707	1	124
+708	1	124
+726	1	124
+727	2	124
+728	2	124
+731	1	124
+732	1	124
+733	2	124
+734	2	124
+736	2	124
+738	1	124
+739	1	124
+740	1	124
+741	1	124
+742	2	124
+743	2	124
+744	1	124
+754	1	124
+755	1	124
+812	1	124
+817	1	124
+820	1	124
+824	1	124
+826	1	124
+827	1	124
+875	1	124
+879	1	124
+883	2	124
+1004	1	124
+1035	1	124
+1078	1	124
+1089	1	124
+1091	1	124
+1146	1	124
+1207	1	124
+1264	1	124
+1297	1	124
+1303	3	124
+1327	1	124
+1356	1	124
+1364	2	124
+1366	1	124
+1367	1	124
+1368	2	124
+1370	1	124
+1372	1	124
+1373	1	124
+1374	2	124
+1375	2	124
+1376	1	124
+1377	1	124
+1377	1	124

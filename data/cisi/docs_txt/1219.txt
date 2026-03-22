@@ -1,0 +1,62 @@
+This book is written primarily for college students who have no previous
+background in operations research and who intend careers as administrators,
+consultants, executives, or managers in business, nonprofit enterprises, or
+government.  The broad topic coverage also should make the text helpful for
+students who seek careers as teachers and researchers as well as for 
+practitioners who desire an up-to-date review of operations research.  The
+book can be used in half-year or full-year introductory courses for juniors,
+seniors, or graduates in business, economics, and engineering curricula.
+  The central goal of the book is to answer the question, "What are the
+fundamental ideas of operations research?"  The text does not presuppose any
+advanced training in business administration, industrial engineering,
+mathematics, statistics, probability theory, or economics.  Therefore, the
+main ideas do not rely on the reader's being expert in these areas.  The
+text does assume, however, that the reader is not entirely naive about such
+subjects.
+.X
+3	1	1219
+5	1	1219
+62	1	1219
+90	1	1219
+91	1	1219
+158	1	1219
+172	2	1219
+175	1	1219
+222	2	1219
+223	1	1219
+267	1	1219
+360	2	1219
+368	1	1219
+435	1	1219
+471	2	1219
+494	1	1219
+515	1	1219
+587	1	1219
+615	1	1219
+660	1	1219
+792	1	1219
+810	1	1219
+815	1	1219
+823	1	1219
+840	1	1219
+907	2	1219
+915	1	1219
+925	2	1219
+948	1	1219
+957	1	1219
+960	1	1219
+1023	1	1219
+1082	1	1219
+1219	10	1219
+1227	1	1219
+1268	2	1219
+1324	1	1219
+1365	1	1219
+1386	1	1219
+1390	1	1219
+1402	1	1219
+1416	1	1219
+1417	3	1219
+1418	2	1219
+1426	2	1219
+1426	2	1219

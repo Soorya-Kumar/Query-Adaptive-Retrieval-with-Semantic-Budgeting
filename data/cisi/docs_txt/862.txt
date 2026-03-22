@@ -1,0 +1,58 @@
+Viable on-line search systems require reasonable capabilities to
+automatically detect (and hopefully correct) variations between request
+format and stored format.. An important requirement is the solution of the
+problem of matching proper names, not only because both input specifications
+and storage specifications are subject ot error, but also because various 
+transliteration schemes exist and can provide variant proper name forms in 
+the same data base.. This paper reviews several proper name matching schemes
+and provides an updated version of these schemes which tests out nicely on
+the proper name equivalence classes of a suburban telephone book..  An
+appendix lists the corpus of names used for algorithm test.
+.X
+19	1	862
+228	2	862
+287	1	862
+318	1	862
+321	2	862
+324	1	862
+329	1	862
+348	1	862
+408	1	862
+416	2	862
+442	2	862
+450	2	862
+495	2	862
+511	2	862
+524	2	862
+554	1	862
+563	2	862
+565	1	862
+567	1	862
+584	1	862
+601	1	862
+654	1	862
+835	4	862
+836	1	862
+851	6	862
+856	1	862
+857	1	862
+858	1	862
+859	1	862
+860	1	862
+861	1	862
+862	6	862
+863	1	862
+867	1	862
+875	1	862
+981	1	862
+984	1	862
+1012	1	862
+1013	2	862
+1035	1	862
+1053	1	862
+1194	2	862
+1196	1	862
+1197	2	862
+1199	2	862
+1445	1	862
+1445	1	862

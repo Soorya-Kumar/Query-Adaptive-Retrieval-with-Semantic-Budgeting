@@ -1,0 +1,48 @@
+Twenty years ago Jesse Shera suggested that there was a need for a more
+analytical study of bibliography which might help to bridge library and
+information services.  Little note was taken of this proposal at the time
+but developments have since occurred and are here briefly reported.  It is
+argued that Shera's "macrobibliography" or "social epistemology" provides
+not only a subject for theoretical study but that it will also be needed
+for the rational design of library and information systems and networks of
+the near future.
+.X
+3	1	846
+9	1	846
+207	1	846
+222	1	846
+223	1	846
+296	1	846
+297	1	846
+298	1	846
+300	1	846
+301	1	846
+302	1	846
+358	1	846
+364	1	846
+515	1	846
+535	1	846
+625	1	846
+629	1	846
+631	1	846
+634	1	846
+791	1	846
+811	1	846
+816	1	846
+818	1	846
+823	1	846
+843	1	846
+844	1	846
+846	5	846
+911	1	846
+915	1	846
+961	1	846
+962	1	846
+964	1	846
+994	1	846
+1015	1	846
+1242	1	846
+1247	1	846
+1268	1	846
+1354	1	846
+1354	1	846

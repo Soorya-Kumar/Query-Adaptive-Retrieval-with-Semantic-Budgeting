@@ -1,0 +1,70 @@
+The following report on use of the public library is
+the product of two separate studies made for the Public Library
+Inquiry.  One was the national sample survey of library use
+made for the Inquiry by the Survey Research Center of the 
+University of Michigan.  Personal interviews of a half-hour
+or more in length were held with 1,151 people selected at
+random in different counties scattered over the United States.
+The sample was designed so as to represent all adult persons
+living in private households.
+    By this tested method the survey gathered information 
+concerning the amount and the kind of use people make of the 
+public library and what changes or extension of library
+service people in general would prefer.  The survey also
+gathered information on the use of books obtained from sources
+other than the public library, as well as the extent of regular
+use of newspapers, radio, magazines, and movies.
+.X
+31	1	1018
+36	1	1018
+41	1	1018
+46	1	1018
+181	1	1018
+182	1	1018
+183	1	1018
+184	1	1018
+193	1	1018
+195	1	1018
+198	1	1018
+201	1	1018
+208	1	1018
+239	1	1018
+269	1	1018
+358	2	1018
+385	1	1018
+395	1	1018
+415	1	1018
+470	1	1018
+760	1	1018
+767	1	1018
+774	1	1018
+778	1	1018
+891	1	1018
+905	1	1018
+925	1	1018
+946	2	1018
+952	1	1018
+953	1	1018
+957	1	1018
+959	1	1018
+962	1	1018
+964	1	1018
+968	1	1018
+1005	4	1018
+1009	1	1018
+1018	9	1018
+1019	1	1018
+1032	2	1018
+1056	2	1018
+1145	1	1018
+1149	1	1018
+1203	1	1018
+1227	1	1018
+1240	2	1018
+1333	1	1018
+1359	1	1018
+1380	1	1018
+1384	1	1018
+1397	1	1018
+1417	1	1018
+1417	1	1018

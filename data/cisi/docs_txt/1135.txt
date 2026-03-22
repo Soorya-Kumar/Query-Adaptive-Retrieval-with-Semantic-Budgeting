@@ -1,0 +1,80 @@
+The activity of an invisible college is surveyed formed around the
+Interdepartmental Laboratory for Statistical Methods of the Moscow State
+University in the area of experiment planning.. The analysis of publications
+by the members of this college was made referring to the "Science Citation Index"
+1966 - 1967.. A graphical representation of the invisible college is suggested,
+comparative data on publications are cited, and various schools in experiment 
+planning for basic and applied research are analyzed..
+.X
+33	1	1135
+36	1	1135
+41	1	1135
+89	1	1135
+97	1	1135
+102	1	1135
+111	1	1135
+112	1	1135
+163	1	1135
+183	1	1135
+184	1	1135
+193	1	1135
+199	1	1135
+203	1	1135
+210	1	1135
+225	1	1135
+269	1	1135
+373	1	1135
+545	1	1135
+552	1	1135
+577	1	1135
+587	1	1135
+605	1	1135
+613	1	1135
+614	1	1135
+638	1	1135
+735	1	1135
+747	1	1135
+750	1	1135
+753	1	1135
+766	1	1135
+767	1	1135
+775	1	1135
+782	1	1135
+784	1	1135
+788	1	1135
+789	1	1135
+793	1	1135
+800	1	1135
+808	1	1135
+824	1	1135
+905	1	1135
+953	1	1135
+977	1	1135
+983	1	1135
+1016	1	1135
+1023	1	1135
+1030	1	1135
+1055	1	1135
+1087	1	1135
+1090	1	1135
+1097	1	1135
+1109	1	1135
+1118	1	1135
+1134	1	1135
+1135	5	1135
+1260	1	1135
+1275	1	1135
+1276	1	1135
+1278	1	1135
+1280	1	1135
+1285	1	1135
+1286	1	1135
+1287	1	1135
+1302	1	1135
+1335	1	1135
+1390	1	1135
+1397	1	1135
+1417	1	1135
+1428	1	1135
+1432	1	1135
+1432	1	1135

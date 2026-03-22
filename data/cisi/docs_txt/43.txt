@@ -1,0 +1,73 @@
+A comparison of the ability of humans to consistently judge the relevance 
+of documents to their general interests from bases of citations, abstracts, 
+keywords, and total text was made under controlled experimental conditions.. 
+The results showed that 1) humans are able to make such judgments consistently,
+and 2) the consistency of the judgment is independent of the particular base 
+from which it is made.. Apparent inconsistency arising from judgments made on the 
+basis of abstracts remains unexplained.. This experiment, as well as others
+concerned with human evaluations of text material, leave unexplored the basic
+problem of providing a metric scale on which such evaluations can be measured..
+.X
+28	1	43
+29	1	43
+35	3	43
+42	2	43
+43	6	43
+47	1	43
+50	1	43
+52	1	43
+58	1	43
+65	1	43
+70	2	43
+73	1	43
+75	1	43
+81	1	43
+84	1	43
+95	1	43
+309	1	43
+328	1	43
+389	1	43
+390	1	43
+420	1	43
+444	1	43
+445	1	43
+447	1	43
+449	1	43
+474	1	43
+486	2	43
+532	1	43
+565	1	43
+571	1	43
+578	1	43
+582	1	43
+586	1	43
+589	1	43
+594	1	43
+595	1	43
+625	1	43
+655	1	43
+656	1	43
+657	1	43
+660	2	43
+661	1	43
+762	1	43
+764	1	43
+778	1	43
+791	1	43
+893	1	43
+958	1	43
+1016	1	43
+1030	1	43
+1045	1	43
+1054	1	43
+1084	1	43
+1154	1	43
+1195	1	43
+1201	1	43
+1232	1	43
+1235	1	43
+1281	3	43
+1285	1	43
+1295	1	43
+1298	1	43
+1298	1	43

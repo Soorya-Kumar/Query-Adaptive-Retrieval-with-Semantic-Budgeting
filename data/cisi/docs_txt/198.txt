@@ -1,0 +1,101 @@
+For many years administrators of library collections have sought
+objective criteria for assembling well-rounded periodical collections
+in the subject fields represented by their collections.  The nearest
+approach to any criterion which does away with the a priori knowledge
+of the specialist was first suggested by Gross and Gross in 1927.  This
+method consists, essentially, of counting the bibliographic citations at
+the conclusions of the articles in a basic periodical of the field under
+consideration, and of arranging the journals cited in order of the
+frequency of their citation.  Thus, in the field of chemistry, the 
+references in the Journal of the American Chemical Society are counted and
+a list is made of the most frequently cited journals.  According to Gross
+and Gross, the journals which are cited most frequently in the Journal of the
+American Chemical Society are the most valuable journals for a library
+to purchase in order to possess a well-rounded collection in chemistry.
+  Although the Gross and Gross method has been in use for almost twenty
+years, the fundamental assumptions upon which the method is based have
+never been examined.  These assumptions are:
+1. The value of a periodical to a professional worker is in direct
+   proportion to the number of times it is cited in the professional
+   literature.
+2. The journal or journals used as the base for the tabulation are
+   representative of the entire field.
+3. If more than one journal is used as a base, all of them can be weighted
+   equally.
+.X
+31	1	198
+33	1	198
+36	2	198
+37	1	198
+41	2	198
+46	1	198
+76	1	198
+89	1	198
+181	1	198
+182	1	198
+183	2	198
+184	2	198
+185	1	198
+193	2	198
+195	2	198
+196	1	198
+198	8	198
+199	1	198
+201	3	198
+203	1	198
+204	1	198
+211	1	198
+217	1	198
+220	1	198
+269	1	198
+361	1	198
+379	1	198
+395	1	198
+415	1	198
+543	1	198
+545	1	198
+552	1	198
+588	1	198
+614	1	198
+616	2	198
+632	1	198
+635	1	198
+638	1	198
+685	1	198
+735	3	198
+760	1	198
+766	1	198
+767	1	198
+774	1	198
+775	1	198
+778	1	198
+784	1	198
+789	1	198
+821	1	198
+828	1	198
+831	1	198
+891	2	198
+905	2	198
+952	2	198
+953	1	198
+964	1	198
+968	1	198
+1009	1	198
+1018	1	198
+1019	1	198
+1055	1	198
+1071	1	198
+1147	1	198
+1210	1	198
+1240	1	198
+1260	1	198
+1275	5	198
+1276	1	198
+1290	1	198
+1302	4	198
+1355	1	198
+1359	1	198
+1397	3	198
+1417	1	198
+1432	1	198
+1432	1	198

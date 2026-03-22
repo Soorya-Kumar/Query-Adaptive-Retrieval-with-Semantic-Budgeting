@@ -1,0 +1,61 @@
+Since the first publication of this work Dr. Bradford has
+died, and, a further edition now being called for, an attempt
+has been made to recognize if not to deal with some criticisms
+expressed on the first edition.
+  The principal one was that whereas the book was entitled
+"Documentation" it dealt in the main with the Universal
+Decimal Classification, which Bradford did much to develop,
+but that it neglected other aspects and instruments of the
+subject of which the UDC is only one, even if an important
+one, of various techniques.
+.X
+3	1	361
+33	1	361
+48	1	361
+55	1	361
+79	1	361
+198	1	361
+234	1	361
+361	12	361
+382	1	361
+457	1	361
+545	1	361
+608	1	361
+616	1	361
+632	1	361
+635	1	361
+665	1	361
+751	1	361
+759	3	361
+765	1	361
+775	1	361
+776	1	361
+789	1	361
+792	1	361
+803	1	361
+825	1	361
+872	1	361
+911	1	361
+939	1	361
+940	1	361
+941	1	361
+966	1	361
+996	1	361
+997	1	361
+1080	1	361
+1085	1	361
+1170	2	361
+1173	1	361
+1216	1	361
+1266	1	361
+1275	2	361
+1302	1	361
+1309	1	361
+1381	1	361
+1395	1	361
+1421	1	361
+1432	1	361
+1435	1	361
+1436	1	361
+1441	1	361
+1441	1	361

@@ -1,0 +1,54 @@
+Efforts have been made in recent years to use statistical studies of
+scientific research papers as a means for deriving general statements about
+trends in science.  For example, there has been a continuing interest in the
+question of how the frequency of citation of a scientific paper depends on its
+age.  These investigations have, however, been mainly concerned with the major
+branches of science only, and have also, perhaps, been rather more interested
+in identifying past trends than in making specific predictions for the future.
+Although such results are obviously valuable, it is also important to push
+these analyses further into smaller areas within a main scientific subject
+division, since such areas may have significantly different bibliographical
+properties from the subject average.  One particularly important aspect of
+such work concerns the origin of new growth areas within a major discipline.
+We can specifically pose the question: is it possible, purely from a 
+statistical analysis of scientific research papers, to identify the 
+appearance of a new growth area and, if so, how soon after its first
+appearance can such an area be identified?
+.X
+33	1	1273
+39	1	1273
+48	1	1273
+89	1	1273
+102	1	1273
+106	1	1273
+107	1	1273
+111	1	1273
+113	3	1273
+155	1	1273
+314	1	1273
+605	1	1273
+632	2	1273
+784	1	1273
+1087	1	1273
+1234	1	1273
+1270	1	1273
+1273	7	1273
+1274	3	1273
+1285	2	1273
+1287	1	1273
+1300	1	1273
+1301	1	1273
+1302	1	1273
+1304	2	1273
+1312	1	1273
+1313	3	1273
+1337	2	1273
+1338	2	1273
+1341	1	1273
+1342	1	1273
+1344	1	1273
+1346	1	1273
+1347	1	1273
+1387	1	1273
+1444	3	1273
+1444	3	1273

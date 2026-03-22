@@ -1,0 +1,51 @@
+With a view of obtaining a set of standard times for information system 
+operations, Aslib Research Department is developing and testing methods for 
+collecting and analyzing data on the time taken to perform certain operations..
+The current state of development of these methods is described.. Data collection
+is by a self-recording (diary) method, completed at the time of performing the 
+operation.. The major problem is one of identifying, describing, and analyzing 
+the effect of the various factors which might affect the time.. First results 
+indicate that it is possible to explain a large proportion of the variations in 
+individual times by taking account of a sufficient number of variables..
+.X
+2	1	815
+5	1	815
+90	2	815
+91	1	815
+158	2	815
+222	2	815
+223	2	815
+231	1	815
+261	1	815
+295	1	815
+299	1	815
+334	1	815
+354	1	815
+368	1	815
+435	1	815
+496	1	815
+608	1	815
+610	1	815
+615	1	815
+617	1	815
+620	1	815
+770	1	815
+776	1	815
+792	1	815
+815	7	815
+842	1	815
+938	1	815
+939	1	815
+945	1	815
+957	1	815
+991	1	815
+992	1	815
+1023	1	815
+1219	1	815
+1221	1	815
+1227	1	815
+1318	1	815
+1365	2	815
+1390	2	815
+1414	1	815
+1414	1	815

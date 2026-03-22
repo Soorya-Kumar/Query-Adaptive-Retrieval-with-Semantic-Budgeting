@@ -1,0 +1,31 @@
+The final report from the Association of Research Libraries' ad hoc Committee 
+on Machine-Based Serials, written in January of this year, showed that of the 
+86 libraries which participated in the  committee's survey of efforts in the 
+area of machine-readable serials files, 64 had files containing a total of
+1,723,568 titles.  Twenty-two libraries reported having no files and one library 
+indicated that it was in the process of converting its file.  The cost of
+converting these files is approximately $1,500,000, not to mention the 
+utilization of an incredible amount of duplicate conversion effort.
+.X
+10	1	921
+121	1	921
+541	3	921
+873	1	921
+877	1	921
+878	1	921
+881	4	921
+882	2	921
+885	1	921
+888	1	921
+904	1	921
+919	3	921
+920	3	921
+921	5	921
+999	1	921
+1000	1	921
+1001	1	921
+1002	1	921
+1003	1	921
+1013	1	921
+1441	1	921
+1441	1	921

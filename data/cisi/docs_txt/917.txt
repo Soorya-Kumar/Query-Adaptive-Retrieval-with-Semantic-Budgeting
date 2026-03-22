@@ -1,0 +1,35 @@
+This book is intended as a reasonably comprehensive discussion
+of library automation systems for the librarian without previous
+knowledge or experience in the field, and for the intelligent layman.
+Library automation systems, in the context of this work, are 
+combinations of electronic data processing machines and appropriate
+programs and operating procedures, organized to work together in
+carrying out, with a minimum of human intervention, some well-defined
+library process.  It is a field that many thoughtful observers feel
+has reached a certain maturity, and so deserves to have its portrait
+made.
+.X
+141	1	917
+363	1	917
+409	1	917
+645	1	917
+647	1	917
+651	1	917
+739	1	917
+881	1	917
+882	1	917
+883	1	917
+884	1	917
+885	1	917
+886	1	917
+887	1	917
+917	8	917
+999	1	917
+1000	1	917
+1001	1	917
+1002	1	917
+1003	1	917
+1004	1	917
+1375	1	917
+1376	1	917
+1376	1	917

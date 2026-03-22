@@ -1,0 +1,67 @@
+It has been suggested that information science is still of the stage
+of alchemy:  if this is so then mutual exclusivity must form its
+philosopher's stone.. Mutual exclusivity appears to be alien to the
+observable universe:  that this is so is displayed through a series of
+examples.. Some of these relate to everyday things like trees, beaches
+and man himself,  whilst others relate to more obscure phenomena like
+continental drift and black holes.. The act of observation is also
+considered as this has a considerable bearing on the problem..
+   Nevertheless, mutual exclusivity must form part of man's mental
+powers and this has found expression in the relatively exclusive
+series of symbols used in communication.. The dangers of exclusive
+thinking in relation to environmental problems are considered, and
+this results in a paradox which is probably unresolvable.. Finally, it
+is observed that out-standing genius appears to pay scant regard to
+existing classifications and is more likely to be involved in an
+integrated approach to problems..
+.X
+72	1	628
+141	1	628
+160	1	628
+299	2	628
+333	3	628
+449	1	628
+522	1	628
+530	2	628
+553	1	628
+558	2	628
+572	1	628
+627	2	628
+628	5	628
+795	1	628
+802	1	628
+819	1	628
+873	1	628
+874	3	628
+875	2	628
+876	1	628
+877	1	628
+878	1	628
+892	2	628
+940	1	628
+941	3	628
+992	1	628
+993	1	628
+994	1	628
+995	3	628
+996	1	628
+997	1	628
+998	1	628
+1046	1	628
+1079	3	628
+1153	1	628
+1189	1	628
+1202	1	628
+1216	1	628
+1218	1	628
+1251	1	628
+1351	2	628
+1396	1	628
+1399	1	628
+1420	2	628
+1421	1	628
+1434	3	628
+1435	3	628
+1436	1	628
+1442	2	628
+1442	2	628

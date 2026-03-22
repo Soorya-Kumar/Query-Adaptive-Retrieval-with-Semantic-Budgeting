@@ -1,0 +1,11 @@
+This volume contains the report of a sample survey conducted in Denmark
+1953-1954.  In addition the author has attempted to integrate survey findings
+with relevant sociological theory and with previous research findings.
+.X
+93	2	1217
+308	1	1217
+438	1	1217
+1217	7	1217
+1331	3	1217
+1340	2	1217
+1340	2	1217

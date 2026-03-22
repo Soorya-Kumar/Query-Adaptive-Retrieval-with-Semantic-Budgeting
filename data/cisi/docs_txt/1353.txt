@@ -1,0 +1,57 @@
+Two services provided by the Boeing Co. Aerospace Group Library - literature
+searches and reference/publication identification activities - were evaluated
+by written and oral surveys of the library's users.  The survey technique and 
+cost savings reported by the two studies are discussed in addition to the 
+beneficial impact of the survey results on high level corporate management.
+.X
+74	1	1353
+83	1	1353
+161	1	1353
+245	1	1353
+273	1	1353
+279	1	1353
+288	2	1353
+291	1	1353
+292	1	1353
+331	1	1353
+364	1	1353
+381	1	1353
+408	1	1353
+470	1	1353
+490	1	1353
+496	1	1353
+591	2	1353
+592	1	1353
+624	1	1353
+723	1	1353
+724	1	1353
+772	1	1353
+834	1	1353
+860	1	1353
+865	1	1353
+915	1	1353
+925	2	1353
+957	2	1353
+959	1	1353
+960	1	1353
+961	1	1353
+962	1	1353
+972	1	1353
+976	1	1353
+984	1	1353
+1008	1	1353
+1065	1	1353
+1148	1	1353
+1227	1	1353
+1263	1	1353
+1317	1	1353
+1333	1	1353
+1353	7	1353
+1359	1	1353
+1360	2	1353
+1361	1	1353
+1400	2	1353
+1401	1	1353
+1410	1	1353
+1424	1	1353
+1424	1	1353

@@ -1,0 +1,107 @@
+This paper is concerned with the availability of books known to be held by 
+the Library.. It outlines a simple survey method whereby readers record the 
+non-availability of books which they are looking for.. The survey has already
+been installed at four university libraries, but the results from only one 
+library are considered here.. These results show how a librarian can find out
+the degree of non-availability or failure in any particular area of the library,
+the causes of failure, and even the particular items which are in heavy demand
+and not available..
+   They also provide information on the degree of co-operation by the readers, 
+the number of titles failing once, twice, three times etc., the overlap of 
+demand for popular books by different groups of borrowers, the waiting time for 
+books that failed, the pattern of demand for particular books over a period of 
+time, the relationship between failure and recall, the correlation of failure 
+from one term to the next, and the relative use of books inside and outside the 
+library..
+   From the results it was possible to recommend certain changes in library 
+procedure which should have reduced failure, and to compare the titles of books
+failing in the Main Library with the holdings of a departmental library.. The 
+time spent on the survey and the total cost of the survey are also given..
+.X
+4	2	811
+5	2	811
+9	2	811
+32	1	811
+33	1	811
+96	1	811
+115	1	811
+137	1	811
+163	1	811
+207	7	811
+217	1	811
+222	1	811
+223	1	811
+234	3	811
+245	2	811
+267	1	811
+296	1	811
+297	1	811
+298	1	811
+300	1	811
+301	1	811
+302	1	811
+358	1	811
+364	3	811
+365	1	811
+456	1	811
+502	3	811
+515	1	811
+535	1	811
+614	1	811
+625	1	811
+629	1	811
+631	1	811
+634	1	811
+638	2	811
+651	1	811
+748	1	811
+751	1	811
+764	2	811
+765	1	811
+766	1	811
+768	1	811
+774	1	811
+778	1	811
+783	2	811
+786	1	811
+791	2	811
+793	1	811
+799	1	811
+800	1	811
+811	14	811
+816	7	811
+818	2	811
+823	2	811
+842	2	811
+843	1	811
+844	1	811
+846	1	811
+913	1	811
+915	1	811
+925	4	811
+944	1	811
+948	3	811
+959	1	811
+960	1	811
+961	3	811
+962	3	811
+963	3	811
+964	3	811
+968	1	811
+983	1	811
+994	3	811
+1015	1	811
+1019	1	811
+1023	1	811
+1068	1	811
+1203	1	811
+1242	1	811
+1247	1	811
+1257	1	811
+1268	1	811
+1321	1	811
+1354	1	811
+1400	1	811
+1407	1	811
+1445	1	811
+1445	1	811

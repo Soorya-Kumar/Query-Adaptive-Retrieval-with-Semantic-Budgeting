@@ -1,0 +1,77 @@
+The paper is a report of most of the major findings of a study in searching
+the periodical eye research literature.. Questions were collected from eye 
+researchers and a selected group of these were searched in nine different 
+secondary sources.. Articles thought to be relevant were Xeroxed and sent to 
+the eye researchers who subsequently rated the articles.. Articles of eye
+research interest are found in a wide variety of journals, but a small number
+of journals carry a large proportion of the articles judged valuable by the eye
+researchers.. Approximately a fourth of eye research articles are in foreign 
+languages.. Translations are not readily available.. Despite a delay of more 
+than 15 month between the original appearance of article in journals and the 
+mailing of photocopies, about half of the articles of interest to the 
+researchers were not known to them previously.. For extensive retrospective
+searches more than one secondary service must be used.. Index Medicus and 
+Excerpta Medica (Section 12) or Ophthalmic Literature would be good sources..
+MEDLARS demand searches were not shown to be clearly superior to manual 
+searches of Index Medicus.. Titles, abstracts, and full text were shown to be
+equally effective in permitting searches to retrieve references that were
+subsequently rated as relevant by the researchers.. A searcher with a background
+in ophthalmology was able to retrieve more articles of research interest than 
+other non-ophthalmologist searchers..
+.X
+4	1	65
+24	1	65
+43	1	65
+47	1	65
+50	1	65
+62	1	65
+65	5	65
+66	1	65
+75	3	65
+76	2	65
+137	1	65
+156	1	65
+162	1	65
+210	1	65
+213	1	65
+214	1	65
+278	1	65
+279	1	65
+280	1	65
+382	1	65
+386	1	65
+395	1	65
+398	1	65
+495	1	65
+580	1	65
+586	1	65
+622	1	65
+658	1	65
+696	1	65
+705	1	65
+716	1	65
+728	1	65
+729	1	65
+748	1	65
+770	1	65
+776	2	65
+778	1	65
+779	1	65
+782	1	65
+788	1	65
+789	1	65
+790	1	65
+791	1	65
+837	1	65
+925	1	65
+958	1	65
+981	1	65
+1055	1	65
+1083	2	65
+1086	1	65
+1295	1	65
+1297	1	65
+1361	1	65
+1400	1	65
+1404	1	65
+1404	1	65

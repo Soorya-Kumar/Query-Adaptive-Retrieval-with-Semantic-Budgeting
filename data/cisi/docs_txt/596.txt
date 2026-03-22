@@ -1,0 +1,134 @@
+Though the idea of constructing a keyword classification for retrieval
+purposes automatically is not a new one, comparatively few systematic
+experiments have been carried out in this area; and while many suggestions
+have been put forward, not enough is known about the behaviour of automatic
+keyword classifications, and hence about the properties such classifications
+should have and the ways they should be used.. In previous experiments we
+showed that some forms of classification could give good results, and this
+paper describes a further series of tests designed to examine this sort of
+classification in more detail, with a view to establishing the optimum forms
+of classification and procedures for using them in different retrieval 
+situations.. These tests demonstrate that further improvements in 
+performance over that for unclassified keywords can be obtained, and that
+definite conclusions can be drawn about the correct approach to classification
+for collections like the test one: the best results are given when grouping
+is confined to strongly connected, nonfrequent keywords, when the 
+classification is used to provide additional rather than alternative indexing
+terms, particularly for requests, and when matching is controlled by keyword
+frequency..
+.X
+51	1	596
+57	1	596
+63	1	596
+69	1	596
+71	1	596
+75	1	596
+77	1	596
+79	1	596
+161	1	596
+168	1	596
+175	3	596
+176	4	596
+197	1	596
+315	1	596
+329	1	596
+348	1	596
+375	1	596
+382	1	596
+389	1	596
+390	1	596
+445	1	596
+448	1	596
+454	1	596
+472	1	596
+480	1	596
+483	1	596
+484	1	596
+486	1	596
+487	1	596
+488	2	596
+491	1	596
+493	1	596
+502	1	596
+503	2	596
+506	1	596
+507	2	596
+509	2	596
+510	1	596
+512	1	596
+517	1	596
+520	1	596
+522	1	596
+527	1	596
+528	1	596
+531	1	596
+554	1	596
+565	2	596
+566	1	596
+570	1	596
+572	1	596
+579	2	596
+581	1	596
+591	1	596
+593	1	596
+594	1	596
+595	2	596
+596	6	596
+597	1	596
+599	1	596
+600	2	596
+601	1	596
+603	2	596
+604	1	596
+606	1	596
+608	2	596
+619	1	596
+633	1	596
+659	1	596
+715	1	596
+723	1	596
+724	1	596
+754	1	596
+790	1	596
+799	1	596
+801	1	596
+805	3	596
+806	1	596
+807	1	596
+809	1	596
+810	2	596
+812	2	596
+813	2	596
+814	2	596
+817	1	596
+824	1	596
+825	1	596
+836	1	596
+863	1	596
+864	1	596
+866	1	596
+867	1	596
+870	1	596
+894	2	596
+928	1	596
+956	2	596
+963	2	596
+987	1	596
+988	1	596
+989	2	596
+990	1	596
+991	1	596
+1051	1	596
+1152	1	596
+1255	1	596
+1265	1	596
+1294	2	596
+1298	1	596
+1299	1	596
+1327	3	596
+1405	1	596
+1413	1	596
+1419	1	596
+1427	1	596
+1445	1	596
+1445	1	596

@@ -1,0 +1,51 @@
+In corresponding chapters of earlier volumes of this review 
+may be discerned a trend toward progressive broadening of
+content coverage.  The initial emphasis was on design and
+evaluation concepts and on techniques that were rather closely -  
+and narrowly - connected with information storage and retrieval
+systems.  It is becoming increasingly clear, however, that
+there are many activities and ideas outside of this context
+that have, or can have, a very important bearing on the work
+of systems analysts, designers, and evaluators working on
+library and documentation systems.  This chapter attempts
+to continue enlarging our perception of the range of reported
+activities that can help to improve the kinds of systems in which
+our readers are chiefly interested.
+.X
+39	1	120
+67	1	120
+83	1	120
+120	6	120
+128	1	120
+135	2	120
+139	1	120
+172	1	120
+197	1	120
+244	1	120
+245	1	120
+291	1	120
+292	1	120
+382	1	120
+459	1	120
+506	1	120
+575	1	120
+584	1	120
+599	1	120
+621	1	120
+630	1	120
+634	1	120
+692	1	120
+696	1	120
+705	1	120
+736	1	120
+795	1	120
+826	1	120
+907	1	120
+925	1	120
+1038	1	120
+1101	1	120
+1178	1	120
+1187	1	120
+1402	1	120
+1426	1	120
+1426	1	120

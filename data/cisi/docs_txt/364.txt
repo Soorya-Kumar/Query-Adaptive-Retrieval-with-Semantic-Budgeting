@@ -1,0 +1,81 @@
+This study addresses itself to several questions important to all public
+libraries.  How should the library allocate its book budget?  What kinds of
+books should it tend to buy?  What types of households use the library?  Why
+do some households not use the library?  What is the cost of the various
+services provided by the library?  What specific steps can the library take
+to improve its services?  What are the library's options in choosing among the
+different circulation systems?  For how long should the library allow books to
+be checked out?  How frequently should overdue notices be sent out?  Is an
+investment in a security system worthwhile?
+  We have studied these questions in the context of one public library - the
+Beverly Hills (California) Public Library - and have developed a methodology
+for determining answers to them, as well as to other questions that arose
+during our investigation.  Although answers will vary from library to library,
+our methodology is quite general and should prove useful at many public 
+libraries.
+.X
+4	1	364
+5	2	364
+9	1	364
+115	1	364
+207	2	364
+217	1	364
+222	1	364
+223	1	364
+234	1	364
+243	1	364
+245	2	364
+249	1	364
+296	1	364
+297	1	364
+298	1	364
+300	1	364
+301	1	364
+302	1	364
+358	1	364
+364	6	364
+365	1	364
+385	1	364
+470	1	364
+515	1	364
+535	1	364
+598	1	364
+625	1	364
+629	1	364
+631	1	364
+634	1	364
+764	1	364
+766	1	364
+779	1	364
+791	1	364
+811	3	364
+816	3	364
+818	2	364
+823	2	364
+842	1	364
+843	1	364
+844	1	364
+846	1	364
+915	1	364
+925	2	364
+944	1	364
+948	1	364
+959	1	364
+960	1	364
+961	2	364
+962	2	364
+964	2	364
+994	1	364
+1008	1	364
+1015	1	364
+1023	1	364
+1242	1	364
+1247	1	364
+1257	1	364
+1263	1	364
+1268	1	364
+1353	1	364
+1354	1	364
+1400	1	364
+1403	1	364
+1403	1	364

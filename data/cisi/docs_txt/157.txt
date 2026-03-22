@@ -1,0 +1,61 @@
+Planning of any kind can be motivated by a pressing practical problem which
+has to be solved - for example, an increasing number of people may have to be
+housed in the same area; or by a long-term idealistic vision; or by both
+(the idealist seeing the long-term implications of an immediate problem).  In
+short-term planning, the danger exists that the more technical problems may be
+solved, without attention to their implications for human beings; to take
+my housing example, higher and higher flats may be built, without considering
+the possible effects (e.g. the effect on social groupings).  In long-term
+planning, Utopian or ideological blueprints may be produced.
+.X
+28	1	157
+89	1	157
+105	1	157
+110	1	157
+147	1	157
+155	1	157
+157	7	157
+314	1	157
+356	1	157
+381	1	157
+389	1	157
+468	1	157
+475	1	157
+514	1	157
+518	1	157
+544	1	157
+560	1	157
+582	1	157
+595	1	157
+615	1	157
+646	1	157
+656	2	157
+658	1	157
+685	1	157
+752	1	157
+785	1	157
+820	1	157
+822	1	157
+827	1	157
+829	1	157
+895	1	157
+1030	1	157
+1050	1	157
+1062	1	157
+1091	1	157
+1256	1	157
+1282	1	157
+1284	1	157
+1285	1	157
+1290	1	157
+1291	1	157
+1293	1	157
+1294	1	157
+1295	1	157
+1296	1	157
+1297	1	157
+1319	1	157
+1346	1	157
+1361	1	157
+1386	1	157
+1386	1	157

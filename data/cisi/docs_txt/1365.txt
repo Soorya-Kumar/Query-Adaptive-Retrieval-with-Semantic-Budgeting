@@ -1,0 +1,64 @@
+An application of location theory to
+the question of centralized versus
+decentralized library facilities for a
+university, with relevance for special 
+libraries is presented.  Locating university
+libraries near classrooms, offices, and
+dormitories requires a larger budget
+than combining these libraries into a 
+centralized facility.  Yet there is a cost
+to the university community which does not 
+appear in the university budget - a cost
+in time, energy, and decreased use resulting
+from locating the library a longer distance
+from users.  The analysis provides models
+for a single library, for two or more libraries,
+or for decentralized facilities.
+.X
+5	1	1365
+90	2	1365
+91	1	1365
+96	1	1365
+158	1	1365
+222	1	1365
+223	1	1365
+231	1	1365
+261	1	1365
+295	1	1365
+297	1	1365
+298	1	1365
+299	1	1365
+334	1	1365
+354	1	1365
+368	1	1365
+435	1	1365
+494	2	1365
+515	2	1365
+608	1	1365
+610	1	1365
+615	1	1365
+617	1	1365
+620	1	1365
+787	1	1365
+792	2	1365
+815	2	1365
+840	2	1365
+925	2	1365
+938	1	1365
+939	1	1365
+951	1	1365
+952	1	1365
+957	1	1365
+991	1	1365
+992	1	1365
+1023	1	1365
+1219	1	1365
+1221	1	1365
+1227	1	1365
+1318	1	1365
+1339	1	1365
+1365	5	1365
+1390	2	1365
+1400	1	1365
+1401	1	1365
+1401	1	1365

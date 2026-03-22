@@ -1,0 +1,92 @@
+The indexing of a document is among the most crucial steps in preparing that 
+document for retrieval.. The adequacy of the indexing determines the ability of 
+the system to respond to patron requests.. This paper discusses this process,
+and document retrieval in general, on the basis of formal decision theory.. The
+basic theoretical approach taken is illustrated by means of a model of word 
+occurrences in documents in the context of a model information system; both 
+models are fully defined in this paper.. Though the main purpose of this paper
+is to provide insights into a very complex process, formulae are developed that 
+may prove to be of value for an automated operating system..The paper concludes
+with an interpretation of recall and precision curves as seen from the point of 
+view of decision theory..
+.X
+51	1	644
+57	1	644
+61	1	644
+73	1	644
+75	1	644
+79	1	644
+114	1	644
+125	1	644
+127	1	644
+129	1	644
+144	1	644
+175	1	644
+176	1	644
+274	1	644
+315	1	644
+335	1	644
+342	1	644
+363	1	644
+390	1	644
+419	2	644
+422	1	644
+432	1	644
+434	1	644
+441	1	644
+445	1	644
+449	1	644
+458	1	644
+460	1	644
+461	1	644
+531	1	644
+575	1	644
+577	4	644
+580	1	644
+622	1	644
+625	1	644
+634	1	644
+641	1	644
+642	1	644
+643	5	644
+644	7	644
+645	3	644
+646	1	644
+649	4	644
+650	2	644
+652	1	644
+660	3	644
+662	1	644
+664	1	644
+670	1	644
+699	1	644
+700	1	644
+708	2	644
+709	1	644
+736	1	644
+737	2	644
+738	1	644
+739	1	644
+741	1	644
+752	2	644
+754	1	644
+755	1	644
+780	2	644
+785	1	644
+812	2	644
+824	1	644
+825	1	644
+829	1	644
+830	2	644
+885	1	644
+895	1	644
+947	1	644
+956	1	644
+1044	1	644
+1282	2	644
+1294	1	644
+1327	1	644
+1374	1	644
+1376	1	644
+1437	1	644
+1437	1	644

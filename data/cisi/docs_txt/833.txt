@@ -1,0 +1,41 @@
+A new linear notation system is described which was designed to have a 
+one-to-one correspondence with the chemical structures represented by the 
+notations.. Each notation is unique and unambiguous, yet simple and compatible 
+with computer input and output characters.. The symbols used in the notation 
+system denote carbon in terms of bounds and attached hydrogen(s).. The notation 
+system is illustrated with acyclic, carbocyclic, and heterocyclic examples..
+.X
+116	1	833
+117	1	833
+254	1	833
+327	1	833
+641	1	833
+668	1	833
+669	1	833
+670	1	833
+671	1	833
+673	2	833
+677	1	833
+678	1	833
+679	1	833
+682	1	833
+688	2	833
+689	1	833
+690	1	833
+693	4	833
+694	1	833
+695	1	833
+698	1	833
+700	1	833
+704	1	833
+706	1	833
+707	1	833
+730	1	833
+738	1	833
+833	6	833
+1026	2	833
+1072	1	833
+1261	2	833
+1292	1	833
+1452	2	833
+1452	2	833

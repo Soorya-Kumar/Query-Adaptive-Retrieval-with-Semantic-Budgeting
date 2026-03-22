@@ -1,0 +1,54 @@
+Increasingly, librarians have felt the need for more accurate cost
+data.  The prime reason for this need has been in the development
+and presentation of the budget which is the instrument used to determine
+and obtain the funds for the library's forthcoming fiscal period.
+Since libraries do not charge for the service they render their users,
+they must derive the funds necessary for their operations and growth from
+supporting bodies such as federal, state, or local governments, private
+institutions, and industrial firms.
+.X
+27	1	976
+74	1	976
+83	1	976
+178	1	976
+206	3	976
+207	1	976
+208	2	976
+245	3	976
+266	1	976
+273	1	976
+277	1	976
+279	2	976
+282	1	976
+288	2	976
+331	1	976
+381	1	976
+408	4	976
+490	1	976
+496	1	976
+591	2	976
+592	1	976
+723	1	976
+724	1	976
+834	1	976
+860	1	976
+925	2	976
+957	1	976
+962	1	976
+964	1	976
+970	1	976
+975	1	976
+976	7	976
+1005	1	976
+1007	1	976
+1148	1	976
+1183	1	976
+1227	1	976
+1317	2	976
+1353	1	976
+1359	1	976
+1360	2	976
+1400	3	976
+1410	1	976
+1424	1	976
+1424	1	976

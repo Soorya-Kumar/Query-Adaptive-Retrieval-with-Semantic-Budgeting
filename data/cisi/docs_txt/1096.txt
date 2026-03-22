@@ -1,0 +1,16 @@
+Every R&D or design organization should have an efficient information
+service capable of minimizing time spent on searching and gathering pertinent
+data.. Generalized data on time spent by R&D project staff on information
+processes is cited.. Suggestions as to the improvement of information activity
+are offered.
+.X
+372	1	1096
+1095	1	1096
+1096	5	1096
+1099	1	1096
+1103	1	1096
+1155	1	1096
+1156	2	1096
+1160	1	1096
+1166	1	1096
+1166	1	1096

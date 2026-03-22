@@ -1,0 +1,36 @@
+Libraries and information services of the twenty-first century almost 
+certainly will be the beneficiary, or perhaps the victim, of enormous 
+technological change. High-speed search by computers, microrecording 
+techniques, remote interrogation consoles, and great communication networks
+will someday place the world's knowledge at our fingertips.  It is inferred
+by many that, through such a metamorphosis, we shall cure the
+information ills of our age, bring order out of chaos, and somehow contain the
+"information explosion" - or at least reduce it to a small conflagration.
+.X
+29	2	967
+58	1	967
+66	1	967
+95	1	967
+172	1	967
+274	1	967
+360	1	967
+371	1	967
+382	1	967
+451	1	967
+475	2	967
+578	1	967
+658	1	967
+760	1	967
+770	1	967
+776	1	967
+955	1	967
+967	6	967
+982	1	967
+1038	1	967
+1053	1	967
+1094	1	967
+1281	1	967
+1358	1	967
+1361	1	967
+1404	1	967
+1404	1	967

@@ -1,0 +1,102 @@
+This study is an application of the relationship of serial articles
+published to serial articles cited, developed in theory in the author's
+"Statistical Bibliography in the Health Sciences" (BULLETIN 50: 450-461,
+July 1962).. A ranked list of the indexes of significance of most of the
+serials indexed in Current List of Medical Literature was derived and erected
+from 21,000 citations secured in a random sampling of 1962 and 1961 biomedical
+journals regularly received in the Yale Medical Library.. The author measures
+the gross indexing effectiveness of Current List against his indexes of 
+significance , offers his method  and results as means to reach objective
+standards for indexing and abstracting, and projects his results  as measures
+of general value of the serials analyzed..
+.X
+2	1	195
+31	1	195
+36	2	195
+41	2	195
+46	1	195
+57	1	195
+76	1	195
+132	1	195
+137	1	195
+139	1	195
+152	1	195
+155	1	195
+181	1	195
+182	1	195
+183	2	195
+184	2	195
+193	3	195
+195	5	195
+196	2	195
+198	2	195
+199	1	195
+201	3	195
+203	3	195
+204	2	195
+205	1	195
+210	1	195
+219	1	195
+233	1	195
+267	1	195
+269	1	195
+359	1	195
+395	2	195
+415	1	195
+475	1	195
+552	1	195
+587	1	195
+614	1	195
+638	1	195
+667	1	195
+748	1	195
+750	1	195
+751	1	195
+759	1	195
+760	2	195
+765	1	195
+767	2	195
+774	2	195
+775	1	195
+778	2	195
+787	1	195
+788	1	195
+789	1	195
+791	1	195
+792	1	195
+793	1	195
+800	1	195
+821	1	195
+891	1	195
+905	3	195
+952	1	195
+953	1	195
+964	1	195
+968	1	195
+977	1	195
+1009	1	195
+1018	1	195
+1019	1	195
+1055	1	195
+1056	1	195
+1071	1	195
+1081	1	195
+1082	1	195
+1083	1	195
+1085	1	195
+1086	1	195
+1147	1	195
+1201	1	195
+1240	1	195
+1275	2	195
+1278	1	195
+1302	2	195
+1355	1	195
+1359	1	195
+1369	1	195
+1397	2	195
+1401	1	195
+1417	2	195
+1418	1	195
+1451	1	195
+1451	1	195

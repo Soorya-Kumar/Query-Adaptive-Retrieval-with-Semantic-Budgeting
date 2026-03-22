@@ -1,0 +1,60 @@
+As one of the early members of the computer community, I have
+been keenly interested in the development of quantitative methodologies
+in the social and behavioral sciences, and their encouragement
+by the data processing environment.  The economists, with an already
+established mathematical orientation, were among the earliest beneficiaries
+of the machine technology that enhances their ability to
+construct the test models of economic behavior.  Today, statistical
+methods have so affected many disciplines that it is not unusual for
+doctoral programs to accept statistical techniques as a substitute for
+one foreign language.  Similarly, the ability to program in an
+appropriate language is also frequently as acceptable as French or
+German in providing the research skills needed by doctoral students at
+The City University of New York and at other universities.
+  The chief function of this directory, in terms of academic supplies
+of data, is not to reinventory the social science data archives
+that are well-known to the academic community, not to duplicate the
+announcements of holdings that they themselves make available to their
+members.  The reason for mentioning them and indicating the nature of
+their holdings is to make this kind of data resource known to those
+researchers, either in or out of the university, who are not sufficiently
+aware of these important resources.
+.X
+18	1	357
+127	1	357
+130	1	357
+145	1	357
+357	6	357
+376	1	357
+459	2	357
+524	1	357
+525	1	357
+527	1	357
+529	1	357
+530	1	357
+534	1	357
+611	1	357
+612	1	357
+633	1	357
+635	1	357
+636	1	357
+637	1	357
+642	1	357
+702	1	357
+703	1	357
+710	1	357
+730	1	357
+732	1	357
+733	1	357
+734	1	357
+736	1	357
+826	1	357
+827	1	357
+877	1	357
+879	2	357
+993	2	357
+1370	1	357
+1372	1	357
+1383	1	357
+1396	2	357
+1396	2	357

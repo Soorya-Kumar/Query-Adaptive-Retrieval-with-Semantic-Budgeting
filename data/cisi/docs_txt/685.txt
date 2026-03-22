@@ -1,0 +1,71 @@
+The historical role of the primary journal as a social institution of 
+science, as well as a communication medium, is discussed, with particular 
+reference to its function as the official public scientific record and the 
+prime mechanism for rewarding the performance of research.. The impact of 
+various proposed changes in the role of the journal on these traditional 
+function is also considered, and predictions are made as to its possible future
+state in a more computerized world..
+.X
+89	1	685
+91	1	685
+105	1	685
+110	1	685
+155	1	685
+157	1	685
+198	1	685
+314	1	685
+356	1	685
+379	1	685
+429	1	685
+513	2	685
+544	1	685
+560	1	685
+582	2	685
+588	2	685
+589	1	685
+603	1	685
+613	1	685
+614	1	685
+616	1	685
+618	1	685
+656	1	685
+657	1	685
+685	8	685
+686	3	685
+691	2	685
+721	2	685
+722	1	685
+724	1	685
+725	3	685
+735	1	685
+765	1	685
+770	1	685
+775	1	685
+776	1	685
+821	1	685
+958	1	685
+987	1	685
+988	1	685
+1030	1	685
+1050	1	685
+1062	1	685
+1208	3	685
+1209	2	685
+1256	1	685
+1275	1	685
+1284	1	685
+1285	1	685
+1290	4	685
+1291	1	685
+1293	2	685
+1294	1	685
+1295	1	685
+1296	2	685
+1297	1	685
+1299	1	685
+1302	2	685
+1319	2	685
+1346	1	685
+1355	1	685
+1386	1	685
+1386	1	685

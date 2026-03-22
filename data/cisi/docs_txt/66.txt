@@ -1,0 +1,63 @@
+An aspect of the human use of information that has generally been overlooked 
+in the automation in information services is the human tendency to locate 
+information spatially.. Computer-based systems do not necessarily assign any 
+unique role to spatial tags, and so a feature of considerable importance for 
+the organization of the user's memory seems to have been largely overlooked..
+The spatial dimension of human memory is discussed, and some suggestions are 
+offered for exploiting it more effectively in the context of information 
+retrieval services..
+.X
+13	1	66
+24	1	66
+29	1	66
+58	1	66
+62	1	66
+65	1	66
+66	7	66
+75	2	66
+76	1	66
+137	1	66
+152	1	66
+197	1	66
+210	1	66
+211	1	66
+218	1	66
+274	1	66
+278	1	66
+279	1	66
+280	1	66
+332	1	66
+350	1	66
+386	1	66
+395	1	66
+398	1	66
+451	1	66
+455	1	66
+475	1	66
+546	1	66
+586	1	66
+593	1	66
+594	1	66
+606	1	66
+658	1	66
+664	1	66
+716	1	66
+748	1	66
+782	1	66
+783	1	66
+788	1	66
+789	1	66
+837	2	66
+839	1	66
+907	1	66
+925	1	66
+967	1	66
+968	1	66
+1035	2	66
+1083	1	66
+1094	1	66
+1213	1	66
+1361	1	66
+1400	1	66
+1404	1	66
+1404	1	66

@@ -1,0 +1,98 @@
+The efficiency of key-work-in-context (KWIC) permuted-title indexes and
+their numerous variations is highly dependent upon authors' choices of titles
+for their papers.. Titles are important not only in commercial services,
+such as Chemical Titles, BASIC, Current Contents, and CA Condensates, but
+also in scanning primary journals, and in traditional library services, such
+as bibliographies.. It is generally believed and often stated that titles
+of chemical papers are becoming more informative as authors become
+increasingly aware of the importance of titles as "carriers" of information..
+The present study was undertaken to test whether (1) titles of chemical papers
+are becoming more informative and (2) whether uninformative titles of chemical
+papers are being eliminated since the advent of the KWIC index in 1958..
+   The first hypothesis was tested by comparing titles published in 1948, 
+1958, and 1968 by the following criteria: (1) a count of substantive words
+in the title; (2) a count of all word matches between title and 10 leading
+substantive words selected from the abstract, with and without the use of a
+thesaurus; and (3) a count of word matches between title and 10 leading
+substantive words selected from the abstract, with and without the use of
+a thesaurus.. The second hypothesis was tested by comparing a count of
+short titles (with 3 or less substantive words) published in 1948, 1958,
+and 1968..
+   Results confirm that uninformative titles of chemical papers are
+being eliminated and that informative titles are becoming more informative
+since the advent of the KWIC index..  
+.X
+35	1	589
+38	2	589
+42	1	589
+43	1	589
+52	3	589
+53	1	589
+70	1	589
+73	1	589
+76	1	589
+81	1	589
+88	1	589
+89	1	589
+91	1	589
+95	2	589
+104	1	589
+110	1	589
+150	4	589
+161	1	589
+175	2	589
+384	1	589
+390	1	589
+420	1	589
+429	2	589
+503	2	589
+510	1	589
+513	1	589
+517	1	589
+560	1	589
+576	2	589
+578	1	589
+582	5	589
+584	1	589
+588	1	589
+589	14	589
+594	1	589
+595	1	589
+603	3	589
+613	1	589
+614	1	589
+618	1	589
+655	2	589
+656	1	589
+657	4	589
+685	1	589
+686	1	589
+691	1	589
+711	1	589
+721	1	589
+722	4	589
+724	1	589
+725	1	589
+820	1	589
+830	1	589
+958	1	589
+987	1	589
+988	1	589
+1054	1	589
+1089	1	589
+1144	2	589
+1154	1	589
+1195	3	589
+1208	1	589
+1232	1	589
+1256	1	589
+1281	2	589
+1287	1	589
+1293	1	589
+1295	1	589
+1297	1	589
+1298	1	589
+1300	1	589
+1302	1	589
+1421	1	589
+1421	1	589

@@ -1,0 +1,55 @@
+Public libraries in the 1960's which are active and alert and interested
+in meeting the interests of their various publics face problems far
+different from those of even a decade ago.  The Maryland metropolitan area
+is an example of the many changes taking place in metropolitan areas
+which require corresponding change in the type and form and arrangements for
+library service and even demand looking into the very nature of library
+service itself.
+.X
+2	1	1056
+76	1	1056
+132	1	1056
+137	1	1056
+139	1	1056
+152	1	1056
+155	1	1056
+161	1	1056
+183	1	1056
+195	1	1056
+203	1	1056
+204	1	1056
+208	1	1056
+210	1	1056
+237	1	1056
+239	2	1056
+358	4	1056
+385	1	1056
+402	1	1056
+456	2	1056
+470	1	1056
+475	1	1056
+552	1	1056
+760	1	1056
+774	1	1056
+775	1	1056
+788	1	1056
+789	1	1056
+908	1	1056
+925	1	1056
+937	1	1056
+946	2	1056
+954	1	1056
+977	1	1056
+1005	4	1056
+1018	2	1056
+1032	3	1056
+1055	1	1056
+1056	12	1056
+1145	2	1056
+1227	1	1056
+1238	1	1056
+1240	1	1056
+1373	1	1056
+1384	1	1056
+1451	1	1056
+1451	1	1056

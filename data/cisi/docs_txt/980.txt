@@ -1,0 +1,28 @@
+Facsimile transmission is the rapid transmission of printed
+pages from one point to another using electronic devices.  All facsimile 
+transmission methods require converting the original picture into
+an electrical impulse which is then transmitted over telephone lines,
+private lines, microwave, or a combination of these communication
+links.  The receiving unit reconverts the electrical impulse into an exact
+duplicate of the original document on a screen or in the form of a hard
+copy.
+.X
+59	1	980
+63	1	980
+175	1	980
+355	1	980
+408	1	980
+481	1	980
+482	1	980
+686	1	980
+717	1	980
+718	1	980
+719	1	980
+850	1	980
+980	6	980
+1042	1	980
+1051	1	980
+1410	3	980
+1415	1	980
+1426	1	980
+1426	1	980

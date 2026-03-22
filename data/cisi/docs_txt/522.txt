@@ -1,0 +1,129 @@
+A system of automatic indexing based on Baye's theorem is described 
+briefly.. In assigning 124 documents to 9 categories, there were 97 cases of 
+agreement with professional indexers.. Using a collection factor, based on 87 
+per cent human consistency from other courses, the computer appears then to 
+index with 90 per cent accuracy in this case..
+   The technique is then used with two randomized sample document groups drawn
+from nine categories.. Each group in turn is used as the basis for indexing the
+other.. The computer knows only the number of categories.. After 8 cycles the 
+computer is found to have formed 9 groups consisting of about 50 per cent of 
+documents that were also lumped together by professional indexers on the basis 
+of subject content..
+   A new measure of performance is proposed and some other applications of the 
+technique indicated..
+.X
+51	1	522
+69	1	522
+71	1	522
+77	1	522
+79	1	522
+124	1	522
+125	1	522
+141	1	522
+165	1	522
+168	1	522
+175	2	522
+176	2	522
+299	1	522
+315	1	522
+333	1	522
+381	1	522
+382	1	522
+446	1	522
+448	2	522
+452	1	522
+480	1	522
+483	1	522
+484	2	522
+486	1	522
+488	1	522
+491	1	522
+493	1	522
+499	1	522
+500	1	522
+503	1	522
+507	1	522
+509	1	522
+510	1	522
+511	1	522
+512	1	522
+516	1	522
+517	2	522
+518	1	522
+520	1	522
+521	1	522
+522	5	522
+523	1	522
+526	1	522
+527	3	522
+528	2	522
+529	1	522
+530	1	522
+531	1	522
+565	1	522
+566	1	522
+575	1	522
+576	1	522
+581	1	522
+596	1	522
+603	1	522
+608	1	522
+610	1	522
+615	1	522
+625	1	522
+626	1	522
+627	1	522
+628	1	522
+633	1	522
+636	1	522
+659	1	522
+700	1	522
+705	1	522
+707	1	522
+715	1	522
+727	1	522
+754	2	522
+790	1	522
+805	1	522
+809	1	522
+810	1	522
+812	2	522
+813	1	522
+814	1	522
+817	2	522
+824	2	522
+825	1	522
+830	1	522
+873	1	522
+874	1	522
+875	2	522
+876	1	522
+892	1	522
+894	1	522
+941	1	522
+994	1	522
+995	1	522
+996	1	522
+997	1	522
+998	1	522
+1051	1	522
+1079	1	522
+1153	1	522
+1189	1	522
+1251	1	522
+1294	1	522
+1303	1	522
+1327	2	522
+1351	1	522
+1364	1	522
+1366	1	522
+1367	1	522
+1368	1	522
+1396	1	522
+1419	1	522
+1420	1	522
+1427	1	522
+1434	1	522
+1435	1	522
+1442	1	522
+1442	1	522

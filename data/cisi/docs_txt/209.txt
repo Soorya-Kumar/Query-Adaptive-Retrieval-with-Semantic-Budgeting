@@ -1,0 +1,45 @@
+A survey of present uses and arrangement of medical library card catalogs 
+was made in order to determine current practices and trends.. Attention was
+focused on the influences of MeSH on the card catalog.. The results indicate
+that the prevalent type of card catalog found in medical libraries is the 
+divided catalog.. In addition, it appears that this catalog arrangement is 
+gaining acceptance, and the trend is toward division.. MeSH has an effect on 
+the organization of the card catalog; libraries indicate that it is an 
+influential factor in the decision to divide the catalog..
+.X
+33	1	209
+36	1	209
+90	1	209
+161	1	209
+183	1	209
+184	1	209
+193	1	209
+199	1	209
+201	1	209
+202	1	209
+203	1	209
+204	1	209
+205	1	209
+209	6	209
+212	1	209
+217	1	209
+220	1	209
+222	1	209
+276	2	209
+284	1	209
+286	1	209
+294	1	209
+326	1	209
+543	1	209
+588	1	209
+613	1	209
+624	1	209
+799	1	209
+800	1	209
+808	1	209
+928	2	209
+959	1	209
+963	1	209
+973	2	209
+1151	1	209
+1151	1	209

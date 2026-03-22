@@ -1,0 +1,36 @@
+Informal communication among biological scientists forms a discernible 
+social structure.. This research analyzes the relation of that structure to (1)
+scientists' descriptions of their research and the orientations that underlie 
+those descriptions, (2) social status in science, and (3) the formal social 
+categories of science (i.e. discipline, department, and research organization)..
+Each of the observed structures is contrasted with a random model.. Neither 
+social status nor the formal social categories show greater association on the
+social structure than to the random model.. The culture of science, on the other
+hand, as represented by description of research and the orientations underlying 
+those descriptions, shows very strong associations with the discerned network 
+structures..
+.X
+89	1	109
+95	1	109
+98	1	109
+102	1	109
+105	1	109
+109	5	109
+386	1	109
+391	1	109
+398	1	109
+426	1	109
+438	1	109
+544	1	109
+656	1	109
+1050	1	109
+1063	1	109
+1284	1	109
+1296	1	109
+1300	2	109
+1321	1	109
+1339	1	109
+1385	1	109
+1386	1	109
+1408	1	109
+1408	1	109

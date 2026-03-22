@@ -1,0 +1,81 @@
+In the case of the present study, Dr.Lehnus was interested in applying
+a method - in a non-standard way for that method - to a type of literature that
+had not been addressed so far.  He proposed to begin with a single monograph
+on the subject "cataloging," apply the method of citation analysis to the
+references of that work, and determine whether a core literature on
+cataloging could be discovered in this way.  There are innumerable examples
+of core literatures in scientific fields obtained from journal articles or
+through the Science citation index, but research via the monograph in non-
+scientific subjects has been minimal.
+.X
+8	1	1061
+19	1	1061
+20	1	1061
+37	1	1061
+39	1	1061
+40	1	1061
+47	1	1061
+88	1	1061
+97	1	1061
+102	1	1061
+103	1	1061
+171	1	1061
+233	1	1061
+253	1	1061
+313	1	1061
+359	1	1061
+377	1	1061
+379	1	1061
+395	1	1061
+505	1	1061
+530	1	1061
+560	1	1061
+573	1	1061
+618	1	1061
+632	1	1061
+635	1	1061
+667	1	1061
+748	1	1061
+749	1	1061
+751	1	1061
+764	1	1061
+765	1	1061
+777	1	1061
+778	1	1061
+782	1	1061
+804	1	1061
+805	1	1061
+824	1	1061
+825	1	1061
+880	1	1061
+893	1	1061
+909	1	1061
+918	1	1061
+952	1	1061
+1016	1	1061
+1061	5	1061
+1085	1	1061
+1086	1	1061
+1087	1	1061
+1146	1	1061
+1182	1	1061
+1200	1	1061
+1215	1	1061
+1274	1	1061
+1277	1	1061
+1278	1	1061
+1280	1	1061
+1287	1	1061
+1301	1	1061
+1302	1	1061
+1304	1	1061
+1313	1	1061
+1338	1	1061
+1344	1	1061
+1347	1	1061
+1380	1	1061
+1428	1	1061
+1441	1	1061
+1444	1	1061
+1453	1	1061
+1453	1	1061

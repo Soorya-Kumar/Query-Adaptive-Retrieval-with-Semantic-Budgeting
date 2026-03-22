@@ -1,0 +1,74 @@
+The ideas and techniques of physics have been systematically applied to the
+study of living matter since the 1950s and 1960s.. As a result a rapid and 
+large increase has taken place in the research activity in this field and 
+biophysics and molecular biology have emerged as important areas of study.. The
+consequent enormous growth of literature  in the field has created great 
+difficulties in tracking out the significant literature of the subject.. To 
+cope with this unprecedented growth of literature, a ranking list of periodicals
+in this field has been prepared on the basis of citations in the Annual review 
+of biochemistry for 1968, 1969, and 1970.. This list is expected to reflect the 
+impact of literature on the progress of biochemical knowledge more accurately 
+than the list prepared by Henkle in 1938.. The present list brings out the 
+predominant position of biochemical research in the total scientific effort 
+today, and the increasing bias of cognate disciplines towards biochemical
+methodologies.. A method of analysis of the number of citations in relation to 
+size of the journal concerned and average length of the papers published has been
+developed and applied in this study.. The analysis yields three parameters which 
+should be useful in assessing the actual scientific interest of a journal in 
+relation to the number of paper published, compactness of the information 
+content, and the scientific value of the paper in relation to compactness of 
+presentation..
+   The results of the present study have been discussed in relation to 
+Bradford's Law of Scattering and an extension of the Law has been suggested, 
+namely, that during phases of rapid and vigorous growth of knowledge in a 
+scientific disciplines, articles of interest to that discipline appear in 
+increasing numbers in periodicals distant from that field.. It is expected that 
+the present ranking list will enable librarians and other professional workers 
+in the field of biochemistry to select journals from the viewpoint of their 
+significance to the active areas or present day biochemical research..
+.X
+48	1	821
+167	1	821
+189	1	821
+193	1	821
+195	1	821
+196	1	821
+198	1	821
+201	2	821
+219	1	821
+379	1	821
+588	1	821
+614	2	821
+616	1	821
+635	1	821
+638	2	821
+685	1	821
+735	1	821
+748	1	821
+753	1	821
+756	1	821
+757	1	821
+775	1	821
+787	1	821
+792	1	821
+821	5	821
+831	1	821
+905	1	821
+952	1	821
+953	1	821
+1083	1	821
+1210	1	821
+1254	1	821
+1256	1	821
+1260	1	821
+1275	3	821
+1278	1	821
+1290	1	821
+1302	3	821
+1352	1	821
+1355	2	821
+1369	2	821
+1373	1	821
+1397	1	821
+1418	1	821
+1418	1	821

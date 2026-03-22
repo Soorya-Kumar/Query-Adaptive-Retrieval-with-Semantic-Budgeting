@@ -1,0 +1,79 @@
+The ILFA Committee on Cataloguing has been at work since 1954 to establish
+international standards for cataloguing and bibliographical records, and
+was responsible for the International conference on Cataloguing Principles,
+Paris, 1961, and the International Medical of Cataloguing Experts, 
+Copenhagen, 1969.  A new impetus to its work has been given in 1971
+with the establishment of its permanent Cataoguing Secretariat whose 
+function were to act as a co-ordinating centre, to promote cataloguing
+projects and to disseminate information.
+.X
+119	1	1435
+122	1	1435
+141	2	1435
+244	1	1435
+299	3	1435
+333	3	1435
+361	1	1435
+365	2	1435
+394	1	1435
+449	1	1435
+453	1	1435
+522	1	1435
+526	1	1435
+528	1	1435
+529	1	1435
+530	2	1435
+553	1	1435
+612	1	1435
+627	2	1435
+628	3	1435
+630	1	1435
+802	1	1435
+819	1	1435
+822	1	1435
+854	1	1435
+871	1	1435
+872	3	1435
+873	2	1435
+874	4	1435
+875	3	1435
+876	2	1435
+877	2	1435
+878	2	1435
+879	1	1435
+880	1	1435
+892	3	1435
+939	1	1435
+940	4	1435
+941	5	1435
+990	1	1435
+992	1	1435
+993	1	1435
+994	2	1435
+995	3	1435
+996	2	1435
+997	2	1435
+998	2	1435
+1079	4	1435
+1080	1	1435
+1143	2	1435
+1153	1	1435
+1189	1	1435
+1216	1	1435
+1230	1	1435
+1247	1	1435
+1251	1	1435
+1257	1	1435
+1264	1	1435
+1303	1	1435
+1351	2	1435
+1367	1	1435
+1396	2	1435
+1420	2	1435
+1421	1	1435
+1434	3	1435
+1435	6	1435
+1436	4	1435
+1441	1	1435
+1442	2	1435
+1442	2	1435

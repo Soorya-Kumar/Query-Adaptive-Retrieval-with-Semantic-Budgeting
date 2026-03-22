@@ -1,0 +1,107 @@
+This paper describes the construction of a synonym thesaurus or entry 
+vocabulary for the SUNY Biomedical Communication Network, which will permit
+the user greater ease of access to MeSH-indexed material without previously
+consulting a printed list of indexed terms.. In order to discover the actual
+terminalogy used by a researcher, words were extracted from titles of articles
+appearing in Index Medicus, and compared with the subject heading under which
+they appeared.. As well as strict synonyms, grammatical variants were also 
+included.. Work is continuing on relating other indexing vocabularies, such as
+Excerpta Medica and Current Medical Terminalogy, used in the biomedical world 
+to MeSH terms..
+.X
+30	1	212
+33	1	212
+36	1	212
+71	2	212
+72	1	212
+73	1	212
+74	1	212
+75	2	212
+77	2	212
+78	2	212
+79	2	212
+80	1	212
+81	2	212
+82	2	212
+83	2	212
+86	1	212
+90	1	212
+114	1	212
+153	1	212
+154	2	212
+156	1	212
+161	1	212
+172	1	212
+183	1	212
+184	1	212
+191	1	212
+193	1	212
+194	2	212
+199	1	212
+201	1	212
+202	1	212
+203	1	212
+204	1	212
+205	1	212
+209	1	212
+211	1	212
+212	5	212
+217	1	212
+220	1	212
+222	1	212
+245	1	212
+247	1	212
+274	1	212
+277	1	212
+279	1	212
+280	1	212
+284	1	212
+286	1	212
+294	1	212
+417	1	212
+446	1	212
+458	2	212
+485	1	212
+486	1	212
+543	1	212
+572	1	212
+577	1	212
+579	1	212
+581	1	212
+588	1	212
+613	1	212
+615	1	212
+624	1	212
+627	1	212
+640	1	212
+666	1	212
+720	1	212
+748	1	212
+770	1	212
+785	1	212
+786	1	212
+787	1	212
+788	1	212
+789	1	212
+791	1	212
+796	1	212
+799	1	212
+800	1	212
+802	1	212
+808	1	212
+838	1	212
+853	1	212
+902	1	212
+925	1	212
+959	1	212
+984	1	212
+1033	1	212
+1084	1	212
+1151	1	212
+1279	1	212
+1387	1	212
+1392	1	212
+1393	1	212
+1431	2	212
+1448	1	212
+1448	1	212

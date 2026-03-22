@@ -1,0 +1,76 @@
+The purpose of this study was to develop, evaluate,
+and recommend a national plan  for improving access to periodical
+resources.  About 48 percent of all academic interlibrary loans
+are for periodical materials, with the bulk of the loans being
+satisfied in the form of photocopies.  A major consideration in
+the long-range improvement of the interlibrary loan system is
+the possible augmentation with a national system for acquiring,
+storing, and satisfying loan requests for periodical materials.
+          This study focused on the physical access to the
+periodical literature.  Based on the needs of the library community,
+design features were developed, and included the following:
+          Service should be made available to all users
+          without any restriction other than access
+          through a library.
+          Initially, the service should be confined primarily
+          to rapid, dependable delivery of photocopies of
+          journal articles.
+          The collection of a center should be comprehensive
+          in subject coverage excluding only medicine.
+          All worthwhile journals should be collected
+          irrespective of language.
+.X
+10	12	10
+145	1	10
+167	1	10
+190	1	10
+225	1	10
+232	1	10
+244	1	10
+304	1	10
+305	1	10
+306	1	10
+358	1	10
+385	1	10
+394	1	10
+400	1	10
+433	1	10
+459	1	10
+534	1	10
+541	1	10
+551	2	10
+702	1	10
+731	1	10
+732	1	10
+788	1	10
+817	1	10
+820	1	10
+823	1	10
+825	1	10
+826	1	10
+827	1	10
+828	1	10
+831	1	10
+881	1	10
+886	1	10
+887	1	10
+919	1	10
+920	1	10
+921	1	10
+942	1	10
+947	2	10
+948	1	10
+1017	1	10
+1058	2	10
+1059	1	10
+1060	1	10
+1146	1	10
+1227	1	10
+1230	1	10
+1257	1	10
+1258	2	10
+1302	1	10
+1305	1	10
+1306	1	10
+1390	6	10
+1390	6	10

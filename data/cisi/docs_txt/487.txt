@@ -1,0 +1,56 @@
+The information retrieval process, treated strictly as a matching procedure,
+has the defects that tha whole file must be probed for each query, and that it
+overlooks the fact that the relevance of the information from one document 
+depends upon what is already known about the subject, and in term affects the 
+relevance of other documents subsequently examined.. A mathematical model of a 
+search technique in which the defects of the direct method are taken into account 
+is demonstrated by an experiment in which a given paper is treated as an enquiry
+and the references cited in the paper are treated as relevant answers.. The
+results in two tests show much better results than those achieved by the direct 
+method.. No spurious material was retrieved by either method..
+.X
+28	1	487
+45	1	487
+63	1	487
+111	1	487
+112	1	487
+113	1	487
+175	1	487
+199	1	487
+319	1	487
+348	1	487
+359	1	487
+360	1	487
+389	1	487
+390	1	487
+444	1	487
+486	1	487
+487	7	487
+502	1	487
+573	1	487
+579	1	487
+596	1	487
+600	1	487
+601	1	487
+799	1	487
+805	1	487
+807	1	487
+825	1	487
+853	1	487
+863	1	487
+864	1	487
+911	1	487
+956	1	487
+963	1	487
+987	1	487
+988	1	487
+989	1	487
+1016	1	487
+1084	1	487
+1085	1	487
+1152	1	487
+1215	1	487
+1265	1	487
+1294	1	487
+1327	1	487
+1327	1	487

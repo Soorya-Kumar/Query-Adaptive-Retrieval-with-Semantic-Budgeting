@@ -1,0 +1,28 @@
+At the British Association meeting in Exeter last month,
+Professor Ziman addressed the section devoted to general
+topics on the question of how scientific information becomes
+public knowledge.  The system of communication, he implied,
+is not as rotten as some like to think.
+.X
+37	1	1447
+63	1	1447
+132	1	1447
+161	1	1447
+166	1	1447
+386	1	1447
+398	1	1447
+771	1	1447
+907	1	1447
+1095	1	1447
+1102	1	1447
+1110	1	1447
+1111	1	1447
+1115	1	1447
+1142	1	1447
+1160	2	1447
+1177	1	1447
+1181	1	1447
+1284	1	1447
+1446	4	1447
+1447	5	1447
+1447	5	1447

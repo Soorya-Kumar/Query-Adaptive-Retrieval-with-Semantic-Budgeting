@@ -1,0 +1,27 @@
+It has been suggested by various librarians concerned with inner-city
+service that the library serve as an informational and interpersonal link
+between community residents and social agencies.  The major question is
+whether it is necessary to add another agency to the already overburdened
+social service bureaucracy.  The rationale for envisioning the library in
+this role is twofold:  (1) the library has achieved a reputation for
+impartiality because it provides information on all sides of an issue and
+is not committed to any particular action program, community service or
+clientele; and (2) librarians are specifically trained to locate, organize,
+update and disseminate information.
+.X
+248	1	910
+340	1	910
+376	1	910
+431	1	910
+910	5	910
+935	1	910
+939	1	910
+1006	1	910
+1017	1	910
+1049	1	910
+1145	2	910
+1227	1	910
+1236	1	910
+1384	1	910
+1396	1	910
+1396	1	910

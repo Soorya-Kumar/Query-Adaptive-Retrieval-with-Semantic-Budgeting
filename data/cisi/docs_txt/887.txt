@@ -1,0 +1,44 @@
+The production of a COM catalog using OCLC records on magnetic tape is 
+outlined.. Standards developed within the library community as represented in 
+the MARK format have made this catalog possible.. A brief overview of the 
+procedures involved and of the catalog is presented..
+.X
+10	1	887
+56	1	887
+141	1	887
+232	1	887
+354	1	887
+363	1	887
+400	1	887
+409	1	887
+551	1	887
+645	1	887
+647	1	887
+651	1	887
+739	1	887
+872	1	887
+874	1	887
+881	1	887
+882	1	887
+883	1	887
+884	3	887
+885	2	887
+886	3	887
+887	6	887
+892	2	887
+917	1	887
+998	1	887
+999	1	887
+1000	1	887
+1001	1	887
+1002	1	887
+1003	1	887
+1004	1	887
+1058	1	887
+1059	1	887
+1060	1	887
+1371	1	887
+1375	1	887
+1376	1	887
+1395	1	887
+1395	1	887

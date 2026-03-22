@@ -1,0 +1,71 @@
+It was argued that the present-day thesaurus-construction and maintenance
+rules and conventions are not theoretically based.. For this reason, there
+are few rules and conventions for updating a thesaurus.. Consequently, 
+most of the thesauri adopted by operating information storage and
+retrieval systems are not systematically updated.. In order to 
+investigate how thesauri are actually updated, a survey was conducted.. 
+The working hypothesis was that the communication process between authors
+and readers is linear in nature ("one-way" communication allowing no 
+reciprocal feedback) if a thesaurus utilized in a system is not updated
+by both indexers and question negotiators.. Findings show that thesauri
+viewed from the communications point of view do not allow a cybernetic
+process of communication ("both-way" communication).. The survey
+indicated that the present practice of updating thesauri is largely
+done by indexers alone.. No attempt was made to develop a theory of
+thesaurus construction and updating.. It was, however, argued that
+such a theory, if developed, should at least account for the concepts
+of meaning and knowledge.. Within this theoretical framework, two
+techniques are suggested to be considered for the systematic updating
+of a thesaurus..
+.X
+114	2	627
+141	1	627
+154	1	627
+169	1	627
+194	1	627
+212	1	627
+289	1	627
+299	2	627
+333	2	627
+345	1	627
+400	1	627
+458	1	627
+459	1	627
+493	1	627
+522	1	627
+530	1	627
+548	1	627
+627	5	627
+628	2	627
+770	1	627
+796	1	627
+802	1	627
+873	1	627
+874	2	627
+875	2	627
+876	1	627
+892	2	627
+941	2	627
+990	1	627
+994	1	627
+995	2	627
+996	1	627
+997	1	627
+998	1	627
+1073	1	627
+1079	2	627
+1153	1	627
+1189	1	627
+1251	1	627
+1351	2	627
+1368	1	627
+1392	2	627
+1396	1	627
+1414	1	627
+1420	2	627
+1431	1	627
+1434	2	627
+1435	2	627
+1442	2	627
+1448	2	627
+1448	2	627

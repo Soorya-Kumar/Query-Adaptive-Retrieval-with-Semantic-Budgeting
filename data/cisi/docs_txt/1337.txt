@@ -1,0 +1,56 @@
+In recent years social scientists have given increased attention to
+problems of inequality, justice, and discrimination in American society.
+The influence of ascribed statuses on the life chances of individuals
+is being studied in an effort to estimate the "fairness" of social
+institutions in rewarding talent.  Social scientists are trying to
+determine the extent to which so-called "irrelevant" characteristics
+influence the ways in which people are judged by social institutions
+and eventually reach social positions in the hierarchies of income,
+prestige, and influence.  Of the major institutions in American society,
+science has received perhaps the least systematic attention.  Little
+is known about how scientists achieve positions of renown.  This book
+examines several aspects of a single basic question:  is the stratification
+of individuals in science based upon the quality of scientific performance,
+or does discrimination obtain in the processes of status attainment?
+A more technical way of putting the same question would be to ask whether
+universalistic and rational criteria predominate as the basis for
+recognition in the social system of science.
+.X
+48	2	1337
+55	1	1337
+99	1	1337
+100	1	1337
+102	2	1337
+106	1	1337
+108	2	1337
+113	2	1337
+170	1	1337
+314	1	1337
+545	1	1337
+592	1	1337
+632	1	1337
+747	1	1337
+777	1	1337
+791	1	1337
+893	1	1337
+1085	1	1337
+1087	1	1337
+1200	1	1337
+1270	1	1337
+1273	2	1337
+1274	1	1337
+1285	3	1337
+1287	1	1337
+1291	1	1337
+1301	2	1337
+1304	2	1337
+1313	1	1337
+1320	1	1337
+1337	6	1337
+1338	3	1337
+1344	1	1337
+1347	1	1337
+1386	1	1337
+1387	1	1337
+1444	1	1337
+1444	1	1337

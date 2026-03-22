@@ -1,0 +1,76 @@
+Several bibliometric techniques previously applied to 
+separate scientific literatures were used together in the analysis of a
+single corpus of journal articles relating to information science.. 
+Techniques included are (a) Bradford analysis, (b) epidemic analysis, 
+(c) identification of research front, and (d) bibliographic coupling.. 
+Similar analysis was made of writings cited by the main corpus articles, 
+and of the literature which in turn cites the main corpus.. Results
+were analyzed in terms of structure and processes observable in patterns
+of authorship, publication, and citation.. Their significance is discussed
+with potential application of the method to the solution of problems in the
+management of large research libraries..
+.X
+33	1	616
+39	1	616
+50	1	616
+126	1	616
+198	2	616
+326	1	616
+359	1	616
+361	1	616
+379	1	616
+446	1	616
+449	1	616
+462	1	616
+473	1	616
+485	1	616
+503	1	616
+505	1	616
+515	1	616
+525	1	616
+526	1	616
+533	1	616
+545	1	616
+572	1	616
+573	1	616
+574	1	616
+588	1	616
+616	8	616
+632	2	616
+635	1	616
+640	1	616
+685	1	616
+735	1	616
+748	1	616
+751	1	616
+759	1	616
+765	1	616
+773	1	616
+775	1	616
+778	1	616
+789	1	616
+821	1	616
+823	1	616
+958	1	616
+1016	1	616
+1083	1	616
+1085	1	616
+1090	1	616
+1111	1	616
+1114	1	616
+1182	1	616
+1207	1	616
+1242	1	616
+1250	1	616
+1275	2	616
+1283	1	616
+1290	1	616
+1302	2	616
+1305	1	616
+1306	1	616
+1313	1	616
+1355	2	616
+1403	1	616
+1426	1	616
+1428	1	616
+1428	1	616

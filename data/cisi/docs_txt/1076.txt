@@ -1,0 +1,25 @@
+Independently of the work as a cumulative index and
+thesaurus a study has been carried out about some information
+services in the field of documentation.  The aim was to
+obtain an overview of the writer's work in the documentation
+area, and at the same time to generate the references
+necessary for a survey about the "documentation of
+documentation."  Nine new information services were considered.
+.X
+162	2	1076
+359	1	1076
+398	1	1076
+749	1	1076
+759	1	1076
+765	1	1076
+770	2	1076
+776	1	1076
+914	1	1076
+933	2	1076
+1076	5	1076
+1097	1	1076
+1098	1	1076
+1157	2	1076
+1182	1	1076
+1275	1	1076
+1275	1	1076

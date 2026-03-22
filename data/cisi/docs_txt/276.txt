@@ -1,0 +1,20 @@
+The accessibility of the card catalog seems to be inversely proportional to
+the complexity of its arrangement.. A catalog divided into author-title and
+subject sequence simplifies the filing order of cards and facilitates the use 
+of each catalog.. It is argued here that a three-way division into author, 
+title, and subject catalogs will further augment these advantages.. In this 
+paper a separation of the title catalog at the University of Wisconsin-Milwaukee
+library is described and evaluated..
+.X
+132	1	276
+209	2	276
+274	1	276
+276	6	276
+326	1	276
+655	2	276
+783	2	276
+928	1	276
+963	1	276
+973	2	276
+1445	1	276
+1445	1	276

@@ -1,0 +1,57 @@
+A good deal is now known about the use made by students of university
+libraries, notably from the surveys carried out by Leeds University
+Library in 1957 and 1960.  Statistics of use, however, will not by themselves
+indicate how good a library is, whether as a bookstock, a building, or
+an administrative department.  How adequate is the bookstock?  How fully
+is it being exploited?  How important are physical and personal elements?
+These are questions librarians are continually asking themselves, but they
+are also questions readers could be asked directly or indirectly.
+.X
+4	2	768
+9	1	768
+32	1	768
+96	1	768
+137	1	768
+163	1	768
+207	1	768
+278	1	768
+293	1	768
+298	1	768
+300	1	768
+370	1	768
+418	1	768
+456	1	768
+648	1	768
+768	8	768
+774	4	768
+783	2	768
+799	1	768
+811	1	768
+816	1	768
+818	2	768
+823	1	768
+839	1	768
+842	1	768
+843	1	768
+844	1	768
+847	1	768
+872	1	768
+913	2	768
+961	1	768
+962	1	768
+964	1	768
+968	1	768
+970	1	768
+1068	1	768
+1069	1	768
+1070	1	768
+1203	1	768
+1214	1	768
+1246	1	768
+1263	2	768
+1321	1	768
+1401	1	768
+1407	1	768
+1434	1	768
+1445	1	768
+1445	1	768

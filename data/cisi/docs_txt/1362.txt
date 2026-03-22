@@ -1,0 +1,59 @@
+The National Science Library is not a
+library in the conventional sense of the word
+but rather an information transferral agency.
+Its activities are designed to provide the
+Canadian scientific and industrial communities
+with direct and immediate access to the
+publications and information required in their
+day-to-day work.  Through co-operative measures
+with both national and international information
+agencies, the NSL serves as the focal
+point of a national scientific and technical
+information network.  The Library employs
+a variety of mechanized techniques to
+facilitate the storage, retrieval and
+dissemination of information.  During the past three
+years it has operated an SDI service using CT 
+and ISI tapes.  In November 1968 this SDI
+service, which had been limited to meeting
+the needs of approximately 170 scientists in
+the Ottawa area, was expanded to provide a
+national SDI service.  The author describes
+the evolution of these services from the local
+to national level, outlines basic techniques,
+describes the successes and failures of the
+system and indicates future developments.
+.X
+13	1	1362
+76	1	1362
+121	1	1362
+213	1	1362
+243	1	1362
+318	1	1362
+329	1	1362
+348	1	1362
+442	1	1362
+450	1	1362
+465	1	1362
+466	1	1362
+491	1	1362
+511	1	1362
+565	1	1362
+567	1	1362
+582	1	1362
+687	1	1362
+720	1	1362
+805	1	1362
+859	1	1362
+866	1	1362
+914	1	1362
+1087	1	1362
+1150	1	1362
+1186	1	1362
+1285	1	1362
+1287	1	1362
+1297	1	1362
+1302	1	1362
+1362	11	1362
+1363	2	1362
+1363	2	1362

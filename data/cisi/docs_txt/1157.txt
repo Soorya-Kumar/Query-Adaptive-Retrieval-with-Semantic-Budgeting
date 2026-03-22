@@ -1,0 +1,24 @@
+This article considers the question of defining active stock for the electrical
+engineering field.
+Significant attention was paid to including specialized journals using methods
+which calculates number of bibliographical references made in bulletins and
+bibliography at the end of the articles with Bradford's distribution.
+Reliability of this method is discussed.
+.X
+359	1	1157
+759	1	1157
+765	1	1157
+770	1	1157
+776	1	1157
+1076	2	1157
+1097	1	1157
+1098	3	1157
+1108	1	1157
+1122	1	1157
+1123	1	1157
+1157	10	1157
+1167	1	1157
+1168	1	1157
+1172	1	1157
+1182	1	1157
+1182	1	1157

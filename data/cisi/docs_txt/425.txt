@@ -1,0 +1,23 @@
+This paper presents a summary of methods of evaluating and selecting R&D
+projects.. Approximately thirty methods, which have appeared is scattered 
+places in the literature, are described briefly, and a bibliography is
+provided for further information.. The various methods are compared and 
+contrasted  with each other relative  to a standard set of features which they
+may possess, to a standard set of characteristics relating to ease of use, and
+to scientific or technological area of applicability..
+.X
+349	1	425
+423	11	425
+424	3	425
+425	12	425
+426	1	425
+427	2	425
+428	3	425
+436	1	425
+437	1	425
+561	5	425
+1039	4	425
+1040	5	425
+1154	1	425
+1449	1	425
+1449	1	425

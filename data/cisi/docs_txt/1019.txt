@@ -1,0 +1,86 @@
+The concept of the core collection in a large library is not new. The
+thought behind such a concept is to provide a separation of the more
+frequently used volumes from those that are infrequently used.  There
+have been, however, difficulties in determining what volumes are to be
+included within the core collection.  It is usually necessary to establish
+a committee or group of professional people who determine, usually by 
+enumeration, those volumes that should be included in the core collection.
+Often the results of such a determination merely reflect the opinions of
+the individuals, and although valid in many cases as desirable reading, the
+core collection that results may not be a reflection of user requirements.
+.X
+14	1	1019
+31	2	1019
+33	1	1019
+36	1	1019
+41	1	1019
+46	4	1019
+123	1	1019
+131	1	1019
+153	1	1019
+170	1	1019
+181	1	1019
+182	1	1019
+183	1	1019
+184	1	1019
+193	1	1019
+195	1	1019
+198	1	1019
+201	2	1019
+223	1	1019
+266	1	1019
+267	2	1019
+269	2	1019
+271	1	1019
+280	2	1019
+290	1	1019
+359	1	1019
+373	1	1019
+379	1	1019
+395	1	1019
+415	1	1019
+475	1	1019
+550	1	1019
+614	1	1019
+634	1	1019
+638	1	1019
+651	1	1019
+748	2	1019
+751	1	1019
+760	1	1019
+765	1	1019
+767	1	1019
+774	1	1019
+778	2	1019
+786	1	1019
+791	2	1019
+793	1	1019
+800	1	1019
+804	1	1019
+811	1	1019
+891	1	1019
+905	1	1019
+925	3	1019
+948	1	1019
+952	1	1019
+953	1	1019
+964	1	1019
+968	1	1019
+983	1	1019
+1009	1	1019
+1018	1	1019
+1019	9	1019
+1028	1	1019
+1037	1	1019
+1086	1	1019
+1090	1	1019
+1173	1	1019
+1203	1	1019
+1240	1	1019
+1359	1	1019
+1397	1	1019
+1400	1	1019
+1416	2	1019
+1417	3	1019
+1424	1	1019
+1424	1	1019

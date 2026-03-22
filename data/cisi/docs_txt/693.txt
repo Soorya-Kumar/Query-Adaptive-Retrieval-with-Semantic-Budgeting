@@ -1,0 +1,41 @@
+A new linear notation system which denotes carbon in terms of bounds and 
+attached hydrogen(s) is used to correlate proton groups in organic molecules
+with chemical shifts.. The notation system is illustrated with acyclic and
+cyclic examples, and the production of tables of NMR data via computer by 
+proton group vis-a-vis neighboring groups is demonstrated.. Tables of chemical
+shifts in ascending order is a valuable by-product of the computerized system..
+.X
+116	1	693
+117	1	693
+254	1	693
+327	1	693
+641	1	693
+668	1	693
+669	1	693
+670	2	693
+671	1	693
+673	2	693
+677	1	693
+678	1	693
+679	1	693
+682	1	693
+688	1	693
+689	1	693
+690	1	693
+693	6	693
+694	1	693
+695	1	693
+698	1	693
+700	1	693
+704	1	693
+706	1	693
+707	1	693
+730	1	693
+738	1	693
+833	4	693
+1026	2	693
+1072	1	693
+1261	1	693
+1292	1	693
+1452	1	693
+1452	1	693

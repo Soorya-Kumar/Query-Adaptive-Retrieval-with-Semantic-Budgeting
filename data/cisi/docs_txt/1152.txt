@@ -1,0 +1,53 @@
+This book presupposes a knowledge of book cataloguing and basic cataloguing
+principles.  The Dewey decimal classification 9th abridged edition, Sears list 
+of subject headings 9th edition, and A list of Canadian subject headings 
+together with a form of simplified cataloguing found in many school libraries
+have been used on the sample cards.  It must be emphasized that the subject
+analysis systems chosen by a particular library for its print collection should
+be used for all media.  Because of its school library orientation, this book
+distinguishes between essential and optional elements on the catalogue card.
+Libraries which require detailed cataloguing will consistently list these options, 
+and may wish to augment the description of materials in the collation and in the
+notes.  Items necessary for a minimum description and for a complete description
+will be subject to further study prior to the next edition of this work.
+.X
+16	1	1152
+63	1	1152
+175	1	1152
+231	1	1152
+235	2	1152
+250	1	1152
+289	1	1152
+348	1	1152
+352	1	1152
+383	1	1152
+389	1	1152
+390	1	1152
+404	1	1152
+487	1	1152
+502	1	1152
+579	1	1152
+596	1	1152
+600	1	1152
+601	2	1152
+799	1	1152
+805	1	1152
+807	1	1152
+848	1	1152
+863	2	1152
+864	2	1152
+897	1	1152
+911	1	1152
+956	1	1152
+963	1	1152
+987	1	1152
+988	1	1152
+989	1	1152
+995	1	1152
+1152	8	1152
+1153	1	1152
+1265	1	1152
+1294	1	1152
+1327	1	1152
+1392	1	1152
+1392	1	1152

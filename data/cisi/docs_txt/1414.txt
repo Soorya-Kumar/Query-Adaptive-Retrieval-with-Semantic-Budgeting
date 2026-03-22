@@ -1,0 +1,56 @@
+This book does not purport to provide all the answers to the problem (such a
+claim would be rightly suspect) but to collect together problems and experiences
+pertaining to the technique.  Though three of the case studies in Chapter 8 are
+from outside the United Kingdom, there is an inevitable bias towards British
+experience and English-language thesauri.  It is hoped that people outside
+this country will find the book useful, but there is little mention of, for
+example, the language problem.  The way in which compound terms are treated
+clearly depends on whether one is indexing in German, French or English, and
+each language exhibits a different morphology.
+.X
+2	1	1414
+30	1	1414
+114	1	1414
+149	1	1414
+158	1	1414
+169	1	1414
+175	1	1414
+176	1	1414
+258	1	1414
+263	1	1414
+289	1	1414
+345	1	1414
+363	1	1414
+388	1	1414
+400	1	1414
+419	1	1414
+434	3	1414
+459	1	1414
+477	1	1414
+483	1	1414
+486	1	1414
+493	1	1414
+516	2	1414
+548	1	1414
+600	1	1414
+627	1	1414
+653	1	1414
+661	1	1414
+770	1	1414
+776	1	1414
+781	1	1414
+795	1	1414
+815	1	1414
+990	1	1414
+1066	1	1414
+1073	1	1414
+1231	1	1414
+1255	1	1414
+1259	1	1414
+1368	1	1414
+1391	1	1414
+1392	1	1414
+1413	1	1414
+1414	12	1414
+1448	4	1414
+1448	4	1414

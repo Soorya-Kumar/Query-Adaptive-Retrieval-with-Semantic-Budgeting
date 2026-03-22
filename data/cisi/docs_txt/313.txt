@@ -1,0 +1,84 @@
+In the course of collecting data on nine scientific and technological
+disciplines, it has become obvious to us that in their communication 
+activities, some disciplines behave quite differently from others.. Recently,
+we have reanalyzed our data for the physical, the engineering, and the social
+sciences.. We do not have time to discuss differences among all three groups,
+so we have decided to compare only the physical and social sciences.. We have
+included data pertaining to the engineering sciences on the graphs, however,
+so you can get some idea of how they differ from the other two groups..
+   Before discussing these differences, we should like to emphasize that there
+are similarities, that there are of major importance, and that they, in fact,
+make genuine comparisons among the groups feasible..
+   We will discuss differences between the physical and the social sciences in
+terms of three major communication characteristics associated with science..
+.X
+15	2	313
+19	1	313
+37	1	313
+39	1	313
+40	1	313
+47	1	313
+88	1	313
+97	1	313
+102	1	313
+103	1	313
+152	1	313
+233	1	313
+253	1	313
+313	5	313
+359	1	313
+377	1	313
+379	1	313
+395	1	313
+447	1	313
+449	1	313
+505	1	313
+560	1	313
+573	1	313
+574	1	313
+585	1	313
+618	1	313
+625	1	313
+632	1	313
+635	1	313
+667	1	313
+748	1	313
+749	1	313
+751	1	313
+764	1	313
+765	1	313
+777	1	313
+778	1	313
+782	1	313
+803	1	313
+804	1	313
+805	1	313
+893	1	313
+952	1	313
+1016	1	313
+1061	1	313
+1085	1	313
+1086	1	313
+1087	1	313
+1182	1	313
+1200	1	313
+1274	1	313
+1277	1	313
+1278	1	313
+1280	1	313
+1287	1	313
+1301	1	313
+1302	1	313
+1304	1	313
+1313	1	313
+1319	1	313
+1321	2	313
+1338	1	313
+1344	1	313
+1347	1	313
+1380	1	313
+1386	2	313
+1408	1	313
+1428	1	313
+1444	1	313
+1444	1	313

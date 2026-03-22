@@ -1,0 +1,119 @@
+In April 1970, the BioSciences Information Service of Biological Abstracts, 
+the Chemical Abstracts Service, and Engineering Index, Inc. began a five-part
+study to determine the relationships between and the overlap in coverage in
+their printed publications and computer-readable services.. This study was 
+designed to provide information needed by these three accessing services for 
+planning future cooperative programs and for reconciling differences in policies
+and practices so as to make their publications and services more useful to their
+user communities..
+   This paper is based on the first part of the study, which compared listings 
+of the journals each service was routinely monitoring as of 1 May 1970.. Of the
+14,592 different journals monitored, 1% were monitored by all three of the
+services, 27% were monitored by two of the three services, and 72% were 
+monitored by only one of the three services.. Subsequent phases of the study
+will determine the extent to which the services cover the same articles within
+the journals..
+.X
+4	1	580
+18	1	580
+65	1	580
+91	1	580
+125	2	580
+127	1	580
+129	1	580
+145	1	580
+162	1	580
+211	1	580
+243	1	580
+253	1	580
+363	1	580
+378	1	580
+421	1	580
+432	1	580
+439	1	580
+440	2	580
+452	1	580
+453	1	580
+460	1	580
+461	1	580
+467	1	580
+468	1	580
+495	1	580
+506	1	580
+508	1	580
+511	1	580
+512	1	580
+514	1	580
+517	1	580
+520	1	580
+521	1	580
+523	1	580
+524	1	580
+526	1	580
+528	1	580
+576	1	580
+580	16	580
+604	2	580
+609	2	580
+612	1	580
+619	1	580
+622	6	580
+623	1	580
+629	1	580
+631	1	580
+632	1	580
+633	1	580
+642	1	580
+643	1	580
+644	1	580
+645	1	580
+646	1	580
+649	1	580
+650	1	580
+696	2	580
+699	1	580
+700	1	580
+705	2	580
+707	1	580
+708	1	580
+723	1	580
+726	1	580
+727	2	580
+728	2	580
+729	2	580
+730	1	580
+731	1	580
+736	1	580
+737	1	580
+738	1	580
+739	1	580
+741	1	580
+754	1	580
+770	1	580
+776	1	580
+809	1	580
+812	1	580
+813	2	580
+814	1	580
+820	1	580
+822	1	580
+866	1	580
+870	2	580
+873	1	580
+981	1	580
+1078	1	580
+1089	1	580
+1091	1	580
+1143	1	580
+1208	1	580
+1264	1	580
+1298	1	580
+1302	1	580
+1303	1	580
+1366	1	580
+1367	1	580
+1368	1	580
+1374	1	580
+1376	1	580
+1396	2	580
+1396	2	580

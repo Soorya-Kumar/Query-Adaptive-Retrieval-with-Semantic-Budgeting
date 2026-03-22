@@ -1,0 +1,88 @@
+Thirty years or more ago, a favoured question in examination papers
+for librarians was some variation on the theme 'Compare the merits of a
+classified catalogue and an alphabetical subject catalogue'.  This was a
+subject which it was possible to write on or to discuss at great length,
+advancing a number of theoretical arguments or opinions expressed by pundits,
+without ever stating a single demonstratable fact.  When, in the early 1950's,
+various people, such as Taube and Mooers, proposed new techniques for
+indexing, the reaction from the traditionally-minded was such that it
+appeared there was to be a repetition of all the old arguments.  In an
+editorial in American Documentation in 1955, Perry expressed a viewpoint,
+shared by many others, when he wrote: 
+
+    Cautious and searching evaluation of all experimental results is
+    essential in rating the efficiency of documentation systems.  May
+    the age-old controversies that arose from the conventional concepts
+    of classification not be reborn in the mechanized searching systems
+    of the future.  There is hope for the avoidance of such errors if
+    we will but regard documentation systems as useful devices, the
+    benefits of which must be determined, not by polemics, but by the
+    intelligent measurement of such benefits in relation to needs and
+    costs.  The machines of the future can make us free, but only if we
+    are willing to subject them, and ourselves, to the most rigid
+    intellectual discipline.
+.X
+38	1	795
+72	2	795
+84	1	795
+120	1	795
+149	1	795
+160	1	795
+197	1	795
+382	2	795
+486	1	795
+488	1	795
+489	1	795
+490	1	795
+491	1	795
+492	1	795
+493	1	795
+494	1	795
+495	1	795
+496	1	795
+497	1	795
+499	1	795
+500	1	795
+506	1	795
+558	1	795
+565	1	795
+572	1	795
+581	1	795
+583	1	795
+584	1	795
+586	1	795
+625	1	795
+628	1	795
+633	1	795
+634	1	795
+643	1	795
+659	2	795
+696	1	795
+705	1	795
+736	1	795
+752	1	795
+781	1	795
+789	1	795
+795	8	795
+796	1	795
+798	1	795
+801	1	795
+814	1	795
+824	1	795
+826	1	795
+901	1	795
+902	1	795
+906	1	795
+907	1	795
+986	1	795
+1089	1	795
+1202	1	795
+1209	1	795
+1218	1	795
+1250	1	795
+1255	1	795
+1289	1	795
+1294	2	795
+1414	1	795
+1422	1	795
+1422	1	795

@@ -1,0 +1,34 @@
+An experiment testing utility of truncated search keys as inquiry terms in
+an on-line system was performed on a file of 16,792 title-only bibliographic
+entries.. Use of a 3,3 key yields eight or fewer entries 99.0% of the time..
+.X
+90	2	868
+235	1	868
+289	1	868
+291	1	868
+348	1	868
+548	1	868
+594	1	868
+597	1	868
+598	1	868
+601	1	868
+836	2	868
+851	1	868
+856	1	868
+863	1	868
+864	1	868
+865	1	868
+866	1	868
+868	12	868
+869	6	868
+871	4	868
+872	3	868
+876	2	868
+897	2	868
+916	1	868
+936	1	868
+1052	1	868
+1196	9	868
+1197	4	868
+1248	1	868
+1248	1	868

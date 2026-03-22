@@ -1,0 +1,89 @@
+Information science emerged as the third subject, along with logic and 
+philosophy, to deal with relevance - an elusive, human notion.. The concern 
+with relevance, as a key notion in information science, is traced to the 
+problems of scientific communication.. Relevance is considered as a measure of 
+the effectiveness of a contact between a source and a destination in a 
+communication process.. The different views of relevance that emerged are
+interpreted and related within a framework of communication of knowledge..
+Different views arose because relevance was considered at a number of different 
+points in the process of knowledge communication.. It is suggested that there 
+exists an interlocking, interplaying cycle of various systems of relevances..
+.X
+20	1	652
+42	1	652
+57	1	652
+60	1	652
+73	1	652
+85	1	652
+128	2	652
+129	1	652
+130	1	652
+172	2	652
+175	1	652
+191	1	652
+274	1	652
+339	1	652
+365	1	652
+370	1	652
+376	1	652
+387	1	652
+390	1	652
+445	1	652
+449	1	652
+453	2	652
+469	1	652
+560	1	652
+577	1	652
+585	1	652
+599	1	652
+625	1	652
+629	1	652
+634	1	652
+640	1	652
+643	1	652
+644	1	652
+646	1	652
+647	1	652
+648	1	652
+649	1	652
+652	8	652
+660	2	652
+665	1	652
+752	1	652
+754	1	652
+762	2	652
+780	1	652
+785	1	652
+803	1	652
+812	1	652
+823	1	652
+825	1	652
+827	1	652
+829	1	652
+830	1	652
+856	1	652
+886	1	652
+888	2	652
+895	1	652
+913	1	652
+919	1	652
+943	1	652
+963	1	652
+1003	1	652
+1004	1	652
+1022	1	652
+1045	1	652
+1257	1	652
+1258	1	652
+1268	1	652
+1282	1	652
+1291	1	652
+1315	1	652
+1340	1	652
+1376	1	652
+1403	1	652
+1433	1	652
+1441	1	652
+1445	1	652
+1457	1	652
+1457	1	652

@@ -1,0 +1,58 @@
+Alternatives to the present rule for entry of serials in the Anglo-American
+Cataloging Rules (AACR) are identified and arguments relating to the concept of
+authorship for serials are summarized.. The varying concepts of "title" in
+AACR, the International Serials Data System, and ISBD(S): International Standard
+Bibliographic Description for Serials are compared and the next steps relating 
+to code revision and attempts at international agreement are described..
+.X
+92	1	1000
+141	1	1000
+235	1	1000
+246	1	1000
+247	1	1000
+326	1	1000
+333	2	1000
+363	1	1000
+409	1	1000
+541	2	1000
+645	1	1000
+647	1	1000
+651	1	1000
+739	1	1000
+877	1	1000
+878	1	1000
+881	2	1000
+882	3	1000
+883	1	1000
+884	1	1000
+885	1	1000
+886	1	1000
+887	1	1000
+888	1	1000
+904	4	1000
+917	1	1000
+919	1	1000
+920	1	1000
+921	1	1000
+950	1	1000
+987	1	1000
+988	1	1000
+991	1	1000
+997	1	1000
+999	5	1000
+1000	7	1000
+1001	5	1000
+1002	5	1000
+1003	5	1000
+1004	2	1000
+1013	1	1000
+1060	1	1000
+1153	1	1000
+1216	1	1000
+1266	1	1000
+1375	1	1000
+1376	1	1000
+1395	1	1000
+1437	1	1000
+1441	1	1000
+1441	1	1000

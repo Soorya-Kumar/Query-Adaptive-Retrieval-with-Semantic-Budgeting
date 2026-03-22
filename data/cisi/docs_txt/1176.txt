@@ -1,0 +1,26 @@
+The article presents preliminary results of an analysis of current technical
+bibliographies, specifically, in the field of metallurgy, conducted at the 
+Chair of Technical Literature, Leningrad Krupskaya Institute of Culture.. The
+bibliographies have been analyzed in terms of selection quality and coverage; 
+attention was focused mainly on permanent publications based on rich experience 
+and elaborated procedures.. "Metallurgiya" abstract journal is shown to hold
+the lead among chief world publications in metallurgy in respect of scope,
+coverage, and depth of indexing..
+.X
+485	1	1176
+582	1	1176
+770	1	1176
+776	2	1176
+789	1	1176
+893	1	1176
+1097	2	1176
+1098	1	1176
+1100	1	1176
+1122	1	1176
+1161	1	1176
+1167	1	1176
+1168	1	1176
+1172	1	1176
+1174	1	1176
+1176	6	1176
+1176	6	1176

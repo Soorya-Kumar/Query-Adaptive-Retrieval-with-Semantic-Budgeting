@@ -1,0 +1,39 @@
+It is the purpose of this book to present a firm theoretical basis for
+numerical taxonomy, to show why we believe numerical taxonomy has
+advantages over conventionally practiced taxonomy, to report on the
+previous advances made in the field so far, and to furnish newcomers in
+the field with a detailed step-by-step description of the procedures
+employed in numerical taxonomy.
+.X
+72	1	1218
+160	1	1218
+175	3	1218
+176	1	1218
+321	1	1218
+327	1	1218
+419	1	1218
+420	1	1218
+422	1	1218
+458	1	1218
+509	1	1218
+537	1	1218
+558	1	1218
+562	2	1218
+564	1	1218
+566	1	1218
+570	1	1218
+572	1	1218
+628	1	1218
+660	2	1218
+662	1	1218
+785	1	1218
+795	1	1218
+803	1	1218
+1044	3	1218
+1092	1	1218
+1154	1	1218
+1202	1	1218
+1218	10	1218
+1309	1	1218
+1327	1	1218
+1327	1	1218

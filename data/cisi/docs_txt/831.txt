@@ -1,0 +1,57 @@
+The proposition is examined that large-scale photocopying, such as that 
+practised by the British Library Lending Division, affects the sales of 
+journals.. There is little evidence of a reduction in journal circulation
+figures.. In spite of large increases in journal prices (which have risen much
+faster, in terms of cost per page, than the Retail Price Index), university
+libraries have, since the NLLST was established, devoted an increasingly high 
+proportion of their budgets to journals, though recent financial pressures are 
+now forcing cancellation.. An extensive survey of demand for journals at BLLD 
+shows a heavy concentration on a relatively small number of titles, most of them 
+well established journals, widely held by libraries and with large 
+circulations.. The demand for in-print issues of the average journal is small..
+It is concluded, in the absence of any evidence to the contrary, that economic
+difficulties experienced by journals publishers and the increased demand on the 
+BLLD are unrelated, though both owe something to the economic pressures on 
+libraries..
+.X
+10	1	831
+48	1	831
+128	1	831
+167	2	831
+198	1	831
+330	1	831
+393	1	831
+614	1	831
+623	1	831
+635	1	831
+638	1	831
+729	1	831
+744	1	831
+748	2	831
+753	1	831
+756	1	831
+757	3	831
+787	1	831
+792	2	831
+821	1	831
+831	9	831
+888	1	831
+893	1	831
+952	1	831
+953	1	831
+1083	1	831
+1210	1	831
+1241	1	831
+1254	1	831
+1256	1	831
+1260	1	831
+1275	1	831
+1278	1	831
+1302	1	831
+1369	1	831
+1373	1	831
+1375	1	831
+1376	1	831
+1390	1	831
+1418	1	831
+1418	1	831

@@ -1,0 +1,44 @@
+Two research keys (4,5 and 3,3) are analyzed using a probability formula on
+a bibliographic file of 857,725 records.. Assuming random requests by record 
+permits the creation of a predictive model which more closely approximates 
+the actual behavior of a search and retrieval system as determined by a usage 
+survey..
+.X
+141	1	871
+244	1	871
+299	1	871
+365	1	871
+529	1	871
+630	1	871
+822	1	871
+854	1	871
+868	4	871
+869	4	871
+871	6	871
+872	2	871
+873	1	871
+874	1	871
+875	1	871
+876	3	871
+877	1	871
+878	1	871
+879	1	871
+880	1	871
+892	1	871
+940	1	871
+941	1	871
+990	1	871
+994	1	871
+997	1	871
+998	1	871
+1079	1	871
+1143	1	871
+1196	3	871
+1197	1	871
+1230	1	871
+1257	1	871
+1303	1	871
+1396	1	871
+1435	1	871
+1436	1	871
+1436	1	871

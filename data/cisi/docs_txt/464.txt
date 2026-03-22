@@ -1,0 +1,29 @@
+The notion of "similarity" as defined in this paper is essentially a 
+generalization of the notion of equivalence.. In the same vein, a fuzzy ordering
+is a generalization of the concept of ordering.. For example, the relation 
+x >> y is a fuzzy linear ordering in the set of real numbers..
+   More correctly, a similarity relation, S is a fuzzy relation which is
+reflexive, symmetric, and transitive..
+   Various properties of similarity relations and fuzzy ordering are 
+investigated and, as an illustration, an extended version of Szpilrajn's 
+theorem is proved..
+.X
+175	1	464
+179	1	464
+397	3	464
+417	3	464
+430	4	464
+443	3	464
+455	6	464
+464	7	464
+509	1	464
+564	1	464
+566	1	464
+745	3	464
+853	1	464
+1117	1	464
+1140	1	464
+1204	3	464
+1398	3	464
+1427	3	464
+1427	3	464

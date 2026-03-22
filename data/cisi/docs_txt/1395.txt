@@ -1,0 +1,53 @@
+The alphabetical subject catalog, either self-contained, or as the subject
+element in the dictionary catalog, is a later development that the systematic,
+or classed, catalog (Realkatalog, catalogue raisonne).  In this country it
+has almost completely displaced the latter.  The principal classed catalogs   
+now remaining are those of the Engineering Societies Library in New York,
+the John Crerar Library in Chicago, and the Science and Technology Department
+of the Carnegie Library of Pittsburgh.  There are, nevertheless, many things
+to commend the classed catalog.  Rudolf Kaiser sums up the argument between
+the classed and the dictionary catalog by stating that a library needs both
+and explaining that the subject index fills the need as far as an alphabetical
+catalog is concerned.  However, his conclusion misses the mark, since, for
+one not completely the master of the system of classification, there is no
+approach to the classed catalog save through an index, yet the index is not
+in fact as complete and direct a guide to the subject content of the library's
+collections as an alphabetical catalog rationally and fully cross-referenced.
+.X
+79	1	1395
+92	1	1395
+159	1	1395
+235	1	1395
+246	1	1395
+247	1	1395
+324	1	1395
+326	1	1395
+333	1	1395
+354	1	1395
+361	1	1395
+382	1	1395
+502	1	1395
+608	1	1395
+825	1	1395
+838	1	1395
+874	1	1395
+884	1	1395
+887	1	1395
+892	1	1395
+950	1	1395
+966	1	1395
+970	1	1395
+991	1	1395
+997	2	1395
+998	1	1395
+1000	1	1395
+1153	1	1395
+1216	2	1395
+1265	1	1395
+1266	2	1395
+1394	1	1395
+1395	9	1395
+1421	1	1395
+1441	1	1395
+1445	1	1395
+1445	1	1395

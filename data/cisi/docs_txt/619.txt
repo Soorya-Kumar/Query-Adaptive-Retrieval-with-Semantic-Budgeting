@@ -1,0 +1,122 @@
+Initiated as an experiment, supported by the Division of Medicinal
+Chemistry of Walter Reed Army Institute of Research, the operational
+retrospective retrieval service offered by BIOSIS, now in its eighth year, 
+exploits a file created essentially without vocabulary control.. The file
+comprises some 40 million index access points to 1.87 million references
+in research biology announced in Biological Abstracts and BioResearch
+Index since September 1959.. A pragmatic program of file building criteria
+has been pursued, originally with modest support from the Office of Science
+Information Service of the National Science Foundation, which has provided
+improved retrieval and an annual summary of the vocabulary of the literature
+available to anyone interested (1)..
+.X
+18	1	619
+57	1	619
+75	1	619
+125	1	619
+145	1	619
+175	1	619
+176	1	619
+211	1	619
+224	1	619
+298	1	619
+327	1	619
+329	1	619
+378	1	619
+381	1	619
+389	1	619
+440	1	619
+452	1	619
+453	1	619
+456	1	619
+458	1	619
+467	1	619
+468	1	619
+495	1	619
+506	1	619
+508	1	619
+511	1	619
+512	1	619
+514	2	619
+517	1	619
+520	1	619
+521	1	619
+523	1	619
+524	1	619
+526	1	619
+528	1	619
+554	1	619
+565	1	619
+572	1	619
+575	1	619
+576	1	619
+579	1	619
+580	1	619
+591	1	619
+594	1	619
+595	2	619
+596	1	619
+599	1	619
+603	1	619
+604	1	619
+606	1	619
+608	1	619
+609	1	619
+612	1	619
+615	1	619
+619	6	619
+620	1	619
+621	1	619
+622	1	619
+623	1	619
+625	1	619
+629	1	619
+630	1	619
+631	1	619
+632	1	619
+633	1	619
+699	1	619
+700	1	619
+705	1	619
+707	1	619
+723	1	619
+726	1	619
+727	1	619
+728	1	619
+729	1	619
+730	1	619
+731	1	619
+752	1	619
+754	1	619
+780	1	619
+810	1	619
+812	2	619
+813	2	619
+814	2	619
+817	1	619
+820	1	619
+822	2	619
+866	1	619
+870	2	619
+873	1	619
+894	1	619
+907	1	619
+928	1	619
+963	1	619
+990	1	619
+991	1	619
+1078	1	619
+1089	1	619
+1091	1	619
+1143	1	619
+1255	1	619
+1264	1	619
+1302	1	619
+1303	1	619
+1366	1	619
+1367	1	619
+1368	1	619
+1396	1	619
+1413	1	619
+1445	1	619
+1445	1	619

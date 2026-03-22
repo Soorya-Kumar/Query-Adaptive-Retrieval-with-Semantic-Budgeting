@@ -1,0 +1,25 @@
+A standard format of progress reports is suggested, based on the experience
+of research institutes and drawing offices.. The schedule of reports and each 
+of their sections proceed from the need for maximum "noise-resistance" of
+reports as used by various categories of users and giving an exhaustive 
+description of final and intermediate R&D results.. The author shows that the
+difference between the notion of "information value" and of "document value"
+dictates a specific approach to organization of the flows of documentary
+information, duplication of data in documents of various kind, and to 
+development of the logical format and literary style of scientific documents..
+.X
+33	1	1174
+789	1	1174
+808	1	1174
+1097	2	1174
+1109	1	1174
+1111	1	1174
+1122	1	1174
+1123	1	1174
+1125	1	1174
+1160	1	1174
+1172	1	1174
+1174	5	1174
+1176	1	1174
+1285	1	1174
+1285	1	1174

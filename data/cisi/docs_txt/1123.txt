@@ -1,0 +1,46 @@
+A study has been carried out dealing with the development of science in
+terms of sets of scientific and technical data.. It is assumed that the 
+characteristics of a rank distribution provide unbiased data to reflect the
+process of differentiation of sciences..
+   Rank distribution over the sets of scientific and technical information are
+characterized by the formation of a "kernel" of the distribution and of the
+"problematic" nature as a phenomenon..
+   A mathematical model is considered to be used for computing the values of
+the "kernelness" and "problematicity" of a rank distribution..
+.X
+39	1	1123
+50	1	1123
+76	1	1123
+151	1	1123
+473	1	1123
+485	1	1123
+504	2	1123
+587	1	1123
+748	1	1123
+773	1	1123
+798	1	1123
+808	2	1123
+1085	1	1123
+1097	1	1123
+1098	2	1123
+1105	1	1123
+1109	1	1123
+1111	1	1123
+1114	1	1123
+1118	1	1123
+1122	2	1123
+1123	12	1123
+1125	2	1123
+1133	1	1123
+1141	1	1123
+1142	1	1123
+1157	1	1123
+1172	3	1123
+1173	1	1123
+1174	1	1123
+1179	1	1123
+1207	1	1123
+1223	1	1123
+1226	1	1123
+1285	1	1123
+1285	1	1123

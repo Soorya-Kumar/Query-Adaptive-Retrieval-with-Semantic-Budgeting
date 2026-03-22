@@ -1,0 +1,43 @@
+Two changes are proposed in the North American text of rule 6 of the
+Anglo-American Cataloging Rules (AACR): the adoption of the British text of 6B
+and the deletion of 6C.. Both of these changes are intended to simplify the
+entry of serials.. With the deletion of 6C, serials would be entered only under 
+title or corporate author.. The adoption of the British text od 6B would in turn
+greatly simplify the remaining choice between title or corporate author..
+.X
+141	1	1002
+333	1	1002
+363	1	1002
+409	1	1002
+541	3	1002
+645	1	1002
+647	1	1002
+651	1	1002
+739	1	1002
+877	1	1002
+878	1	1002
+881	2	1002
+882	3	1002
+883	1	1002
+884	1	1002
+885	1	1002
+886	1	1002
+887	1	1002
+888	1	1002
+904	5	1002
+917	1	1002
+919	1	1002
+920	2	1002
+921	1	1002
+999	6	1002
+1000	5	1002
+1001	6	1002
+1002	6	1002
+1003	6	1002
+1004	2	1002
+1013	1	1002
+1060	1	1002
+1375	1	1002
+1376	1	1002
+1437	1	1002
+1437	1	1002

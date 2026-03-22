@@ -1,0 +1,49 @@
+The authors of this essay were faced with the task of organizing
+a documentation office in which a large number of publications and
+patents in chemistry would have to be processed.  This large collection
+would be made available to a large group of elements without restrictions.
+To permit a large frequency of use, and to maintain this also with increases
+in file sizes, it becomes necessary to limit especially that faction of the
+task which consists in the retrieval activities paper.
+  Savings in the retrieval activity are possible only at the expense of
+greater effort in indexing and by heavier use of technical aids.  We have taken
+the second path by consciously applying the principles	to a highly detailed
+faceted classification.
+.X
+116	3	1072
+117	1	1072
+254	1	1072
+327	1	1072
+490	1	1072
+491	1	1072
+495	1	1072
+512	1	1072
+641	1	1072
+668	1	1072
+670	1	1072
+671	1	1072
+673	1	1072
+677	1	1072
+678	1	1072
+679	1	1072
+682	1	1072
+683	1	1072
+689	2	1072
+690	1	1072
+693	1	1072
+694	1	1072
+695	1	1072
+698	1	1072
+700	1	1072
+704	1	1072
+706	1	1072
+707	1	1072
+727	1	1072
+730	1	1072
+738	1	1072
+833	1	1072
+1026	1	1072
+1072	6	1072
+1292	1	1072
+1452	1	1072
+1452	1	1072

@@ -1,0 +1,41 @@
+A comparison of arrival dates of 5020 LC proofslips and corresponding MARC
+magnetic tape records that four-fifths of the MARC records were received the
+same week as, or earlier than, the proofslips..
+.X
+159	2	859
+178	1	859
+287	1	859
+348	3	859
+382	1	859
+408	1	859
+554	1	859
+582	1	859
+583	1	859
+584	1	859
+585	1	859
+654	1	859
+655	1	859
+797	1	859
+798	1	859
+799	1	859
+851	1	859
+852	1	859
+854	1	859
+856	1	859
+857	2	859
+858	3	859
+859	5	859
+860	1	859
+861	3	859
+862	1	859
+970	1	859
+1012	1	859
+1013	1	859
+1035	1	859
+1043	1	859
+1252	1	859
+1362	1	859
+1363	1	859
+1415	1	859
+1445	1	859
+1445	1	859

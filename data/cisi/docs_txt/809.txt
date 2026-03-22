@@ -1,0 +1,127 @@
+ASSASSIN as designed and operated by ICI Agricultural Division, provides from
+a single paper tape input a current awareness service by SDI and a retrospective
+search both by a weighted term machine search and printed KWOC-type indexes.. 
+Programs for producing structured thesauri are part of the package.. Input is in
+the form of abstracts from both published and internal source..  
+   The system has operated for more than a year at the Agricultural Division and
+is currently in use at five other locations.. Flexibility of the package is
+demonstrated by the variety of applications..
+   This paper outlines the various applications and shows how a single package
+may be used complete, or in part, or with modification.. Machine costs are given
+for the major application..
+   The system was designed with the possible input of externally produced 
+machine readable data in mind.. The intended application of the package in
+conjunction with tapes such as those of the Institute for Scientific Information
+source and Chemical Abstracts Condensates is outlined..
+.X
+18	1	809
+34	1	809
+49	1	809
+51	1	809
+53	1	809
+59	1	809
+69	1	809
+71	1	809
+77	1	809
+79	1	809
+91	1	809
+164	2	809
+168	1	809
+175	1	809
+176	1	809
+202	1	809
+213	1	809
+224	1	809
+243	1	809
+315	1	809
+382	1	809
+421	2	809
+439	1	809
+440	1	809
+448	1	809
+465	1	809
+466	1	809
+480	1	809
+483	1	809
+484	1	809
+486	1	809
+488	1	809
+490	1	809
+491	2	809
+493	1	809
+503	1	809
+506	1	809
+507	2	809
+509	1	809
+510	2	809
+512	3	809
+517	1	809
+520	1	809
+522	1	809
+527	1	809
+528	1	809
+531	1	809
+565	1	809
+566	1	809
+580	1	809
+581	1	809
+591	2	809
+595	1	809
+596	1	809
+603	2	809
+604	1	809
+608	1	809
+609	1	809
+622	1	809
+623	1	809
+629	1	809
+633	2	809
+639	1	809
+659	2	809
+676	1	809
+687	1	809
+696	1	809
+711	1	809
+714	1	809
+715	1	809
+722	1	809
+723	1	809
+726	1	809
+727	1	809
+728	1	809
+730	1	809
+731	1	809
+732	1	809
+754	1	809
+790	1	809
+805	1	809
+809	5	809
+810	2	809
+812	1	809
+813	3	809
+814	2	809
+817	1	809
+820	1	809
+822	1	809
+824	1	809
+825	1	809
+828	1	809
+870	2	809
+879	1	809
+894	1	809
+1051	1	809
+1089	1	809
+1091	1	809
+1283	1	809
+1294	1	809
+1298	2	809
+1299	1	809
+1327	1	809
+1363	1	809
+1366	1	809
+1367	1	809
+1368	1	809
+1396	2	809
+1419	1	809
+1427	1	809
+1427	1	809

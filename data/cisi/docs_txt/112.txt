@@ -1,0 +1,100 @@
+In sociology today, as in other sciences, the professional
+journals serve as major channels for the dissemination of
+ideas and information.  The papers presented in the
+principal periodicals reach a wide audience among sociologists,
+are acknowledged as the best work, and stand as
+models for all who aspire to success.  The viewpoints, conceptual 
+schemes, interests, and methodologies reflected in
+these articles are therefore significant influences on both
+the current character and the future development of our
+discipline.
+.X
+33	1	112
+36	1	112
+41	1	112
+48	1	112
+88	1	112
+89	1	112
+97	1	112
+102	2	112
+103	1	112
+104	1	112
+106	1	112
+107	1	112
+110	2	112
+111	5	112
+112	8	112
+113	4	112
+163	1	112
+170	1	112
+183	1	112
+184	1	112
+193	1	112
+199	2	112
+203	1	112
+210	1	112
+225	1	112
+269	1	112
+360	1	112
+373	1	112
+456	1	112
+487	1	112
+545	2	112
+552	1	112
+560	1	112
+587	1	112
+605	1	112
+613	1	112
+614	1	112
+638	1	112
+735	1	112
+747	1	112
+750	1	112
+753	1	112
+766	1	112
+767	1	112
+775	1	112
+782	1	112
+784	1	112
+788	1	112
+789	1	112
+793	3	112
+800	1	112
+808	1	112
+905	1	112
+911	1	112
+953	1	112
+977	1	112
+983	1	112
+1016	1	112
+1023	1	112
+1030	1	112
+1055	1	112
+1062	1	112
+1087	1	112
+1090	1	112
+1135	1	112
+1260	1	112
+1275	1	112
+1276	1	112
+1278	1	112
+1280	1	112
+1285	2	112
+1286	1	112
+1287	2	112
+1291	1	112
+1300	1	112
+1302	2	112
+1315	1	112
+1335	2	112
+1340	2	112
+1344	1	112
+1345	1	112
+1346	1	112
+1347	2	112
+1390	1	112
+1397	1	112
+1417	1	112
+1428	1	112
+1432	1	112
+1432	1	112

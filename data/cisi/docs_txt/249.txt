@@ -1,0 +1,59 @@
+This report summarizes the results of the fourteen-month feasibility
+study -- the Colorado Academic Libraries Book Processing Center
+project (CALBPC).  The report is organized under nine major sections:
+I. Background; II. Participating Libraries -- Operational Characteristics;
+III. Cost Analysis; IV. Business Office Procedures; V. The Book Processing
+Center; VI. Approval Plan Utilization; VII.  Mathematical Model/Simulation;
+VIII. Attitude Survey; IX. Conclusions and Recommendations.
+.X
+158	1	249
+178	1	249
+217	1	249
+243	1	249
+245	2	249
+249	21	249
+250	2	249
+271	1	249
+282	1	249
+291	1	249
+292	1	249
+295	1	249
+331	1	249
+350	1	249
+364	1	249
+365	1	249
+385	1	249
+394	1	249
+408	2	249
+431	1	249
+598	1	249
+779	1	249
+823	1	249
+841	1	249
+842	1	249
+872	1	249
+925	2	249
+926	1	249
+930	1	249
+938	1	249
+948	1	249
+963	1	249
+974	1	249
+981	2	249
+984	1	249
+1007	1	249
+1043	2	249
+1242	1	249
+1247	1	249
+1252	1	249
+1257	1	249
+1317	3	249
+1358	1	249
+1390	1	249
+1393	1	249
+1400	2	249
+1401	1	249
+1403	1	249
+1410	1	249
+1439	1	249
+1439	1	249

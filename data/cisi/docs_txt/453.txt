@@ -1,0 +1,113 @@
+The primary purpose of this study is to estimate the supply of,
+and above all the demand for, scientific and technical information;
+its secondary objective is to make a long-term assessment of
+qualitative and quantitative requirements for information specialists.
+In both instances, of course, future technical developments, as far
+as they can be foreseen, must be taken into account.
+    At the same time, like most work sponsored by the OECD, its aim
+is to identify significant criteria for defining a policy - in this
+case an information policy, which is greatly needed in all OECD countries.
+.X
+18	1	453
+119	1	453
+122	1	453
+125	1	453
+128	1	453
+130	1	453
+145	1	453
+172	1	453
+191	1	453
+211	1	453
+339	1	453
+365	2	453
+370	1	453
+376	1	453
+378	1	453
+387	1	453
+394	1	453
+416	1	453
+440	1	453
+452	1	453
+453	9	453
+467	1	453
+468	1	453
+495	1	453
+506	1	453
+508	1	453
+511	1	453
+512	1	453
+514	1	453
+517	1	453
+520	1	453
+521	1	453
+523	1	453
+524	1	453
+526	2	453
+528	2	453
+576	1	453
+580	1	453
+591	1	453
+604	1	453
+609	1	453
+612	2	453
+619	1	453
+622	1	453
+623	1	453
+629	2	453
+631	1	453
+632	1	453
+633	1	453
+648	1	453
+652	2	453
+699	1	453
+700	1	453
+705	1	453
+707	1	453
+723	1	453
+726	1	453
+727	1	453
+728	1	453
+729	1	453
+730	1	453
+731	1	453
+754	1	453
+812	1	453
+813	1	453
+814	1	453
+820	1	453
+822	1	453
+825	1	453
+856	1	453
+866	1	453
+870	1	453
+872	1	453
+873	1	453
+886	1	453
+888	1	453
+913	1	453
+940	1	453
+943	1	453
+963	1	453
+1004	1	453
+1078	1	453
+1089	1	453
+1091	1	453
+1143	2	453
+1247	1	453
+1257	1	453
+1258	1	453
+1264	2	453
+1302	1	453
+1303	1	453
+1366	1	453
+1367	2	453
+1368	1	453
+1376	1	453
+1396	1	453
+1403	1	453
+1433	1	453
+1435	1	453
+1436	1	453
+1441	1	453
+1457	1	453
+1457	1	453

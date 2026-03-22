@@ -1,0 +1,50 @@
+The computerized information centre of the European Atomic Energy Community
+has become operational.. A survey of its principal characteristics is given, and
+the main problems that arose in the development phase of the system are 
+discussed.. The Euratom Thesaurus includes graphic representation of 
+relationships between indexing terms.. A dual vocabulary allows specific 
+indexing for high relevance and generic indexing for high recall.. Retrieval 
+strategy involves utilization of Boolean operators and frequency-of-occurrence 
+tables.. Recall ration can be determined graphically by a continuous approach 
+method.. Indexing consistency tests show that it pays to use subject 
+specialists.. User's needs are discussed in terms of subject coverage, 
+specificity, rapidity, and presentation.. The user service comprises 
+retrospective searches on request as well as customer profile service on 
+subscription.. There are three types of relevance, and various ways of bringing
+system relevance to coincide with user relevance.. The Centre's budgetary 
+requirements are low, due to circumspect use of its computer, an IBM 360, model
+40.. Its aims are centralization of documentation in the nuclear field and
+international co-operation..
+.X
+39	1	773
+50	1	773
+54	1	773
+151	1	773
+326	1	773
+446	1	773
+473	1	773
+474	1	773
+485	1	773
+503	1	773
+504	1	773
+572	1	773
+616	1	773
+632	1	773
+746	1	773
+773	8	773
+798	1	773
+958	1	773
+966	1	773
+1011	1	773
+1118	1	773
+1122	1	773
+1123	1	773
+1133	1	773
+1141	1	773
+1207	1	773
+1226	1	773
+1255	1	773
+1282	1	773
+1283	1	773
+1426	1	773
+1426	1	773

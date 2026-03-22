@@ -1,0 +1,60 @@
+Responding to the heightened interest in the possibilities of networks,
+and reflecting its own continuing interest in improving the use of new
+technologies in research and education, the National Science Foundation
+in 1972 announced the mounting of "an expanded research program . . .
+to explore . . . the resource-sharing potential of a national network in
+support of research and education."  The NSF was well aware of the obstacles
+and uncertainties, and it knew that although shareable resources and
+pockets of relevant information and experience existed, many of the people
+who should be involved in planning were not currently informed or discussing
+the possibilities with one another.
+.X
+10	1	1146
+124	1	1146
+190	1	1146
+225	1	1146
+244	1	1146
+304	1	1146
+305	1	1146
+306	1	1146
+358	1	1146
+385	1	1146
+394	1	1146
+433	1	1146
+459	2	1146
+530	1	1146
+534	1	1146
+642	1	1146
+643	1	1146
+648	1	1146
+702	1	1146
+731	1	1146
+732	1	1146
+734	1	1146
+736	1	1146
+742	1	1146
+743	1	1146
+817	1	1146
+820	1	1146
+823	1	1146
+824	1	1146
+825	2	1146
+826	1	1146
+827	1	1146
+828	1	1146
+880	1	1146
+883	1	1146
+947	1	1146
+948	1	1146
+1017	1	1146
+1058	1	1146
+1061	1	1146
+1146	6	1146
+1215	1	1146
+1230	1	1146
+1257	1	1146
+1374	1	1146
+1375	1	1146
+1390	1	1146
+1441	1	1146
+1441	1	1146

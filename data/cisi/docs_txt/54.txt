@@ -1,0 +1,27 @@
+The evolution described below of one aspect of the NASA
+system and Technical Information Facility's machine search
+system may be of general interest to the documentation
+profession.
+.X
+49	1	54
+54	7	54
+73	1	54
+150	1	54
+319	2	54
+465	1	54
+480	1	54
+509	1	54
+519	1	54
+565	1	54
+625	1	54
+660	2	54
+714	2	54
+748	1	54
+773	1	54
+780	1	54
+785	1	54
+810	2	54
+1279	1	54
+1307	1	54
+1427	1	54
+1427	1	54

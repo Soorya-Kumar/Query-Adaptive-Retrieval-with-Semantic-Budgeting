@@ -1,0 +1,24 @@
+The dynamics of the growth of biological publications is investigated.. An
+analysis of this growth reveals certain uniformities in the evolution of 
+scientific communications, which depend on the field of biology, and discloses 
+the uneven rate of development in the individual fields.. It is concluded that
+the specialty is a major factor to be taken into account in defining the volume
+of information necessary for a specialist..
+.X
+37	1	1168
+40	1	1168
+180	1	1168
+416	1	1168
+1098	1	1168
+1100	1	1168
+1157	1	1168
+1160	1	1168
+1168	8	1168
+1172	1	1168
+1173	1	1168
+1176	1	1168
+1177	1	1168
+1182	1	1168
+1223	1	1168
+1381	1	1168
+1381	1	1168

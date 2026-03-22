@@ -1,0 +1,60 @@
+We can only guess what historians of the 
+future will say about the condition of
+present-day sociology.  But it seems
+safe to anticipate one of their observations.
+When the Trevelyans of 2050 come to write that 
+history - as they well might, for this clan
+of historians promises to go on forever -
+they will doubtless find it strange that so
+few sociologists (and historians) of the
+twentieth century could bring themselves,
+in their work, to treat science as one of the
+great social institutions of the time.  They
+will observe that long after the sociology of
+science became an identifiable field of
+inquiry, it remained little cultivated in a
+world where science loomed large enough to
+present mankind with the choice of destruction
+or survival.  They may even suggest
+that somewhere in the process by which social
+scientists take note of the world as it is
+and as it once was, a sense of values appears
+to have become badly scrambled.
+.X
+48	1	100
+89	1	100
+95	1	100
+98	1	100
+100	7	100
+102	1	100
+106	1	100
+107	2	100
+108	1	100
+111	1	100
+113	1	100
+314	1	100
+343	1	100
+359	1	100
+386	1	100
+475	1	100
+544	1	100
+545	1	100
+602	1	100
+1062	1	100
+1083	1	100
+1085	1	100
+1187	1	100
+1285	1	100
+1288	1	100
+1291	1	100
+1296	1	100
+1300	1	100
+1301	1	100
+1302	1	100
+1312	1	100
+1313	1	100
+1337	1	100
+1338	1	100
+1345	1	100
+1386	3	100
+1386	3	100

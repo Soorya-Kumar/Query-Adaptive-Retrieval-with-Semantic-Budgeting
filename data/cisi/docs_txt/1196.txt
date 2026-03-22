@@ -1,0 +1,40 @@
+An experiment to produce information on the utility of co-ordinating derived,
+truncated search keys as enquiry terms to an on-line bibliographic system was
+performed on a file of 132,808 name-title entries.. Statistics on the number 
+of entries associated with each key for keys varying from four to eight 
+characters in length were obtained.. Assuming use of a keyboard cathode ray 
+tube terminal capable of displaying at least ten lines of text, and taking
+spelling error probabilities into account, a derived key consisting of the 
+first three characters of author name concatenate with the first three  
+characters of title was determined to be effective for at least four-fifths of
+all academic libraries..
+.X
+90	2	1196
+316	1	1196
+318	1	1196
+329	1	1196
+348	1	1196
+359	1	1196
+416	1	1196
+511	1	1196
+620	1	1196
+700	1	1196
+791	1	1196
+835	1	1196
+836	3	1196
+851	3	1196
+856	1	1196
+862	1	1196
+867	1	1196
+868	9	1196
+869	7	1196
+871	3	1196
+872	4	1196
+875	1	1196
+876	2	1196
+897	1	1196
+1193	1	1196
+1194	1	1196
+1196	16	1196
+1197	4	1196
+1197	4	1196

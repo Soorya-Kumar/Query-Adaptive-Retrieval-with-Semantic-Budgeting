@@ -1,0 +1,75 @@
+This paper describes progress which has been made toward the development of
+a procedural model intended as a code of good practice to enable special 
+librarians to effect economies in their journal holdings by systematically 
+planned use of the BLL..
+   A theoretical model suggested by B. C. Brookes was tested on various sets of 
+usage data from seven special libraries but the results proved to be unrealistic
+in terms of immediate provision to the user.. A new experimental approach has 
+now been developed based on the total use versus total cost of a journal 
+collection..
+.X
+10	1	167
+48	1	167
+128	1	167
+129	1	167
+130	1	167
+167	6	167
+223	1	167
+225	1	167
+234	1	167
+280	1	167
+359	1	167
+393	1	167
+468	1	167
+494	1	167
+551	1	167
+614	1	167
+625	1	167
+634	1	167
+635	1	167
+638	1	167
+639	1	167
+646	1	167
+647	1	167
+651	1	167
+748	2	167
+753	1	167
+756	2	167
+757	1	167
+765	1	167
+787	1	167
+792	2	167
+818	1	167
+821	1	167
+822	1	167
+823	1	167
+827	1	167
+831	2	167
+925	1	167
+942	1	167
+943	1	167
+944	1	167
+947	1	167
+952	1	167
+953	1	167
+1070	1	167
+1083	1	167
+1085	1	167
+1210	1	167
+1254	1	167
+1256	1	167
+1258	1	167
+1260	1	167
+1275	1	167
+1278	1	167
+1302	1	167
+1305	1	167
+1306	1	167
+1369	1	167
+1373	1	167
+1374	1	167
+1390	2	167
+1401	1	167
+1418	1	167
+1437	1	167
+1437	1	167

@@ -1,0 +1,89 @@
+In this paper I propose a bibliographic system for science literature that can
+eliminate the uncritical citation of fraudulent, incomplete, or obsolete data by
+making it possible for the conscientious scholar to be aware of criticisms of
+earlier papers.  It is too much to expect a research worker to spend an 
+inordinate amount of time searching for the bibliographic descendants of 
+antecedent papers. It would not be excessive to demand that the thorough 
+scholar check all papers that have cited or criticized such papers, if they 
+could be located quickly.  The citation index makes this check practicable.  
+Even if there were no other use for a citation index than that of minimizing 
+the citation of poor data, the index would be well worth the effort
+required to compile it.
+  This paper considers the possible utility of a citation index that offers a 
+new approach to subject control of the literature of science.  By virtue of 
+its different construction, it tends to bring together material that would 
+never be collated by the usual subject indexing.  It is best described as an 
+association-of-ideas index, and it gives the reader as much leeway
+as he requires.  Suggestiveness through association-of-ideas is offered by
+conventional subject indexes but only within the limits of a particular subject
+heading.
+.X
+19	1	1277
+37	1	1277
+39	2	1277
+40	1	1277
+41	1	1277
+47	2	1277
+50	1	1277
+88	1	1277
+97	1	1277
+102	1	1277
+103	1	1277
+175	1	1277
+233	1	1277
+253	1	1277
+313	1	1277
+359	1	1277
+377	3	1277
+379	1	1277
+395	1	1277
+485	1	1277
+486	1	1277
+503	1	1277
+505	1	1277
+560	1	1277
+573	1	1277
+618	1	1277
+632	2	1277
+635	1	1277
+667	1	1277
+713	1	1277
+748	1	1277
+749	1	1277
+751	1	1277
+764	1	1277
+765	1	1277
+777	1	1277
+778	1	1277
+782	1	1277
+804	1	1277
+805	1	1277
+893	1	1277
+952	1	1277
+1010	1	1277
+1016	1	1277
+1061	1	1277
+1085	1	1277
+1086	1	1277
+1087	1	1277
+1182	1	1277
+1200	1	1277
+1234	1	1277
+1274	2	1277
+1277	8	1277
+1278	1	1277
+1280	2	1277
+1283	1	1277
+1285	3	1277
+1287	3	1277
+1301	1	1277
+1302	2	1277
+1304	1	1277
+1313	2	1277
+1338	1	1277
+1344	1	1277
+1347	2	1277
+1380	1	1277
+1428	1	1277
+1444	1	1277
+1444	1	1277

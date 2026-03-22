@@ -1,0 +1,63 @@
+The criteria employed by engineers in the selection of various technical
+information channels in problem-solving endeavors are investigated.. The
+relationships of certain criteria identified in past research to such factors 
+as frequency of channel utilization and the rate at which engineers accept or
+reject technical information received from specific channels are the focal 
+points of the study.. A direct relationship is founded between perceived
+accessibility of information channels and several objective measures of 
+utilization, whereas no definite support is found for the hypothesis that the 
+channel perceived highest in technical quality are those used most frequently..
+.X
+15	1	658
+24	1	658
+62	1	658
+65	1	658
+66	1	658
+75	1	658
+76	1	658
+96	2	658
+137	1	658
+152	1	658
+157	1	658
+210	1	658
+278	1	658
+279	1	658
+280	1	658
+356	1	658
+371	1	658
+382	1	658
+386	1	658
+391	2	658
+395	1	658
+398	1	658
+426	1	658
+436	2	658
+437	2	658
+475	3	658
+656	1	658
+658	9	658
+716	1	658
+748	1	658
+760	1	658
+770	1	658
+771	2	658
+776	1	658
+782	1	658
+788	2	658
+789	1	658
+837	1	658
+925	1	658
+967	1	658
+1036	1	658
+1050	2	658
+1083	1	658
+1154	1	658
+1254	1	658
+1285	1	658
+1288	2	658
+1321	1	658
+1361	2	658
+1400	1	658
+1404	2	658
+1408	1	658
+1408	1	658

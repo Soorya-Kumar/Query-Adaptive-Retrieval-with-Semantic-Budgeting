@@ -1,0 +1,72 @@
+The work published here is rather like those conclusive statements
+of renaissance science that located the soul not in the human frame but
+in the human spirit.  The author of this work may face the wrath of the
+medievalists among our fellow professional catalogers.  At the least, the
+publication of this book should encourage a complete reappraisal of our
+cataloging methods, because the difference between title unit entry and
+author-equivalent unit entry, a confabulation of main and unit entry
+arising from tradition rather than practicality, can be clearly seen not 
+only in the job classifications and job descriptions of cataloging
+departments, but also in our philosophy of librarianship.
+.X
+92	1	333
+141	1	333
+235	1	333
+246	2	333
+247	1	333
+299	2	333
+326	1	333
+333	11	333
+342	1	333
+449	1	333
+522	1	333
+530	2	333
+541	2	333
+553	1	333
+627	2	333
+628	3	333
+802	1	333
+819	1	333
+873	1	333
+874	3	333
+875	2	333
+876	1	333
+877	1	333
+878	1	333
+892	2	333
+904	1	333
+940	2	333
+941	3	333
+950	2	333
+991	1	333
+992	1	333
+993	1	333
+994	1	333
+995	3	333
+996	1	333
+997	2	333
+998	1	333
+999	1	333
+1000	2	333
+1001	1	333
+1002	1	333
+1003	1	333
+1013	1	333
+1079	3	333
+1153	2	333
+1189	1	333
+1216	2	333
+1251	1	333
+1266	1	333
+1351	2	333
+1395	1	333
+1396	1	333
+1420	2	333
+1421	1	333
+1433	1	333
+1434	3	333
+1435	3	333
+1436	1	333
+1441	1	333
+1442	2	333
+1442	2	333

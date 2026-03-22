@@ -1,0 +1,52 @@
+Many methods of library management are no longer sufficient to meet the more
+sophisticated demands of today.. A promising management technique for 
+librarians is "managements by objectives", which helps to establish library 
+goals, measure performance objectively, and to identify factors affecting an
+operation's final results..
+.X
+9	1	302
+14	1	302
+207	1	302
+222	1	302
+223	1	302
+285	1	302
+296	2	302
+297	1	302
+298	1	302
+300	1	302
+301	2	302
+302	5	302
+358	1	302
+364	1	302
+418	1	302
+515	1	302
+535	1	302
+625	1	302
+629	1	302
+631	1	302
+634	1	302
+791	1	302
+811	1	302
+816	1	302
+818	1	302
+823	1	302
+843	1	302
+844	1	302
+846	1	302
+915	1	302
+925	1	302
+961	1	302
+962	1	302
+964	1	302
+994	1	302
+1015	2	302
+1069	1	302
+1070	1	302
+1214	1	302
+1242	1	302
+1247	1	302
+1268	1	302
+1354	1	302
+1424	1	302
+1454	1	302
+1454	1	302

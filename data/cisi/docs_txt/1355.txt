@@ -1,0 +1,38 @@
+After considering several different methods, it was concluded that primary
+journals for coverage of a given field can be selected rationally on the basis 
+of their citation frequencies in an appropriate secondary journal.  Results
+obtained on the example used, "rehabilitation" as cited in Index Medicus during 
+the years 1968-1971, were similar to those from five other fields, in that the 
+number of journals required for each percent gain in literature coverage 
+increased exponentially as the percentage of literature itself increased.  As 
+a consequence, library coverage of any particular field can be specified as a 
+function of its budgeting commitment, so that the maximum percent
+coverage will be obtained for each dollar spent.
+.X
+193	1	1355
+195	1	1355
+196	1	1355
+198	1	1355
+201	1	1355
+219	1	1355
+379	1	1355
+543	1	1355
+588	1	1355
+614	2	1355
+616	2	1355
+638	2	1355
+685	1	1355
+735	1	1355
+764	1	1355
+775	1	1355
+821	2	1355
+905	1	1355
+1111	1	1355
+1114	1	1355
+1275	2	1355
+1290	1	1355
+1302	3	1355
+1355	5	1355
+1369	2	1355
+1397	1	1355
+1397	1	1355

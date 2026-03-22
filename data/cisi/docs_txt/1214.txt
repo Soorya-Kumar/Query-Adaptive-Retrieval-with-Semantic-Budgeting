@@ -1,0 +1,33 @@
+We have available today the knowledge and experience needed
+for the successful practice of management.  But there is probably no
+field of human endeavor where the always tremendous gap between
+the knowledge and performance of the leaders and the knowledge
+and performance of the average is wider or more intractable.  This
+book does not exclude from its aims the advancement of the frontier
+of knowledge; it hopes, indeed, to make some contribution to it.
+But its first aim is to narrow the gap between what can be done and
+what is being done, between the leaders in management and the
+average.
+.X
+4	1	1214
+206	1	1214
+285	1	1214
+293	1	1214
+296	1	1214
+298	1	1214
+301	1	1214
+302	1	1214
+418	2	1214
+768	1	1214
+774	1	1214
+823	1	1214
+842	1	1214
+843	1	1214
+844	1	1214
+925	1	1214
+1015	1	1214
+1069	2	1214
+1070	2	1214
+1214	6	1214
+1454	1	1214
+1454	1	1214

@@ -1,0 +1,59 @@
+Over the past 15 or 20 years, a new and growing field of inquiry
+has begun to take shape.  This field, which will be referred to as "Information
+Science and Technology," draws on fragments and fringes of a number
+of sciences, technologies, disciplines, arts, and practices.  The element
+that provides whatever degree of cohesiveness now exists in the field is a
+shared deep concern with "information" - its generation, transformation,
+communication, storage, retrieval, and use.
+  Because of the universality of information processes, and also because
+of the variety of backgrounds of those concerned with them, there is very
+little agreement about the boundaries of Information Science and Technology,
+or about its parentage, its essential nature, or its future.  To put it
+simply, at the present time there is no clearly defined and well-understood
+field of Information Science and Technology.  There is not, truth to tell,
+even clear agreement on what the word "information" itself means and
+particularly on whether it implies a creative act of the intellect or a
+commodity that can be embodied in documents, transported, and exchanged.
+Distressing as this ambiguity and lack of agreement may be, they need
+not and do no preclude a constructive review of topics of current interest
+to users, designers, and students of information systems and services.
+The purpose of the ADI Annual Review series, initiated in this volume,
+is to provide such a review.
+.X
+40	1	131
+50	2	131
+96	1	131
+114	1	131
+123	1	131
+126	1	131
+131	15	131
+133	6	131
+136	5	131
+138	3	131
+140	3	131
+144	1	131
+175	3	131
+206	1	131
+207	1	131
+311	1	131
+359	2	131
+382	1	131
+395	1	131
+456	1	131
+634	1	131
+769	1	131
+780	1	131
+785	1	131
+791	1	131
+804	1	131
+907	1	131
+965	1	131
+966	1	131
+1019	1	131
+1035	1	131
+1037	1	131
+1083	1	131
+1255	1	131
+1321	1	131
+1327	1	131
+1327	1	131

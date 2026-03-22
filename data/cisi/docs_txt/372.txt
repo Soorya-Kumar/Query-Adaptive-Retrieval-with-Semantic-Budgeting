@@ -1,0 +1,11 @@
+This book considers basic tendency of the development of information science,
+theoretically proves necessity and feasibility (possibility) of determining
+the economical effectiveness of scientific-technical information.
+.X
+372	9	372
+1096	1	372
+1100	3	372
+1156	1	372
+1161	1	372
+1191	2	372
+1191	2	372

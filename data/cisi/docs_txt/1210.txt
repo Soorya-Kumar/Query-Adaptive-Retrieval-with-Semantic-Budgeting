@@ -1,0 +1,52 @@
+When physicists wish to communicate their work by means of publication,
+several considerations are weighed before choosing the appropriate journal.
+There is the matter of audience; of the probable delay between acceptance
+and publication; of article format (letter, review, standard research report).
+If the article is potentially controversial, the author may estimate its 
+chances of being accepted by different journals. Considerations of national 
+pride may sway the choice:  An author may submit a work to a journal in his 
+own country rather than to one that has a greater circulation and impact but 
+is published in a foreign country.
+.X
+37	1	1210
+47	1	1210
+48	2	1210
+102	1	1210
+113	1	1210
+167	1	1210
+198	1	1210
+378	1	1210
+503	1	1210
+513	1	1210
+543	1	1210
+614	2	1210
+618	1	1210
+635	2	1210
+638	2	1210
+735	1	1210
+748	1	1210
+753	1	1210
+756	1	1210
+757	1	1210
+787	1	1210
+792	1	1210
+821	1	1210
+831	1	1210
+952	2	1210
+953	1	1210
+1083	1	1210
+1210	5	1210
+1254	1	1210
+1256	1	1210
+1260	2	1210
+1275	2	1210
+1276	1	1210
+1278	1	1210
+1300	1	1210
+1302	4	1210
+1308	1	1210
+1313	1	1210
+1369	1	1210
+1373	1	1210
+1418	1	1210
+1418	1	1210

@@ -1,0 +1,71 @@
+In a structured data base, such as that obtained when information is indexed
+in a format including explicit relations, retrieval of all relevant items in
+response to a question may, in some cases, be restricted by technicalities of 
+the structure.. Condensations in the form of logical jumps, or the omission of 
+a concept with one relation out of a string of three concepts with two 
+interstitial relations, have been investigated by two different methods, in 
+order to overcome one of these technicalities.. Thirty-two rules are proposed
+which could permit the automatic condensation of either of both the stored 
+information and the question, when the concepts and relations are in the form 
+of linear or string display.. Nine rules are proposed for condensation of 
+angular structures.. Other type of logical jump and abbreviation are discussed, 
+together with related studies of expansions and inference steps..
+.X
+124	1	516
+125	1	516
+160	3	516
+165	1	516
+175	1	516
+257	1	516
+258	1	516
+263	1	516
+381	1	516
+388	1	516
+448	1	516
+452	1	516
+477	1	516
+478	3	516
+484	1	516
+511	1	516
+516	8	516
+518	1	516
+521	1	516
+522	1	516
+523	1	516
+526	1	516
+527	2	516
+528	1	516
+529	1	516
+572	1	516
+575	1	516
+610	1	516
+615	1	516
+625	1	516
+626	1	516
+636	1	516
+666	1	516
+700	1	516
+705	1	516
+707	1	516
+727	1	516
+754	1	516
+758	2	516
+785	1	516
+812	1	516
+817	1	516
+824	1	516
+875	1	516
+1066	1	516
+1231	1	516
+1259	1	516
+1303	1	516
+1327	1	516
+1364	1	516
+1366	1	516
+1367	1	516
+1368	1	516
+1391	1	516
+1414	2	516
+1428	1	516
+1448	2	516
+1448	2	516

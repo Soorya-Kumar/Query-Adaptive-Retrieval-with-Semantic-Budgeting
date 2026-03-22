@@ -1,0 +1,64 @@
+This paper, prepared at the request of the National Library of Medicine, is
+the result of a study of the status and needs of the libraries of 86 medical
+schools and schools of basic medical sciences which are institutional members
+of the Association of American Medical Libraries and are approved by the 
+American Medical Association.  It is intended to summarize the impact of 
+changing experiments in medical research, education and practice on the 
+collections, serving housing, and staffs of medical school libraries.
+.X
+31	1	891
+36	2	891
+41	1	891
+46	1	891
+172	1	891
+181	3	891
+182	3	891
+183	1	891
+184	1	891
+185	2	891
+186	1	891
+193	1	891
+195	1	891
+198	2	891
+201	2	891
+202	1	891
+206	1	891
+207	1	891
+208	1	891
+211	2	891
+214	1	891
+216	2	891
+217	3	891
+218	1	891
+220	4	891
+269	1	891
+297	1	891
+395	1	891
+415	1	891
+748	1	891
+760	1	891
+767	1	891
+774	1	891
+778	1	891
+891	13	891
+905	1	891
+926	1	891
+928	1	891
+952	1	891
+953	1	891
+964	1	891
+965	1	891
+968	1	891
+973	1	891
+1009	1	891
+1018	1	891
+1019	1	891
+1030	1	891
+1147	1	891
+1240	1	891
+1275	1	891
+1359	1	891
+1390	1	891
+1397	3	891
+1417	1	891
+1417	1	891

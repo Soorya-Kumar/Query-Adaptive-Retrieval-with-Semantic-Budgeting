@@ -1,0 +1,33 @@
+A statistical analysis of articles published in electrical and power 
+engineering serials and periodicals is given.. The results have been used to
+refine the quantitative formulation of the Zipf law..
+   The computational method used can serve as a prototype for analysis of
+abstract-journal-like publications..
+.X
+76	1	1172
+416	2	1172
+765	2	1172
+777	1	1172
+789	1	1172
+808	1	1172
+1085	1	1172
+1098	2	1172
+1099	1	1172
+1101	1	1172
+1105	1	1172
+1109	1	1172
+1114	1	1172
+1122	1	1172
+1123	3	1172
+1142	1	1172
+1157	1	1172
+1168	1	1172
+1172	11	1172
+1173	1	1172
+1174	1	1172
+1176	1	1172
+1178	1	1172
+1182	1	1172
+1226	1	1172
+1381	1	1172
+1381	1	1172

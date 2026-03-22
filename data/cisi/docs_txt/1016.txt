@@ -1,0 +1,163 @@
+It is only in the last eight or ten years that the
+numerical aspects of bibliography have attracted attention, although
+some of the numerical regularities that occur in bibliography have been
+known for thirty or forty years.  Results are, therefore, still meager
+and applications are still few.  Moreover, most of the work so far 
+reported has been limited to numerical analysis of the literature of the
+natural sciences.  This is in part because the secondary sources in the
+natural sciences are the best organized and so provide the most accessible
+data; in part because the literature of the natural sciences are the least
+restricted by linguistic barriers; and in part because the proposed world-
+wide systems, such as those advocated in the UNISIST report, offer an
+immediate field of application in the design of economic and efficient
+systems based on the results of numerical bibliographic analysis.  However,
+the field of possible application is gradually widening: serious efforts are
+now being made to organize the more diffused literatures of the social
+sciences, for example.
+.X
+19	1	1016
+29	1	1016
+33	1	1016
+35	1	1016
+36	1	1016
+37	1	1016
+39	1	1016
+40	1	1016
+41	1	1016
+42	1	1016
+43	1	1016
+47	1	1016
+55	1	1016
+58	1	1016
+70	1	1016
+84	1	1016
+88	1	1016
+89	1	1016
+97	2	1016
+102	2	1016
+103	1	1016
+111	1	1016
+112	1	1016
+163	1	1016
+183	1	1016
+184	1	1016
+193	1	1016
+199	1	1016
+203	1	1016
+210	1	1016
+225	1	1016
+233	1	1016
+253	1	1016
+269	1	1016
+313	1	1016
+359	5	1016
+373	1	1016
+377	1	1016
+378	1	1016
+379	1	1016
+395	1	1016
+444	1	1016
+445	1	1016
+447	1	1016
+449	1	1016
+474	1	1016
+486	1	1016
+487	1	1016
+505	2	1016
+515	1	1016
+532	1	1016
+545	1	1016
+552	1	1016
+560	1	1016
+573	4	1016
+587	1	1016
+605	1	1016
+613	1	1016
+614	1	1016
+616	1	1016
+618	2	1016
+625	1	1016
+632	1	1016
+635	2	1016
+638	1	1016
+660	1	1016
+667	1	1016
+735	1	1016
+744	1	1016
+747	1	1016
+748	3	1016
+749	1	1016
+750	1	1016
+751	3	1016
+753	1	1016
+759	1	1016
+762	1	1016
+764	2	1016
+765	3	1016
+766	1	1016
+767	1	1016
+775	1	1016
+777	1	1016
+778	4	1016
+782	2	1016
+784	1	1016
+787	1	1016
+788	1	1016
+789	1	1016
+793	1	1016
+800	1	1016
+804	1	1016
+805	1	1016
+808	1	1016
+885	1	1016
+893	2	1016
+905	1	1016
+952	1	1016
+953	1	1016
+977	1	1016
+983	1	1016
+1016	9	1016
+1023	1	1016
+1030	2	1016
+1045	1	1016
+1055	1	1016
+1061	1	1016
+1083	1	1016
+1084	3	1016
+1085	4	1016
+1086	2	1016
+1087	2	1016
+1090	2	1016
+1135	1	1016
+1182	2	1016
+1195	1	1016
+1200	1	1016
+1201	2	1016
+1235	1	1016
+1260	1	1016
+1274	2	1016
+1275	1	1016
+1276	1	1016
+1277	1	1016
+1278	2	1016
+1280	2	1016
+1281	1	1016
+1285	3	1016
+1286	1	1016
+1287	2	1016
+1301	1	1016
+1302	3	1016
+1304	1	1016
+1313	1	1016
+1335	1	1016
+1338	1	1016
+1344	1	1016
+1347	1	1016
+1380	1	1016
+1390	1	1016
+1397	1	1016
+1417	1	1016
+1428	2	1016
+1432	1	1016
+1444	1	1016
+1444	1	1016

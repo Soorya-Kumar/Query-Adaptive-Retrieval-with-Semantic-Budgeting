@@ -1,0 +1,98 @@
+The existence of social organization within a research area may be inferred 
+(a) if scientists who have published in the area have more social ties with one 
+another than with scientists who have not published, and (b) scientists who 
+have published in the area can be differentiated by degree od social 
+participation within the area.. Using the mail questionnaire, sociometric data
+on different types of scientific relationships were obtained from scientists, 
+all of whom had published in a particular problem area.. Respondents chose
+scientists who had not published in the area as often as they chose scientists
+within the area.. Analysis of direct and indirect ties, using Cleman's method
+for analysis of sociometric connectedness, revealed that a tie with one or more
+of the highly productive scientists brought other scientists of less
+productivity into a large network of influence and communication.. Similarities
+between this type of social organization and that of the "social circle" are
+discussed..
+.X
+15	2	105
+33	1	105
+41	1	105
+50	1	105
+89	3	105
+95	1	105
+98	1	105
+101	1	105
+102	2	105
+105	14	105
+109	1	105
+110	1	105
+111	1	105
+113	2	105
+155	1	105
+157	1	105
+161	1	105
+163	1	105
+233	1	105
+243	1	105
+308	1	105
+312	1	105
+314	1	105
+356	3	105
+386	1	105
+398	1	105
+473	1	105
+544	4	105
+545	1	105
+560	6	105
+582	1	105
+592	1	105
+602	1	105
+605	1	105
+607	1	105
+656	1	105
+667	1	105
+685	1	105
+750	1	105
+775	1	105
+800	1	105
+893	1	105
+1030	4	105
+1048	1	105
+1050	1	105
+1062	1	105
+1063	4	105
+1081	1	105
+1082	1	105
+1088	1	105
+1111	1	105
+1186	1	105
+1188	1	105
+1235	1	105
+1256	1	105
+1284	2	105
+1285	3	105
+1286	1	105
+1287	2	105
+1290	1	105
+1291	2	105
+1293	3	105
+1294	1	105
+1295	1	105
+1296	3	105
+1297	1	105
+1298	1	105
+1300	2	105
+1308	1	105
+1312	1	105
+1315	1	105
+1319	1	105
+1329	2	105
+1334	1	105
+1339	1	105
+1341	1	105
+1346	3	105
+1347	1	105
+1386	3	105
+1387	3	105
+1389	1	105
+1408	2	105
+1408	2	105

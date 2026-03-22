@@ -1,0 +1,54 @@
+Subject analysis for information retrieval is an area
+which always seems deceptively simple to those without
+previous background in it, however extensive their background
+in specific subject disciplines may be.  The basic
+requirement seems easy enough: to structure the statement
+of a subject in such a way that it can be placed into, and
+retrieved from, an ordered file.
+   While attempts have been made to use simple, non-complex
+terms or even single words, it always becomes
+evident that single words are often insufficient to express a
+subject, and that some subjects are in themselves complex.
+To express such subjects requires either that their constituent
+concepts -- not words -- be separated and then recombined,
+or that only one part of the subject be shown.
+   The former solution requires that the indexer perform
+the necessary analysis and synthesis, and then separate the
+constituents for the searcher to reassemble.  The latter
+forces the seeker of information to sort through many items
+to find those bearing on the complex topic he wants, and
+ma require the indexer to decide under which part(s) of the
+concept an entry should be made.
+.X
+16	1	1392
+114	2	1392
+154	1	1392
+169	1	1392
+194	1	1392
+212	1	1392
+235	1	1392
+250	1	1392
+289	2	1392
+345	1	1392
+400	1	1392
+404	1	1392
+458	1	1392
+459	1	1392
+493	1	1392
+548	1	1392
+627	2	1392
+770	1	1392
+796	1	1392
+802	1	1392
+863	1	1392
+864	1	1392
+897	1	1392
+990	1	1392
+1073	1	1392
+1152	1	1392
+1368	1	1392
+1392	8	1392
+1414	1	1392
+1431	1	1392
+1448	2	1392
+1448	2	1392

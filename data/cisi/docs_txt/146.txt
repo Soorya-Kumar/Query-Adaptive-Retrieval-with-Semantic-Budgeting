@@ -1,0 +1,25 @@
+In this paper we set out the fundamental operations involved
+in compiling and using an index, show how the various factors can
+influence the operating efficiency, and consider the methods to
+be used in the present Aslib Cranfield investigation.
+.X
+73	1	146
+134	1	146
+146	5	146
+390	1	146
+458	2	146
+498	1	146
+752	1	146
+780	1	146
+785	1	146
+819	1	146
+825	1	146
+911	1	146
+966	1	146
+1053	1	146
+1215	1	146
+1230	1	146
+1255	1	146
+1282	1	146
+1393	1	146
+1393	1	146

@@ -1,0 +1,57 @@
+The line-formula chemical notation described in this manual
+is a precise and concise means of expressing the structural
+formulas of chemical compounds.  Its basic idea is to use
+letter symbols to denote functional groups and to use numbers
+to express the lengths of alkyl chains and the sizes of rings.
+These symbols then are cited in connecting order from one end of
+the molecule to the other.  For the past hundred years, ever
+since structural chemistry began, chemists have been using graphic
+symbols in this way.  This line-formula notation is simply an
+extension and standardization of this practice.
+.X
+116	1	1452
+117	1	1452
+165	1	1452
+252	1	1452
+254	2	1452
+327	2	1452
+347	1	1452
+568	1	1452
+569	1	1452
+641	2	1452
+668	1	1452
+669	3	1452
+670	2	1452
+671	5	1452
+673	5	1452
+674	2	1452
+677	2	1452
+678	2	1452
+679	4	1452
+681	4	1452
+682	3	1452
+683	1	1452
+687	4	1452
+688	1	1452
+689	2	1452
+690	1	1452
+693	1	1452
+694	3	1452
+695	3	1452
+697	3	1452
+698	3	1452
+700	2	1452
+704	3	1452
+706	2	1452
+707	1	1452
+714	1	1452
+730	1	1452
+738	1	1452
+833	2	1452
+1026	3	1452
+1072	1	1452
+1092	1	1452
+1261	2	1452
+1292	3	1452
+1452	26	1452
+1452	26	1452

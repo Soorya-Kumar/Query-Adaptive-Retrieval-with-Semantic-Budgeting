@@ -1,0 +1,78 @@
+The combination of computers and communications technology
+is a development whose time has come for libraries in the U.S.
+    And despite missteps and false starts inevitable in adapting
+the new technology for its use, libraries are now rapidly
+expanding telecommunications networks to serve their need to
+disseminate ever-expanding amounts of information in more
+effective ways.
+    It makes a good deal of sense when one considers that the
+library's function is to parcel out information, and that
+information can be forwarded electronically as easily as it can
+be mailed.
+    In fact, the logic of library networks is such that everyone
+is hopping on the bandwagon -- consultants, systems analysts,
+state agencies and a growing list of manufacturers that includes
+Xerox and International Business Machines.  Their initial efforts
+are concentrated on what are basically bookkeeping tasks -- in
+particular, the cataloging of new acquisitions.  The Ohio college
+Library Center, for example, provides its customers with entries
+for their card catalog files; and because OCLC is the first and
+most extensive of the networks, its approach is being closely
+copied by the others.
+.X
+10	2	947
+115	1	947
+167	1	947
+190	1	947
+225	1	947
+244	1	947
+304	1	947
+305	1	947
+306	1	947
+335	1	947
+342	1	947
+358	1	947
+385	1	947
+393	1	947
+394	1	947
+433	1	947
+434	2	947
+459	1	947
+529	1	947
+534	2	947
+551	1	947
+639	1	947
+643	1	947
+644	1	947
+645	1	947
+647	1	947
+651	1	947
+702	1	947
+731	1	947
+732	1	947
+817	1	947
+820	1	947
+823	1	947
+825	1	947
+826	1	947
+827	1	947
+828	1	947
+885	1	947
+942	1	947
+947	7	947
+948	1	947
+1017	1	947
+1058	1	947
+1059	1	947
+1060	1	947
+1146	1	947
+1230	1	947
+1257	1	947
+1258	1	947
+1305	1	947
+1306	1	947
+1374	1	947
+1390	2	947
+1437	1	947
+1441	1	947
+1441	1	947

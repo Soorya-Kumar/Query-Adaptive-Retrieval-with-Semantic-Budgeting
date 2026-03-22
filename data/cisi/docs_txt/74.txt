@@ -1,0 +1,85 @@
+The purpose of this paper is to describe a research project conducted at a 
+technical center to test the hypothesis that: A theoretically-sound managerial 
+cost-accounting system can be designed to meet the specific characteristics of 
+a technical information center by revising and innovating systems utilized by 
+other enterprises.. A computerized cost system was developed and operated for
+a three-month period to test this hypothesis.. The results of the study 
+indicate that effective managerial cost accounting is possible for a technical
+information center.. Relevant cost information was generated periodically to 
+measure the operating performance of the center's production process.. A 
+summary of the data that were reported regularly to management is presented 
+in this paper..
+.X
+24	1	74
+27	1	74
+71	1	74
+72	1	74
+73	1	74
+74	8	74
+75	2	74
+77	1	74
+78	1	74
+79	1	74
+81	1	74
+82	1	74
+83	5	74
+86	1	74
+119	1	74
+122	1	74
+153	1	74
+156	1	74
+158	1	74
+211	1	74
+212	1	74
+245	2	74
+273	1	74
+277	1	74
+279	3	74
+280	1	74
+288	1	74
+331	1	74
+336	1	74
+381	1	74
+408	1	74
+486	1	74
+490	2	74
+491	1	74
+492	1	74
+495	1	74
+496	2	74
+497	1	74
+584	3	74
+591	3	74
+592	1	74
+606	1	74
+684	1	74
+720	1	74
+723	1	74
+724	1	74
+748	1	74
+785	1	74
+786	1	74
+787	1	74
+788	1	74
+789	1	74
+791	1	74
+834	1	74
+841	1	74
+860	1	74
+925	2	74
+955	1	74
+957	1	74
+976	1	74
+984	1	74
+1011	1	74
+1148	1	74
+1227	1	74
+1317	1	74
+1353	1	74
+1359	2	74
+1360	2	74
+1400	1	74
+1410	1	74
+1424	1	74
+1451	1	74
+1451	1	74

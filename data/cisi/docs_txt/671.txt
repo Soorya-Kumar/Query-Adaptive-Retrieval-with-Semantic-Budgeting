@@ -1,0 +1,73 @@
+As part of the development of a computer-based
+chemical information system at CAS, it has been necessary
+to devise techniques for the registration of drawings of
+chemical structures.  A major purpose of the CAS registration
+process is to determine whether a particular structure has
+already been stored in the system.  The ability to make
+this determination makes it possible to utilize a computer
+to assign to every chemical structure a unique identifying
+label.  This identifying label, referred to as a registry
+number, is the thread that ties together all information
+associated with a particular compound throughout the
+developing CAS computer system.  It is because of this 
+association, made possible by the registration process, that
+CAS will be able to provide multiple-file correlative searches
+with assurance that all information on file for a particular
+compound has been located.
+
+.X
+116	2	671
+117	3	671
+165	2	671
+252	1	671
+254	2	671
+327	3	671
+347	1	671
+445	1	671
+476	1	671
+525	1	671
+569	5	671
+590	1	671
+621	1	671
+641	3	671
+668	2	671
+670	6	671
+671	20	671
+673	2	671
+674	3	671
+677	1	671
+678	1	671
+679	1	671
+682	1	671
+683	2	671
+687	1	671
+689	3	671
+690	2	671
+693	1	671
+694	1	671
+695	1	671
+698	1	671
+699	1	671
+700	1	671
+704	1	671
+706	2	671
+707	1	671
+708	2	671
+709	2	671
+710	1	671
+714	1	671
+715	1	671
+730	1	671
+738	1	671
+797	1	671
+819	1	671
+833	1	671
+1026	2	671
+1072	1	671
+1077	1	671
+1180	1	671
+1231	1	671
+1261	1	671
+1292	2	671
+1452	5	671
+1452	5	671

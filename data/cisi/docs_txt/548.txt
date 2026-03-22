@@ -1,0 +1,61 @@
+University printing presses exist, and are subsidized by the Government for
+the purpose of producing books which no one can read; and they are true to their
+high calling.  Books are the sources of material for lectures.  They should be
+kept from the young; for to read books and remember what you read, well
+enough to reproduce it, is called 'cramming', and this is destructive of all 
+true education.  The best way to protect the young from books, is, first, to 
+make them in such a way that no one can find them without several years' 
+training.  A lecturer is a sound scholar, who is chosen to teach on the ground
+that he was once able to learn.  Eloquence is not permissible in a lecture; it
+is a privilege reserved by stature for the Public Orator.
+.X
+114	1	548
+169	1	548
+218	1	548
+235	1	548
+243	1	548
+253	1	548
+289	2	548
+291	1	548
+345	1	548
+375	1	548
+400	1	548
+408	1	548
+459	1	548
+492	1	548
+493	1	548
+497	1	548
+506	1	548
+507	1	548
+508	1	548
+510	1	548
+548	6	548
+594	2	548
+597	1	548
+598	1	548
+601	2	548
+604	1	548
+607	1	548
+627	1	548
+836	1	548
+863	1	548
+864	1	548
+865	1	548
+866	2	548
+867	1	548
+868	1	548
+897	1	548
+916	1	548
+936	1	548
+990	1	548
+1042	1	548
+1052	1	548
+1073	1	548
+1087	1	548
+1248	1	548
+1327	1	548
+1368	1	548
+1392	1	548
+1414	1	548
+1448	1	548
+1448	1	548

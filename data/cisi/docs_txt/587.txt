@@ -1,0 +1,142 @@
+Problems arising in the measurement of the rates of obsolescence of the sets
+of periodicals taken by special libraries are discussed.. The relatively large
+errors that arise in sampling the negative exponential distribution are 
+analyzed because they may account for some of the discrepancies reported and
+because they indicate the need for firmer statistical control of work on
+obsolescence than has yet been generally appreciated..
+   When the rate of decline has been satisfactorily established there still
+remains the problem of deciding how to apply it.. Issues of those periodicals
+that contribute most productively should be retained for a longer period than
+those of periodicals that contribute less.. To solve this problem the concept
+of "utility contours" is introduced and exemplified in the design of a p%
+library..
+   It is argued that no discarding policy is likely to be generally applicable; 
+every special library must be regarded as a special case.  Rather than suggest
+new measurements, therefore, the paper offers simple graphical techniques that
+are applicable to any other special case..
+.X
+33	2	587
+36	2	587
+41	1	587
+57	1	587
+73	1	587
+89	1	587
+97	1	587
+102	1	587
+106	1	587
+111	1	587
+112	1	587
+149	1	587
+155	1	587
+163	1	587
+175	1	587
+183	1	587
+184	2	587
+193	2	587
+195	1	587
+199	1	587
+201	1	587
+203	2	587
+204	1	587
+205	1	587
+210	1	587
+222	1	587
+225	2	587
+228	1	587
+229	1	587
+233	1	587
+267	2	587
+269	1	587
+314	1	587
+359	2	587
+373	1	587
+395	1	587
+494	2	587
+515	1	587
+519	1	587
+545	1	587
+552	1	587
+587	15	587
+605	1	587
+613	1	587
+614	1	587
+638	1	587
+667	1	587
+713	1	587
+735	1	587
+747	1	587
+748	1	587
+750	5	587
+751	2	587
+753	1	587
+759	1	587
+764	2	587
+765	1	587
+766	1	587
+767	3	587
+775	3	587
+778	2	587
+780	1	587
+782	1	587
+784	1	587
+787	1	587
+788	1	587
+789	1	587
+791	1	587
+792	4	587
+793	7	587
+794	5	587
+800	7	587
+804	1	587
+808	3	587
+823	1	587
+824	1	587
+829	1	587
+840	1	587
+895	1	587
+905	1	587
+925	1	587
+948	1	587
+953	1	587
+977	1	587
+983	1	587
+1016	1	587
+1023	1	587
+1030	1	587
+1055	1	587
+1081	1	587
+1082	1	587
+1083	1	587
+1085	2	587
+1086	2	587
+1087	1	587
+1090	1	587
+1091	1	587
+1123	1	587
+1135	1	587
+1201	1	587
+1219	1	587
+1222	1	587
+1260	1	587
+1275	1	587
+1276	1	587
+1278	2	587
+1280	1	587
+1282	1	587
+1285	4	587
+1286	1	587
+1287	2	587
+1302	1	587
+1307	1	587
+1308	1	587
+1324	1	587
+1335	1	587
+1390	1	587
+1397	1	587
+1401	1	587
+1416	1	587
+1417	3	587
+1418	1	587
+1428	1	587
+1432	1	587
+1432	1	587

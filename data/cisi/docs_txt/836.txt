@@ -1,0 +1,66 @@
+An entry/title compression code is proposed which will fulfill the following
+requirements at the Library, University of Saskatchewan: 1) entry/title access
+to MARC tapes; 2) entry/title access to the acquisitions and cataloguing 
+in-process file; and 3) entry/title duplicate order edit within the 
+acquisitions and cataloguing in-process file.. The study which produced the 
+code and applications for the code are discussed..
+.X
+161	1	836
+197	1	836
+235	1	836
+289	1	836
+291	1	836
+375	1	836
+445	1	836
+454	1	836
+472	1	836
+503	1	836
+506	1	836
+507	1	836
+548	1	836
+554	1	836
+579	1	836
+591	1	836
+593	1	836
+594	2	836
+595	1	836
+596	1	836
+597	2	836
+598	1	836
+599	1	836
+600	1	836
+601	1	836
+603	1	836
+604	1	836
+606	1	836
+723	1	836
+724	1	836
+801	1	836
+805	1	836
+806	1	836
+835	1	836
+836	7	836
+851	3	836
+862	1	836
+863	1	836
+864	1	836
+865	1	836
+866	2	836
+867	1	836
+868	2	836
+869	1	836
+897	1	836
+916	1	836
+936	1	836
+956	1	836
+989	1	836
+991	1	836
+1052	1	836
+1196	3	836
+1197	2	836
+1248	1	836
+1298	1	836
+1299	1	836
+1327	1	836
+1405	1	836
+1405	1	836

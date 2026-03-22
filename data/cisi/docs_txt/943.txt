@@ -1,0 +1,90 @@
+During the last two decades academic libraries, in
+parallel with their parent institutions, experienced the
+greatest period of growth and affluence that they have
+ever known.  The watchword was "more" - more money,
+more books and journals, more staff, more space, and
+more technology.  Many new research libraries were
+created, and those that already existed experienced
+unprecedented growth.  Although libraries got more of
+everything during those years, they still could not keep pace
+with the growth of new fields of research, new doctoral
+programs, and the increasing production of books and
+journals.  Two decades of affluence not only failed to help
+solve the many problems that were brought on by
+exponential growth - they exacerbated them.
+.X
+46	1	943
+115	1	943
+128	1	943
+129	1	943
+130	1	943
+167	1	943
+172	1	943
+183	1	943
+192	1	943
+196	1	943
+215	1	943
+219	1	943
+221	1	943
+223	1	943
+225	1	943
+232	1	943
+234	2	943
+277	1	943
+280	1	943
+290	1	943
+304	1	943
+306	1	943
+338	1	943
+365	1	943
+393	1	943
+415	1	943
+453	1	943
+468	1	943
+494	1	943
+639	1	943
+646	2	943
+647	2	943
+651	2	943
+652	1	943
+765	1	943
+818	1	943
+822	1	943
+823	1	943
+825	1	943
+827	1	943
+856	1	943
+886	1	943
+888	1	943
+913	1	943
+925	1	943
+942	1	943
+943	9	943
+944	3	943
+948	1	943
+963	1	943
+1004	1	943
+1017	1	943
+1021	1	943
+1023	2	943
+1049	1	943
+1070	1	943
+1071	1	943
+1085	1	943
+1203	1	943
+1206	1	943
+1237	1	943
+1257	1	943
+1258	1	943
+1302	1	943
+1374	1	943
+1378	1	943
+1390	1	943
+1401	1	943
+1433	1	943
+1437	1	943
+1440	1	943
+1441	1	943
+1450	2	943
+1453	1	943
+1453	1	943

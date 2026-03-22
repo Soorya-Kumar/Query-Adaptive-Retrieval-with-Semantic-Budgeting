@@ -1,0 +1,39 @@
+A synthesis of the progress report submitted by the Library of Congress to 
+the Council on Library Resources under an Officer's Grant to initiate the RECON
+Pilot Project that gives an overview of the project and the progress made from
+August-November 1969 in the following areas: training, selection of material to 
+be converted, investigation of input devices, and format recognition..
+.X
+159	2	858
+178	1	858
+287	1	858
+348	2	858
+408	1	858
+554	1	858
+583	1	858
+584	1	858
+585	1	858
+654	1	858
+655	1	858
+797	1	858
+798	1	858
+799	1	858
+851	1	858
+852	1	858
+854	2	858
+856	1	858
+857	2	858
+858	7	858
+859	3	858
+860	1	858
+861	5	858
+862	1	858
+863	1	858
+970	1	858
+1012	1	858
+1013	1	858
+1035	1	858
+1043	1	858
+1252	1	858
+1445	1	858
+1445	1	858

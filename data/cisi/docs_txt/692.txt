@@ -1,0 +1,130 @@
+The objective of the Computer Search Center (CSC) of the Information Sciences
+section of IIT Research Institute (IITRI) is to provide a link between a wide
+variety of users and the rapidly expanding information resources in machine-
+readable form.  Because none of the available computer search programs met
+the criteria of the center, and because of the need to handle a variety of data
+bases, new general purpose computer programs were written, and a tape format
+was developed so that a wide variety of data bases can be searched by the same
+computer program.  The center was designed to provide current awareness and
+retrospective search services from both document-type and data-type computerized
+data files.  The desire to develop transferable programs for use at many
+installations prompted the adoption of the machine-independent compiler 
+language PL/1 and the use of IBM 360 series computers.  The objective of 
+education and training led to the development of a "Search Manual" for profile
+preparation, the development of a workbook in "Modern Techniques in Chemical
+Information," the teaching of a new academic course, and the presentation of
+seminars.
+.X
+120	1	692
+124	1	692
+127	1	692
+128	1	692
+129	1	692
+135	1	692
+190	1	692
+191	1	692
+197	1	692
+211	1	692
+214	1	692
+218	1	692
+243	1	692
+244	1	692
+245	1	692
+291	1	692
+307	1	692
+327	1	692
+330	1	692
+378	1	692
+450	1	692
+451	1	692
+452	1	692
+459	2	692
+468	1	692
+484	1	692
+492	1	692
+508	1	692
+511	1	692
+512	1	692
+514	1	692
+518	1	692
+520	1	692
+523	1	692
+524	1	692
+525	1	692
+526	1	692
+529	1	692
+530	1	692
+534	1	692
+546	1	692
+553	1	692
+575	1	692
+579	1	692
+594	1	692
+599	1	692
+603	1	692
+604	1	692
+606	1	692
+609	1	692
+610	1	692
+611	1	692
+612	1	692
+621	1	692
+625	1	692
+626	1	692
+630	2	692
+636	1	692
+637	1	692
+642	1	692
+648	1	692
+650	1	692
+692	6	692
+695	1	692
+696	1	692
+698	1	692
+699	1	692
+703	2	692
+705	1	692
+708	1	692
+726	1	692
+727	1	692
+728	1	692
+731	1	692
+732	2	692
+733	1	692
+734	1	692
+736	1	692
+738	1	692
+739	1	692
+740	1	692
+741	1	692
+742	1	692
+743	1	692
+744	1	692
+755	1	692
+820	1	692
+826	1	692
+827	1	692
+879	1	692
+883	1	692
+925	1	692
+1004	1	692
+1035	1	692
+1078	1	692
+1089	1	692
+1091	1	692
+1207	1	692
+1264	1	692
+1297	1	692
+1303	1	692
+1356	1	692
+1364	1	692
+1368	1	692
+1370	1	692
+1372	1	692
+1373	1	692
+1374	1	692
+1375	1	692
+1376	1	692
+1377	1	692
+1402	1	692
+1402	1	692

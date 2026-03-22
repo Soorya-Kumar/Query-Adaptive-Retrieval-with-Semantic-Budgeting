@@ -1,0 +1,35 @@
+With the thirteenth issue affected by the recent postal strike, now seems
+an opportune moment to take a look at the performance of LISA in its first two
+years.  This bi-monthly abstracts service succeeded the former Library Science
+Abstracts in 1969 as a joint venture between the Library Association and Aslib.
+A recount of its birth and a brief report on early progress both appeared in
+1969.
+.X
+4	1	162
+65	1	162
+162	6	162
+359	1	162
+398	1	162
+505	1	162
+580	1	162
+583	1	162
+622	1	162
+696	1	162
+705	1	162
+728	1	162
+729	1	162
+748	1	162
+749	2	162
+770	2	162
+776	1	162
+778	1	162
+791	1	162
+914	2	162
+933	1	162
+981	1	162
+1076	2	162
+1083	1	162
+1086	1	162
+1182	1	162
+1201	1	162
+1201	1	162

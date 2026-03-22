@@ -1,0 +1,49 @@
+Unmistakable signs are pointing the way toward
+the creation sometime soon of a national information network
+in the United States.  The concept of a national network implies
+the interconnection of existing information systems and libraries
+through communications.  Certainly one of the great strengths of this
+nation is the great array of intellectual, scholarly, and research
+resources to be found in its libraries and information centers.  
+Without integration and close cooperation, however, these resources
+will remain a series of separate, insulated institutions.  But if
+maximum communication can be established among them, this array can
+be converted into a national resource of immense value to citizens
+throughout the country.
+.X
+24	2	1011
+74	1	1011
+75	2	1011
+78	1	1011
+80	1	1011
+119	4	1011
+122	3	1011
+177	1	1011
+178	1	1011
+206	1	1011
+281	1	1011
+336	3	1011
+431	1	1011
+481	1	1011
+654	1	1011
+684	1	1011
+773	1	1011
+850	1	1011
+851	1	1011
+852	1	1011
+853	1	1011
+854	1	1011
+855	3	1011
+856	1	1011
+872	1	1011
+903	1	1011
+907	1	1011
+908	1	1011
+955	2	1011
+984	1	1011
+1011	11	1011
+1013	1	1011
+1080	2	1011
+1247	1	1011
+1451	1	1011
+1451	1	1011

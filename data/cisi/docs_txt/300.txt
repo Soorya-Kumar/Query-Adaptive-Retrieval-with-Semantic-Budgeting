@@ -1,0 +1,59 @@
+A survey of the faculties at six colleges was undertaken to measure the 
+degree to which the libraries of those institutions were communicating with the
+faculty concerning the availability of various references services.. The results
+demonstrated that the average faculty member was aware of barely half the 
+services actually available.. Variables of academic rank, length of teaching, 
+and amount of library and reference use were some of the factors shown to 
+affect faculty awareness of library service..
+.X
+9	1	300
+161	1	300
+207	1	300
+222	1	300
+223	1	300
+278	1	300
+295	1	300
+296	1	300
+297	1	300
+298	1	300
+300	5	300
+301	1	300
+302	1	300
+358	2	300
+364	1	300
+433	1	300
+439	1	300
+515	1	300
+528	1	300
+535	1	300
+614	1	300
+624	2	300
+625	1	300
+629	1	300
+631	2	300
+634	1	300
+768	1	300
+791	1	300
+811	1	300
+816	1	300
+818	2	300
+823	1	300
+843	1	300
+844	1	300
+845	1	300
+846	1	300
+915	1	300
+937	1	300
+946	1	300
+961	1	300
+962	1	300
+964	1	300
+994	1	300
+1015	1	300
+1242	1	300
+1247	1	300
+1263	1	300
+1268	1	300
+1354	1	300
+1373	1	300
+1373	1	300

@@ -1,0 +1,95 @@
+A simple and logical model for the automatic generation of subject indexes
+from title like phrases is described, and its advantages and disadvantages
+are discussed.	It is based on recent studies of the structure of articulated
+subject indexes, such as those to Chemical Abstracts.  The model employs the
+prepositions and connectives of phrases of simple structure as articulating
+points, and selects from all possible forms of entries those which lead to
+optimal organization in an index.  The technique is illustrated with part of an
+index to a recent abstracting journal.  The wide variety of
+controls which can be exerted by the indexer and the program is discussed.   
+.X
+34	1	715
+51	1	715
+53	2	715
+69	1	715
+71	1	715
+77	1	715
+79	1	715
+117	1	715
+165	1	715
+168	1	715
+175	1	715
+176	1	715
+252	1	715
+257	1	715
+315	1	715
+382	1	715
+445	1	715
+448	1	715
+476	1	715
+480	4	715
+483	1	715
+484	1	715
+486	1	715
+488	1	715
+491	1	715
+493	1	715
+503	1	715
+507	1	715
+509	1	715
+510	1	715
+512	1	715
+517	1	715
+520	1	715
+522	1	715
+525	1	715
+527	1	715
+528	1	715
+531	1	715
+565	2	715
+566	1	715
+581	1	715
+590	1	715
+596	1	715
+603	1	715
+608	1	715
+621	1	715
+633	1	715
+659	1	715
+668	1	715
+670	1	715
+671	1	715
+674	2	715
+680	1	715
+683	1	715
+689	1	715
+711	1	715
+715	7	715
+746	1	715
+754	1	715
+790	1	715
+797	2	715
+798	1	715
+805	1	715
+809	1	715
+810	1	715
+812	1	715
+813	1	715
+814	1	715
+817	1	715
+819	1	715
+824	1	715
+825	1	715
+894	1	715
+1051	1	715
+1077	1	715
+1230	1	715
+1231	1	715
+1265	1	715
+1294	1	715
+1327	1	715
+1393	1	715
+1394	1	715
+1419	1	715
+1427	1	715
+1427	1	715

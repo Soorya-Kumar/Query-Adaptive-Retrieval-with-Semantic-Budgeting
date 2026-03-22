@@ -1,0 +1,43 @@
+A fuzzy set is a class of objects with a continuum of grades of membership..
+Such a set is characterized by a membership (characteristic) function which 
+assigns to each object a grade of membership ranging between zero and one.. The
+notions of inclusion, union, intersection, complement, relation, convexity, 
+etc., are extended to such sets, and various properties of these notions in the
+context of fuzzy sets are established.. In particular, a separation theorem for
+convex fuzzy sets is proved without requiring that the fuzzy sets be disjoint..
+.X
+25	1	455
+39	1	455
+52	1	455
+61	1	455
+66	1	455
+175	4	455
+310	1	455
+315	2	455
+318	1	455
+350	1	455
+397	4	455
+417	3	455
+420	1	455
+430	5	455
+443	4	455
+455	18	455
+464	6	455
+605	1	455
+632	1	455
+667	1	455
+745	6	455
+893	1	455
+1117	1	455
+1119	1	455
+1137	1	455
+1140	1	455
+1141	1	455
+1144	1	455
+1204	3	455
+1287	1	455
+1327	1	455
+1398	4	455
+1409	1	455
+1427	3	455
+1427	3	455

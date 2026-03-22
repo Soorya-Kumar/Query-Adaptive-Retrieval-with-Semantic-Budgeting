@@ -1,0 +1,23 @@
+The book considers connections between the concept of information and some
+philosophical categories, reveals the possibility of applying theoretical-
+informational methods in logic, gnosiology (epistemology or theory of
+knowledge).
+.X
+85	1	1220
+540	2	1220
+574	1	1220
+1045	1	1220
+1101	1	1220
+1116	2	1220
+1117	1	1220
+1130	1	1220
+1137	1	1220
+1140	1	1220
+1141	1	1220
+1161	2	1220
+1165	1	1220
+1181	1	1220
+1195	1	1220
+1220	6	1220
+1267	1	1220
+1267	1	1220

@@ -1,0 +1,41 @@
+The Washington Library Network is developing a computer-assisted 
+bibliographic system to speed and expand library operations throughout the 
+state.. Features include MARC format with all content designators, subject and 
+name authority files, sorting by LC rules, and stringent quality control.. 
+Feature modules will add acquisition/accounting and circulation support.. 
+On-line capabilities are currently under development..
+   This paper describes the present batch-mode cataloging support subsystem, its
+history, operation, impacts, problems, costs.. Present Developmental efforts 
+toward on-line integrated acquisitions and cataloging support are indicated..
+.X
+141	1	884
+354	1	884
+363	1	884
+400	1	884
+409	1	884
+645	1	884
+647	1	884
+651	1	884
+739	1	884
+872	2	884
+874	2	884
+881	1	884
+882	2	884
+883	1	884
+884	5	884
+885	2	884
+886	1	884
+887	3	884
+892	1	884
+917	1	884
+998	1	884
+999	1	884
+1000	1	884
+1001	1	884
+1002	1	884
+1003	1	884
+1004	1	884
+1375	1	884
+1376	1	884
+1395	1	884
+1395	1	884

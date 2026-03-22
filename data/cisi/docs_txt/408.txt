@@ -1,0 +1,136 @@
+The purpose of this book, therefore, is to assist libraries and librarians in
+resolving some of the problems faced in utilizing this new technology.  The
+intent is to provide a concrete, factual guide to the principles and methods
+available for the application of modern data processing to library operations.
+For the operating librarian, it should be considered a handbook, a tool to
+guide him in decisions concerning the introduction of data processing techniques
+into his own library.  For the student, it should be a textbook, educating him
+not only in methodology but also in the interrelationships between data 
+processing and the library.  For the system designer, it should be a summary
+of the state-of-the-art, serving as a bridge between library objectives and
+the technology.  The book, throughout, lays special stress on the library and,
+particularly, on the significance of library values and policies for determining
+the choice of system.  The book gives emphasis to the computer, but always in
+the context of applying this technology to the solution of operating problems,
+as an addition to resources for information service, as a tool of good
+management, and not as an end in itself.  At most, therefore, the book aims to
+educate the profession in the use of these tools, and in the special problems
+of applying them to libraries.  In this respect, much of the groundwork has
+already been done - the profession has been educating itself, has carried out
+analyses of library operations, has experimented with mechanization, and is
+developing better concepts of cost control.  The book merely continues a
+process that is already underway.
+.X
+18	1	408
+74	1	408
+83	1	408
+114	1	408
+119	1	408
+177	2	408
+178	3	408
+206	3	408
+207	1	408
+208	2	408
+214	1	408
+218	1	408
+241	1	408
+243	1	408
+245	4	408
+249	2	408
+250	1	408
+253	1	408
+266	1	408
+273	1	408
+277	1	408
+279	1	408
+282	1	408
+287	3	408
+288	1	408
+291	1	408
+331	1	408
+348	2	408
+365	1	408
+374	1	408
+375	1	408
+381	1	408
+406	3	408
+408	30	408
+435	1	408
+458	1	408
+471	1	408
+490	1	408
+492	1	408
+496	1	408
+497	1	408
+506	1	408
+507	1	408
+508	1	408
+510	1	408
+535	1	408
+548	1	408
+554	2	408
+584	1	408
+591	2	408
+592	1	408
+594	1	408
+601	1	408
+604	1	408
+607	1	408
+654	1	408
+686	1	408
+723	1	408
+724	1	408
+834	1	408
+849	1	408
+850	1	408
+851	1	408
+856	1	408
+857	1	408
+858	1	408
+859	1	408
+860	2	408
+861	1	408
+862	1	408
+865	1	408
+866	1	408
+867	1	408
+897	1	408
+916	3	408
+925	3	408
+938	1	408
+948	1	408
+957	1	408
+959	1	408
+960	1	408
+962	2	408
+964	1	408
+970	1	408
+974	1	408
+976	4	408
+979	3	408
+980	1	408
+984	1	408
+986	1	408
+1005	1	408
+1007	5	408
+1012	2	408
+1013	1	408
+1033	1	408
+1035	1	408
+1042	1	408
+1084	1	408
+1087	1	408
+1148	1	408
+1227	1	408
+1248	1	408
+1317	4	408
+1327	2	408
+1353	1	408
+1358	1	408
+1359	1	408
+1360	1	408
+1400	5	408
+1410	1	408
+1424	1	408
+1445	1	408
+1445	1	408

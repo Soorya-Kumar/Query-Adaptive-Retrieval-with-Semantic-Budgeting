@@ -1,0 +1,123 @@
+When INFROSS began in the autumn of 1967, although a large number of
+studies had been conducted into the requirements of scientists for information,
+very little had been done in the field of social science information.  There are 
+a number of possible reasons for this.  Social scientists, faced with a much 
+smaller total volume of information, were much less information-conscious and
+less inclined to seek for solutions.  There are very few specialist libraries
+in the social sciences, and few librarians were therefore confronted with
+social scientists' information needs in the same way as librarians in 
+scientific libraries were confronted with users and their problems.  Finally,
+until OSTI came along there was little in the way of funds to support this
+kind of research.  This almost total absence of previous research had its
+disadvantages and advantages.  There were very few clues to guide us, and we
+were therefore working to a certain extent in the dark.  On the other hand,
+we had a clean and open field uncorrupted by confusing and non-comparable
+studies.  There is something to be said for being one of the first in a field.
+.X
+4	1	163
+9	1	163
+32	1	163
+33	1	163
+36	1	163
+41	1	163
+89	1	163
+96	1	163
+97	1	163
+102	1	163
+105	1	163
+111	2	163
+112	1	163
+113	1	163
+137	1	163
+161	2	163
+163	6	163
+183	1	163
+184	1	163
+193	1	163
+199	1	163
+203	1	163
+207	1	163
+210	1	163
+225	1	163
+243	1	163
+269	1	163
+311	1	163
+356	1	163
+373	1	163
+386	1	163
+398	1	163
+456	1	163
+545	2	163
+552	1	163
+560	2	163
+587	1	163
+592	1	163
+602	1	163
+605	1	163
+607	1	163
+613	1	163
+614	1	163
+638	1	163
+735	1	163
+747	1	163
+750	1	163
+753	1	163
+766	1	163
+767	1	163
+768	1	163
+774	1	163
+775	1	163
+782	1	163
+783	1	163
+784	1	163
+788	1	163
+789	1	163
+793	1	163
+799	1	163
+800	1	163
+808	1	163
+811	1	163
+816	1	163
+905	1	163
+913	1	163
+953	1	163
+961	1	163
+962	1	163
+964	1	163
+968	1	163
+977	1	163
+983	1	163
+1016	1	163
+1023	1	163
+1030	2	163
+1055	1	163
+1068	1	163
+1087	1	163
+1090	1	163
+1135	1	163
+1203	1	163
+1260	1	163
+1270	1	163
+1275	1	163
+1276	1	163
+1278	1	163
+1280	1	163
+1285	1	163
+1286	1	163
+1287	1	163
+1293	1	163
+1296	1	163
+1298	1	163
+1302	1	163
+1321	1	163
+1335	1	163
+1346	1	163
+1347	1	163
+1390	1	163
+1397	1	163
+1407	1	163
+1417	1	163
+1428	1	163
+1432	1	163
+1445	1	163
+1445	1	163

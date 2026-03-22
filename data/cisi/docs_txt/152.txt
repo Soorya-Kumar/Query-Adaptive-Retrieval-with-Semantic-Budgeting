@@ -1,0 +1,65 @@
+For about five years now a small group of us at MIT
+have been conducting a series of investigations into the
+information needs of technologists, the manner in which
+these needs are presently met, the relation between
+various ways of fulfilling information needs and technological
+performance, and the nature of factors which determine the ways
+in which information needs will be fulfilled.
+.X
+2	2	152
+13	1	152
+15	1	152
+42	1	152
+66	1	152
+76	1	152
+96	1	152
+132	1	152
+137	1	152
+139	1	152
+152	13	152
+155	1	152
+158	1	152
+183	1	152
+195	1	152
+203	1	152
+204	1	152
+210	1	152
+313	1	152
+447	1	152
+449	1	152
+475	2	152
+526	1	152
+552	1	152
+574	1	152
+625	1	152
+658	1	152
+664	1	152
+714	1	152
+760	1	152
+761	1	152
+774	1	152
+775	1	152
+783	1	152
+788	1	152
+789	1	152
+801	1	152
+803	1	152
+837	1	152
+839	1	152
+841	1	152
+879	1	152
+907	2	152
+925	1	152
+942	1	152
+968	1	152
+977	1	152
+1055	1	152
+1056	1	152
+1285	1	152
+1317	1	152
+1319	1	152
+1386	1	152
+1394	1	152
+1407	1	152
+1451	1	152
+1451	1	152

@@ -1,0 +1,20 @@
+The algorithmic procedure is based on a linguistic approach; it serves to
+isolate key phrases from the abstracts of the "Fizika" abstract journal, 
+recognizing set phrases with the aid of linguistic rules.. The feasibility is
+demonstrated of a completed formalization of the process of eliciting key
+phrases for a descriptor dictionary.
+.X
+68	1	1131
+77	1	1131
+78	1	1131
+79	1	1131
+420	1	1131
+489	1	1131
+595	1	1131
+785	1	1131
+790	1	1131
+1118	1	1131
+1124	1	1131
+1131	5	1131
+1382	1	1131
+1382	1	1131

@@ -1,0 +1,49 @@
+Four hundred sixty-eight medical societies  in the United States were
+surveyed to determine those which sponsor libraries.. Seventy-eight libraries
+were identified, of which eighteen are "marginal" and nine are jointly
+supported by a medical school and a society, leaving fifty-one relatively
+"substantial" libraries whose major support is through society membership..
+Characteristics measured include size of collection, types of media, staff,
+budget, services, and sources of support.. Questions are raised concerning
+the role of the medical library as one institution which participates in the
+continuing education of the physician..
+.X
+31	1	182
+36	1	182
+41	1	182
+46	1	182
+181	2	182
+182	5	182
+183	2	182
+184	2	182
+185	2	182
+186	1	182
+193	1	182
+195	1	182
+198	1	182
+201	2	182
+203	1	182
+204	1	182
+205	1	182
+220	1	182
+269	1	182
+395	1	182
+415	1	182
+760	1	182
+767	1	182
+774	1	182
+778	1	182
+891	3	182
+905	1	182
+952	1	182
+953	1	182
+964	1	182
+968	1	182
+1009	1	182
+1018	1	182
+1019	1	182
+1240	1	182
+1359	1	182
+1397	1	182
+1417	1	182
+1417	1	182

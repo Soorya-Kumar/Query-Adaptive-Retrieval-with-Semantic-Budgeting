@@ -1,0 +1,95 @@
+In most libraries most users face a complex, monolithic arrangement
+of entries in catalogs and books on shelves.  In classical librarianship no
+effort can be made to personalize the listing of titles or arrangement of
+volumes for an individual user.  A user is unidentified, and, except for
+that small fraction of a percent who consult reference librarians, users 
+remain nameless.
+  The computer, however, with its superb ability to treat users as
+individual persons and events as individual events, possesses the potential
+for enabling big libraries to recapture the human qualities of
+which classical librarianship has deprived them since their days as
+one-librarian libraries.  However, rehumanization is not the only
+contribution computerization will make to libraries.
+  Developments in modern society are forcing libraries to establish new
+objectives.  Contemporary living is information based, a phenomenon
+that is outmoding the venerable concept of library function.  As small special
+libraries already do, all libraries must participate in the cultural
+activities of the individuals in their communities rather than
+merely make available a torpid "service." Libraries must look forward to
+supplying information to a user when and where he needs it - an
+objective impossible to attain with classical library techniques.
+.X
+5	1	90
+33	1	90
+36	1	90
+90	7	90
+91	1	90
+158	1	90
+161	1	90
+183	1	90
+184	1	90
+193	1	90
+199	1	90
+201	1	90
+202	1	90
+203	1	90
+204	1	90
+205	1	90
+209	1	90
+212	1	90
+217	1	90
+220	1	90
+222	2	90
+223	1	90
+231	1	90
+261	1	90
+284	1	90
+286	1	90
+289	1	90
+294	2	90
+295	1	90
+299	1	90
+334	1	90
+348	1	90
+354	1	90
+368	1	90
+435	1	90
+543	1	90
+553	1	90
+588	1	90
+608	1	90
+610	1	90
+612	1	90
+613	1	90
+615	1	90
+617	2	90
+620	2	90
+624	1	90
+799	1	90
+800	1	90
+808	1	90
+815	2	90
+868	2	90
+869	1	90
+872	1	90
+897	1	90
+938	1	90
+939	1	90
+957	1	90
+959	1	90
+963	1	90
+990	1	90
+991	1	90
+992	1	90
+1023	1	90
+1151	1	90
+1196	2	90
+1197	1	90
+1219	1	90
+1221	2	90
+1227	1	90
+1229	1	90
+1318	1	90
+1365	2	90
+1390	2	90
+1390	2	90

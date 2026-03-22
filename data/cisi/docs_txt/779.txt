@@ -1,0 +1,65 @@
+A retrieval system may be evaluated strictly in terms of user satisfaction
+(operating efficiency), or it may be evaluated from the point of view of
+efficient means of satisfying user requirements (economic efficiency).. When
+we consider the relationship between operating efficiency and economic 
+efficiency, we are faced with a whole series of possible trade-offs.. There
+may be several alternative paths we can follow in order to serve user needs..
+The problem is to determine the most economical path to follow.. Pay-off
+factors, break-even points, and diminishing returns must be taken into 
+consideration.. This paper considers some of these factors in relation to various
+parts of the complete retrieval system: the acquisition subsystem, the indexing 
+subsystem, the index language, the searching subsystem, and the equipment 
+subsystem..
+.X
+61	1	779
+62	1	779
+65	1	779
+67	1	779
+70	1	779
+71	1	779
+72	1	779
+73	1	779
+75	1	779
+76	1	779
+135	1	779
+153	2	779
+156	1	779
+175	2	779
+206	1	779
+207	1	779
+208	1	779
+213	1	779
+214	1	779
+217	1	779
+243	1	779
+249	1	779
+364	1	779
+381	1	779
+382	2	779
+385	1	779
+458	2	779
+481	1	779
+483	2	779
+484	1	779
+485	1	779
+495	1	779
+591	2	779
+598	1	779
+639	1	779
+779	8	779
+780	1	779
+790	1	779
+822	1	779
+981	1	779
+982	1	779
+1055	1	779
+1083	1	779
+1086	1	779
+1295	1	779
+1297	1	779
+1358	1	779
+1402	1	779
+1403	1	779
+1410	1	779
+1417	1	779
+1417	1	779

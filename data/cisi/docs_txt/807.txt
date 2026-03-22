@@ -1,0 +1,51 @@
+Comparative performance profiles were determined, by two independent 
+scientific information centres, for on-line retrieval by means of (a) free text 
+words and (b) subject indexing codes, from a data base of 4,600 descriptions of 
+in-going research projects in four broad subject areas.. Altogether, thirty-nine
+questions that users had previously asked of the Science Information Exchange
+(SIE) of the Smithsonian Institution, and that were in the four subjects areas,
+were employed by SIE staff scientists, and twelve of these were independently 
+used by staff members of the Biological Science Communication Project (BSCP) of 
+the George Washington University.. Results of the two studies showed average 
+recall values 30-40% higher, and relevance values 15-20% higher, for subject 
+index code use as compared with text word use.. Advantages and disadvantages of 
+both approaches are discussed..
+.X
+63	1	807
+150	1	807
+175	2	807
+348	1	807
+382	1	807
+389	1	807
+390	1	807
+487	1	807
+501	1	807
+502	1	807
+510	1	807
+565	1	807
+566	1	807
+579	1	807
+596	1	807
+600	1	807
+601	1	807
+603	1	807
+726	1	807
+799	1	807
+805	1	807
+807	8	807
+813	1	807
+820	1	807
+863	1	807
+864	1	807
+956	1	807
+963	1	807
+987	1	807
+988	1	807
+989	1	807
+1152	1	807
+1265	1	807
+1294	2	807
+1298	1	807
+1327	2	807
+1448	1	807
+1448	1	807

@@ -1,0 +1,31 @@
+Discusses the various explicit and implicit definitions of information and
+information science, against a view of their historical development.. Shows how
+the various views of information science overlap with other disciplines, and
+concludes with a proposal for a definition of information science based on 
+social need.. A schema of information sciences is put forward with the plea that
+any discussion of information and information science should first declare the
+definitions to be used..
+.X
+20	1	469
+42	1	469
+60	1	469
+85	1	469
+129	1	469
+172	1	469
+228	1	469
+229	1	469
+469	5	469
+585	1	469
+599	1	469
+640	1	469
+652	1	469
+665	1	469
+762	1	469
+803	1	469
+827	1	469
+1022	1	469
+1045	1	469
+1268	1	469
+1274	1	469
+1313	1	469
+1313	1	469

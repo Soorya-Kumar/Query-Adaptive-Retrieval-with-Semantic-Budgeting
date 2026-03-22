@@ -1,0 +1,40 @@
+Memory utilization and retrieval time from direct access inverted files
+are investigated as a function of the data base, the demands on it, and a 
+parameter which the system designer may control.. An analysis of the effects
+of data base characteristics and data base usage is also made for a linked
+list structure..
+   Information retrieval, direct access memory, disk, drum, data base, access
+time, inverted list, threaded list..
+.X
+19	1	567
+44	1	567
+57	1	567
+62	1	567
+175	1	567
+228	1	567
+316	2	567
+318	2	567
+321	1	567
+324	1	567
+329	3	567
+382	1	567
+416	2	567
+442	2	567
+450	3	567
+495	1	567
+511	3	567
+521	1	567
+524	1	567
+563	1	567
+565	3	567
+567	6	567
+791	1	567
+835	1	567
+851	1	567
+862	1	567
+875	2	567
+894	1	567
+1194	1	567
+1199	1	567
+1362	1	567
+1362	1	567

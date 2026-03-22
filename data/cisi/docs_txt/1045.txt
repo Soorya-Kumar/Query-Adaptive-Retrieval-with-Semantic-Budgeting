@@ -1,0 +1,90 @@
+The word communication will be used here in a very broad sense
+to include all of the procedures by which one mind may affect
+another.  This, of course, involves not only written and oral
+speech, but also music, the pictorial arts, the theatre, the ballet,
+and in fact all human behavior.  In some connections it may be
+desirable to use a still broader definition of communication,
+namely, one which would include the procedures by means of
+which one mechanism (say automatic equipment to track an
+airplane and to compute its probably future positions) affects
+another mechanism (say a guided missile chasing this airplane).
+  The language of this memorandum will often appear to refer to
+the special, but still very broad and important, field of the 
+communication of speech; but practically everything said applies
+equally as well to music of any sort, and to still or moving
+pictures, as in television.
+.X
+20	1	1045
+29	1	1045
+34	1	1045
+35	1	1045
+42	2	1045
+43	1	1045
+53	1	1045
+58	1	1045
+60	1	1045
+70	1	1045
+84	1	1045
+85	3	1045
+95	1	1045
+129	1	1045
+137	1	1045
+168	1	1045
+172	1	1045
+175	2	1045
+312	1	1045
+355	1	1045
+382	1	1045
+444	1	1045
+445	1	1045
+447	1	1045
+449	1	1045
+456	1	1045
+457	1	1045
+459	1	1045
+469	1	1045
+474	1	1045
+486	1	1045
+532	1	1045
+572	1	1045
+574	1	1045
+585	1	1045
+590	1	1045
+599	1	1045
+625	1	1045
+640	1	1045
+652	1	1045
+660	1	1045
+665	3	1045
+716	1	1045
+762	2	1045
+764	1	1045
+803	1	1045
+893	1	1045
+1016	1	1045
+1022	1	1045
+1030	2	1045
+1037	2	1045
+1045	23	1045
+1046	1	1045
+1047	1	1045
+1054	1	1045
+1077	1	1045
+1084	1	1045
+1116	1	1045
+1161	1	1045
+1195	1	1045
+1201	2	1045
+1204	1	1045
+1213	1	1045
+1220	1	1045
+1235	1	1045
+1268	1	1045
+1281	1	1045
+1285	1	1045
+1296	1	1045
+1327	2	1045
+1389	1	1045
+1422	1	1045
+1443	1	1045
+1443	1	1045

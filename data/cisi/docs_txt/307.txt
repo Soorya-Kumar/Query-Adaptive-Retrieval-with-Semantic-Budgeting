@@ -1,0 +1,116 @@
+The ready availability of externally processed bibliographic data based has 
+made it possible for an academic library to provide computerized searches on a
+large number of data bases with a very small initial investment and utilizing 
+its own personnel.. The experience of the University of Pennsylvania Libraries 
+has confirmed that such an approach is indeed feasible. This article discusses 
+the approach, questions and problems encountered, and the factors considered in
+their resolution.. Also discussed are the role of the data services librarian, 
+the cost incurred, and some observations as to the philosophy of the approach, 
+with particular attention to the integration of the service into the reference 
+department..
+.X
+124	1	307
+125	1	307
+127	1	307
+129	1	307
+190	1	307
+191	1	307
+197	1	307
+211	1	307
+214	1	307
+218	1	307
+243	1	307
+266	1	307
+271	1	307
+275	1	307
+305	1	307
+307	5	307
+330	1	307
+378	1	307
+450	1	307
+451	1	307
+452	1	307
+459	1	307
+468	1	307
+484	1	307
+492	1	307
+508	1	307
+511	1	307
+512	1	307
+514	1	307
+518	1	307
+520	1	307
+523	1	307
+524	1	307
+525	1	307
+526	1	307
+529	1	307
+530	1	307
+534	1	307
+546	1	307
+553	1	307
+579	1	307
+594	1	307
+603	1	307
+604	1	307
+606	1	307
+609	1	307
+610	1	307
+611	2	307
+612	1	307
+625	1	307
+626	1	307
+630	1	307
+636	1	307
+637	1	307
+642	1	307
+648	1	307
+650	1	307
+692	1	307
+696	1	307
+699	1	307
+703	1	307
+705	1	307
+708	1	307
+726	1	307
+727	1	307
+728	1	307
+731	1	307
+732	1	307
+733	1	307
+734	1	307
+736	1	307
+738	1	307
+739	1	307
+740	2	307
+741	1	307
+742	1	307
+743	2	307
+744	1	307
+755	1	307
+820	1	307
+826	1	307
+827	1	307
+879	1	307
+883	1	307
+1004	1	307
+1035	1	307
+1078	1	307
+1089	1	307
+1091	1	307
+1207	1	307
+1264	1	307
+1297	1	307
+1303	1	307
+1356	1	307
+1364	1	307
+1368	1	307
+1370	1	307
+1372	2	307
+1373	1	307
+1374	2	307
+1375	1	307
+1376	2	307
+1377	1	307
+1396	1	307
+1396	1	307

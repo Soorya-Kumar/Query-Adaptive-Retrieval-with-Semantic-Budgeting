@@ -1,0 +1,16 @@
+The Central Patent Index is one of many information centers constituting Du
+Pont's Information Network.. The development of this index and its relationship
+with other centers in the network is followed by a description of its 
+operation: input, storage, and search techniques..
+.X
+24	1	684
+74	1	684
+75	1	684
+119	1	684
+122	1	684
+336	1	684
+684	6	684
+955	1	684
+1011	1	684
+1451	1	684
+1451	1	684

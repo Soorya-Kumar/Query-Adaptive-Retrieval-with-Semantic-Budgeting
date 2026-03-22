@@ -1,0 +1,139 @@
+My terms of reference when asked to prepare this review of user studies were
+to bring Fishenden's work up to date.  This was published in the Journal of 
+Documentation in September 1965 and in his paper he looks at a limited number
+of British use studies and draws some broad general conclusions relating to the
+development of a national information service.  The present paper which covers
+the literature back to the beginning of 1966 is somewhat more detailed.  It
+considers a wide range of investigations into the information gathering habits 
+of scientists, engineers, social scientists and others, and reports results 
+which it is hoped will provide managers with information on which to develop
+policies regarding library and information services at all levels.  Although
+an increasing number of studies is being carried out in Eastern Europe and
+in the USSR there has been no major work reported and consequently the review
+considers mainly British and American investigations.
+.X
+33	1	161
+36	1	161
+76	1	161
+90	1	161
+95	1	161
+104	1	161
+105	1	161
+110	1	161
+111	1	161
+113	1	161
+132	1	161
+147	1	161
+155	1	161
+161	15	161
+163	2	161
+183	1	161
+184	1	161
+193	1	161
+197	1	161
+199	1	161
+201	1	161
+202	1	161
+203	1	161
+204	1	161
+205	1	161
+209	1	161
+212	1	161
+217	1	161
+220	1	161
+222	1	161
+243	1	161
+284	1	161
+286	1	161
+294	1	161
+295	1	161
+300	1	161
+356	1	161
+358	1	161
+375	1	161
+433	1	161
+445	1	161
+454	1	161
+470	1	161
+472	1	161
+503	1	161
+506	1	161
+507	1	161
+543	1	161
+545	1	161
+554	1	161
+560	2	161
+579	1	161
+582	1	161
+584	1	161
+588	1	161
+589	1	161
+591	1	161
+592	1	161
+593	1	161
+594	1	161
+595	1	161
+596	1	161
+597	1	161
+599	1	161
+600	1	161
+602	1	161
+603	1	161
+604	1	161
+606	1	161
+607	1	161
+613	1	161
+614	1	161
+618	1	161
+624	3	161
+631	1	161
+655	1	161
+723	1	161
+724	1	161
+760	1	161
+771	1	161
+772	2	161
+799	1	161
+800	1	161
+801	1	161
+805	1	161
+806	1	161
+808	1	161
+836	1	161
+866	1	161
+867	1	161
+889	1	161
+900	1	161
+936	1	161
+937	1	161
+946	1	161
+956	1	161
+959	1	161
+989	1	161
+1030	1	161
+1056	1	161
+1084	1	161
+1095	1	161
+1102	2	161
+1107	1	161
+1111	1	161
+1151	1	161
+1222	1	161
+1287	1	161
+1293	1	161
+1296	1	161
+1297	1	161
+1298	2	161
+1299	1	161
+1300	1	161
+1327	1	161
+1346	1	161
+1347	1	161
+1353	1	161
+1361	1	161
+1373	2	161
+1404	1	161
+1405	1	161
+1446	1	161
+1447	1	161
+1447	1	161

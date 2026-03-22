@@ -1,0 +1,113 @@
+To take advantage of computerized data bases to improve their services to
+scientists without incurring prohibitive in-house expense, the librarians at 
+the  Boulder Laboratories have campaigned to increase awareness and utilization 
+via personal interviews, seminars, surveys, and critiques.  Data bases most 
+studied were DDC, NASA, SIE, ASCA, and the University of Georgia.  The 
+conclusions:  1) The scientist needs continuous  personal assistance by a 
+librarian or information specialist in order to make effective use of data 
+bases. 2) As local retailer, the librarian has an accordingly important role 
+to play now and in the future, a role at present generally ignored.
+.X
+124	1	1356
+127	1	1356
+129	1	1356
+190	1	1356
+191	1	1356
+197	1	1356
+211	1	1356
+214	1	1356
+218	1	1356
+243	1	1356
+307	1	1356
+330	1	1356
+378	1	1356
+450	1	1356
+451	1	1356
+452	1	1356
+459	2	1356
+468	2	1356
+484	1	1356
+492	1	1356
+508	2	1356
+511	1	1356
+512	1	1356
+514	1	1356
+518	1	1356
+520	1	1356
+523	2	1356
+524	1	1356
+525	1	1356
+526	1	1356
+529	1	1356
+530	1	1356
+534	1	1356
+546	1	1356
+547	1	1356
+553	1	1356
+579	1	1356
+594	1	1356
+603	1	1356
+604	1	1356
+606	1	1356
+609	1	1356
+610	1	1356
+611	1	1356
+612	1	1356
+625	1	1356
+626	1	1356
+629	1	1356
+630	1	1356
+636	1	1356
+637	1	1356
+642	1	1356
+646	1	1356
+648	1	1356
+650	1	1356
+692	1	1356
+696	1	1356
+699	1	1356
+703	1	1356
+705	1	1356
+708	1	1356
+726	1	1356
+727	1	1356
+728	1	1356
+731	1	1356
+732	1	1356
+733	1	1356
+734	1	1356
+736	1	1356
+738	1	1356
+739	1	1356
+740	1	1356
+741	1	1356
+742	1	1356
+743	1	1356
+744	1	1356
+755	1	1356
+820	1	1356
+826	2	1356
+827	1	1356
+879	2	1356
+883	2	1356
+885	1	1356
+1004	1	1356
+1035	1	1356
+1078	1	1356
+1089	1	1356
+1091	1	1356
+1207	1	1356
+1264	2	1356
+1297	1	1356
+1303	1	1356
+1356	5	1356
+1364	1	1356
+1368	2	1356
+1370	2	1356
+1372	4	1356
+1373	1	1356
+1374	3	1356
+1375	2	1356
+1376	2	1356
+1377	2	1356
+1377	2	1356

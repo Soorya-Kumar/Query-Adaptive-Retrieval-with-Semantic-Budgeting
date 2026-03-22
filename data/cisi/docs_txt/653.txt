@@ -1,0 +1,63 @@
+The selection, grouping and cross-referencing of the (usually single-word)
+terms are based on:
+   1. A systematic approach to indexing in depth, based on earlier work and 
+      resulting in reasonably consistent indexing..
+   2. An analytical approach to word forms in which the following categories 
+      are distinguished:
+      ACTION forms; MEANS-material; MEANS-machine, and MEANS-man forms; STATES;
+      VARIABLES; and LATENT PROPERTIES.. For each word, those forms included in 
+      a certain category are represented by a single code.. The 
+      category-switching caused by prepositions must be taken into account..
+   3. Criteria for term-splitting with limited semantic factoring.. Occasionally,
+      semantic integration is used..
+   4. Critera for dealing with antonyms, which are classified as reciprocals, 
+      complements, unequivalent opposites, diametrical opposites, and 
+      reversals..
+   5. Introduction of conditional cross-referencing..
+   6.  Recognition of multiword synonyms as the major difficulty in coordinate
+       indexing..
+.X
+82	1	653
+149	1	653
+151	1	653
+159	1	653
+160	1	653
+175	1	653
+257	1	653
+429	1	653
+454	1	653
+476	1	653
+477	4	653
+489	1	653
+493	1	653
+498	1	653
+501	2	653
+504	1	653
+558	1	653
+582	1	653
+583	1	653
+600	2	653
+653	9	653
+655	1	653
+688	1	653
+746	1	653
+781	2	653
+796	1	653
+797	1	653
+798	1	653
+801	1	653
+802	2	653
+838	2	653
+898	1	653
+901	1	653
+1259	2	653
+1265	1	653
+1391	2	653
+1394	1	653
+1399	1	653
+1405	1	653
+1414	1	653
+1422	1	653
+1429	2	653
+1430	2	653
+1430	2	653

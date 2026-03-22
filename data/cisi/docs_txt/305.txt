@@ -1,0 +1,54 @@
+Inflation is currently affected library book budgets, particularly with 
+respect to the acquisition of serials.. A model is proposed which would balance
+the purchase of serials against the purchase of monographs by individual 
+funding units within the academic library.. Special consideration is given to 
+inflation as a cost factor affected by both the form of publication and the 
+subject matter.. Applying the model to a specific example demonstrates its use 
+in providing control over collection development and allowing for equitable 
+distribution of book funds among funding units..
+.X
+10	1	305
+11	1	305
+143	1	305
+190	1	305
+225	1	305
+244	1	305
+266	1	305
+268	1	305
+271	2	305
+275	2	305
+277	2	305
+282	1	305
+304	1	305
+305	8	305
+306	1	305
+307	1	305
+358	1	305
+385	1	305
+394	1	305
+433	1	305
+459	1	305
+534	1	305
+591	1	305
+702	1	305
+731	1	305
+732	1	305
+817	1	305
+820	1	305
+823	1	305
+825	1	305
+826	1	305
+827	1	305
+828	1	305
+947	1	305
+948	1	305
+975	1	305
+1017	1	305
+1020	1	305
+1021	1	305
+1058	2	305
+1146	1	305
+1230	1	305
+1257	1	305
+1390	1	305
+1390	1	305

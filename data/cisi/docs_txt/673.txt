@@ -1,0 +1,50 @@
+The previous papers in this series have discussed
+the concept of a index of permuted Wiswesser chemical
+line notations, the significance of a QUICK-SCAN area,
+and simple methods for preparing this type of index for a
+small index file of compounds (up to ca. 5000).  It has
+been pointed out that the preparation of a index for a large
+number of compounds would require the use of a computer.
+This is the subject of this paper.
+
+.X
+34	1	673
+116	1	673
+117	1	673
+165	1	673
+252	1	673
+254	2	673
+327	1	673
+347	1	673
+641	2	673
+668	1	673
+669	3	673
+670	1	673
+671	2	673
+673	8	673
+677	1	673
+678	2	673
+679	2	673
+680	1	673
+682	2	673
+683	1	673
+687	2	673
+689	2	673
+690	1	673
+693	2	673
+694	1	673
+695	1	673
+698	1	673
+700	1	673
+704	2	673
+706	1	673
+707	1	673
+714	1	673
+730	1	673
+738	1	673
+833	2	673
+1026	3	673
+1072	1	673
+1292	1	673
+1452	5	673
+1452	5	673

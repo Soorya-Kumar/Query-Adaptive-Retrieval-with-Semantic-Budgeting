@@ -1,0 +1,76 @@
+IFLA will be nearly fifty years old when Dorothy Anderson's UBC paper is
+published.  It is tempting to say that it is a half a century overdue.  When
+librarians first began to look beyond their national borders, bibliographic
+control was in the forefront of their concern.  Gradually, however, these
+pioneers of international librarianship began to realize that technical
+problems were too ambitious for multilateral action and in their discussions
+the emphasis was placed more on functions and organizations, on the social
+and even economic achievements of the international library community -
+which was not fully international at all - were limited to comparisons of
+national efforts, with some countries constantly over-critical and others 
+overgenerous.  Outstanding bibliographic projects, like the Gesamtkatalog der 
+Wiegendrucke, were international in scope, but national in conception.
+.X
+92	1	1441
+94	1	1441
+121	1	1441
+172	1	1441
+235	1	1441
+246	1	1441
+247	1	1441
+299	1	1441
+326	1	1441
+333	1	1441
+361	1	1441
+365	1	1441
+434	1	1441
+453	1	1441
+530	1	1441
+534	1	1441
+541	1	1441
+639	1	1441
+652	1	1441
+824	1	1441
+825	2	1441
+856	1	1441
+872	1	1441
+873	1	1441
+874	1	1441
+878	1	1441
+880	1	1441
+881	1	1441
+886	1	1441
+888	1	1441
+913	1	1441
+919	1	1441
+920	1	1441
+921	1	1441
+939	1	1441
+940	1	1441
+941	1	1441
+943	1	1441
+947	1	1441
+950	1	1441
+963	1	1441
+991	1	1441
+996	1	1441
+997	1	1441
+1000	1	1441
+1004	1	1441
+1061	1	1441
+1080	1	1441
+1146	1	1441
+1153	1	1441
+1215	1	1441
+1216	1	1441
+1257	1	1441
+1258	1	1441
+1266	1	1441
+1374	1	1441
+1395	1	1441
+1433	1	1441
+1435	1	1441
+1436	1	1441
+1437	1	1441
+1441	15	1441
+1441	15	1441

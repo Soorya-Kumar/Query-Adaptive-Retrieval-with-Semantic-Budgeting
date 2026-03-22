@@ -1,0 +1,131 @@
+This paper reports on a novel technique for literature indexing and
+searching in a mechanized library system.. The notion of relevance is taken
+as the key concept in the theory of information retrieval and a comparative
+concept of relevance is explicated in terms of the theory of probability.. 
+The resulting technique called "Probabilistic Indexing," allows a computing
+machine, given a request for information, to make a statistical inference
+and derive a number (called the "relevance number") for each document, which
+is a measure of the probability that the document will satisfy the given request
+ranked according to their probable relevance..
+   The paper goes on to show that whereas in a conventional library
+system the cross-referencing ("see" and "see also") is based solely on
+the "semantical closeness" between index terms, statistical measures of
+closeness between index terms can be defined and computed.. Thus, given
+an arbitrary request consisting of one (or many) index term(s), a machine
+can elaborate on it to increase the probability of selecting relevant
+documents that would not otherwise have been selected..
+   Finally, the paper suggests an interpretation of the whole library
+problem as one where the request is considered as a clue on the basis of
+which the library system makes a concatenated statistical inference
+in order to provide as an output an ordered list of those documents
+which most probably satisfy the information needs of the user..
+.X
+26	3	660
+29	1	660
+35	1	660
+42	1	660
+43	2	660
+51	3	660
+54	2	660
+57	1	660
+58	1	660
+61	1	660
+69	1	660
+70	1	660
+73	2	660
+75	2	660
+79	2	660
+84	1	660
+114	1	660
+144	1	660
+150	2	660
+174	1	660
+175	3	660
+176	2	660
+274	1	660
+309	1	660
+315	1	660
+319	2	660
+321	1	660
+328	2	660
+389	1	660
+390	2	660
+419	5	660
+422	2	660
+441	3	660
+444	1	660
+445	3	660
+447	1	660
+448	1	660
+449	2	660
+457	1	660
+458	2	660
+462	1	660
+471	1	660
+474	1	660
+479	1	660
+485	1	660
+486	1	660
+509	1	660
+518	1	660
+519	1	660
+531	1	660
+532	1	660
+562	3	660
+564	2	660
+565	3	660
+566	2	660
+570	1	660
+575	2	660
+577	5	660
+625	3	660
+634	1	660
+643	1	660
+644	3	660
+649	2	660
+652	2	660
+660	21	660
+661	2	660
+662	5	660
+663	1	660
+664	2	660
+714	1	660
+752	2	660
+754	1	660
+762	2	660
+764	1	660
+769	1	660
+780	3	660
+785	3	660
+806	1	660
+810	3	660
+812	3	660
+824	2	660
+829	1	660
+830	1	660
+893	1	660
+895	1	660
+956	1	660
+960	1	660
+1016	1	660
+1030	1	660
+1044	1	660
+1045	1	660
+1084	1	660
+1144	1	660
+1154	1	660
+1195	1	660
+1201	1	660
+1202	2	660
+1218	2	660
+1219	1	660
+1235	1	660
+1281	1	660
+1282	3	660
+1285	1	660
+1294	2	660
+1307	1	660
+1327	2	660
+1382	1	660
+1427	1	660
+1427	1	660

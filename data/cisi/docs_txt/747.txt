@@ -1,0 +1,85 @@
+In listing the literature concerning the subject of 'vibrating plates' the
+following law was noticed:
+            Rj x aj,t = constant = 5x6
+where Rj is the 'citation factor' for the year, j, and aj,t stands for the 
+total number of articles that have appeared up to and including year j..
+   'This 'citation law' is based on the remarkable fact that in more than 150
+years the mean number of relevant citations per article per year has remained
+constant, viz. 2x8, in spite of the fact that after 1950 three times as many
+articles have been published as in the period before 1950..
+.X
+33	2	747
+36	1	747
+41	2	747
+55	1	747
+89	1	747
+97	1	747
+102	1	747
+111	1	747
+112	1	747
+163	1	747
+183	1	747
+184	1	747
+193	1	747
+199	1	747
+203	1	747
+210	1	747
+225	1	747
+269	1	747
+373	1	747
+545	1	747
+552	1	747
+587	1	747
+592	1	747
+605	1	747
+613	1	747
+614	1	747
+638	1	747
+735	1	747
+747	5	747
+750	1	747
+753	1	747
+766	1	747
+767	1	747
+775	1	747
+777	1	747
+782	1	747
+784	1	747
+788	1	747
+789	1	747
+791	1	747
+793	2	747
+800	1	747
+808	1	747
+893	1	747
+905	1	747
+953	1	747
+977	1	747
+983	1	747
+1016	1	747
+1023	1	747
+1030	1	747
+1055	1	747
+1085	1	747
+1087	1	747
+1090	1	747
+1135	1	747
+1200	1	747
+1260	1	747
+1275	1	747
+1276	1	747
+1278	1	747
+1280	1	747
+1285	3	747
+1286	1	747
+1287	1	747
+1302	1	747
+1335	1	747
+1337	1	747
+1338	1	747
+1390	1	747
+1397	1	747
+1417	1	747
+1428	1	747
+1432	1	747
+1432	1	747

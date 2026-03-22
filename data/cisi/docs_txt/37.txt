@@ -1,0 +1,87 @@
+A quantitative estimate is made of the magnitude of the
+world's scientific and technical journal literature problem.
+Using a number of basic sources of statistical information,
+a composite picture is established to show such things as
+the total volume, linguistic and national origins, breakdown
+by subject field, and degree of coverage by the abstracting
+and indexing services.
+.X
+19	1	37
+37	9	37
+39	1	37
+40	3	37
+47	1	37
+63	2	37
+88	1	37
+97	1	37
+102	1	37
+103	1	37
+166	1	37
+198	1	37
+233	1	37
+253	2	37
+313	1	37
+359	1	37
+377	1	37
+379	1	37
+395	2	37
+505	1	37
+543	1	37
+560	1	37
+573	1	37
+614	1	37
+618	2	37
+622	1	37
+632	1	37
+635	1	37
+638	1	37
+667	1	37
+735	1	37
+748	1	37
+749	1	37
+751	1	37
+760	1	37
+764	1	37
+765	1	37
+777	2	37
+778	1	37
+782	1	37
+804	1	37
+805	1	37
+893	1	37
+907	1	37
+952	2	37
+1016	1	37
+1030	1	37
+1061	1	37
+1085	1	37
+1086	1	37
+1087	1	37
+1115	1	37
+1168	1	37
+1182	1	37
+1200	1	37
+1210	1	37
+1223	1	37
+1260	1	37
+1274	1	37
+1275	2	37
+1276	1	37
+1277	1	37
+1278	1	37
+1280	1	37
+1287	1	37
+1301	2	37
+1302	3	37
+1304	1	37
+1313	1	37
+1330	1	37
+1338	1	37
+1344	1	37
+1347	1	37
+1380	2	37
+1428	1	37
+1444	1	37
+1446	1	37
+1447	1	37
+1447	1	37

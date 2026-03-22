@@ -1,0 +1,40 @@
+Describes the research in various countries to clear up specialist's 
+requirements for scientific information.. Research areas and the results 
+obtained are studied.. At present, no firm conclusions are yet possible as to 
+the effective methods of improving information services.. Things to do are to
+widen the universe of specialists investigated, set up a common methodology,
+study the possibilities of preparing and launching world research program 
+toward this end..
+.X
+132	1	1095
+161	1	1095
+763	2	1095
+771	1	1095
+772	1	1095
+899	1	1095
+1093	1	1095
+1094	1	1095
+1095	12	1095
+1096	1	1095
+1099	3	1095
+1101	1	1095
+1102	3	1095
+1103	2	1095
+1106	1	1095
+1107	1	1095
+1111	1	1095
+1125	1	1095
+1128	1	1095
+1155	4	1095
+1156	4	1095
+1158	4	1095
+1160	2	1095
+1161	1	1095
+1166	1	1095
+1167	1	1095
+1169	1	1095
+1181	1	1095
+1446	1	1095
+1447	1	1095
+1460	1	1095
+1460	1	1095

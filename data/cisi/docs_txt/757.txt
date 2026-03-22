@@ -1,0 +1,45 @@
+Lists of journals ranked according to number of citations received are 
+frequently used as indicators of usefulness, but little research has been 
+carried out to test the validity of this hypothesis.. On comparing lists of 
+titles of journals ranked by citation counting with lists of the same journals, 
+ranked according to frequency of use (using data from a survey at the National 
+Lending Library), it was found that the rank order correlation between the two 
+was low.. This suggestions that ranked lists produced by analyses of citations 
+do not constitute valid guides for journal selection by libraries..
+.X
+48	1	757
+128	1	757
+167	1	757
+330	1	757
+393	1	757
+614	1	757
+623	1	757
+635	1	757
+638	1	757
+729	1	757
+744	1	757
+748	2	757
+753	1	757
+756	2	757
+757	7	757
+787	1	757
+792	1	757
+821	1	757
+831	3	757
+893	1	757
+952	1	757
+953	1	757
+1083	1	757
+1210	1	757
+1254	1	757
+1256	1	757
+1260	1	757
+1275	1	757
+1278	1	757
+1302	1	757
+1369	1	757
+1373	1	757
+1375	1	757
+1376	1	757
+1418	1	757
+1418	1	757

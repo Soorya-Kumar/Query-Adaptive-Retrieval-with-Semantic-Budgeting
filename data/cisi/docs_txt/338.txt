@@ -1,0 +1,32 @@
+The Review Papers included in this volume represent one
+of the valuable products of the American Society for Information
+Science.  The original draft papers were sponsored
+by the TISA (Technical Information Support Activities)
+Project of the Army Corps of Engineers, as indicated on
+the reverse title page.  The basic objective of this TISA
+project was to improve the efficiency and effectiveness of
+Department of Defense (DoD) technical libraries, information
+centers and information analysis centers.  The establishment
+of priorities for TISA-sponsored research was undertaken 
+by the Graduate Library School of the University of Indiana.
+.X
+234	1	338
+304	1	338
+306	1	338
+338	5	338
+646	1	338
+647	1	338
+651	1	338
+942	1	338
+943	1	338
+944	1	338
+948	1	338
+1017	1	338
+1049	1	338
+1206	1	338
+1237	1	338
+1378	1	338
+1440	1	338
+1450	1	338
+1453	1	338
+1453	1	338

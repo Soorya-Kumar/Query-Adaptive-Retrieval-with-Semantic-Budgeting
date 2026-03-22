@@ -1,0 +1,46 @@
+The selection of papers published here explores activities in which
+indefinite neglect of either aspect, the conceptual or the mechanical,
+will lead to practical and theoretical disaster.  They centre on the
+recovery of records according to their subject matter.
+  Since libraries began, librarians have evolved, studied, and taught
+procedures for indexing and classifying.  These allow some delegation
+from subject specialists who understand the subject matter, to
+library staff who can recognize the ways in which specialists talk
+about it.  The procedures consider mostly only the interpretation
+of texts, not the text itself as an object with recognizable marks
+subject to the laws of physics and the principles of engineering.
+They assume the problems of topic identification solved, and the
+methods for recovering physical texts as independent of the methods
+for describing the interpretations of texts.
+.X
+73	1	1422
+134	1	1422
+160	1	1422
+233	1	1422
+306	1	1422
+474	1	1422
+477	1	1422
+558	1	1422
+566	1	1422
+600	1	1422
+653	1	1422
+665	2	1422
+746	1	1422
+748	1	1422
+765	1	1422
+780	1	1422
+781	1	1422
+785	1	1422
+786	1	1422
+789	1	1422
+791	1	1422
+795	1	1422
+901	1	1422
+1030	1	1422
+1045	1	1422
+1250	1	1422
+1307	1	1422
+1386	1	1422
+1394	1	1422
+1422	7	1422
+1422	7	1422

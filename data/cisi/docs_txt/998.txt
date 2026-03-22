@@ -1,0 +1,65 @@
+The authors investigate the impact of a bibliographic retrieval/card
+production system, such as the Ohio College Library Center (OCLC), with special
+attention to its role in cataloging.. Activities required at the local level to
+make the LC card a functioning component of the catalog are described.. The
+characteristics of the ensuring workload are examined, along with methods of
+accomplishing it.. These activities are seen as a factor in the persistence of
+backlogs.. The design of OCLC, because of the immobility of the terminal and
+the absence of the catalog from the data base, by-passes this workload, leaving 
+the local library to accomplish it by the method of its choice, as before, or 
+to leave it undone..
+.X
+141	2	998
+244	1	998
+299	2	998
+333	1	998
+354	1	998
+365	1	998
+522	1	998
+529	1	998
+530	1	998
+627	1	998
+628	1	998
+630	1	998
+822	1	998
+854	1	998
+871	1	998
+872	1	998
+873	2	998
+874	3	998
+875	2	998
+876	2	998
+877	1	998
+878	1	998
+879	1	998
+880	1	998
+882	1	998
+884	1	998
+886	1	998
+887	1	998
+892	3	998
+940	1	998
+941	2	998
+990	1	998
+994	2	998
+995	1	998
+996	1	998
+997	2	998
+998	6	998
+1079	2	998
+1143	1	998
+1153	1	998
+1189	1	998
+1230	1	998
+1251	1	998
+1257	1	998
+1303	1	998
+1351	1	998
+1395	1	998
+1396	2	998
+1420	1	998
+1434	1	998
+1435	2	998
+1436	1	998
+1442	1	998
+1442	1	998

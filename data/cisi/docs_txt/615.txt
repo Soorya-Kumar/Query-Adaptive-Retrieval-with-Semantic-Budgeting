@@ -1,0 +1,113 @@
+This paper develops a mathematical model for use in studying how to 
+minimize the cost of operating a mechanized retrieval system.. Through 
+the use of cost analysis, the model provides a method for comparative
+evaluation between information retrieval systems.. The cost model divides the
+costs of a retrieval system into two components:  system costs and user costs..
+In addition, it suggests that a trade off exists between the performance
+level of the system and the combination of user and systems time that is
+expended in working with the system.. This minimizes the total cost of
+operating the system.. The allocation is done for a given performance level
+and for a given cost per unit of user and system time..
+.X
+5	1	615
+28	1	615
+90	1	615
+91	1	615
+124	1	615
+125	1	615
+157	1	615
+158	1	615
+165	1	615
+172	1	615
+175	1	615
+191	1	615
+194	1	615
+212	1	615
+222	1	615
+223	1	615
+224	1	615
+274	1	615
+298	1	615
+368	1	615
+381	3	615
+389	1	615
+417	1	615
+435	1	615
+446	1	615
+448	1	615
+452	1	615
+456	1	615
+458	2	615
+468	1	615
+484	1	615
+485	1	615
+511	1	615
+514	2	615
+516	1	615
+518	2	615
+521	1	615
+522	1	615
+523	1	615
+526	1	615
+527	1	615
+528	1	615
+529	1	615
+554	1	615
+572	1	615
+575	2	615
+577	1	615
+579	2	615
+591	1	615
+595	2	615
+599	1	615
+603	1	615
+610	1	615
+615	5	615
+619	1	615
+620	1	615
+621	1	615
+625	2	615
+626	1	615
+630	1	615
+636	1	615
+640	1	615
+646	1	615
+700	1	615
+705	1	615
+707	1	615
+727	1	615
+752	2	615
+754	1	615
+780	1	615
+785	1	615
+812	1	615
+815	1	615
+817	1	615
+820	1	615
+822	2	615
+824	1	615
+827	1	615
+829	1	615
+875	1	615
+895	1	615
+902	1	615
+907	1	615
+957	1	615
+1023	1	615
+1033	1	615
+1084	1	615
+1091	1	615
+1219	1	615
+1227	1	615
+1279	1	615
+1282	1	615
+1303	1	615
+1327	1	615
+1364	1	615
+1365	1	615
+1366	1	615
+1367	1	615
+1368	1	615
+1387	1	615
+1390	1	615
+1390	1	615

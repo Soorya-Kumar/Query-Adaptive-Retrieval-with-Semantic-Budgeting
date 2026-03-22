@@ -1,0 +1,58 @@
+A characteristic of inventory in business or industry
+is that approximately 80 percent of the number of
+transactions taken from a warehouse represents about
+20 percent of the items stocked.  This may also be
+considered as a ranking of stock items by their
+transaction activity which will show that the top 20
+percent of the stocked items (i.e., the most active
+items) account for about 80 percent of the total
+number of transactions.  The rule is sometimes
+expressed as the 75/25 rule with the same interpretation.
+It is only by coincidence that the figures add to 100
+as the phenomena relate to the relationships between
+the two statistical measures.
+.X
+2	1	1451
+24	1	1451
+31	1	1451
+74	1	1451
+75	1	1451
+76	1	1451
+111	1	1451
+119	1	1451
+122	1	1451
+132	1	1451
+137	1	1451
+139	1	1451
+152	1	1451
+155	1	1451
+183	2	1451
+193	1	1451
+195	1	1451
+201	1	1451
+203	1	1451
+204	1	1451
+210	1	1451
+269	1	1451
+336	1	1451
+475	1	1451
+552	1	1451
+684	1	1451
+760	1	1451
+767	1	1451
+774	1	1451
+775	1	1451
+778	1	1451
+788	2	1451
+789	2	1451
+955	1	1451
+961	1	1451
+977	2	1451
+1011	1	1451
+1055	1	1451
+1056	1	1451
+1203	1	1451
+1275	1	1451
+1352	1	1451
+1451	6	1451
+1451	6	1451

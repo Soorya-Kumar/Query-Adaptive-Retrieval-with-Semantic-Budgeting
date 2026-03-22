@@ -1,0 +1,55 @@
+The phrase "research parks" in the title of this article recalls
+Eugene B. Jackson's 1961 prediction:
+
+In 1980 there will be universally-managed and industry-sponsored
+special libraries in the vicinity of the principal universities.  Their
+advanced use of new methods of bibliographic control, information
+retrieval, and data exchange will make their operations indistinguishable
+from those of special libraries of outstanding profit-making organizations
+in the same subject fields . . . Significant assessments will be
+made on the participating organization in research parts not only for
+the financing of day-to-day operations of facilities, especially set up
+for their benefit, but also for the total enrichment of the university
+library resources.
+.X
+31	1	1009
+36	1	1009
+41	1	1009
+46	1	1009
+181	1	1009
+182	1	1009
+183	1	1009
+184	1	1009
+193	1	1009
+195	1	1009
+198	1	1009
+201	1	1009
+269	1	1009
+340	1	1009
+395	1	1009
+415	1	1009
+431	1	1009
+760	1	1009
+767	1	1009
+774	1	1009
+778	1	1009
+891	1	1009
+905	1	1009
+939	1	1009
+942	1	1009
+952	1	1009
+953	1	1009
+955	1	1009
+964	1	1009
+968	1	1009
+1009	5	1009
+1018	1	1009
+1019	1	1009
+1240	1	1009
+1354	1	1009
+1359	1	1009
+1390	1	1009
+1397	1	1009
+1417	1	1009
+1424	1	1009
+1424	1	1009

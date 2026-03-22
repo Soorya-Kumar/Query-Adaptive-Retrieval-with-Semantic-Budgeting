@@ -1,0 +1,95 @@
+This paper develops a conception of ways in which certain psychosocial
+processes affect the allocation of rewards to scientists for their 
+contributions - an allocation which in turn affects the flow of ideas and
+findings through the communication networks of science.  The conception
+is based upon an analysis of the composite of experience reported
+in Harriet Zuckerman's interviews with Nobel laureates in the United
+States (1) and upon data drawn from the diaries, letters, notebooks,
+scientific papers, and biographies of other scientists.
+.X
+15	1	1291
+32	1	1291
+48	1	1291
+89	3	1291
+98	1	1291
+100	1	1291
+102	3	1291
+103	1	1291
+104	2	1291
+105	2	1291
+106	1	1291
+107	1	1291
+108	2	1291
+110	2	1291
+111	2	1291
+112	1	1291
+113	3	1291
+128	1	1291
+147	1	1291
+155	1	1291
+157	1	1291
+170	1	1291
+210	1	1291
+312	1	1291
+314	1	1291
+355	1	1291
+356	2	1291
+359	1	1291
+456	1	1291
+475	1	1291
+544	2	1291
+545	1	1291
+560	4	1291
+582	1	1291
+592	1	1291
+602	1	1291
+646	1	1291
+647	1	1291
+652	1	1291
+656	1	1291
+685	1	1291
+763	1	1291
+788	1	1291
+793	1	1291
+823	1	1291
+827	1	1291
+888	1	1291
+919	1	1291
+986	1	1291
+1003	1	1291
+1030	1	1291
+1050	2	1291
+1062	3	1291
+1083	1	1291
+1085	1	1291
+1254	1	1291
+1256	1	1291
+1274	1	1291
+1284	1	1291
+1285	2	1291
+1287	1	1291
+1290	1	1291
+1291	9	1291
+1293	1	1291
+1294	1	1291
+1295	1	1291
+1296	2	1291
+1297	1	1291
+1300	1	1291
+1301	2	1291
+1302	1	1291
+1304	1	1291
+1313	1	1291
+1315	1	1291
+1319	1	1291
+1337	1	1291
+1338	1	1291
+1340	2	1291
+1341	1	1291
+1344	2	1291
+1346	3	1291
+1347	1	1291
+1386	2	1291
+1404	1	1291
+1445	1	1291
+1445	1	1291

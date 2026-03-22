@@ -1,0 +1,46 @@
+The present study was undertaken pursuant to an assignment
+by the Library of Congress.  The author was directed to prepare,
+for the Board on Cataloging Policy and Research of the A.L.A.
+Division of Cataloging and Classification, a general analysis of the
+ALA cataloging rules for author and title entry, with special 
+consideration of the rules for corporate authors, and a discussion 
+of the objectives and principles which should underlie a revision of the
+rules.  The first three parts of the report are directed, respectively,
+to the three aspects of this assignment.  The fourth part of the report
+was added to deal with general questions raised by readers of a 
+preliminary draft of this report.
+.X
+92	2	246
+235	1	246
+246	8	246
+247	2	246
+265	2	246
+326	1	246
+331	1	246
+333	2	246
+799	1	246
+825	1	246
+848	1	246
+883	1	246
+919	1	246
+920	1	246
+922	1	246
+930	1	246
+941	1	246
+950	2	246
+978	1	246
+988	1	246
+991	2	246
+997	2	246
+1000	1	246
+1013	1	246
+1079	1	246
+1153	1	246
+1216	2	246
+1265	1	246
+1266	1	246
+1395	1	246
+1433	2	246
+1441	1	246
+1445	1	246
+1445	1	246

@@ -1,0 +1,58 @@
+Many segments of society are recognizing that
+access to information is a vital and fundamental
+contemporary need.  To provide optimum access
+it is essential to be able to retrieve information
+in whatever physical format it is found.  Such
+retrieval requires the development of cataloguing
+codes that will handle all media, including
+diverse kinds of audio and visual materials.
+To be most effective these cataloguing guidelines
+should be acceptable on an international level and
+should have the support of professional organizations
+most concerned with these problems.
+.X
+92	1	1153
+141	1	1153
+231	1	1153
+235	1	1153
+246	1	1153
+247	1	1153
+299	1	1153
+326	1	1153
+333	2	1153
+352	1	1153
+522	1	1153
+530	1	1153
+627	1	1153
+628	1	1153
+873	1	1153
+874	1	1153
+875	1	1153
+876	1	1153
+892	1	1153
+941	1	1153
+950	1	1153
+991	1	1153
+992	1	1153
+994	1	1153
+995	2	1153
+996	1	1153
+997	2	1153
+998	1	1153
+1000	1	1153
+1079	1	1153
+1152	1	1153
+1153	12	1153
+1189	2	1153
+1216	1	1153
+1251	1	1153
+1266	1	1153
+1351	1	1153
+1395	1	1153
+1396	1	1153
+1420	1	1153
+1434	1	1153
+1435	1	1153
+1441	1	1153
+1442	1	1153
+1442	1	1153

@@ -1,0 +1,15 @@
+A method for evaluation of indexing is expounded.  The feasibility is 
+examined of using marked documents instead of requests, called the "beacon
+method".. A M-algorithm for formalized statement of search requests is 
+described and exemplified by an information retrieval system in the nitrogen
+industry..
+.X
+420	1	1126
+491	1	1126
+538	1	1126
+801	1	1126
+814	1	1126
+1126	6	1126
+1127	3	1126
+1411	1	1126
+1411	1	1126

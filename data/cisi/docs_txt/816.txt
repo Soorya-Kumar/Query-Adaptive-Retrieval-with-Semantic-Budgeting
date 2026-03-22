@@ -1,0 +1,97 @@
+This paper continues the reporting of the Unit's work on a method of 
+investigating how often readers fail to find what they are looking for on the 
+shelves, why they fail, and what particular books they fail to find..
+   The method used is a slight modification of the earlier one - readers were
+asked to record on a slip provided the details of the book or periodical they
+were looking for, or subject area they were looking in, their academic status,
+and the date, and then to place the slip in an adjoining box.. Fron analysis of
+these 'failure' slips it was possible to determine the cause of the reader's
+failure, the individual book the reader was looking for, and the pattern of
+failure for different groups of volumes..
+  A new development was surveys of samples of readers, carried out during the
+fortnight of peak demand.. Answers to these surveys provided information on the
+effect or failure on a reader's work, what action he took after failing, whether
+he found adequate substitutes, how many books he found by browsing, and what
+proportion of the books he consulted he borrowed.. Some of these answers could be
+checked by a direct count of the books used in, and borrowed from, the library..
+   The investigations were carried out in three University libraries, each with 
+its own characteristic library structure and teaching patterns.. These 
+differences were reflected in the results obtained..
+   It is hoped that the methods of investigation used can be employed by 
+librarians to investigate the effectiveness of some of the services in their own
+libraries..
+.X
+4	2	816
+5	2	816
+9	2	816
+32	1	816
+96	1	816
+115	1	816
+137	1	816
+163	1	816
+207	4	816
+208	1	816
+217	1	816
+222	2	816
+223	2	816
+234	2	816
+245	2	816
+296	1	816
+297	1	816
+298	1	816
+300	1	816
+301	1	816
+302	1	816
+358	1	816
+364	3	816
+365	1	816
+456	1	816
+515	1	816
+535	1	816
+591	1	816
+625	1	816
+629	1	816
+631	1	816
+634	1	816
+638	1	816
+764	2	816
+766	1	816
+768	1	816
+774	1	816
+783	1	816
+791	1	816
+799	1	816
+811	7	816
+816	8	816
+818	2	816
+823	2	816
+842	2	816
+843	1	816
+844	1	816
+846	1	816
+913	1	816
+915	1	816
+925	2	816
+944	1	816
+948	1	816
+959	1	816
+960	1	816
+961	3	816
+962	4	816
+964	4	816
+968	1	816
+994	2	816
+1015	1	816
+1023	1	816
+1068	1	816
+1203	1	816
+1242	1	816
+1247	1	816
+1257	1	816
+1268	1	816
+1321	1	816
+1354	1	816
+1400	1	816
+1407	1	816
+1445	1	816
+1445	1	816

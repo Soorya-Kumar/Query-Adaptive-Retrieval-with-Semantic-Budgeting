@@ -1,0 +1,65 @@
+A collection of 144 general reference works was analyzed and encoded
+according to 254 identifiable characteristics of services and contained data,
+comprising an "approach language" expressing search parametrs.. In response to
+a request submitted at on-line terminal, the "REFSEARCH" system retrieves the
+names of those works who profiles meet or exceed the specification.. The 
+background and rationale of the system is discussed, its current use in the 
+School of Librarianship, University of California, and its potential for direct 
+service to library patrons..
+.X
+38	1	597
+161	1	597
+197	1	597
+235	1	597
+289	1	597
+291	1	597
+375	1	597
+445	1	597
+454	1	597
+472	1	597
+503	1	597
+506	1	597
+507	1	597
+548	1	597
+554	1	597
+579	1	597
+591	1	597
+593	1	597
+594	2	597
+595	1	597
+596	1	597
+597	5	597
+598	1	597
+599	1	597
+600	1	597
+601	1	597
+603	1	597
+604	1	597
+606	1	597
+610	1	597
+612	1	597
+723	1	597
+724	1	597
+801	1	597
+805	1	597
+806	1	597
+836	2	597
+863	1	597
+864	1	597
+865	1	597
+866	2	597
+867	1	597
+868	1	597
+897	1	597
+916	1	597
+936	1	597
+956	1	597
+989	1	597
+1052	1	597
+1248	1	597
+1298	1	597
+1299	1	597
+1303	1	597
+1327	1	597
+1405	1	597
+1405	1	597

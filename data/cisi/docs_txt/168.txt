@@ -1,0 +1,125 @@
+The idea that a language is based on a system of rules determining
+the interpretation of its infinitely many sentences is by
+no means novel.  Well over a century ago, it was expressed with 
+reasonable clarity by Wilhelm von Humboldt in his famous but
+rarely studied introduction to general linguistics (Humboldt,
+1836).  His view that a language "makes infinite use of finite
+means" and that its grammar must describe the processes that
+make this possible is, furthermore, a outgrowth of a persistent
+concern, within rationalistic philosophy of language and mind,
+with this "creative" aspect of language use (for discussion, see
+Chomsky, 1964, forthcoming).  What is more, it seems that even
+Panini's grammar can be interpreted as a fragment of such a
+"generative grammar," in essentially the contemporary sense of
+this term.
+  This monograph is an exploratory study of various problems
+that have arisen in the course of work on transformational grammar,
+which is presupposed throughout as a general framework for the
+discussion.  What is at issue here is precisely how this
+theory should be formulated.  This study deals, then, with
+questions that are at the border of research in transformational
+grammar.  For some, definite answers will be proposed; but more
+often the discussion will merely raise issues and consider possible
+approaches to them without reaching any definite conclusions.
+.X
+21	1	168
+51	1	168
+69	2	168
+71	1	168
+77	2	168
+79	2	168
+118	1	168
+160	1	168
+168	17	168
+174	1	168
+175	2	168
+176	1	168
+258	1	168
+315	1	168
+317	5	168
+320	2	168
+324	2	168
+332	1	168
+382	1	168
+388	1	168
+399	1	168
+417	1	168
+443	1	168
+448	1	168
+479	1	168
+480	1	168
+483	1	168
+484	1	168
+486	1	168
+488	2	168
+489	1	168
+491	1	168
+493	2	168
+498	1	168
+499	1	168
+503	1	168
+507	1	168
+509	1	168
+510	1	168
+512	1	168
+517	1	168
+520	1	168
+522	1	168
+527	1	168
+528	1	168
+531	1	168
+546	1	168
+558	2	168
+565	1	168
+566	2	168
+570	1	168
+572	3	168
+581	2	168
+590	1	168
+596	1	168
+603	1	168
+608	2	168
+633	1	168
+659	2	168
+715	1	168
+746	1	168
+754	1	168
+790	2	168
+805	1	168
+809	1	168
+810	1	168
+812	1	168
+813	1	168
+814	1	168
+817	2	168
+819	1	168
+824	1	168
+825	2	168
+894	1	168
+902	2	168
+1024	1	168
+1027	1	168
+1045	1	168
+1046	3	168
+1047	1	168
+1051	1	168
+1118	1	168
+1144	1	168
+1213	1	168
+1215	2	168
+1225	1	168
+1230	1	168
+1231	1	168
+1294	2	168
+1310	1	168
+1327	2	168
+1386	1	168
+1388	1	168
+1389	1	168
+1399	5	168
+1413	1	168
+1419	1	168
+1427	1	168
+1443	4	168
+1448	1	168
+1448	1	168

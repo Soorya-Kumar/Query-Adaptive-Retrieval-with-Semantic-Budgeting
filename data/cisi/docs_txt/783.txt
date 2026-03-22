@@ -1,0 +1,68 @@
+Details are given of a survey carried out in a large scientific special 
+library on the comparative accuracy of the author and title information which 
+the user brings to the catalogue.. The sample was restricted to requests for 
+book material.. The results are analyzed in detail and show the title to be 
+more accurate.. Some suggestions are made for extending this type of survey..
+.X
+4	1	783
+9	1	783
+13	1	783
+32	1	783
+64	1	783
+66	1	783
+96	1	783
+132	1	783
+137	1	783
+152	1	783
+163	1	783
+175	1	783
+184	1	783
+207	1	783
+245	1	783
+274	1	783
+276	2	783
+374	1	783
+456	1	783
+475	1	783
+655	2	783
+664	1	783
+717	1	783
+768	2	783
+774	1	783
+781	1	783
+783	10	783
+799	2	783
+811	2	783
+816	1	783
+834	1	783
+835	1	783
+837	1	783
+839	1	783
+848	1	783
+849	1	783
+850	1	783
+851	1	783
+852	1	783
+872	1	783
+907	1	783
+913	2	783
+922	1	783
+925	1	783
+961	1	783
+962	1	783
+963	1	783
+964	1	783
+968	2	783
+970	1	783
+981	1	783
+982	1	783
+1042	1	783
+1051	1	783
+1068	1	783
+1203	1	783
+1321	1	783
+1407	1	783
+1415	1	783
+1434	1	783
+1445	3	783
+1445	3	783

@@ -1,0 +1,51 @@
+This paper describes an all computer document retrieval system which can find
+documents related to a request even though they may not be indexed by the exact
+terms of the request, and can present these documents in the order of their
+relevance to the request.. The key to this ability lies in the application of a
+statistical formula by which the computer calculates the degree of association 
+between pairs of index terms.. With proper manipulation of these associations 
+(entirely within the machine) a vocabulary of synonyms, near synonyms and other
+words closely related to any given term or group of terms is derived.. Such a
+vocabulary related to a group of request terms is believed to be a much more
+powerful tool for selecting documents from a collection than has been available
+heretofore.. By noting the number of matching terms between this extended list 
+of request terms and the terms used to index a document, and with due regard 
+for their degree of association, documents are selected by the computer and 
+arranged in the order of their relevance to the request..
+.X
+26	3	562
+45	1	562
+78	1	562
+174	1	562
+175	2	562
+179	1	562
+315	1	562
+321	1	562
+363	1	562
+419	3	562
+420	1	562
+421	1	562
+422	1	562
+458	1	562
+479	1	562
+485	1	562
+562	7	562
+564	3	562
+566	2	562
+570	1	562
+659	1	562
+660	3	562
+661	1	562
+662	2	562
+663	2	562
+664	3	562
+769	1	562
+785	1	562
+1044	1	562
+1087	1	562
+1144	1	562
+1154	1	562
+1218	2	562
+1279	1	562
+1327	1	562
+1327	1	562

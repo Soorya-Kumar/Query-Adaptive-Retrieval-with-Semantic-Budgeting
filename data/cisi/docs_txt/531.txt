@@ -1,0 +1,79 @@
+Various approaches to index term weighting have been investigated.. In
+particular, claims have been made for the value of statistically-based
+indexing in automatic retrieval systems.. The paper discusses the logic of 
+different types of weighting, and describes experiments testing weighting 
+schemes of these types.. The result show that one type of weighting leads to
+material performance improvements in quite different collection environments..
+.X
+51	1	531
+69	1	531
+71	1	531
+75	1	531
+77	1	531
+79	2	531
+168	1	531
+175	1	531
+176	1	531
+315	2	531
+382	1	531
+419	1	531
+441	1	531
+448	1	531
+466	1	531
+480	1	531
+483	1	531
+484	1	531
+486	1	531
+488	1	531
+491	1	531
+493	1	531
+503	1	531
+507	1	531
+509	1	531
+510	1	531
+512	1	531
+517	1	531
+518	1	531
+520	1	531
+522	1	531
+527	1	531
+528	1	531
+531	5	531
+565	1	531
+566	1	531
+575	1	531
+577	1	531
+581	1	531
+596	1	531
+603	1	531
+608	1	531
+625	1	531
+633	1	531
+634	1	531
+644	1	531
+649	1	531
+659	2	531
+660	1	531
+715	1	531
+752	1	531
+754	1	531
+780	1	531
+790	1	531
+805	1	531
+809	1	531
+810	3	531
+812	5	531
+813	1	531
+814	3	531
+817	2	531
+824	3	531
+825	1	531
+894	2	531
+956	1	531
+1051	1	531
+1282	1	531
+1294	2	531
+1327	3	531
+1419	1	531
+1427	1	531
+1427	1	531

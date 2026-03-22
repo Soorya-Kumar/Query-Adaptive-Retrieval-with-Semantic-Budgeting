@@ -1,0 +1,44 @@
+The authors challenge accepted doctrine which asserts that the adequacy of 
+an academic library cannot be measured by the number of books which it 
+contains.. Out of their feeling that the Standards for College Libraries and 
+the Standards for Junior College Libraries are inadequate for estimating the 
+size (in volumes) required for minimum adequacy by libraries of institutions of
+higher education of widely differing characteristics, they developed new 
+formulas for this purpose.. These formulas attempt to identify the principal
+factors affecting academic needs for books and to ascribe suitable to each
+factor.. The authors then illustrate the application of the formulas to 
+specific institutions, and conclude that while the results are useful, further 
+research in needed.. They end by suggesting specific topics for such research..
+.X
+14	1	266
+31	1	266
+46	1	266
+153	1	266
+170	2	266
+206	2	266
+207	2	266
+208	2	266
+223	1	266
+245	1	266
+266	15	266
+271	2	266
+275	1	266
+277	2	266
+282	2	266
+288	1	266
+290	1	266
+305	1	266
+307	1	266
+408	1	266
+550	1	266
+925	1	266
+964	2	266
+976	1	266
+1005	1	266
+1019	1	266
+1028	1	266
+1086	1	266
+1090	1	266
+1400	1	266
+1424	1	266
+1424	1	266

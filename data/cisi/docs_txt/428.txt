@@ -1,0 +1,20 @@
+This paper presents the analytical review of mathematical programming models
+that have been proposed as aids to the related problems of resources allocation 
+and project selection in R&D.. The models are classified according to whether
+they are based on linear, integer, chance constrained, or dynamic programming..
+Representative examples from these classes are described and evaluated in 
+detail.. The evaluation is on terms of data requirements; built-in assumptions;
+ease of computation; usefulness of outputs; versatility of application..
+.X
+423	3	428
+424	2	428
+425	3	428
+426	1	428
+427	1	428
+428	6	428
+436	1	428
+561	2	428
+1039	2	428
+1040	4	428
+1449	1	428
+1449	1	428

@@ -1,0 +1,100 @@
+The test results are presented for a number of different index languages
+using various devices which affect recall or precision.  Within the environment
+of this test, it is shown that the best performance was obtained with
+the group of eight index languages which used single terms.  The group of
+fifteen index languages which were based on concepts gave the worst performance,
+while a group of six index languages based on the Thesaurus of
+Engineering Terms of the Engineers Joint Council were intermediary.  Of
+the single term index languages, the only method of improving performance
+was to group synonyms and word forms, and any broader groupings of terms
+depressed performance.  The use of precision devices such as links gave no
+advantage as compared to the basic device of simple coordination.
+.X
+28	1	390
+43	1	390
+44	1	390
+57	2	390
+61	1	390
+63	1	390
+71	1	390
+73	2	390
+86	1	390
+133	1	390
+134	3	390
+146	1	390
+149	1	390
+175	6	390
+228	1	390
+274	1	390
+309	1	390
+319	1	390
+328	1	390
+348	1	390
+382	2	390
+389	11	390
+390	22	390
+445	1	390
+449	1	390
+458	2	390
+474	2	390
+487	1	390
+488	1	390
+502	1	390
+509	3	390
+514	1	390
+519	1	390
+520	1	390
+565	4	390
+570	1	390
+576	1	390
+577	1	390
+579	2	390
+586	1	390
+589	1	390
+596	1	390
+600	1	390
+601	1	390
+608	1	390
+625	1	390
+634	1	390
+636	1	390
+643	2	390
+644	1	390
+649	1	390
+652	1	390
+659	1	390
+660	2	390
+661	1	390
+752	4	390
+754	2	390
+780	4	390
+785	4	390
+799	1	390
+805	1	390
+807	1	390
+812	1	390
+820	1	390
+829	2	390
+830	1	390
+863	1	390
+864	1	390
+894	1	390
+895	1	390
+956	1	390
+963	1	390
+987	1	390
+988	1	390
+989	1	390
+1044	2	390
+1089	1	390
+1152	1	390
+1154	1	390
+1255	3	390
+1265	1	390
+1279	1	390
+1282	5	390
+1294	1	390
+1313	1	390
+1327	3	390
+1419	1	390
+1419	1	390

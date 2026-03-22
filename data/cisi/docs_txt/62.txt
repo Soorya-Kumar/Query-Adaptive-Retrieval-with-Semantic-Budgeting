@@ -1,0 +1,88 @@
+A principle of sequential optimization in search theory distributes the 
+search effort at each stage so as to maximize the probability of target 
+detection with the effort expended thus far.. As an application of this 
+principle to the search of pertinent items in a literature file, the file items
+should be arranged in decreasing order of the probability that an item will 
+yield the information sought.. Complete ordering in this manner may not be
+feasible, and it is proposed that the files be partially ordered in search 
+zones with some loss in search efficiency.. A model for assessing the relative
+efficiency for partial ordering is developed and used to determine optimal zone 
+sizes under an assumed target distribution pattern.. In this way, trade-off
+between file organization effort and search effort can be meaningfully 
+evaluated.. A representative target distribution function for search literature 
+appears to follow the Bradford law of scattering.. This function is used to 
+demonstrate the application of the model over a meaningful range of parameters 
+obtained from empirical studies.. It is shown that a good two-zone search plan
+to scientific literature is one in which 15-20% of the most useful documents 
+are examined first.. Only about one of three searches should have to go on to a 
+search over the remainder of the file..
+.X
+24	1	62
+44	1	62
+61	1	62
+62	10	62
+65	1	62
+66	1	62
+67	2	62
+75	1	62
+76	1	62
+137	1	62
+172	1	62
+175	2	62
+210	1	62
+278	1	62
+279	1	62
+280	1	62
+310	1	62
+316	1	62
+318	1	62
+359	3	62
+360	1	62
+363	1	62
+382	1	62
+386	1	62
+395	1	62
+398	1	62
+409	1	62
+435	1	62
+458	1	62
+462	1	62
+483	1	62
+484	1	62
+567	1	62
+604	1	62
+658	1	62
+716	1	62
+737	1	62
+748	1	62
+751	1	62
+765	2	62
+778	3	62
+779	1	62
+782	1	62
+788	1	62
+789	1	62
+837	1	62
+853	1	62
+875	1	62
+883	1	62
+893	1	62
+907	1	62
+925	1	62
+1083	1	62
+1085	1	62
+1173	1	62
+1184	1	62
+1187	2	62
+1219	1	62
+1268	1	62
+1274	1	62
+1361	1	62
+1400	1	62
+1404	1	62
+1416	1	62
+1417	2	62
+1418	1	62
+1419	1	62
+1426	1	62
+1426	1	62

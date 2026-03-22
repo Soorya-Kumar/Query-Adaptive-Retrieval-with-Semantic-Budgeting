@@ -1,0 +1,80 @@
+An examination is made of the current problems of the communication
+and dissemination of literature in the field of physics.. The growth of
+the literature is considered quantitatively with respect to the form, subject 
+and origin of published material.. This is related to the general growth in 
+scientific activity as exemplified by increases in numbers of physicists and of
+expenditure on research.. The results of surveys aimed at ascertaining the
+needs or demands of users of the physics literature are considered, 
+particularly where these reveal weakness in the present organization of
+information transfer, and the reactions of users to new services intended to
+remedy the deficiencies.. Finally, a number of recently established services -
+some designed to meet hitherto unsatisfied needs - are described.. The role of
+the computer in the development of local, national and international 
+documentation systems is examined..
+.X
+48	1	1256
+88	1	1256
+89	2	1256
+105	1	1256
+110	1	1256
+155	1	1256
+157	1	1256
+167	1	1256
+201	1	1256
+203	1	1256
+314	1	1256
+356	1	1256
+373	1	1256
+384	1	1256
+544	1	1256
+560	2	1256
+582	1	1256
+589	1	1256
+614	1	1256
+635	1	1256
+638	1	1256
+656	1	1256
+685	1	1256
+722	1	1256
+748	1	1256
+753	1	1256
+756	1	1256
+757	1	1256
+787	1	1256
+792	1	1256
+821	1	1256
+831	1	1256
+889	1	1256
+952	1	1256
+953	1	1256
+977	1	1256
+1030	1	1256
+1050	1	1256
+1062	1	1256
+1083	1	1256
+1203	1	1256
+1210	1	1256
+1254	1	1256
+1256	5	1256
+1260	1	1256
+1275	1	1256
+1278	1	1256
+1284	1	1256
+1285	1	1256
+1290	1	1256
+1291	1	1256
+1293	1	1256
+1294	1	1256
+1295	1	1256
+1296	1	1256
+1297	1	1256
+1302	2	1256
+1319	1	1256
+1346	1	1256
+1352	1	1256
+1369	1	1256
+1373	1	1256
+1386	1	1256
+1397	1	1256
+1418	1	1256
+1418	1	1256

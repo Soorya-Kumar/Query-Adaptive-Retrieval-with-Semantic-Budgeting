@@ -1,0 +1,28 @@
+The different explanations of the nature of the information problems now
+facing science and their causes are cited and shown to be debatable.. It is
+necessary to give a definition of "information crisis", this widely used 
+concept in informatics and the science of science.. The author suggests one
+such definition, which reflects the specific historical nature of the possible
+manifestations of the crisis.. The "cumulativistic" concept of the progress of
+science is criticized as it rules out the possibility of finding the true
+causes of the information crisis.. The major cause is asserted to lie with the
+nature of the contemporary social production.. An approach to studying into
+the origins of the problem is suggested..
+.X
+540	1	1181
+1095	1	1181
+1099	1	1181
+1101	1	1181
+1102	1	1181
+1103	1	1181
+1125	1	1181
+1128	1	1181
+1160	1	1181
+1161	2	1181
+1169	1	1181
+1177	1	1181
+1181	5	1181
+1220	1	1181
+1446	1	1181
+1447	1	1181
+1447	1	1181

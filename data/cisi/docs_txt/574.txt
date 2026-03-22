@@ -1,0 +1,40 @@
+The concept of information is examined within the framework of the 
+Mathematical Theory of Communication and semiotics, the study of signs and sign
+systems.. The implications of these theories for the better understanding of
+information as we deal with this concept in the context of information systems 
+are discussed..
+.X
+15	1	574
+60	1	574
+73	1	574
+85	1	574
+126	1	574
+152	1	574
+228	1	574
+229	1	574
+313	1	574
+447	1	574
+449	2	574
+525	1	574
+526	1	574
+533	1	574
+572	1	574
+574	7	574
+616	1	574
+625	1	574
+640	2	574
+790	1	574
+803	1	574
+819	1	574
+823	1	574
+830	1	574
+1045	1	574
+1116	1	574
+1161	1	574
+1220	1	574
+1305	1	574
+1306	1	574
+1313	1	574
+1319	1	574
+1386	1	574
+1386	1	574

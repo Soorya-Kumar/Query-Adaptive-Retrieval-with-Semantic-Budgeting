@@ -1,0 +1,78 @@
+This presentation on economic aspects of information retrieval is based
+on data gathered by Project URBANDOC during the course of four years in
+developing documentation services for the literature of urban planning
+and renewal.  It was a substantial effort - half a million dollars is
+no small sum in the social sciences - made possible by an Urban Renewal
+Demonstration Grant from the U.S. Department of Housing and Urban Development
+(HUD) to The City University of New York.  The proposal that initiated the
+Project in 1965 grew out of the extensive dissatisfaction with bibliographic
+services in planning librarianship at a time when both planners and librarians
+were looking to data processing to solve a variety of information problems.
+URBANDOC was to apply the techniques of scientific documentation to a body of
+literature which had been neglected by the information science community before
+the advent of computerization, and completely by-passed by it afterwards.
+.X
+27	1	496
+38	1	496
+74	2	496
+83	2	496
+84	1	496
+158	1	496
+166	1	496
+245	1	496
+273	1	496
+279	1	496
+288	1	496
+331	1	496
+381	1	496
+408	1	496
+488	1	496
+489	1	496
+490	4	496
+491	4	496
+492	3	496
+493	1	496
+494	1	496
+495	2	496
+496	7	496
+497	3	496
+498	1	496
+499	1	496
+500	1	496
+581	2	496
+582	1	496
+583	1	496
+584	2	496
+586	1	496
+591	2	496
+592	1	496
+657	1	496
+659	1	496
+690	1	496
+723	1	496
+724	1	496
+795	1	496
+801	1	496
+815	1	496
+834	1	496
+860	1	496
+925	1	496
+957	1	496
+976	1	496
+986	1	496
+1012	1	496
+1035	1	496
+1148	1	496
+1227	1	496
+1293	1	496
+1294	2	496
+1295	1	496
+1296	1	496
+1317	1	496
+1353	1	496
+1359	1	496
+1360	1	496
+1400	1	496
+1410	1	496
+1424	1	496
+1424	1	496

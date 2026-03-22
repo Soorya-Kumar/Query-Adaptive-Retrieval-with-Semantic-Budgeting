@@ -1,0 +1,41 @@
+This book had its origin in a set of five public lectures given
+at the Sterling Memorial Library at Yale University during
+October and November 1959 under the auspices of the Yale Department
+of History.
+  The subject (whatever its name) had just come through
+a stage in its growing up during which it almost seemed as
+though every would-be practitioner of the art deemed it
+necessary to exhibit the completeness of his dedication by
+writing the history of the whole of science through all its
+periods.  Hoping that this historiographic phase had
+evaporated, and feeling incompetent in too many scientific
+and historical directions, I resolved instead to essay the
+experiment of speaking only from those areas in which I had
+reasonable firsthand experience at research.
+.X
+48	1	1270
+113	1	1270
+144	1	1270
+163	1	1270
+350	1	1270
+386	1	1270
+398	1	1270
+401	1	1270
+560	1	1270
+1038	1	1270
+1081	1	1270
+1082	1	1270
+1087	1	1270
+1201	1	1270
+1227	1	1270
+1270	5	1270
+1273	1	1270
+1287	1	1270
+1301	1	1270
+1304	1	1270
+1306	1	1270
+1337	1	1270
+1338	1	1270
+1344	1	1270
+1444	1	1270
+1444	1	1270

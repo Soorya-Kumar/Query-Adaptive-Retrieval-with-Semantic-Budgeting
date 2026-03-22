@@ -1,0 +1,39 @@
+Illustrative Computer Programming is intended as
+a graded workbook or text supplement containing
+typical practical problems, suggested solutions, and
+tried analyses which emphasize programming efficiency
+and some of the major features of PL/I (Programming
+Language/One).  As such, it can be used alone or in
+combination with established PL/I textbooks such as
+those listed in the Selected Bibliography.  Programmers
+with knowledge of other languages will not be bothered
+by excessive introductory material, while beginners can
+learn much by looking at the solutions to the problems
+and their accompanying analyses.
+.X
+125	1	432
+127	1	432
+129	1	432
+363	1	432
+432	5	432
+460	1	432
+461	1	432
+580	1	432
+622	1	432
+642	1	432
+643	1	432
+644	1	432
+645	1	432
+646	1	432
+649	1	432
+650	1	432
+708	1	432
+736	1	432
+737	1	432
+738	1	432
+739	1	432
+741	1	432
+852	1	432
+1374	1	432
+1376	1	432
+1376	1	432

@@ -1,0 +1,69 @@
+This article reports on several experiments in automatic extracting and one
+experiment in automating indexing.. Nine chapters, each from a different 
+technical book, were used as a text corpus for all the experiments.. In the 
+first experiment, an attempt was made to construct a sentence dictionary of 
+syntactic sentence types, for distinguishing extract-worthy sentences, but it 
+proved unrewarding.. Nevertheless, the results indicated that sentence typing
+might be used in a screening process in conjunction with other extracting 
+techniques.. The later attempts to combine synactic and statistical criteria 
+in the choice of extract sentences and index phrases proved more rewarding.. 
+The sentences selected  by the extracting algorithm  were representative and 
+are presented for the reader to peruse.. The noun phrases selected by the 
+indexing algorithm compared favorably with the back-of-the-book index phrases..
+There is every indication that satisfactory back-of-the-book indexes could be 
+produced automatically, with post-editing to delete superfluous items..
+.X
+26	1	499
+35	1	499
+38	1	499
+77	1	499
+79	1	499
+84	1	499
+168	1	499
+174	1	499
+175	1	499
+176	1	499
+315	2	499
+317	1	499
+320	1	499
+324	1	499
+332	1	499
+396	1	499
+420	3	499
+446	3	499
+488	2	499
+489	4	499
+490	1	499
+491	1	499
+492	1	499
+493	3	499
+494	1	499
+495	1	499
+496	1	499
+497	1	499
+498	1	499
+499	9	499
+500	3	499
+517	2	499
+522	1	499
+527	2	499
+570	1	499
+571	2	499
+576	1	499
+581	3	499
+583	1	499
+584	1	499
+586	1	499
+657	1	499
+659	2	499
+664	1	499
+666	3	499
+790	1	499
+795	1	499
+801	1	499
+830	1	499
+986	1	499
+1294	2	499
+1327	1	499
+1443	2	499
+1443	2	499

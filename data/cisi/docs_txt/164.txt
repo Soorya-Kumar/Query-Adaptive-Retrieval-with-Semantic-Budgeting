@@ -1,0 +1,87 @@
+In the context of the present symposium it would seem appropriate that
+I should deal specifically with the economic aspects of Selective Dissemination
+of Information (SDI) operation and use.  In my opinion the technical 
+feasibility and merits of SDI have been adequately demonstrated; the main
+barriers hindering general use, however, tend to be of an economic nature.
+  At Shell Research in Sittingbourne we have been operating, since 1967, an
+SDI service for the research staff and it has grown rapidly, particularly
+since we started to use the CA Condensates tapes early in 1969.  In addition
+to these tapes we are currently using the BA Previews tapes, AGDOC tapes
+(prepared by ourselves using punched card input received from Derwent) and,
+on an experimental basis, Toxitapes, produced by BIOSIS, Philadelphia.
+All these tapes are searched locally, involving the running of around five
+hundred profiles weekly.
+.X
+18	1	164
+34	1	164
+49	1	164
+53	1	164
+59	2	164
+164	6	164
+172	1	164
+178	1	164
+202	1	164
+213	1	164
+224	2	164
+243	1	164
+274	1	164
+374	1	164
+401	1	164
+419	1	164
+421	1	164
+465	1	164
+466	1	164
+467	2	164
+481	1	164
+490	2	164
+491	3	164
+506	2	164
+507	2	164
+510	1	164
+512	2	164
+520	1	164
+523	1	164
+591	2	164
+595	1	164
+603	1	164
+604	1	164
+609	2	164
+622	1	164
+623	2	164
+629	1	164
+633	1	164
+639	1	164
+659	1	164
+676	1	164
+687	1	164
+711	1	164
+714	1	164
+722	1	164
+723	1	164
+726	1	164
+728	1	164
+730	1	164
+731	1	164
+732	1	164
+809	2	164
+810	1	164
+813	2	164
+814	2	164
+820	1	164
+822	2	164
+828	1	164
+870	1	164
+879	1	164
+907	1	164
+1084	1	164
+1089	1	164
+1091	1	164
+1283	1	164
+1298	3	164
+1299	1	164
+1363	1	164
+1366	1	164
+1367	1	164
+1368	1	164
+1396	2	164
+1396	2	164

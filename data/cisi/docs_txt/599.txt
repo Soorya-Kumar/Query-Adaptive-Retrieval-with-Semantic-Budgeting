@@ -1,0 +1,93 @@
+The emergence and development of information science within its wider 
+disciplinary framework is interpreted.. Information science is approached as
+one of a modern generation of communication or behavioral disciplines which
+emerged almost simultaneously around World War II.. Consequently, an attempt is
+made to discern the evolution of relationship between information science and
+other generation disciplines.. The internal development of information science
+is first sketched.. Second, possible relationship and roles of information 
+science within a potentially emergent suprasystem of knowledge are discussed.. 
+.X
+20	1	599
+42	1	599
+60	1	599
+85	1	599
+120	1	599
+128	1	599
+129	1	599
+135	1	599
+161	1	599
+172	1	599
+175	1	599
+197	1	599
+224	1	599
+228	1	599
+244	1	599
+245	1	599
+291	1	599
+298	1	599
+375	1	599
+381	1	599
+445	1	599
+454	1	599
+456	1	599
+458	1	599
+459	1	599
+469	1	599
+472	1	599
+503	1	599
+505	1	599
+506	1	599
+507	1	599
+514	1	599
+554	2	599
+575	2	599
+579	2	599
+585	1	599
+591	2	599
+593	1	599
+594	1	599
+595	2	599
+596	1	599
+597	1	599
+599	5	599
+600	1	599
+603	2	599
+604	1	599
+606	1	599
+615	1	599
+619	1	599
+620	1	599
+621	2	599
+625	1	599
+630	2	599
+640	1	599
+652	1	599
+665	1	599
+692	1	599
+723	1	599
+724	1	599
+752	1	599
+762	1	599
+780	1	599
+801	1	599
+803	2	599
+805	1	599
+806	1	599
+822	1	599
+836	1	599
+866	1	599
+867	1	599
+907	1	599
+925	1	599
+956	1	599
+989	1	599
+1022	1	599
+1045	1	599
+1082	1	599
+1268	1	599
+1298	1	599
+1299	1	599
+1327	1	599
+1402	1	599
+1405	1	599
+1405	1	599

@@ -1,0 +1,21 @@
+A survey of the events leading to the decision to replace Library Science 
+Abstracts by a new service.  Indicates the arrangement of LISA and how this 
+will differ from LSA.  Gives a brief account of the working routines for the 
+new service.
+.X
+13	1	914
+76	1	914
+121	1	914
+162	2	914
+213	1	914
+465	1	914
+466	1	914
+720	1	914
+749	1	914
+770	1	914
+796	1	914
+914	5	914
+1076	1	914
+1362	1	914
+1363	1	914
+1363	1	914

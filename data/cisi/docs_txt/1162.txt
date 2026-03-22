@@ -1,0 +1,24 @@
+Presents the basic features of variants of an informational language designed
+for searching titles of publications in the field of synthetic organic chemistry.
+The classification of terms from natural language and the specifics of 
+translating them into information language are discussed.
+A method for selecting the synthetic means of informational languages is
+developed, and the criterion for semantic correspondence and search
+algorithm is briefly described.
+Experiments which were conducted with 3 variants of the language developed are
+discussed.
+Conclusions are drawn on the benefits of the languages for searching,
+recommendations are made regarding their field of application.
+.X
+388	2	1162
+434	1	1162
+501	1	1162
+1118	1	1162
+1132	1	1162
+1159	1	1162
+1162	7	1162
+1164	5	1162
+1224	1	1162
+1413	1	1162
+1448	1	1162
+1448	1	1162

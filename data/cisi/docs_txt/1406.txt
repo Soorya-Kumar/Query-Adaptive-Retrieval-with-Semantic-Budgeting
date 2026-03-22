@@ -1,0 +1,24 @@
+This book explores the relations among research, development, innovation,
+and economic growth; considers the manner in which the economy adapts to
+technical change and the problems encountered in the processes of adaption;
+and recommends several policy changes designed to encourage technological
+change consistent with other public policy objectives.  Since they address
+policy makers as well as scholars, the authors have tried to avoid scholarly
+jargon without sacrificing scholarly rigor.
+.X
+312	1	1406
+356	1	1406
+369	1	1406
+436	1	1406
+437	1	1406
+1036	1	1406
+1041	1	1406
+1148	1	1406
+1154	1	1406
+1187	1	1406
+1227	1	1406
+1333	1	1406
+1339	1	1406
+1345	1	1406
+1406	5	1406
+1406	5	1406

@@ -1,0 +1,134 @@
+Sir,-In his recent article B.C. Brookes propounds an ingenious mathematical
+framework to determine which periodical volumes a library should hold.  He is
+careful to point out that the selection will need regular review and revision, 
+in case the value of the aging factor a or the
+contents of the Bradford set change from year to year.  There is as yet very 
+little experimental evidence on the consistency
+of either.  Such limited evidence as there is suggests that the aging factor 
+is reasonably constant.  But the position of
+the Bradfod set is less satisfactory.  The Nature Conservancy librarians (J. M.
+Weingott and S. M. Penny, unpublished) have lent me a list of titles cited in 
+the Journal of Ecology three or more times in
+1955-56, and a similar list for 1965-66. There are 150 periodical titles in 
+the two lists, but only forty-two (28%) appear in
+both.  Of the thirty-three titles cited nine or more times in either year, 
+only eight (25%) attained that level in both, and
+twelve were cited less than three times in the other year.  The Kendall rank 
+correlation coefficient between the two years is 0.18 and not significant.
+  There is another major practical problem. The article assumes that the data
+analyzed to obtain aging or utility factors and Bradford sets are valid
+parameters of the relative value of the literature to the readers.  There is no
+mention of the type of data to use.  The reader who sought guidance from the 
+earlier literature cited would find practical techniques described in which 
+analyses of citation frequencies are used to calculate utilities discussed in 
+terms of library use.  Krauze and Hillinger have
+discussed the difference between citations in one article and future citations 
+to that article.  Their work implies a more complex
+relation between a and u than Brookes suggests.  In any case, the validity of
+citations for forecasting library consultations
+remains unproven, and there are prima facie reasons why the relationship is not
+necessarily close.  For example, one item in a list of references is often 
+intended to lead to a chain of earlier papers.  Again,
+each citation represents an author's selection from a wider group most of 
+which he has consulted in a library.  In neither case is there any
+inherent reason for similarity of age distribution or of pool of titles between 
+the list of citations and the items read by the author or his readers.
+.X
+14	1	1090
+33	1	1090
+36	1	1090
+41	2	1090
+89	1	1090
+97	1	1090
+102	1	1090
+111	1	1090
+112	1	1090
+153	1	1090
+163	1	1090
+170	1	1090
+183	1	1090
+184	1	1090
+193	1	1090
+196	1	1090
+199	1	1090
+203	1	1090
+210	1	1090
+215	1	1090
+219	1	1090
+221	1	1090
+223	1	1090
+225	1	1090
+255	1	1090
+266	1	1090
+269	1	1090
+271	1	1090
+359	3	1090
+373	1	1090
+505	1	1090
+515	1	1090
+545	1	1090
+550	1	1090
+552	1	1090
+573	1	1090
+587	1	1090
+605	1	1090
+613	1	1090
+614	3	1090
+616	1	1090
+638	1	1090
+735	1	1090
+747	1	1090
+748	1	1090
+750	1	1090
+751	1	1090
+753	1	1090
+759	1	1090
+765	1	1090
+766	1	1090
+767	1	1090
+775	1	1090
+778	1	1090
+782	1	1090
+784	1	1090
+788	1	1090
+789	1	1090
+793	3	1090
+800	1	1090
+808	2	1090
+905	1	1090
+953	1	1090
+977	1	1090
+983	1	1090
+1016	2	1090
+1019	1	1090
+1023	1	1090
+1028	1	1090
+1030	1	1090
+1055	1	1090
+1071	1	1090
+1083	1	1090
+1085	2	1090
+1086	2	1090
+1087	1	1090
+1090	7	1090
+1135	1	1090
+1147	1	1090
+1182	1	1090
+1260	1	1090
+1275	1	1090
+1276	1	1090
+1278	1	1090
+1280	1	1090
+1285	1	1090
+1286	1	1090
+1287	1	1090
+1302	3	1090
+1335	1	1090
+1352	1	1090
+1390	1	1090
+1397	1	1090
+1417	1	1090
+1424	1	1090
+1428	1	1090
+1432	1	1090
+1432	1	1090

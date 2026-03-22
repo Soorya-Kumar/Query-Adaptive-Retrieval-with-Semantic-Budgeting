@@ -1,0 +1,147 @@
+The increasing growth and complexities of research libraries are natural
+consequences of the growth of knowledge and the increasing complexity of 
+knowledge. Librarians have tried to amass more and
+more knowledge in the form of books for the benefit of the diverse interests of
+their clienteles.  Their success in this activity has been reflected in the
+increasing difficulties of identifying satisfactorily what they have.  The 
+processes of cataloging, classifying, and related technical routines have 
+become increasingly complex and expensive.  The processes
+are of such a nature that the cost for adding each new item to a large library
+is, on the average, potentially if not actually, higher than that for its
+predecessor.  The total proportion of the budgets of large research libraries
+that is spent for the processing of material, as distinguished
+from the costs of its purchase or its direct
+servicing, is now such as to give librarians pause for fear a day may come when
+nearly all the money available to large libraries will be spent in processing
+material, and little will be left to service the collection or to buy new books!
+.X
+14	1	952
+19	1	952
+31	1	952
+36	1	952
+37	2	952
+39	1	952
+40	1	952
+41	1	952
+46	1	952
+47	1	952
+48	1	952
+88	1	952
+96	1	952
+97	1	952
+102	1	952
+103	1	952
+132	1	952
+137	1	952
+167	1	952
+181	1	952
+182	1	952
+183	1	952
+184	1	952
+189	1	952
+193	1	952
+195	1	952
+198	2	952
+201	1	952
+221	1	952
+233	1	952
+237	1	952
+253	1	952
+255	1	952
+269	1	952
+272	1	952
+297	1	952
+298	1	952
+313	1	952
+359	2	952
+377	1	952
+379	1	952
+395	2	952
+415	2	952
+505	1	952
+543	1	952
+560	1	952
+573	1	952
+614	2	952
+618	1	952
+632	1	952
+635	2	952
+638	2	952
+667	1	952
+735	1	952
+748	3	952
+749	1	952
+751	1	952
+753	1	952
+756	1	952
+757	1	952
+760	1	952
+764	1	952
+765	1	952
+767	3	952
+772	1	952
+774	1	952
+775	1	952
+777	1	952
+778	2	952
+782	1	952
+787	1	952
+792	1	952
+804	1	952
+805	1	952
+821	1	952
+831	1	952
+891	1	952
+893	1	952
+905	2	952
+951	1	952
+952	10	952
+953	4	952
+958	1	952
+964	1	952
+968	1	952
+1009	1	952
+1016	1	952
+1018	1	952
+1019	1	952
+1030	1	952
+1061	1	952
+1071	1	952
+1083	1	952
+1085	1	952
+1086	2	952
+1087	1	952
+1182	1	952
+1200	1	952
+1210	2	952
+1235	1	952
+1240	1	952
+1254	1	952
+1256	1	952
+1260	3	952
+1274	1	952
+1275	6	952
+1276	2	952
+1277	1	952
+1278	2	952
+1280	2	952
+1287	1	952
+1301	1	952
+1302	6	952
+1304	1	952
+1313	1	952
+1338	1	952
+1339	1	952
+1344	1	952
+1347	1	952
+1359	1	952
+1365	1	952
+1369	1	952
+1373	1	952
+1380	1	952
+1397	1	952
+1417	1	952
+1418	1	952
+1428	1	952
+1444	1	952
+1444	1	952

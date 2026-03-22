@@ -1,0 +1,94 @@
+This volume continues the account of the Aslib-Cranfield project as given
+in the "Final Report of the First Stage of an Investigation into the Comparative
+Efficiency of Indexing Systems".  The major portion of the two years spent on
+this present stage has been involved with the analysis of the considerable
+amount of data which was obtained from the main test programme.  A difficulty
+in this work was in deciding on the type of analysis which would be most likely
+to yield valuable information.  In order to keep this volume within reasonable
+limits, it has been necessary to select from the analysis that was done, and
+even so in many cases only brief examples are given.  The major emphasis has been
+placed on the reasons for failure to retrieve source documents, for this is
+considered to give some of the most interesting results of the project and has
+not, to our knowledge, been previously attempted.  Of possible equal importance,
+but certainly more difficult to evaluate, is the reason for the retrieval of
+non-relevant references.  This analysis has not been attempted within the
+present work, but will be one of the matters to be investigated in the 
+continuation of the project.
+.X
+44	1	1255
+50	1	1255
+52	1	1255
+57	2	1255
+61	3	1255
+73	2	1255
+75	1	1255
+131	1	1255
+134	1	1255
+146	1	1255
+149	1	1255
+154	1	1255
+175	1	1255
+176	1	1255
+257	1	1255
+259	1	1255
+260	1	1255
+329	1	1255
+382	2	1255
+389	2	1255
+390	3	1255
+434	1	1255
+445	1	1255
+449	1	1255
+458	1	1255
+474	1	1255
+476	1	1255
+486	1	1255
+488	1	1255
+565	2	1255
+572	1	1255
+595	1	1255
+596	1	1255
+608	1	1255
+619	1	1255
+752	2	1255
+769	1	1255
+773	1	1255
+780	2	1255
+781	1	1255
+785	3	1255
+795	1	1255
+810	1	1255
+812	1	1255
+813	1	1255
+814	1	1255
+870	1	1255
+874	1	1255
+894	1	1255
+907	1	1255
+928	1	1255
+963	1	1255
+966	3	1255
+990	1	1255
+991	1	1255
+1066	1	1255
+1084	1	1255
+1154	1	1255
+1191	1	1255
+1215	1	1255
+1231	1	1255
+1255	15	1255
+1265	1	1255
+1268	1	1255
+1282	2	1255
+1286	1	1255
+1294	1	1255
+1327	1	1255
+1380	1	1255
+1394	1	1255
+1413	1	1255
+1414	1	1255
+1429	1	1255
+1430	1	1255
+1445	1	1255
+1448	1	1255
+1448	1	1255

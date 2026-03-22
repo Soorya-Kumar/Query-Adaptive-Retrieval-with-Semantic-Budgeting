@@ -1,0 +1,41 @@
+In a 1973 paper, Sengupta analysed references to biochemical journals in an
+attempt to provide a guide for librarians with a limited budget.  He not only
+ranked journals by the absolute number of citations made to 1969 volumes, but
+related the number of citations to the number of papers and even to the number
+of words in each journal, as perhaps 'a better guide to selection of journals 
+for subscription than position in the ranking list.'  (A similar procedure is 
+adopted in two more recent articles by Sengupta on physiology and microbiology
+journals.)
+.X
+48	1	756
+167	2	756
+359	1	756
+614	1	756
+625	1	756
+634	1	756
+635	1	756
+638	2	756
+748	2	756
+753	2	756
+756	5	756
+757	2	756
+764	1	756
+787	1	756
+792	1	756
+808	1	756
+821	1	756
+831	1	756
+952	1	756
+953	1	756
+1083	1	756
+1210	1	756
+1254	1	756
+1256	1	756
+1260	1	756
+1275	1	756
+1278	1	756
+1302	2	756
+1369	1	756
+1373	1	756
+1418	1	756
+1418	1	756

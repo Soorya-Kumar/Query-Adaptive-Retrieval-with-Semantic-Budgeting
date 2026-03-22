@@ -1,0 +1,16 @@
+This book considers nature and properties of document information, information
+characteristics of documents, the types and functions of constituents of
+traditional auxiliary apparatus; discusses formalization of document
+information; considers continuous classificatory (rank of formalization)
+document sequences from questionnaire distribution to matrix documents.
+.X
+362	5	362
+539	1	362
+1114	1	362
+1116	1	362
+1133	1	362
+1138	1	362
+1141	1	362
+1169	1	362
+1459	1	362
+1459	1	362

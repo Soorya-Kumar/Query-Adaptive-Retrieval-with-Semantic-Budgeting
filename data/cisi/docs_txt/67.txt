@@ -1,0 +1,50 @@
+Previous applications of simulation to information storage and retrieval 
+systems (ISRS) have been overly restrictive in their scope and have failed to
+consider the environment within which such systems operate.. This paper 
+considers the ISRS as a subsystem within a larger system which includes the 
+users and the funders of the retrieval system.. The three components form a 
+closed-loop information feedback system in which user response influences both 
+the funding and operation of the ISRS as it attempts to satisfy user needs 
+within a finite budget allocation.. Reward-cost theory provides the basis for
+describing user behavior.. An industrial dynamics model has been developed to 
+simulate ISRS/user/funder behavior where a university departmental library is 
+the ISRS component.. The results which such an analysis can produce are 
+discussed..
+.X
+27	1	67
+39	1	67
+61	2	67
+62	2	67
+67	5	67
+70	1	67
+71	1	67
+72	1	67
+73	1	67
+83	1	67
+120	1	67
+135	1	67
+175	1	67
+206	1	67
+207	1	67
+208	1	67
+211	1	67
+292	1	67
+382	1	67
+435	1	67
+458	1	67
+481	1	67
+483	1	67
+485	1	67
+584	1	67
+779	1	67
+780	1	67
+981	1	67
+982	1	67
+1184	1	67
+1187	3	67
+1358	1	67
+1402	1	67
+1410	1	67
+1416	1	67
+1417	2	67
+1417	2	67

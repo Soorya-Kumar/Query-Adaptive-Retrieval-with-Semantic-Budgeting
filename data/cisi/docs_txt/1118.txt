@@ -1,0 +1,96 @@
+The author gives a general definition of the IR thesaurus and outlines its 
+inner structure.. He describes a procedure of accumulating the body of keywords 
+which is required to compile the vocabulary of descriptors.. An attempt is made
+to determine how the rate of keyword accumulation depends on the number of 
+abstracts' titles processed and in what way the volume of descriptor vocabulary
+is related to the number of documents indexed.. General rules are given for 
+lexicographic processing of the keywords accumulated and for compiling of the
+descriptor vocabulary.. The algorithm has been constructed which is designed 
+to generate the article of each descriptor in the thesaurus.. To construct this
+algorithm the author analyzed the results of word-association tests and 
+selected 5 most important types of paradigmatic relations.. He formulates the 
+basic rules for translation of the texts describing the main subject content of
+the documents and of the users' requests from a natural language into the IR
+language of descriptors.. (The block diagram of algorithm for translation of
+these texts is also given..) In conclusion the author describes general
+principles of lexicographic editing of the above mentioned texts..
+.X
+25	1	1118
+26	1	1118
+29	1	1118
+30	1	1118
+34	1	1118
+53	1	1118
+68	2	1118
+69	1	1118
+77	1	1118
+78	1	1118
+79	1	1118
+151	2	1118
+168	1	1118
+175	3	1118
+179	1	1118
+261	1	1118
+317	1	1118
+320	1	1118
+346	1	1118
+382	1	1118
+420	1	1118
+458	1	1118
+476	1	1118
+477	1	1118
+478	1	1118
+479	1	1118
+480	1	1118
+484	1	1118
+485	1	1118
+504	1	1118
+539	1	1118
+558	1	1118
+566	1	1118
+595	1	1118
+664	1	1118
+680	1	1118
+704	1	1118
+711	1	1118
+712	1	1118
+760	1	1118
+769	1	1118
+773	1	1118
+781	1	1118
+790	1	1118
+798	3	1118
+889	1	1118
+1046	1	1118
+1117	1	1118
+1118	37	1118
+1122	1	1118
+1123	1	1118
+1124	3	1118
+1125	1	1118
+1127	1	1118
+1131	1	1118
+1132	1	1118
+1133	1	1118
+1134	1	1118
+1135	1	1118
+1139	1	1118
+1141	1	1118
+1161	1	1118
+1162	1	1118
+1163	1	1118
+1175	2	1118
+1179	1	1118
+1190	1	1118
+1226	1	1118
+1228	1	1118
+1281	1	1118
+1326	1	1118
+1327	1	1118
+1381	1	1118
+1382	3	1118
+1388	1	1118
+1399	1	1118
+1443	1	1118
+1448	1	1118
+1448	1	1118

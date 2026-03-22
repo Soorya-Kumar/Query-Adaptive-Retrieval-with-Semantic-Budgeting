@@ -1,0 +1,53 @@
+The article summarizes the problems encountered at the FAU library in the 
+1967 and the library's subsequent reorganization.. A detailed cost study is
+analyzed and the Clapp-Jordan and University of Washington formulae for 
+budgeting are described, as well as a modified formula.. The resulting program 
+performance budgeting system is now in use by the state university of Florida..
+.X
+74	1	288
+83	1	288
+245	1	288
+266	1	288
+273	1	288
+279	2	288
+288	6	288
+289	1	288
+291	1	288
+292	1	288
+295	1	288
+331	1	288
+381	1	288
+408	1	288
+490	1	288
+496	1	288
+591	2	288
+592	1	288
+723	1	288
+724	1	288
+834	1	288
+860	1	288
+865	2	288
+915	1	288
+925	2	288
+938	1	288
+957	2	288
+959	1	288
+960	1	288
+961	1	288
+962	1	288
+972	1	288
+975	1	288
+976	2	288
+984	1	288
+1148	1	288
+1183	1	288
+1227	1	288
+1317	1	288
+1353	2	288
+1359	1	288
+1360	2	288
+1400	2	288
+1401	1	288
+1410	1	288
+1424	1	288
+1424	1	288

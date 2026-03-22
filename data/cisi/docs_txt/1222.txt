@@ -1,0 +1,16 @@
+This dictionary contains general alphabetical list of descriptors and
+synonymous, keywords, and word combinations.
+It is intended for use in coordinating the indexing of documents.
+.X
+161	1	1222
+587	1	1222
+793	1	1222
+794	1	1222
+800	1	1222
+1085	1	1222
+1102	1	1222
+1107	1	1222
+1201	1	1222
+1222	5	1222
+1285	1	1222
+1285	1	1222

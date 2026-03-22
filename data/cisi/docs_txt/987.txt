@@ -1,0 +1,56 @@
+The history of the near-success of the 1958-59 experiment with cataloging in
+source and the subsequent refusal of the library community to accept its failure
+are punctuated by data from a recent survey of 591 libraries in IS categories
+regarding attitudes toward prepublication cataloging..
+.X
+63	1	987
+91	1	987
+175	1	987
+348	1	987
+389	1	987
+390	1	987
+429	1	987
+487	1	987
+502	1	987
+513	1	987
+579	1	987
+582	1	987
+588	1	987
+589	1	987
+596	1	987
+600	1	987
+601	1	987
+603	1	987
+613	1	987
+614	1	987
+618	1	987
+657	1	987
+685	1	987
+686	1	987
+691	1	987
+721	1	987
+722	1	987
+724	1	987
+725	1	987
+799	1	987
+805	1	987
+807	1	987
+863	1	987
+864	1	987
+930	1	987
+956	1	987
+958	1	987
+963	1	987
+987	5	987
+988	5	987
+989	1	987
+1000	1	987
+1152	1	987
+1208	1	987
+1265	1	987
+1293	1	987
+1294	1	987
+1302	1	987
+1327	1	987
+1434	1	987
+1434	1	987

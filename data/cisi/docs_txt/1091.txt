@@ -1,0 +1,222 @@
+Our experiment was based on volume 24 of Nuclear Science
+Abstracts (NSA) which contains about 53,000 citations; we
+used the generalized file-management system, Master Control,
+which can operate in either an inverted or a linear search mode.
+The inverted mode uses a table composed of the unique
+vocabulary contained in one or more data elements, along with
+all record numbers in which each vocabulary word occurs.  For
+example, an inverted table constructed on titles will have one
+entry for each unique word of every title in the data base, plus
+the record numbers in which each vocabulary word occurs.  For
+example, an inverted table constructed on titles will have one
+entry for each unique word of every title in the data base, plus
+the record numbers in which each word was found.  (In Master
+Control, a word is defined as any set of characters bounded on
+either side by a legal separator such as a blank, period, comma,
+colon, etc.)  On the other hand, in a linear search mode the
+data element is compared with the profile word, character by
+character, which results in a prohibitively time-consuming
+process for large data bases.
+  We chose the inverted-table technique because of the large
+amount of data to be searched.  Individual tables were
+constructed from the titles of the articles, NSA index terms, and
+titles and index terms combined.  NSA index terms are controlled
+by the Euratom Thesaurus, as revised for NSA.
+  We used two criteria in the study.  First, the questions had
+to be of real interest to laboratory personnel.  Some of the
+questions had actually been submitted by other members of the
+staff, to be run concurrently on the same data base on an SDI
+basis.  The others were especially constructed by the authors
+for this experiment.  Second, citations obtained were to be
+considered good (or relevant) only if they actually pertained to
+the subject in question; otherwise, they were to be considered
+"false drops," regardless of the number of words matched
+between the profile and the citation.
+.X
+18	2	1091
+28	1	1091
+34	1	1091
+38	1	1091
+49	1	1091
+53	1	1091
+59	1	1091
+73	1	1091
+124	1	1091
+125	1	1091
+127	1	1091
+129	1	1091
+145	1	1091
+157	1	1091
+164	1	1091
+190	1	1091
+191	1	1091
+197	1	1091
+202	1	1091
+211	2	1091
+213	1	1091
+214	1	1091
+218	1	1091
+224	1	1091
+243	2	1091
+307	1	1091
+330	1	1091
+378	2	1091
+381	1	1091
+389	1	1091
+421	1	1091
+440	1	1091
+450	1	1091
+451	1	1091
+452	2	1091
+453	1	1091
+459	1	1091
+465	1	1091
+466	1	1091
+467	1	1091
+468	3	1091
+484	1	1091
+490	1	1091
+491	1	1091
+492	1	1091
+495	1	1091
+506	2	1091
+507	1	1091
+508	2	1091
+510	2	1091
+511	2	1091
+512	3	1091
+514	4	1091
+517	1	1091
+518	2	1091
+519	1	1091
+520	3	1091
+521	1	1091
+523	2	1091
+524	2	1091
+525	1	1091
+526	2	1091
+528	1	1091
+529	1	1091
+530	1	1091
+534	1	1091
+546	1	1091
+553	1	1091
+576	1	1091
+579	1	1091
+580	1	1091
+582	1	1091
+587	1	1091
+591	1	1091
+594	1	1091
+595	2	1091
+603	4	1091
+604	3	1091
+606	1	1091
+609	2	1091
+610	1	1091
+611	1	1091
+612	2	1091
+615	1	1091
+619	1	1091
+622	2	1091
+623	2	1091
+625	1	1091
+626	1	1091
+629	2	1091
+630	1	1091
+631	1	1091
+632	1	1091
+633	2	1091
+636	1	1091
+637	1	1091
+639	1	1091
+642	1	1091
+646	1	1091
+648	1	1091
+650	1	1091
+659	1	1091
+676	1	1091
+692	1	1091
+696	1	1091
+699	2	1091
+700	1	1091
+703	1	1091
+705	2	1091
+707	1	1091
+708	1	1091
+711	1	1091
+722	1	1091
+723	2	1091
+726	4	1091
+727	2	1091
+728	3	1091
+729	1	1091
+730	2	1091
+731	3	1091
+732	2	1091
+733	1	1091
+734	1	1091
+736	1	1091
+738	1	1091
+739	1	1091
+740	1	1091
+741	1	1091
+742	1	1091
+743	1	1091
+744	1	1091
+752	1	1091
+754	1	1091
+755	2	1091
+764	1	1091
+780	1	1091
+785	1	1091
+809	1	1091
+810	1	1091
+812	1	1091
+813	4	1091
+814	2	1091
+820	5	1091
+822	4	1091
+824	1	1091
+826	1	1091
+827	3	1091
+828	1	1091
+829	2	1091
+866	1	1091
+870	2	1091
+873	1	1091
+879	2	1091
+883	1	1091
+895	2	1091
+1004	1	1091
+1035	1	1091
+1078	2	1091
+1089	2	1091
+1091	8	1091
+1143	1	1091
+1207	1	1091
+1264	2	1091
+1282	1	1091
+1283	1	1091
+1297	1	1091
+1298	1	1091
+1299	1	1091
+1302	1	1091
+1303	2	1091
+1307	1	1091
+1356	1	1091
+1363	1	1091
+1364	1	1091
+1366	2	1091
+1367	2	1091
+1368	3	1091
+1370	1	1091
+1372	1	1091
+1373	1	1091
+1374	1	1091
+1375	1	1091
+1376	1	1091
+1377	1	1091
+1396	2	1091
+1448	1	1091
+1448	1	1091

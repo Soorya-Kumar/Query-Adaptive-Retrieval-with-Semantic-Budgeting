@@ -1,0 +1,54 @@
+Costs of the automated library systems as currently given in published 
+reports tend to be misleading and confusing.. It is necessary to have a clear 
+understanding of how they were derived before any comparisons can be made..
+Clearly defined costs in terms of time units are more meaningful than straight 
+dollar costs and can be used as one means of comparison among various system 
+designs and as guidelines for the design of new systems..
+.X
+74	1	860
+83	1	860
+245	1	860
+273	1	860
+279	1	860
+287	1	860
+288	1	860
+331	1	860
+348	1	860
+381	1	860
+408	2	860
+490	1	860
+496	1	860
+554	1	860
+584	1	860
+591	1	860
+592	1	860
+654	1	860
+723	1	860
+724	1	860
+834	2	860
+851	1	860
+856	1	860
+857	1	860
+858	1	860
+859	1	860
+860	5	860
+861	1	860
+862	1	860
+925	1	860
+957	1	860
+976	1	860
+984	1	860
+1012	1	860
+1013	1	860
+1035	1	860
+1148	1	860
+1227	1	860
+1317	1	860
+1353	1	860
+1359	1	860
+1360	1	860
+1400	1	860
+1410	1	860
+1424	1	860
+1445	1	860
+1445	1	860

@@ -1,0 +1,65 @@
+Improvement in the production and use of citations to research literature 
+calls for coordination of activities by a number of abstracting and indexing 
+services.. The Ohio College Library Center (OCLC) has developed a cost-effective
+on-line shared cataloging system, now in widespread use by U.S. libraries.. It 
+could readily serve as a pattern for a system to create and share descriptive 
+indexing on-line.. A proposed system is outlined, possible developers are noted,
+and further action is urged..
+.X
+125	1	645
+127	1	645
+129	1	645
+141	1	645
+335	1	645
+342	1	645
+363	2	645
+409	1	645
+422	1	645
+432	1	645
+434	1	645
+460	1	645
+461	1	645
+577	1	645
+580	1	645
+622	1	645
+641	1	645
+642	1	645
+643	3	645
+644	3	645
+645	5	645
+646	1	645
+647	1	645
+649	2	645
+650	2	645
+651	1	645
+708	1	645
+709	1	645
+736	1	645
+737	1	645
+738	1	645
+739	2	645
+741	1	645
+755	1	645
+825	1	645
+830	1	645
+881	1	645
+882	1	645
+883	1	645
+884	1	645
+885	2	645
+886	1	645
+887	1	645
+917	1	645
+947	1	645
+999	1	645
+1000	1	645
+1001	1	645
+1002	1	645
+1003	1	645
+1004	1	645
+1374	1	645
+1375	1	645
+1376	2	645
+1377	1	645
+1437	1	645
+1437	1	645

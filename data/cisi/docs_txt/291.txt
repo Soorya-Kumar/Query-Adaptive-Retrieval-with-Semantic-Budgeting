@@ -1,0 +1,73 @@
+This article is directed toward the service in systems work.  Its purpose is 
+to generalize at a very elementary level a methodology or approach which can be
+used in conducting a systems study. Systems work is discussed here as a point
+of view; a logical, coherent, from the top down, preface to decision-making
+and resource allocation which utilizes a very powerful body of sophisticated
+techniques.  The approach and techniques reviewed in this paper, however,
+will be those on the most elementary  level.  No attempt will be made to
+discuss the techniques of queueing, inventory management, linear programming,
+simulation, marginal analysis, game theory, statistical inference, or any of
+the other highly sophisticated techniques available to the operations 
+research systems analysis (OR/SA) analyst. When the systems approach is clearly
+understood and properly used, it becomes a potent weapon in the arsenal
+of the administrator.  Rather than a review of the tools themselves, a
+delineation of this systems methodology and point of view will be considered in 
+this article.  The methodology discussed here embraces a number of standard 
+techniques used by the systems engineer, time and motion analyst, operations 
+researcher, and occasionally, even the librarian.
+.X
+120	1	291
+128	1	291
+135	1	291
+178	1	291
+235	1	291
+244	1	291
+245	2	291
+249	1	291
+288	1	291
+289	1	291
+291	6	291
+292	1	291
+408	1	291
+459	1	291
+548	1	291
+575	1	291
+591	1	291
+594	1	291
+597	1	291
+598	1	291
+599	1	291
+601	1	291
+621	1	291
+630	1	291
+692	1	291
+836	1	291
+863	1	291
+864	1	291
+865	2	291
+866	1	291
+868	1	291
+897	1	291
+915	1	291
+916	1	291
+925	3	291
+936	1	291
+945	1	291
+957	1	291
+959	1	291
+960	2	291
+961	2	291
+962	1	291
+972	1	291
+982	1	291
+984	1	291
+1007	1	291
+1052	1	291
+1248	1	291
+1317	1	291
+1353	1	291
+1358	1	291
+1400	2	291
+1401	2	291
+1402	1	291
+1402	1	291

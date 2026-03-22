@@ -1,0 +1,158 @@
+In this paper the experiences, costs, price policy, market, sales promotion
+and foreign cooperation of a Danish documentation department are described in
+relation to two databases, as follows: The COMPENDEX tapes are scanned in
+Denmark, whereas the INSPEC tapes are scanned in Holland with the inclusion of
+Danish profiles according to a bilateral agreement.. The total costs in 
+connection with COMPENDEX are evaluated and divided into four main components:
+Disbursement to the supplier of the tape system, working expenses of the 
+documentation center, costs of the electronic data processing, and expenses
+connected with the procurement of the original material to the subscribers..
+They can choose between including or deleting the COMPENDEX abstracts during
+sequential text scanning and printing-out.. Search profiles are formed by the 
+terms (word, author, journal code) connected by AND/OR/NOT-logic and weight
+factors.. (The above documentation department belongs to the National 
+Technological Library of Denmark and also two SDI services based on tape 
+systems from CAS.. Retrospective searches have been carried out)..
+.X
+18	1	507
+34	1	507
+49	1	507
+51	1	507
+53	1	507
+59	1	507
+69	1	507
+71	1	507
+77	1	507
+79	1	507
+161	1	507
+164	2	507
+168	1	507
+172	1	507
+175	1	507
+176	1	507
+178	1	507
+197	1	507
+202	1	507
+213	1	507
+218	1	507
+224	1	507
+243	2	507
+253	1	507
+315	1	507
+374	1	507
+375	2	507
+382	1	507
+408	1	507
+419	1	507
+421	1	507
+445	1	507
+448	1	507
+454	1	507
+465	1	507
+466	1	507
+472	1	507
+480	1	507
+481	1	507
+483	1	507
+484	1	507
+486	1	507
+488	1	507
+490	1	507
+491	3	507
+492	1	507
+493	1	507
+497	1	507
+503	2	507
+506	3	507
+507	5	507
+508	1	507
+509	1	507
+510	3	507
+512	2	507
+517	1	507
+520	2	507
+522	1	507
+523	1	507
+527	1	507
+528	1	507
+531	1	507
+548	1	507
+554	1	507
+565	1	507
+566	1	507
+579	1	507
+581	1	507
+591	2	507
+593	1	507
+594	2	507
+595	2	507
+596	2	507
+597	1	507
+599	1	507
+600	1	507
+601	1	507
+603	3	507
+604	3	507
+606	1	507
+607	1	507
+608	1	507
+622	1	507
+623	2	507
+629	1	507
+633	2	507
+639	1	507
+659	2	507
+676	1	507
+711	1	507
+715	1	507
+722	1	507
+723	2	507
+724	1	507
+726	1	507
+728	1	507
+730	1	507
+731	1	507
+732	1	507
+754	1	507
+790	1	507
+801	1	507
+805	2	507
+806	1	507
+809	2	507
+810	2	507
+812	1	507
+813	2	507
+814	2	507
+817	1	507
+820	1	507
+822	2	507
+824	1	507
+825	1	507
+828	1	507
+836	1	507
+866	2	507
+867	2	507
+870	1	507
+879	1	507
+894	1	507
+907	1	507
+956	1	507
+989	1	507
+1042	1	507
+1051	1	507
+1087	1	507
+1091	1	507
+1283	1	507
+1294	1	507
+1298	2	507
+1299	2	507
+1327	3	507
+1363	1	507
+1366	1	507
+1367	1	507
+1368	1	507
+1396	1	507
+1405	1	507
+1419	1	507
+1427	1	507
+1427	1	507

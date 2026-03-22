@@ -1,0 +1,64 @@
+Classification is so fundamental and pervasive an activity that care
+is needed to define its scope when discussing a particular application, such
+as information retrieval.
+  Retrieval from an information store (a 'library') of those items relevant
+to a request involves locating a particular class (describing what we think
+we want) and then, if necessary, adjusting this class - broadening it to find
+more material or narrowing it if the initial response proves excessive.  This
+implies recognition of the relations between the classes, and the whole
+operation is often referred to neatly as 'locating and relating'.  Assuming
+that we examine only a limited set of documents (those most likely to be
+relevant) the operation is entirely one of classification - the recognition of
+particular classes and their relations.  The fact that the instrument we use to
+assist this operation may display quasi-classificatory features (e.g.,
+alphabetical sequence) or may consist largely of our own brain box and memory
+store should not hide this otherwise obvious fact.
+.X
+117	1	797
+159	2	797
+165	1	797
+257	2	797
+260	1	797
+348	1	797
+429	1	797
+445	1	797
+476	1	797
+489	1	797
+493	1	797
+498	1	797
+501	1	797
+525	1	797
+582	1	797
+583	2	797
+585	1	797
+590	1	797
+621	1	797
+653	1	797
+655	2	797
+668	1	797
+670	1	797
+671	1	797
+674	1	797
+683	1	797
+688	1	797
+689	1	797
+715	2	797
+796	1	797
+797	5	797
+798	3	797
+799	1	797
+801	2	797
+802	1	797
+819	1	797
+858	1	797
+859	1	797
+861	1	797
+989	1	797
+1077	1	797
+1230	1	797
+1231	1	797
+1265	1	797
+1393	1	797
+1394	1	797
+1405	1	797
+1405	1	797

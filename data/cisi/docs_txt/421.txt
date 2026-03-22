@@ -1,0 +1,88 @@
+An automatic system is being developed to disseminate information to the 
+various sections of any industrial, scientific or government organization.. 
+This intelligence system will utilize data-processing machines for auto-
+abstracting and auto-encoding of documents and for creating interest profiles
+for each of the "action points" in an organization.. Both incoming and 
+internally generated documents are automatically abstracted, characterized by a
+word pattern, and sent automatically to appropriate action points.. This paper
+shows the flexibility of such a system in identifying known information, in
+finding who needs to know it and in disseminating it efficiently either in 
+abstract form or as a complete document..
+.X
+18	1	421
+26	1	421
+34	1	421
+45	1	421
+49	2	421
+53	1	421
+59	1	421
+91	1	421
+164	1	421
+172	1	421
+202	1	421
+213	1	421
+224	1	421
+243	1	421
+315	1	421
+419	1	421
+420	1	421
+421	6	421
+439	1	421
+440	1	421
+465	1	421
+466	1	421
+490	1	421
+491	1	421
+506	1	421
+507	1	421
+510	1	421
+512	1	421
+562	1	421
+564	1	421
+580	1	421
+591	1	421
+595	1	421
+603	1	421
+604	1	421
+609	1	421
+622	1	421
+623	1	421
+629	1	421
+633	1	421
+639	1	421
+659	1	421
+662	1	421
+663	1	421
+664	1	421
+676	2	421
+696	1	421
+711	1	421
+722	1	421
+723	1	421
+726	1	421
+727	1	421
+728	1	421
+730	1	421
+731	1	421
+732	1	421
+809	2	421
+810	1	421
+813	2	421
+814	1	421
+820	1	421
+822	1	421
+828	1	421
+870	2	421
+879	1	421
+907	1	421
+1091	1	421
+1279	1	421
+1283	1	421
+1298	2	421
+1299	1	421
+1363	1	421
+1366	1	421
+1367	1	421
+1368	1	421
+1396	2	421
+1396	2	421

@@ -1,0 +1,95 @@
+A measure of indexing consistency is developed based on the concept of 
+"fuzzy-sets".. It assigns a higher consistency value if indexers agree on the 
+more important terms.. Measures of the quality of an indexer's work and 
+exhaustivity of indexing are also proposed.. Experimental data on indexing 
+consistency is presented for certain categories of indexers; and consistency,
+quality, and exhaustivity values are compared and analyzed.. The analysis of 
+indexing exhaustivity leads to the conclusion that the increase of information
+as a result of group indexing is a process analogous to Bradford's law of
+information scattering, Lotka's law of scientific productivity, and Zipf's law
+of vocabulary distribution..
+.X
+30	1	81
+35	1	81
+42	1	81
+43	1	81
+44	1	81
+45	1	81
+52	2	81
+57	1	81
+70	1	81
+71	2	81
+72	1	81
+73	3	81
+74	1	81
+75	3	81
+76	1	81
+77	2	81
+78	3	81
+79	2	81
+80	1	81
+81	8	81
+82	5	81
+83	2	81
+86	1	81
+95	1	81
+153	1	81
+154	1	81
+156	1	81
+175	1	81
+211	1	81
+212	2	81
+245	1	81
+247	1	81
+277	1	81
+279	1	81
+280	1	81
+359	1	81
+416	1	81
+420	1	81
+486	1	81
+578	1	81
+581	1	81
+582	1	81
+589	1	81
+594	1	81
+595	1	81
+655	1	81
+656	1	81
+657	1	81
+666	1	81
+720	1	81
+748	2	81
+759	1	81
+765	1	81
+778	1	81
+781	1	81
+785	1	81
+786	2	81
+787	2	81
+788	1	81
+789	1	81
+791	1	81
+799	1	81
+838	1	81
+840	1	81
+853	1	81
+893	1	81
+925	2	81
+984	1	81
+1054	1	81
+1081	1	81
+1082	1	81
+1083	1	81
+1154	1	81
+1201	1	81
+1232	1	81
+1281	1	81
+1294	1	81
+1295	1	81
+1298	1	81
+1393	1	81
+1401	1	81
+1417	1	81
+1431	1	81
+1431	1	81

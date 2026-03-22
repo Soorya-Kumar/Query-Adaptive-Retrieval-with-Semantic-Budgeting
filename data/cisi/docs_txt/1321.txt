@@ -1,0 +1,58 @@
+This book is addressed to scientists and engineers, to administrators
+of research and development, and to all others who are concerned about the
+effects of organizations upon the work of their members.  This book is
+one of the first major studies to examine the relationship between a 
+scientist's performance and the organization of his laboratory.  Unlike many
+previous expositions about the best environment for technical people, the
+findings resulted from extensive analysis of factual data from a wide
+range of research personnel.
+  Work progressed over the next four years, and a number of intriguing
+results began to emerge.  But as these were discussed with other
+investigators studying different kinds of R & D laboratories, discrepancies
+appeared.  It became clear that a broader study was needed before one
+could be sure what constitutes a stimulating environment for research
+personnel.  We set out to design a study in which standardized instruments
+would be administered to scientists and engineers in several types of
+laboratories.
+.X
+4	1	1321
+9	1	1321
+15	1	1321
+32	1	1321
+96	3	1321
+109	1	1321
+131	1	1321
+132	1	1321
+137	2	1321
+163	1	1321
+207	1	1321
+313	2	1321
+356	1	1321
+426	2	1321
+456	1	1321
+656	1	1321
+658	1	1321
+768	1	1321
+771	1	1321
+774	1	1321
+783	1	1321
+799	1	1321
+811	1	1321
+816	1	1321
+913	1	1321
+961	1	1321
+962	1	1321
+964	1	1321
+968	1	1321
+1068	1	1321
+1150	2	1321
+1154	1	1321
+1186	1	1321
+1203	1	1321
+1320	1	1321
+1321	18	1321
+1407	3	1321
+1408	2	1321
+1445	1	1321
+1454	1	1321
+1454	1	1321

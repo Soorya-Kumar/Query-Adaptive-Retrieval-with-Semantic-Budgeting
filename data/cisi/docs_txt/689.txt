@@ -1,0 +1,68 @@
+The Genealogical Retrieval by Magnetic Tapes Storage (GREMAS) system and the
+potential it offers for searches are described.. The input and retrieval 
+procedures of the system are explained as well as the integration of the GREMAS 
+system into the IDC system - i.e., machine generation of the GREMAS coding from
+topological input and of the superimposed bit code from the GREMAS coding..
+.X
+29	1	689
+58	2	689
+68	1	689
+116	1	689
+117	3	689
+165	3	689
+252	1	689
+254	2	689
+327	1	689
+347	1	689
+445	2	689
+451	1	689
+476	1	689
+490	1	689
+491	1	689
+495	1	689
+512	1	689
+525	1	689
+590	3	689
+609	1	689
+621	1	689
+641	2	689
+656	1	689
+668	2	689
+670	2	689
+671	3	689
+673	2	689
+674	1	689
+677	1	689
+678	1	689
+679	1	689
+682	1	689
+683	3	689
+687	1	689
+689	7	689
+690	1	689
+693	1	689
+694	1	689
+695	1	689
+698	1	689
+700	1	689
+704	1	689
+706	1	689
+707	1	689
+714	1	689
+715	1	689
+727	1	689
+730	1	689
+738	1	689
+762	1	689
+797	1	689
+814	1	689
+819	1	689
+833	1	689
+901	1	689
+1026	1	689
+1072	2	689
+1077	2	689
+1231	2	689
+1292	1	689
+1452	2	689
+1452	2	689

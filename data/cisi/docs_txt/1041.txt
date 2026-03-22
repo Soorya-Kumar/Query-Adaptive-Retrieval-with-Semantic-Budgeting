@@ -1,0 +1,33 @@
+The Managerial Grid method of designating various
+styles of leadership avoids these semantic traps.  Even more,
+it shows how a leader can simultaneously maximize both 
+the methods which are production-oriented and those which
+are people-oriented.  Thus instead of putting a manager in
+a dilemma of choosing one or the other alternative, it
+illustrates that there are ways he can gain the benefits of
+both.  It puts various methods of managing problems into
+a framework where the leader can identify, study and
+change his own behavior.  Thus he is in a position to understand
+it better, to evaluate the results it produces, and to
+encourage its use by others.   
+.X
+293	1	1041
+298	1	1041
+304	1	1041
+312	1	1041
+356	1	1041
+401	1	1041
+418	1	1041
+436	1	1041
+437	1	1041
+1036	1	1041
+1041	6	1041
+1069	1	1041
+1154	2	1041
+1187	1	1041
+1188	1	1041
+1233	1	1041
+1333	1	1041
+1406	1	1041
+1455	1	1041
+1455	1	1041

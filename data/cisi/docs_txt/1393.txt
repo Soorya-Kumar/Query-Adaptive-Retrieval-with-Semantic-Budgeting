@@ -1,0 +1,53 @@
+The first edition of this book, published in 1969, was prompted
+by changes in the Library Association syllabus which for the first time
+enables lecturers to treat classification and subject cataloging as
+different aspects of the same topic.  These changes coincided with the
+publication of the results of the Cranfield project, which showed
+clearly that all indexing languages are basically the same.  However,
+although it was possible to teach these new approaches, there was no
+one textbook which covered the subject approach in the way that I felt
+was needed.  The first edition was intended to fill this gap, and its
+reception, both in Britain and abroad, showed that it did indeed fulfill a
+real need.  It met with a very positive welcome from lecturers and -
+more importantly - from students, particularly in the United States,
+where British textbooks on classification had previously been regarded
+with something akin to suspicion.  (As the Dean of one American
+library school is alleged to have remarked, 'What theory of classification?')
+.X
+30	1	1393
+71	1	1393
+75	1	1393
+77	1	1393
+78	1	1393
+79	1	1393
+80	1	1393
+81	1	1393
+82	1	1393
+83	1	1393
+146	1	1393
+154	1	1393
+212	1	1393
+247	1	1393
+249	1	1393
+257	1	1393
+458	1	1393
+581	1	1393
+666	1	1393
+715	1	1393
+797	1	1393
+798	1	1393
+838	1	1393
+853	1	1393
+911	1	1393
+930	1	1393
+966	1	1393
+1043	1	1393
+1053	1	1393
+1066	2	1393
+1230	1	1393
+1231	1	1393
+1265	1	1393
+1393	10	1393
+1394	1	1393
+1431	1	1393
+1431	1	1393

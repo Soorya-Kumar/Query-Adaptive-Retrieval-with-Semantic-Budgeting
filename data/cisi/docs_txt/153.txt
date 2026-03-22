@@ -1,0 +1,72 @@
+In July 1966 John I. Thompson & Company accepted a contract with the
+Picatinny Arsenal, US Department of the Army, to perform a study aimed
+at developing 'Criteria for evaluating the effectiveness of library
+operations and services' under the ATLIS Program (Army Technical
+Library Improvement Studies).  The study was divided into three
+phases aimed at:
+    I A Literature search to reflect the current 'state-of-the
+      art' covering library standards and the methods of evaluating
+      libraries developed up to the present.
+   II A phase in which to gather and evaluate any data required from
+      Army Technical Libraries, from available surveys already
+      published, or from any other sources, by which to develop
+      criteria.
+  III A phase in which to establish and validate the criteria.
+  Phases I and II of the study are now complete.  Phase III is in progress
+and is expected to be completed by the late fall of 1968.  The reports of
+Phases I and II are already available for detailed study and that of
+Phase III will be available soon.  The purpose of this paper is to present
+some of the findings of the study.
+.X
+14	1	153
+71	1	153
+72	1	153
+73	1	153
+74	1	153
+75	1	153
+77	1	153
+78	1	153
+79	1	153
+81	1	153
+82	1	153
+83	2	153
+86	1	153
+153	6	153
+156	1	153
+170	1	153
+206	1	153
+207	1	153
+211	1	153
+212	1	153
+223	1	153
+245	2	153
+266	1	153
+271	1	153
+277	1	153
+279	1	153
+280	1	153
+458	1	153
+486	1	153
+550	1	153
+591	1	153
+720	1	153
+748	1	153
+779	2	153
+785	1	153
+786	1	153
+787	1	153
+788	1	153
+789	1	153
+791	1	153
+792	1	153
+841	1	153
+842	1	153
+925	1	153
+984	1	153
+1019	1	153
+1028	1	153
+1086	1	153
+1090	1	153
+1317	2	153
+1424	1	153
+1424	1	153

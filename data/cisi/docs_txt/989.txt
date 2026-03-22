@@ -1,0 +1,72 @@
+Explores the possibilities of merging the terminology of the Universal
+Decimal Classification System with that of a term system - Engineers Point
+Council's Thesaurus - for nuclear science and technology.. Concludes, from the
+evidence presented, that UDC can be effectively used as a term system.. Proposes
+that the two systems coordinate the terms and merge a major thesaurus (EJC) with
+an effective classification scheme of international scope (UDC) to provide a
+needed tool in the area of classification and documentation..
+.X
+16	1	989
+63	1	989
+154	1	989
+161	1	989
+175	1	989
+197	1	989
+260	1	989
+348	1	989
+375	1	989
+389	1	989
+390	1	989
+445	1	989
+454	1	989
+472	1	989
+487	1	989
+502	1	989
+503	1	989
+506	1	989
+507	1	989
+554	1	989
+579	2	989
+591	1	989
+593	1	989
+594	1	989
+595	1	989
+596	2	989
+597	1	989
+599	1	989
+600	2	989
+601	1	989
+603	1	989
+604	1	989
+606	1	989
+723	1	989
+724	1	989
+796	1	989
+797	1	989
+799	1	989
+801	2	989
+802	1	989
+805	2	989
+806	1	989
+807	1	989
+836	1	989
+838	1	989
+863	1	989
+864	1	989
+866	1	989
+867	1	989
+956	2	989
+963	1	989
+987	1	989
+988	1	989
+989	5	989
+1074	1	989
+1152	1	989
+1265	1	989
+1294	1	989
+1298	1	989
+1299	1	989
+1327	2	989
+1405	1	989
+1431	1	989
+1431	1	989

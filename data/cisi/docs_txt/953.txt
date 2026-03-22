@@ -1,0 +1,118 @@
+This is the second of two papers dealing with the characteristics of the
+literature used by research chemists and physicists in the United States.  
+The method of the study was fully outlined in th first article and will
+therefore not be repeated here.   The previous paper was devoted to a
+discussion of the importance of the literature of various subject fields to
+research in chemistry and physics.  The remarks that follow are directed
+primarily to a discussion of the temporal span of the literature, the principal
+forms of the literature, the national origins of the literature used in the 
+United States, and some attention is devoted to the more important serial
+titles.
+.X
+31	1	953
+33	1	953
+36	2	953
+41	2	953
+46	1	953
+48	1	953
+89	1	953
+97	1	953
+102	1	953
+111	1	953
+112	1	953
+163	1	953
+167	1	953
+181	1	953
+182	1	953
+183	2	953
+184	2	953
+193	2	953
+195	1	953
+198	1	953
+199	1	953
+201	1	953
+203	1	953
+210	1	953
+225	1	953
+255	1	953
+269	2	953
+373	1	953
+395	1	953
+415	1	953
+545	1	953
+552	1	953
+587	1	953
+605	1	953
+613	1	953
+614	2	953
+635	1	953
+638	2	953
+735	1	953
+747	1	953
+748	1	953
+750	1	953
+753	2	953
+756	1	953
+757	1	953
+760	1	953
+766	1	953
+767	2	953
+774	1	953
+775	1	953
+778	1	953
+782	1	953
+784	1	953
+787	1	953
+788	1	953
+789	1	953
+792	1	953
+793	1	953
+800	1	953
+808	1	953
+821	1	953
+831	1	953
+891	1	953
+905	2	953
+952	4	953
+953	5	953
+958	1	953
+964	1	953
+968	1	953
+977	1	953
+983	1	953
+1009	1	953
+1016	1	953
+1018	1	953
+1019	1	953
+1023	1	953
+1030	1	953
+1055	1	953
+1083	1	953
+1087	1	953
+1090	1	953
+1135	1	953
+1210	1	953
+1235	1	953
+1240	1	953
+1254	1	953
+1256	1	953
+1260	3	953
+1275	3	953
+1276	2	953
+1278	2	953
+1280	1	953
+1285	1	953
+1286	1	953
+1287	1	953
+1302	3	953
+1335	1	953
+1359	1	953
+1369	1	953
+1373	1	953
+1390	1	953
+1397	2	953
+1417	2	953
+1418	1	953
+1428	1	953
+1432	1	953
+1432	1	953

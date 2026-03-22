@@ -1,0 +1,24 @@
+Earlier publications on the study of information requests consisted of
+statistical listing of the most usable sources of information.
+Lately there is an increasing number of publications which consider the methods
+for studying information requests.
+Analysis of these publications shows that we can discern two basic tendencies:
+studying subfield groups of researchers and groups of researchers, classified
+by topical information sources.
+Some attempts were made to study information requests in connection with
+creative processes, psychology of creativity and also to establish the
+purposes of information retrieval and scientific sources of information.
+.X
+763	1	1158
+771	1	1158
+772	1	1158
+965	1	1158
+1095	4	1158
+1099	2	1158
+1103	1	1158
+1155	3	1158
+1156	3	1158
+1158	7	1158
+1160	1	1158
+1330	1	1158
+1330	1	1158

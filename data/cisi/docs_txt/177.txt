@@ -1,0 +1,41 @@
+My purpose in writing this book has been to try to give an understanding
+of what automated systems can do in libraries today.  I have limited
+myself strictly to those areas which are commonly termed "library
+housekeeping" - the processes of book ordering and cataloguing,
+periodicals accessioning and circulation control, whose purpose is to
+make a library into an efficient machine for acquiring, storing, and
+disseminating knowledge and information.  These are the processes
+which can be automated here and now to improve the quality of
+service which a library can give to its readers.  I hope that the
+descriptions and explanations given here will be of assistance to librarians
+in developing appropriate automated systems in their own libraries.
+.X
+24	1	177
+75	1	177
+78	1	177
+80	1	177
+177	7	177
+281	1	177
+287	1	177
+336	1	177
+348	1	177
+374	1	177
+406	1	177
+408	2	177
+458	1	177
+471	1	177
+849	1	177
+852	1	177
+853	1	177
+854	1	177
+855	1	177
+897	1	177
+916	1	177
+979	1	177
+984	1	177
+1007	1	177
+1011	1	177
+1248	1	177
+1327	1	177
+1433	1	177
+1433	1	177

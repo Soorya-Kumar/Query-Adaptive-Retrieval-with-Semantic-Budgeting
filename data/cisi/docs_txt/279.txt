@@ -1,0 +1,84 @@
+Libraries in academic institutions have traditionally prepared annual
+budgets based either upon subjective judgments or upon oversimplified 
+formulas.. Two budgeting techniques recently introduced into universities from 
+the defense establishment are program budgeting and benefit analysis.. Properly
+applied they can be utilized to gain better decisions in problems facing 
+academic library managers and improved allocation of library resources..
+.X
+24	1	279
+62	1	279
+65	1	279
+66	1	279
+71	1	279
+72	1	279
+73	1	279
+74	3	279
+75	2	279
+76	1	279
+77	1	279
+78	1	279
+79	1	279
+81	1	279
+82	1	279
+83	3	279
+86	1	279
+137	1	279
+153	1	279
+156	1	279
+210	1	279
+211	1	279
+212	1	279
+245	2	279
+273	1	279
+277	1	279
+278	1	279
+279	8	279
+280	2	279
+288	2	279
+331	1	279
+381	1	279
+386	1	279
+395	1	279
+398	1	279
+408	1	279
+486	1	279
+490	1	279
+496	1	279
+584	1	279
+591	1	279
+592	1	279
+658	1	279
+716	1	279
+720	1	279
+723	1	279
+724	1	279
+748	2	279
+782	1	279
+785	1	279
+786	1	279
+787	1	279
+788	2	279
+789	2	279
+791	1	279
+834	1	279
+837	1	279
+860	1	279
+925	4	279
+957	1	279
+975	1	279
+976	2	279
+984	1	279
+1083	1	279
+1148	1	279
+1183	1	279
+1227	1	279
+1317	2	279
+1353	1	279
+1359	2	279
+1360	3	279
+1361	1	279
+1400	2	279
+1404	1	279
+1410	1	279
+1424	1	279
+1424	1	279

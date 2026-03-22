@@ -1,0 +1,31 @@
+The information explosion sparks a need
+for creative synthesis of facts and ideas.
+For efficient access to good scientific
+literature we must devise new schemes for
+compression.
+.X
+37	1	1446
+63	2	1446
+132	1	1446
+161	1	1446
+166	1	1446
+386	1	1446
+398	1	1446
+771	1	1446
+907	1	1446
+1095	1	1446
+1102	1	1446
+1103	1	1446
+1107	1	1446
+1110	1	1446
+1111	1	1446
+1113	1	1446
+1115	2	1446
+1142	2	1446
+1160	1	1446
+1177	1	1446
+1181	1	1446
+1284	1	1446
+1446	7	1446
+1447	4	1446
+1447	4	1446

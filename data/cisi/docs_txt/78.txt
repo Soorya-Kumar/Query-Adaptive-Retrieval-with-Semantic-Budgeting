@@ -1,0 +1,82 @@
+When adding a document to a collection, an indexer should choose a 
+representation which makes evident both the content of the document and its 
+relation to other documents already in the collection.. Toward this end, the 
+Negotiated Search Facility (NSF) makes possible indexer-controlled retrieval of 
+information from a collection data base using tools beyond those available in a
+traditional bibliographic catalog.. The design philosophy of NSF is to offer a 
+framework to guide the indexer while allowing him freedom to retrieve any data 
+which he judges will help him make indexing decisions.. An example which 
+indicates how an indexer might use the facility also shows how the display
+formats and command language promote interaction.. While the discussion is 
+directed toward indexing, it should be clear that the facility would be equally
+useful to the searcher..
+.X
+24	1	78
+26	1	78
+30	1	78
+68	1	78
+71	2	78
+72	1	78
+73	1	78
+74	1	78
+75	3	78
+77	4	78
+78	10	78
+79	3	78
+80	2	78
+81	3	78
+82	3	78
+83	2	78
+86	1	78
+153	1	78
+154	1	78
+156	1	78
+175	2	78
+177	1	78
+180	1	78
+211	1	78
+212	2	78
+245	1	78
+247	1	78
+277	1	78
+279	1	78
+280	1	78
+281	1	78
+336	1	78
+420	1	78
+483	1	78
+486	1	78
+498	1	78
+501	1	78
+562	1	78
+581	1	78
+593	1	78
+595	1	78
+666	1	78
+720	1	78
+748	1	78
+785	1	78
+786	1	78
+787	1	78
+788	1	78
+789	1	78
+790	1	78
+791	1	78
+838	1	78
+852	1	78
+853	2	78
+854	1	78
+855	1	78
+925	1	78
+984	2	78
+1011	1	78
+1118	1	78
+1124	1	78
+1131	1	78
+1144	1	78
+1294	1	78
+1326	1	78
+1382	1	78
+1393	1	78
+1431	1	78
+1431	1	78

@@ -1,0 +1,64 @@
+Far-reaching changes in the patterns of communication in science
+are at present in motion, which seem likely to have fundamental
+effects on scientists's use of and access to existing knowledge.
+These changes derive from the increasing involvement of computer
+techniques in the publication, dissemination and retrieval of scientific
+and technical information.  Many of the implications of the changes
+are not yet clear.  Information-handling is rapidly changing from a
+labour-intensive industry to a capital-intensive one, as soaring
+man-power requirements reflect the increasing flow of information and
+increasing demands for timeliness, accuracy, and improved access.
+But the changes to be effected also have major social implications;
+the reasons for publication and use of information are complex,
+reflecting the factors of a sociological nature which are still 
+imperfectly understood.  The rate at which innovations in information-
+handling win acceptance from scientists is determined partly by their
+appreciation of the greater flexibility which the novel methods offer,
+but also by the sensitivity, on the part of the designers and operators
+of information systems, to the needs and habits of users, and to their
+perception of the usefulness of the newer methods.
+.X
+116	1	327
+117	1	327
+175	1	327
+176	1	327
+254	3	327
+327	11	327
+389	1	327
+509	1	327
+568	3	327
+569	2	327
+619	1	327
+641	1	327
+668	1	327
+670	1	327
+671	3	327
+673	1	327
+677	1	327
+678	1	327
+679	1	327
+682	1	327
+689	1	327
+690	1	327
+692	1	327
+693	1	327
+694	1	327
+695	2	327
+698	2	327
+700	1	327
+704	1	327
+706	3	327
+707	1	327
+730	1	327
+738	1	327
+817	1	327
+833	1	327
+890	3	327
+1026	1	327
+1044	1	327
+1072	1	327
+1092	3	327
+1218	1	327
+1292	2	327
+1452	2	327
+1452	2	327

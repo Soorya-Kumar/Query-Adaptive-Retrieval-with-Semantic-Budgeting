@@ -1,0 +1,96 @@
+Can a computer write the history of science?  Probably not in the sense
+usually implied.  However, the research reported herein is a preliminary
+attempt to understand and define some basic problems that must be solved 
+if computers are ever to aid the historian of science - no less supplant him.
+In this study, it was necessary to select a recent important scientific
+breakthrough which was based on the cumulation of years of diverse
+scientific achievement.  For this reason we selected the discovery of the
+DNA code.  For a concise historical description of the events, we then
+selected "The Genetic Code," a book by Dr. Isaac Asimov which describes
+the major scientific developments that eventually led to the duplication
+in the laboratory of the process of protein synthesis under control of DNA.
+.X
+19	1	1444
+37	1	1444
+39	3	1444
+40	1	1444
+41	1	1444
+47	2	1444
+88	1	1444
+89	1	1444
+97	1	1444
+102	1	1444
+103	1	1444
+106	1	1444
+113	1	1444
+144	1	1444
+233	1	1444
+253	2	1444
+313	1	1444
+359	1	1444
+377	2	1444
+379	1	1444
+395	1	1444
+505	1	1444
+560	2	1444
+573	1	1444
+602	1	1444
+618	2	1444
+632	6	1444
+635	1	1444
+667	1	1444
+677	1	1444
+706	1	1444
+748	1	1444
+749	1	1444
+751	1	1444
+764	2	1444
+765	1	1444
+777	1	1444
+778	1	1444
+782	1	1444
+784	1	1444
+789	1	1444
+804	1	1444
+805	1	1444
+893	1	1444
+952	1	1444
+1010	1	1444
+1016	1	1444
+1044	1	1444
+1061	1	1444
+1081	1	1444
+1082	2	1444
+1085	1	1444
+1086	1	1444
+1087	1	1444
+1182	1	1444
+1200	1	1444
+1201	1	1444
+1227	1	1444
+1234	1	1444
+1270	1	1444
+1273	3	1444
+1274	4	1444
+1277	1	1444
+1278	2	1444
+1280	2	1444
+1285	2	1444
+1287	1	1444
+1300	2	1444
+1301	3	1444
+1302	3	1444
+1304	2	1444
+1313	4	1444
+1337	1	1444
+1338	1	1444
+1341	1	1444
+1342	1	1444
+1344	1	1444
+1346	1	1444
+1347	2	1444
+1380	1	1444
+1387	1	1444
+1428	1	1444
+1444	10	1444
+1444	10	1444

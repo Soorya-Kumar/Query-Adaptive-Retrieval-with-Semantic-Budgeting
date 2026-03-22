@@ -1,0 +1,75 @@
+A method of developing computer catalogs is proposed which does not require
+unit card conversion but rather the accumulation of data from operating 
+programs..  It is proposed that the bibliographic and finding functions of the
+catalog be separated, with the latter being the first automated.. Such 
+automation is seen as being advantageous on a cost basis..
+.X
+90	1	299
+141	2	299
+231	1	299
+244	1	299
+261	1	299
+295	1	299
+299	6	299
+333	2	299
+334	1	299
+354	1	299
+365	1	299
+522	1	299
+529	1	299
+530	1	299
+608	1	299
+610	1	299
+617	1	299
+620	1	299
+627	2	299
+628	2	299
+630	1	299
+815	1	299
+822	1	299
+854	1	299
+871	1	299
+872	1	299
+873	2	299
+874	5	299
+875	3	299
+876	2	299
+877	1	299
+878	2	299
+879	1	299
+880	1	299
+892	4	299
+922	1	299
+938	1	299
+939	1	299
+940	1	299
+941	3	299
+990	1	299
+991	1	299
+992	1	299
+994	2	299
+995	2	299
+996	1	299
+997	2	299
+998	2	299
+1079	3	299
+1143	1	299
+1153	1	299
+1189	1	299
+1221	1	299
+1230	1	299
+1251	1	299
+1257	1	299
+1303	1	299
+1318	1	299
+1351	2	299
+1365	1	299
+1390	1	299
+1396	2	299
+1420	2	299
+1434	2	299
+1435	3	299
+1436	1	299
+1441	1	299
+1442	2	299
+1442	2	299

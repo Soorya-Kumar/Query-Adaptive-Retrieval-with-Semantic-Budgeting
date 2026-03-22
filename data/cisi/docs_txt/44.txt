@@ -1,0 +1,45 @@
+A semi-empirical correlation, based on data from nine indexes, permits the
+prediction of the percentage of terms in a manipulative index vocabulary which 
+will be used to index any given number of documents.. This is a function of the
+total number of index entries in the system.. A log-normal relationship, 
+similar  to Zipf's Law, exists between total index entries and distribution of
+term usage.. Based upon the correlation, optimum vocabulary size and growth rate
+can inferred, as well as the most efficient arrangement of index entries in a 
+storage medium.. The results agree well with published data and appear to be 
+particularly useful for designers of mechanized retrieval or publication
+operations..
+.X
+19	1	44
+44	5	44
+57	3	44
+61	1	44
+62	1	44
+76	1	44
+81	1	44
+329	1	44
+359	2	44
+389	1	44
+390	1	44
+416	2	44
+450	1	44
+511	1	44
+521	1	44
+565	2	44
+567	1	44
+748	1	44
+759	1	44
+765	1	44
+778	2	44
+787	1	44
+791	1	44
+875	1	44
+893	2	44
+894	1	44
+1081	1	44
+1082	1	44
+1083	1	44
+1154	1	44
+1173	1	44
+1201	1	44
+1255	1	44
+1255	1	44

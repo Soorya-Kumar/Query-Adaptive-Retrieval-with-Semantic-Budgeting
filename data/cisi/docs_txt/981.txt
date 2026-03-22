@@ -1,0 +1,87 @@
+As part of a design study to specify a regional processing
+center for the New England state university libraries, it was
+required to know the percentage of collection overlap with respect to
+each of the 30 ordered pairs of 6 libraries.  Participating states were
+Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, and
+Connecticut.  This overlap data was needed to predict the degree of
+joint use of cataloging information and to estimate the efficiency of
+collective reclassification.
+  The results revealed a high degree of commonality in the 6 collections,
+showing, for example, that a random title from one library had 
+a 40% chance of being present in another randomly selected library.
+When current imprint samples were tested, the figure rose to 47%.
+Rhode Island's holdings were shown to be the collection of greatest
+duplication elsewhere.
+.X
+4	1	981
+61	1	981
+64	1	981
+65	1	981
+67	1	981
+70	1	981
+71	1	981
+72	1	981
+73	1	981
+135	1	981
+162	1	981
+175	2	981
+206	1	981
+207	1	981
+208	1	981
+245	1	981
+249	2	981
+250	1	981
+271	1	981
+282	1	981
+290	1	981
+295	1	981
+374	1	981
+382	1	981
+394	1	981
+458	1	981
+481	1	981
+483	1	981
+485	1	981
+580	1	981
+601	1	981
+622	1	981
+696	1	981
+705	1	981
+717	1	981
+728	1	981
+729	1	981
+770	1	981
+776	1	981
+779	1	981
+780	1	981
+781	1	981
+783	1	981
+834	1	981
+835	1	981
+848	1	981
+849	1	981
+850	1	981
+851	2	981
+852	1	981
+862	1	981
+863	1	981
+872	1	981
+922	1	981
+925	2	981
+981	11	981
+982	2	981
+984	1	981
+1013	1	981
+1042	1	981
+1051	1	981
+1197	1	981
+1247	1	981
+1257	1	981
+1268	1	981
+1358	1	981
+1390	1	981
+1402	1	981
+1410	2	981
+1415	1	981
+1417	1	981
+1417	1	981

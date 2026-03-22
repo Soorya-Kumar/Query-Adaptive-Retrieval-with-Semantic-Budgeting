@@ -1,0 +1,31 @@
+The present paper is offered as the first of a series of articles in which
+PRECIS will be reviewed as a potential multi-lingual system, having in mind
+the obvious need, notably in a European context, for standard and language-
+independent methods of subject analysis and document description.  This
+first paper outlines the origins of PRECIS, and considers its use in English-
+Language indexing.  A second paper will deal in general terms with the
+syntactical model which is used for producing PRECIS input strings and
+index entries.  Later papers will then review the application of this model
+to indexing in, firstly, the Germanic languages (e.g. German and Danish),
+and, secondly, the Romance languages, illustrated by French.
+.X
+1	1	1024
+86	1	1024
+92	1	1024
+168	1	1024
+194	1	1024
+458	1	1024
+480	1	1024
+556	1	1024
+781	1	1024
+817	1	1024
+819	1	1024
+825	2	1024
+1004	1	1024
+1024	6	1024
+1027	1	1024
+1054	1	1024
+1215	5	1024
+1231	1	1024
+1443	1	1024
+1443	1	1024

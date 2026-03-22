@@ -1,0 +1,184 @@
+This chapter continues the coverage of the generation and use of
+machine-readable data bases inaugurated in Volume 9 by Williams (178).  It
+is therefore an update consisting primarily of 1974 material and is prepared
+in general accordance with Williams's initial compilation.
+  The same definition of data bases and the boundaries of their applications
+used in Volume 9 are continued this year.  A data base is considered
+to be an organized collection of machine-readable records containing
+bibliographic and/or document-related data (e.g., index information).
+The data bases that we will consider are used for information storage
+and retrieval and/or research in information storage and retrieval or
+data base generation.
+  The choice of these constraints precludes coverage of several areas.  First,
+data bases primarily concerned with numerical or other nonbibliographic
+information, such as chemical structures, (Milen et al., 112) are excluded.
+Thus, even though the Chemical Abstracts Service (CAS) Registry Number
+is a data element common to many bibliographic data bases, papers such as
+that by CAS regarding progress in building the Registry System itself (39)
+are excluded.  Similarly, though some textual and bibliographic material
+is included in the Systems Consultants, Inc report (156) to the Navy, most
+of the information retrieval is concerned with miniaturized hardware in a
+shipboard environment and thus is not considered within the scope of this
+chapter.  Finally, though many of the data bases are used for generation
+of publications via phototypesetting, we are not considering that production
+operation.
+.X
+18	2	129
+20	1	129
+42	1	129
+60	1	129
+85	1	129
+121	1	129
+124	1	129
+125	2	129
+127	4	129
+128	1	129
+129	6	129
+130	1	129
+145	2	129
+167	1	129
+172	1	129
+190	1	129
+191	1	129
+197	1	129
+211	1	129
+214	1	129
+218	1	129
+223	1	129
+225	1	129
+234	1	129
+243	1	129
+280	1	129
+307	1	129
+330	1	129
+363	1	129
+376	1	129
+378	1	129
+393	1	129
+432	1	129
+450	1	129
+451	1	129
+452	1	129
+459	2	129
+460	1	129
+461	1	129
+468	2	129
+469	1	129
+484	1	129
+492	1	129
+494	1	129
+508	1	129
+511	1	129
+512	1	129
+514	1	129
+518	1	129
+520	1	129
+523	1	129
+524	1	129
+525	1	129
+526	1	129
+529	1	129
+530	1	129
+534	1	129
+546	1	129
+553	1	129
+579	1	129
+580	1	129
+585	1	129
+594	1	129
+599	1	129
+603	1	129
+604	1	129
+606	1	129
+609	1	129
+610	1	129
+611	1	129
+612	1	129
+622	1	129
+625	1	129
+626	1	129
+630	1	129
+636	1	129
+637	1	129
+639	1	129
+640	1	129
+642	2	129
+643	1	129
+644	1	129
+645	1	129
+646	2	129
+647	1	129
+648	1	129
+649	1	129
+650	2	129
+651	1	129
+652	1	129
+665	1	129
+692	1	129
+696	1	129
+699	1	129
+703	1	129
+705	1	129
+708	2	129
+726	1	129
+727	1	129
+728	1	129
+730	1	129
+731	1	129
+732	1	129
+733	1	129
+734	1	129
+736	2	129
+737	1	129
+738	2	129
+739	2	129
+740	1	129
+741	2	129
+742	1	129
+743	1	129
+744	1	129
+755	1	129
+762	1	129
+765	1	129
+803	1	129
+818	1	129
+820	1	129
+822	1	129
+823	1	129
+826	1	129
+827	2	129
+879	1	129
+883	1	129
+925	1	129
+943	1	129
+944	1	129
+1004	1	129
+1022	1	129
+1035	1	129
+1045	1	129
+1070	1	129
+1078	1	129
+1085	1	129
+1089	1	129
+1091	1	129
+1143	2	129
+1207	1	129
+1264	1	129
+1268	1	129
+1297	1	129
+1303	1	129
+1356	1	129
+1364	1	129
+1368	1	129
+1370	1	129
+1372	1	129
+1373	1	129
+1374	3	129
+1375	1	129
+1376	2	129
+1377	1	129
+1390	1	129
+1396	1	129
+1401	1	129
+1437	1	129
+1437	1	129

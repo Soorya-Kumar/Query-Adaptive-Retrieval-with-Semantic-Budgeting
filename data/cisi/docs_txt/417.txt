@@ -1,0 +1,58 @@
+The present study is concerned with the performance of intelligent adults
+in our own culture.  The tasks discussed are short (half-hour), moderately
+difficult problems of a symbolic nature.  The three main tasks we use - chess,
+symbolic logic, and algebra-like puzzles (called cryptarithmetic puzzles) -
+typify this class of problems.  The study is concerned with the integrated
+activities that constitute problem solving.  It is not centrally concerned
+with perception, motor skill, or what are called personality variables.
+The study is concerned primarily with performance, only a little with
+learning, and not at all with development or differences related to age.
+Finally, it is concerned with integrated activities, hence deemphasizes the
+details of processing on the time scale of elementary reactions (that is,
+half a second or less).  Similarly, long-term integrated activities extending
+over periods of days or years receive no attention.
+.X
+168	1	417
+172	1	417
+191	1	417
+194	1	417
+212	1	417
+274	1	417
+317	1	417
+332	1	417
+343	1	417
+397	3	417
+417	7	417
+430	3	417
+443	4	417
+446	1	417
+455	3	417
+458	1	417
+464	3	417
+485	1	417
+514	1	417
+546	2	417
+572	2	417
+577	1	417
+579	1	417
+606	1	417
+608	1	417
+610	1	417
+611	1	417
+612	1	417
+615	1	417
+626	1	417
+640	1	417
+745	3	417
+902	2	417
+1033	1	417
+1046	1	417
+1084	1	417
+1204	3	417
+1279	1	417
+1327	1	417
+1387	2	417
+1398	3	417
+1399	1	417
+1427	3	417
+1427	3	417

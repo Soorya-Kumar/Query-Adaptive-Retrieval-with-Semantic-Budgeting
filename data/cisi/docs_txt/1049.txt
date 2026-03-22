@@ -1,0 +1,48 @@
+There is probably no measurement task which public
+servants face which is more difficult than that of measuring
+the quality of service.  It is as difficult to measure the
+quality of hospital service, or of schools, or of social
+welfare programs, as it is to determine the quality of library
+service.  It is equally as difficult to decide what actions to
+take in order to improve service.
+        Legislators, urban and regional planners, consultants,
+boards of trustees, accrediting teams, librarians, and a
+host of other decision makers must act on the basis of some
+conclusions about the quality of service offered by library
+systems.  This handbook is intended for these groups, and
+especially for practicing librarians.  The pervasiveness of
+the problem across all public service institutions, however,
+leads us to hope that the handbook will be of interest to
+other groups.
+.X
+234	1	1049
+274	1	1049
+304	1	1049
+306	1	1049
+338	1	1049
+376	1	1049
+646	1	1049
+647	1	1049
+651	1	1049
+910	1	1049
+935	1	1049
+942	1	1049
+943	1	1049
+944	1	1049
+948	1	1049
+1006	1	1049
+1008	2	1049
+1017	3	1049
+1049	5	1049
+1145	1	1049
+1206	1	1049
+1227	1	1049
+1237	1	1049
+1357	1	1049
+1378	1	1049
+1384	1	1049
+1396	1	1049
+1440	1	1049
+1450	1	1049
+1453	1	1049
+1453	1	1049

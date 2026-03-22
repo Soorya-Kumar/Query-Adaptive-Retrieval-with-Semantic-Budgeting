@@ -1,0 +1,31 @@
+The field of documentation originated from the desire of librarians
+to arrange the document collection by subject areas.  Mono-Dicraredical
+Classification systems were developed for this purpose which made it
+possible in each case to find a single clearly defined category for each
+bibliographic item.  The development of modern science has brought about
+two principal changes in the situation:
+  First it is no longer enough to simply provide for the retrieval
+of complete bibliographic items as a unit, but rather one tends more and
+more to request informational details that may be contained in the book.
+Second, modern knowledge has become too complex and interdependent that it is 
+no longer possible to provide a single well-defined category for the books or
+journal articles.
+.X
+154	1	898
+165	1	898
+477	2	898
+530	1	898
+621	1	898
+641	1	898
+653	1	898
+838	2	898
+898	6	898
+1074	1	898
+1075	1	898
+1231	1	898
+1259	1	898
+1391	2	898
+1402	1	898
+1429	2	898
+1430	2	898
+1430	2	898

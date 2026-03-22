@@ -1,0 +1,127 @@
+The SMART automatic document retrieval system is used to study association 
+procedures for automatic content analysis.. The effect of word frequency and 
+other parameters on the association process is investigated through examination
+of related pairs and through retrieval experiments.. Associated pairs of words
+usually reflect localized word meanings, and true synonyms cannot readily be
+found from first or second order relationships in our document collections.. 
+There is little overlap between word relationships found through associations 
+and those used in thesaurus construction, and the effects of word associations 
+and a thesaurus in retrieval are independent.. The use of associations in 
+retrieval experiments improves not only recall, by permitting new matches 
+between requests and documents, but also precision, by reinforcing existing 
+matches.. In our experiments, the precision effect is responsible for most of 
+the improvement possible with associations.. A properly constructed thesaurus,
+however, offers better performance than statistical association methods..
+.X
+30	1	71
+51	1	71
+61	1	71
+67	1	71
+69	1	71
+70	1	71
+71	6	71
+72	2	71
+73	2	71
+74	1	71
+75	2	71
+77	3	71
+78	2	71
+79	3	71
+80	1	71
+81	2	71
+82	2	71
+83	2	71
+86	1	71
+135	1	71
+153	1	71
+154	1	71
+156	1	71
+168	1	71
+175	3	71
+176	2	71
+206	1	71
+207	1	71
+208	1	71
+211	1	71
+212	2	71
+245	1	71
+247	1	71
+277	1	71
+279	1	71
+280	1	71
+315	1	71
+382	2	71
+389	1	71
+390	1	71
+448	2	71
+458	2	71
+480	1	71
+481	1	71
+483	2	71
+484	1	71
+485	1	71
+486	2	71
+488	3	71
+491	1	71
+493	1	71
+503	1	71
+507	1	71
+509	2	71
+510	1	71
+512	1	71
+517	1	71
+520	1	71
+522	1	71
+527	1	71
+528	1	71
+531	1	71
+565	3	71
+566	1	71
+581	2	71
+596	1	71
+603	1	71
+608	1	71
+633	1	71
+659	2	71
+666	1	71
+715	1	71
+720	1	71
+748	1	71
+754	1	71
+779	1	71
+780	1	71
+785	1	71
+786	1	71
+787	1	71
+788	1	71
+789	1	71
+790	1	71
+791	1	71
+805	1	71
+809	1	71
+810	1	71
+812	1	71
+813	1	71
+814	1	71
+817	1	71
+824	1	71
+825	1	71
+838	1	71
+853	1	71
+894	1	71
+925	1	71
+981	1	71
+982	1	71
+984	1	71
+1051	1	71
+1294	1	71
+1327	1	71
+1358	1	71
+1393	1	71
+1402	1	71
+1410	1	71
+1417	1	71
+1419	1	71
+1427	1	71
+1431	1	71
+1431	1	71

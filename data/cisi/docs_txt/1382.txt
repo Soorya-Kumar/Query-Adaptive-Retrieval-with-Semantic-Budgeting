@@ -1,0 +1,32 @@
+This monograph is one of the few works in which the possibility of studying
+semantics using statistical methods is proven with actual research.
+The semantic field of words denoting color (in English, French, Russian and
+Ukranian) was chosen as a representative semantic object.
+The applied aspects of this work are particularly important: the application
+of those methods tested by the authors for solving problems of automatic
+information processing, as well as in language translation and instruction.
+.X
+26	2	1382
+68	1	1382
+77	1	1382
+78	1	1382
+79	1	1382
+175	1	1382
+328	1	1382
+420	1	1382
+422	1	1382
+595	1	1382
+660	1	1382
+662	1	1382
+664	1	1382
+790	1	1382
+1116	1	1382
+1118	3	1382
+1124	1	1382
+1131	1	1382
+1177	1	1382
+1281	1	1382
+1381	1	1382
+1382	6	1382
+1388	1	1382
+1388	1	1382

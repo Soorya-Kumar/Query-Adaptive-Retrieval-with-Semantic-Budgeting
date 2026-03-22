@@ -1,0 +1,90 @@
+Development and implementation of an off-line catalog card production system 
+and on-line shared cataloging system are described.. In off-line production, 
+average cost per card for 529,893 catalog cards in finished form and 
+alphabetized for filing was 6.57c.. An account is given of system design and
+equipment selection for the on-line system.. File organization and programs are
+described, and the on-line cataloging system is discussed.. The system is easy
+to use, efficient, reliable, and cost beneficial..
+.X
+90	1	872
+119	2	872
+122	1	872
+141	1	872
+244	1	872
+249	1	872
+250	1	872
+295	1	872
+299	1	872
+329	1	872
+348	1	872
+359	1	872
+361	1	872
+365	2	872
+394	2	872
+400	1	872
+416	1	872
+431	1	872
+453	1	872
+511	1	872
+526	1	872
+528	1	872
+529	1	872
+612	1	872
+617	1	872
+620	1	872
+630	1	872
+700	1	872
+768	1	872
+783	1	872
+791	1	872
+822	1	872
+854	1	872
+868	3	872
+869	2	872
+871	2	872
+872	21	872
+873	1	872
+874	2	872
+875	1	872
+876	2	872
+877	1	872
+878	1	872
+879	1	872
+880	1	872
+882	1	872
+884	2	872
+885	1	872
+887	1	872
+892	1	872
+913	1	872
+939	1	872
+940	3	872
+941	2	872
+970	1	872
+981	1	872
+990	1	872
+994	1	872
+996	1	872
+997	2	872
+998	1	872
+1011	1	872
+1013	1	872
+1079	1	872
+1080	1	872
+1143	2	872
+1196	4	872
+1197	1	872
+1230	1	872
+1247	3	872
+1257	2	872
+1264	1	872
+1303	1	872
+1367	1	872
+1390	1	872
+1396	1	872
+1410	1	872
+1434	1	872
+1435	3	872
+1436	3	872
+1441	1	872
+1441	1	872

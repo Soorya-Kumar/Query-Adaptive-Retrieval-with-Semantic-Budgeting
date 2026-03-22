@@ -1,0 +1,59 @@
+The paper contains an analysis of several aspects of the communication 
+process in science.. Using data obtained from printed sources and questionnaires
+mailed to university physicists, the conditions making for high visibility of a
+scientists' work are studied.. Four strong determinates of visibility were
+found: the quality of work, as measured by citations; the honorific awards 
+received for work in physics; the prestige of the physics department to which
+the scientist belong; and speciality.. Quantity of output, age, and 
+name-ordering patterns on collaborative papers have no independent effect on 
+visibility.. Just as some physicists may be easily seen (i.e., have high 
+visibility), other are in positions where they may easily see.. This latter
+characteristic is called "awareness"..The data indicate that awareness is high 
+in all sectors of the population studied.. Variables such as age, rank of 
+department, and quality of work made for only minor differences in awareness.. 
+We conclude that the communication system in physics operates efficiently..
+.X
+33	1	104
+48	2	104
+76	1	104
+95	1	104
+102	2	104
+103	1	104
+104	5	104
+106	2	104
+108	2	104
+110	2	104
+111	1	104
+112	1	104
+113	2	104
+161	1	104
+170	2	104
+456	1	104
+545	1	104
+560	1	104
+582	1	104
+584	1	104
+589	1	104
+655	1	104
+793	1	104
+893	1	104
+1062	1	104
+1274	1	104
+1285	2	104
+1286	1	104
+1287	3	104
+1291	2	104
+1297	1	104
+1300	1	104
+1304	1	104
+1313	1	104
+1334	1	104
+1338	1	104
+1340	1	104
+1341	1	104
+1342	1	104
+1343	1	104
+1344	2	104
+1346	2	104
+1347	1	104
+1347	1	104

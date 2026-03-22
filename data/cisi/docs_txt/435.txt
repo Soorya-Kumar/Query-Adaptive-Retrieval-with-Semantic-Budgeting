@@ -1,0 +1,35 @@
+This book is intended for the student of
+management, whether he is in a formal academic
+program or in business.  It treats the central
+framework underlying industrial activity.  The
+goal is "enterprise design" to create more
+successful management policies and organizational
+structures.  
+.X
+5	1	435
+62	1	435
+67	1	435
+90	1	435
+91	1	435
+158	1	435
+222	1	435
+223	1	435
+350	1	435
+368	1	435
+408	1	435
+435	9	435
+615	1	435
+815	1	435
+957	1	435
+1023	1	435
+1184	1	435
+1187	1	435
+1219	1	435
+1227	1	435
+1348	1	435
+1365	1	435
+1390	1	435
+1402	1	435
+1417	1	435
+1456	1	435
+1456	1	435

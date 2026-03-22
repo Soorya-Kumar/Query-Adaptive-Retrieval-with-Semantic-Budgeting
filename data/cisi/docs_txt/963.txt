@@ -1,0 +1,104 @@
+Concern with the questions of when and how best to computerize the catalog of
+a large research library, and how to improve an existing conventional catalog, 
+motivated a study of the utilization of the main catalog of the Yale University 
+Library.. The study was carefully designed to provide a representative sample of
+catalog use.. Traffic through the catalog area was observed over a period of more
+than a year.. A schedule of interviews with catalog users was based on observed 
+traffic volume by hour of day, day of week, and time of year.. More than 1,000 
+interviews were completed, using nonleading interviewing technique.. Information
+was derived on the catalog user's objective, starting clues, and university
+affiliation.. Search success was determined.. Follow-up studies were performed 
+on the catalog cards and the actual books identified in successful searches.. 
+Reasons for search failure were determined for know-item searches.. Availability
+and accuracy of different categories of search clues were ascertained.. Published
+algorithms for searching computerized bibliographic files were evaluated.. 
+Attention is given to the feasibility of automatic construction of computerized 
+catalogs.. Some of the available results are presented and discussed..
+.X
+57	1	963
+63	1	963
+75	1	963
+90	1	963
+172	1	963
+175	1	963
+176	1	963
+207	1	963
+209	1	963
+234	1	963
+245	1	963
+249	1	963
+276	1	963
+289	1	963
+294	1	963
+326	1	963
+329	1	963
+331	1	963
+348	1	963
+350	1	963
+365	1	963
+389	1	963
+390	1	963
+453	1	963
+487	1	963
+502	3	963
+553	1	963
+565	1	963
+572	1	963
+579	1	963
+595	1	963
+596	2	963
+600	1	963
+601	1	963
+608	1	963
+612	1	963
+617	1	963
+619	1	963
+620	1	963
+652	1	963
+783	1	963
+799	1	963
+805	1	963
+807	1	963
+810	1	963
+811	3	963
+812	1	963
+813	1	963
+814	1	963
+825	1	963
+856	1	963
+863	1	963
+864	1	963
+870	1	963
+886	1	963
+888	1	963
+894	1	963
+913	1	963
+925	2	963
+928	2	963
+943	1	963
+948	1	963
+956	1	963
+963	9	963
+973	1	963
+987	1	963
+988	1	963
+989	1	963
+990	2	963
+991	1	963
+994	1	963
+1004	1	963
+1152	1	963
+1221	1	963
+1229	1	963
+1255	1	963
+1257	1	963
+1258	1	963
+1265	1	963
+1294	1	963
+1327	1	963
+1400	1	963
+1413	1	963
+1433	1	963
+1441	1	963
+1445	1	963
+1445	1	963

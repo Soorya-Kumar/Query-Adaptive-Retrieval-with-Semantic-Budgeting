@@ -1,0 +1,81 @@
+The essay that follows is the first full published report on a
+project originally conceived almost fifteen years ago.  At that
+time I was a graduate student in theoretical physics already
+within sight of the end of my dissertation.  A fortunate involvement
+with an experimental college course treating physical
+science for the non-scientist provided my first exposure to
+out-of-date scientific theory and practice radically undermined
+some of my basic conceptions about the nature of science and
+the reasons for its special success.
+  Those conceptions were ones I had previously drawn partly
+from scientific training itself and partly from a long-standing
+avocational interest in the philosophy of science.  Somehow,
+whatever their pedagogic utility and their abstract plausibility,
+those notions did not at all fit the enterprise that historical study
+displayed.  Yet they were and are fundamental to many discussions
+of science, and their failures of verisimilitude therefore
+seemed thoroughly worth pursuing.  The result was a drastic
+shift in my career plans, a shift from physics to history of
+science and then, gradually, from relatively straightforward
+historical problems back to the more philosophical concerns that
+had initially led me to history.  Except for a few articles, this
+essay is the first of my published works in which these early
+concerns are dominant.  In some part it is an attempt to explain
+to myself and to friends how I happened to be drawn from
+science to its history in the first place.
+.X
+15	1	1387
+89	1	1387
+101	1	1387
+102	1	1387
+105	3	1387
+172	1	1387
+191	1	1387
+194	1	1387
+212	1	1387
+274	1	1387
+308	2	1387
+343	2	1387
+417	2	1387
+446	1	1387
+458	1	1387
+485	1	1387
+514	1	1387
+546	1	1387
+572	1	1387
+577	1	1387
+579	1	1387
+606	1	1387
+610	1	1387
+611	1	1387
+612	1	1387
+615	1	1387
+626	1	1387
+632	1	1387
+640	1	1387
+902	1	1387
+1030	1	1387
+1033	1	1387
+1063	2	1387
+1084	1	1387
+1235	1	1387
+1273	1	1387
+1274	1	1387
+1279	1	1387
+1285	1	1387
+1304	1	1387
+1311	1	1387
+1313	1	1387
+1314	1	1387
+1315	1	1387
+1316	1	1387
+1320	1	1387
+1329	1	1387
+1334	1	1387
+1337	1	1387
+1342	1	1387
+1343	1	1387
+1386	1	1387
+1387	19	1387
+1444	1	1387
+1444	1	1387

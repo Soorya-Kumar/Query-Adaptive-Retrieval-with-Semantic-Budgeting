@@ -1,0 +1,64 @@
+This is a period for rapid growth in information systems
+for the sciences and professions.  Information centers
+are springing up across the country.  Federal agencies
+and private groups are both collaborating and competing
+to establish comprehensive systems.
+  Changing the library's name to "information center" is
+more than linguistic faddism.  New, active roles subordinate
+the library's traditional, passive role as a preserver
+and codifier of knowledge.  "Information center"
+bears analogy to "economic center" and "transportation
+center."  Like these centers, its significance is in
+transaction.  The significance of a transportation center
+lies in routes to other centers.  The significance of an
+information center lies in communication lines to knowledge 
+producers and knowledge users.  Information centers are
+judged by their information "throughput," not by their 
+"holdings."
+.X
+91	1	607
+105	1	607
+111	1	607
+113	1	607
+161	1	607
+163	1	607
+218	1	607
+243	2	607
+253	1	607
+345	1	607
+356	1	607
+375	3	607
+406	1	607
+408	1	607
+456	1	607
+492	1	607
+497	1	607
+506	1	607
+507	1	607
+508	1	607
+510	1	607
+545	1	607
+548	1	607
+560	1	607
+592	1	607
+594	1	607
+601	1	607
+602	1	607
+604	1	607
+607	5	607
+725	1	607
+803	1	607
+866	1	607
+867	1	607
+1030	1	607
+1042	1	607
+1057	1	607
+1087	1	607
+1293	1	607
+1296	1	607
+1298	1	607
+1327	1	607
+1346	1	607
+1347	1	607
+1364	1	607
+1364	1	607

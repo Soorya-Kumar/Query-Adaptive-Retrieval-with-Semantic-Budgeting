@@ -1,0 +1,101 @@
+Information science meets behavioral science in the study of information
+needs and uses.  At first, the meeting of these fields was inconclusive.  Until
+the mid-1960's, there were only a few substantial studies of information
+needs and uses.  Since about 1963, however, a significant literature has
+grown rapidly.
+  There is evidence now of a productive entente between the fields.
+When information scientists see reliable, valid, and nontrivial data on
+users' behavior, they begin to use behavioral criteria in evaluating
+information system performance.  When behavioral scientists glimpse the
+full complexity of dissemination, documentation, storage, and retrieval
+processes, they offer fewer naive solutions to "the information problem."
+  This mutual education and accommodation will undoubtedly continue.
+Information science and behavioral science need each other.  Big Science
+needs them both.
+.X
+2	1	137
+4	1	137
+9	1	137
+14	1	137
+24	1	137
+32	1	137
+62	1	137
+65	1	137
+66	1	137
+75	1	137
+76	2	137
+96	1	137
+132	5	137
+135	1	137
+137	13	137
+139	3	137
+152	1	137
+155	1	137
+163	1	137
+183	1	137
+195	1	137
+203	1	137
+204	1	137
+207	1	137
+210	2	137
+237	1	137
+272	1	137
+278	1	137
+279	1	137
+280	1	137
+355	1	137
+382	1	137
+386	1	137
+395	1	137
+398	1	137
+456	2	137
+475	1	137
+537	1	137
+552	1	137
+658	1	137
+716	2	137
+748	1	137
+760	2	137
+767	1	137
+768	1	137
+772	2	137
+774	2	137
+775	1	137
+782	1	137
+783	1	137
+788	2	137
+789	2	137
+799	1	137
+811	1	137
+816	1	137
+837	1	137
+900	1	137
+913	1	137
+925	1	137
+952	1	137
+961	1	137
+962	1	137
+964	1	137
+968	1	137
+977	1	137
+1030	1	137
+1037	1	137
+1038	1	137
+1045	1	137
+1050	1	137
+1055	1	137
+1056	1	137
+1068	1	137
+1083	1	137
+1203	1	137
+1254	1	137
+1275	1	137
+1280	1	137
+1321	2	137
+1361	1	137
+1400	1	137
+1404	1	137
+1407	1	137
+1445	1	137
+1451	1	137
+1451	1	137

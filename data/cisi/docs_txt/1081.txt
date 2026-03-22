@@ -1,0 +1,73 @@
+One of the most fundamental problems in the field of information retrieval 
+is that of determining the circumstances under which it might be necessary to
+introduce an information retrieval system as an aid to a given population of 
+scientists.  It is proposed that this problem be examined in terms of the 
+transmission and development of ideas within a population.  Specifically, the 
+transmission of ideas within a population will be treated as if it were the
+transmission of an infectious disease, that is, in terms of an epidemic process.
+An attempt will be made to indicate the role of information retrieval in the
+development of such a process.
+.X
+33	1	1081
+36	1	1081
+44	1	1081
+57	2	1081
+76	1	1081
+81	1	1081
+101	1	1081
+105	1	1081
+144	1	1081
+184	1	1081
+193	1	1081
+195	1	1081
+201	1	1081
+203	1	1081
+204	1	1081
+205	1	1081
+233	1	1081
+267	1	1081
+359	2	1081
+395	1	1081
+416	1	1081
+544	1	1081
+560	1	1081
+587	1	1081
+605	1	1081
+667	4	1081
+748	2	1081
+750	2	1081
+751	1	1081
+759	2	1081
+765	2	1081
+767	1	1081
+775	1	1081
+778	2	1081
+787	2	1081
+791	1	1081
+792	1	1081
+793	1	1081
+800	2	1081
+893	1	1081
+1030	1	1081
+1063	1	1081
+1081	6	1081
+1082	5	1081
+1083	2	1081
+1085	1	1081
+1086	1	1081
+1088	3	1081
+1201	4	1081
+1227	1	1081
+1270	1	1081
+1278	1	1081
+1285	1	1081
+1286	1	1081
+1287	1	1081
+1308	1	1081
+1312	1	1081
+1334	1	1081
+1401	1	1081
+1417	1	1081
+1418	1	1081
+1444	1	1081
+1444	1	1081

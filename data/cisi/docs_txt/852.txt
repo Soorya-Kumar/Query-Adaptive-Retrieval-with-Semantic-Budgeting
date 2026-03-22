@@ -1,0 +1,53 @@
+A description of the machine processing of MARC II records using COBOL for
+an application on the Library of Congress System 360/30.. Emphasis is on the 
+manipulation by COBOL of highly complex variable length MARC records containing 
+variable length fields..
+.X
+24	1	852
+64	1	852
+75	1	852
+78	1	852
+80	1	852
+159	1	852
+175	1	852
+177	1	852
+178	1	852
+245	1	852
+281	1	852
+309	1	852
+336	1	852
+374	1	852
+416	1	852
+432	1	852
+477	1	852
+717	1	852
+781	1	852
+783	1	852
+791	1	852
+834	1	852
+835	1	852
+848	1	852
+849	1	852
+850	1	852
+851	1	852
+852	7	852
+853	1	852
+854	2	852
+855	1	852
+857	1	852
+858	1	852
+859	1	852
+861	1	852
+922	1	852
+925	1	852
+970	2	852
+981	1	852
+982	1	852
+984	1	852
+1011	1	852
+1042	1	852
+1043	1	852
+1051	1	852
+1252	1	852
+1415	1	852
+1415	1	852

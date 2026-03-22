@@ -1,0 +1,38 @@
+Since Bernal made his pilot survey of the use of scientific literature
+for the 1948 Royal Society Scientific Information Conference, at least
+three dozen other investigations have been reported of the needs of
+scientists and engineers for information, of their information gathering
+habits, and the use to which they put information.
+  Some of these have been concerned with the people in individual
+organizations, but have implications elsewhere.  Others, including
+Aslib's own investigations, have had wider aims.  Some have been
+based upon observations and records of what the scientists and
+engineers themselves did or said, and some upon records of the demands
+they made upon libraries.  There have been both surveys of opinions,
+and collections of facts.
+.X
+41	1	147
+132	1	147
+147	8	147
+157	1	147
+161	1	147
+210	1	147
+245	1	147
+355	1	147
+356	1	147
+560	1	147
+614	1	147
+763	1	147
+772	1	147
+788	1	147
+792	1	147
+889	1	147
+965	1	147
+986	1	147
+1050	1	147
+1151	1	147
+1238	1	147
+1254	1	147
+1291	1	147
+1404	2	147
+1404	2	147

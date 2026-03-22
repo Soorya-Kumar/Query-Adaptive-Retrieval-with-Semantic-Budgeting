@@ -1,0 +1,113 @@
+This paper presents an experimental study of index-term frequency as a factor
+in retrieval performance.. The frequency of an index term, or its "breadth" as
+it is called here, is the number of postings made to the term in a given 
+collection.. The question is asked: Of index terms assigned to documents, which
+function most effectively in retrieval, the most term or popular terms, or those
+which are used relatively infrequently? The experiment is a retrieval experiment
+and uses the Cranfield-Salton data.. Breadth of indexing is varied by 
+nonrandomly deleting terms from documents.. Retrieval output is evaluated using 
+the Expected Search Length measure of retrieval effectiveness as well as the 
+usual precision and recall.. The Wilcoxen Test is used to determine the 
+statistical significance of the different indexings.. The results show that the 
+"optimal" breadth of indexing is a variable, depending on user needs: if a few
+documents are wanted or high precision is desired, then narrow terms are more
+effective than broad ones; if, on the other hand, all or most relevant documents
+are wanted, then broad terms are better.. An argument, however, can be made for 
+the quality of narrow terms, since when these terms are deleted precision never 
+improves, whereas deleting broad terms always results in a higher precision.. A
+corollary experiment is carried out to compare two indexings of the same
+average breadth where one indexing consists of
+semantically appropriate terms - terms taken from the document title - and the
+other consists of merely "reasonable" index terms.. The result suggest that 
+title-term indexing is qualifiedly superior..
+.X
+44	1	894
+51	1	894
+57	2	894
+69	1	894
+71	1	894
+75	1	894
+77	2	894
+79	2	894
+86	1	894
+168	1	894
+175	3	894
+176	2	894
+315	1	894
+329	2	894
+382	2	894
+389	1	894
+390	1	894
+416	1	894
+448	2	894
+450	1	894
+466	1	894
+480	1	894
+483	1	894
+484	1	894
+486	1	894
+488	1	894
+491	1	894
+493	1	894
+503	1	894
+507	1	894
+509	1	894
+510	1	894
+511	1	894
+512	1	894
+514	1	894
+517	1	894
+520	2	894
+521	1	894
+522	1	894
+527	1	894
+528	1	894
+531	2	894
+565	4	894
+566	1	894
+567	1	894
+570	1	894
+572	1	894
+576	1	894
+581	1	894
+586	1	894
+595	1	894
+596	2	894
+603	1	894
+608	3	894
+619	1	894
+633	1	894
+636	1	894
+643	1	894
+659	3	894
+715	1	894
+754	1	894
+790	1	894
+791	1	894
+805	1	894
+809	1	894
+810	4	894
+812	3	894
+813	2	894
+814	3	894
+817	2	894
+820	1	894
+824	1	894
+825	1	894
+870	1	894
+875	1	894
+894	6	894
+928	1	894
+963	1	894
+990	1	894
+991	1	894
+1051	1	894
+1255	1	894
+1294	2	894
+1313	1	894
+1327	2	894
+1413	1	894
+1419	2	894
+1427	1	894
+1445	1	894
+1445	1	894

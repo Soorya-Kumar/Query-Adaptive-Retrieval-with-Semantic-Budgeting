@@ -1,0 +1,62 @@
+Since many alerting and information services rely very heavily on the use
+of titles to transfer information to the potential user, it is essential that 
+he be aware of the proportion of the information contained in the complete
+document which will not be deducible from the title and which he will therefore
+miss.. Methods will be discussed for analyzing the relative information content
+of the titles of engineering paper and results presented for the amount and 
+type of information lost through scanning title listing only..
+   Between one-third and one-half of indexable terms are not retrievable from
+article titles even if all possible synonyms and  related terms are used.. If
+all synonyms are used instead of one keyword the amount of information 
+retrieved is increased by about 70 percent.. The problems of dealing with
+synonyms and with syntactical variants in searching titles indexes are 
+discussed.. The possibility of using keywords in journal titles as 
+supplementary retrieval tags is suggested since they were deemed useful in
+nearly one-third of the sample of papers analyzed..
+.X
+38	1	429
+52	1	429
+91	1	429
+150	1	429
+159	1	429
+257	1	429
+429	5	429
+489	1	429
+493	1	429
+498	1	429
+501	1	429
+510	1	429
+513	1	429
+582	3	429
+583	2	429
+588	1	429
+589	2	429
+603	2	429
+613	1	429
+614	1	429
+618	1	429
+653	1	429
+655	1	429
+657	1	429
+685	1	429
+686	1	429
+688	1	429
+691	1	429
+721	1	429
+722	3	429
+724	1	429
+725	1	429
+796	1	429
+797	1	429
+798	1	429
+801	1	429
+802	1	429
+958	1	429
+987	1	429
+988	1	429
+1195	1	429
+1208	1	429
+1293	1	429
+1302	1	429
+1405	1	429
+1405	1	429

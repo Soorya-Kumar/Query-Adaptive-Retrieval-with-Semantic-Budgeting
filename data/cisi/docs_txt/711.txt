@@ -1,0 +1,80 @@
+The introduction of Chemical titles in 1961 marked the
+first publication produced almost entirely by computers
+and other data-processing equipment.  The success of this
+innovation has generated many requests for more information
+about it.  With this in mind, we hope to encourage
+other organizations to make use of this technique for
+dissemination of information by presenting here a history
+of Chemical titles' development coupled with a description
+of its production. 
+.X
+18	1	711
+34	4	711
+49	1	711
+53	4	711
+59	1	711
+150	1	711
+164	1	711
+202	1	711
+213	1	711
+224	1	711
+243	1	711
+252	1	711
+421	1	711
+465	1	711
+466	1	711
+480	1	711
+490	1	711
+491	1	711
+506	1	711
+507	1	711
+510	1	711
+512	1	711
+565	1	711
+589	1	711
+591	1	711
+595	1	711
+603	1	711
+604	1	711
+622	1	711
+623	1	711
+629	1	711
+633	1	711
+639	1	711
+659	1	711
+674	1	711
+676	1	711
+680	1	711
+711	5	711
+715	1	711
+722	1	711
+723	1	711
+726	1	711
+728	1	711
+730	1	711
+731	1	711
+732	1	711
+746	1	711
+760	1	711
+809	1	711
+810	1	711
+813	1	711
+814	1	711
+820	1	711
+822	1	711
+828	1	711
+870	1	711
+879	1	711
+1091	1	711
+1118	1	711
+1195	1	711
+1281	2	711
+1283	1	711
+1298	1	711
+1299	1	711
+1363	1	711
+1366	1	711
+1367	1	711
+1368	1	711
+1396	1	711
+1396	1	711

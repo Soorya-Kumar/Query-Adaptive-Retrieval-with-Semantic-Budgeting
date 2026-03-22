@@ -1,0 +1,19 @@
+The functional structure of a research institute is analyzed s well as the
+functional structure of its information services, the latter's development,
+the overall subject pattern of the creative interests of the institute and the
+system for meeting these..
+.X
+1094	1	1110
+1102	1	1110
+1107	2	1110
+1110	7	1110
+1113	1	1110
+1115	2	1110
+1116	1	1110
+1142	1	1110
+1160	1	1110
+1228	1	1110
+1326	1	1110
+1446	1	1110
+1447	1	1110
+1447	1	1110

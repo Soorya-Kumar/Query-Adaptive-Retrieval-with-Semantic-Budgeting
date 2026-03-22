@@ -1,0 +1,66 @@
+The widespread introduction of electronic digital computer
+systems for information processing has produced significant
+advances in management theory and practice in recent years.
+For example, two management devices, PERT and CPM, undeveloped 
+and impractical before computers, have been basic to the success
+of our outer space program.  It is perhaps overlate in library
+development, but appropriate in this memorial to Miss Esther J.
+Piercy, to explore the application of new management knowledge
+and practice to the administration of libraries and information
+centers, and to sketch some directions in which research could be
+undertaken to benefit the management of information.
+.X
+61	1	982
+64	1	982
+67	1	982
+70	1	982
+71	1	982
+72	1	982
+73	1	982
+135	1	982
+175	2	982
+206	1	982
+207	1	982
+208	1	982
+245	2	982
+291	1	982
+374	1	982
+382	1	982
+458	1	982
+481	1	982
+483	1	982
+485	1	982
+717	1	982
+779	1	982
+780	1	982
+781	1	982
+783	1	982
+834	1	982
+835	1	982
+848	1	982
+849	1	982
+850	1	982
+851	1	982
+852	1	982
+922	1	982
+925	2	982
+945	1	982
+955	1	982
+961	1	982
+967	1	982
+981	2	982
+982	5	982
+1042	1	982
+1051	1	982
+1317	1	982
+1358	2	982
+1359	1	982
+1360	1	982
+1361	1	982
+1400	1	982
+1401	1	982
+1402	2	982
+1410	1	982
+1415	1	982
+1417	1	982
+1417	1	982

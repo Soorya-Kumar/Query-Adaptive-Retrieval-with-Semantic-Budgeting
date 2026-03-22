@@ -1,0 +1,109 @@
+Several possible methods of sampling of social science monograph titles in 
+the general library of Purdue University were considered, and a "good" method
+was used to obtain estimates of their usage in the library and at home during 
+the period July 1 - August 4, 1964.. The term relative usage was defined and 
+used to study the effect of: (1) language, (2) country of publication, (3) 
+year of publication, and (4) year of accession of a monograph title.. An 
+attempt was made to fit a regression model for titles in English by quantifying
+the last three independent variables with relative usage as the dependent 
+variable.. Functions based on the above variables have been developed to 
+identify monograph titles for storage..
+   A questionnaire was employed to stady the usage of library facilities and to 
+gather opinions of library patrons.. Purpose of visiting the library, reason 
+for checkout of library material, reason for preferring library or home for the 
+use of library material, etc., were analyzed on the basis of the replies 
+received..
+.X
+31	2	269
+33	1	269
+36	3	269
+41	2	269
+46	3	269
+89	1	269
+97	1	269
+102	1	269
+111	1	269
+112	1	269
+163	1	269
+181	1	269
+182	1	269
+183	3	269
+184	2	269
+193	3	269
+195	1	269
+198	1	269
+199	1	269
+201	2	269
+203	1	269
+210	1	269
+225	1	269
+269	5	269
+280	1	269
+373	1	269
+395	1	269
+415	1	269
+545	1	269
+552	1	269
+587	1	269
+605	1	269
+613	1	269
+614	1	269
+638	1	269
+735	1	269
+747	1	269
+750	1	269
+753	1	269
+760	1	269
+766	1	269
+767	3	269
+774	1	269
+775	1	269
+778	1	269
+782	1	269
+784	1	269
+788	1	269
+789	1	269
+793	1	269
+800	1	269
+808	1	269
+891	1	269
+905	2	269
+925	1	269
+952	1	269
+953	2	269
+964	1	269
+968	1	269
+977	2	269
+983	1	269
+1009	1	269
+1016	1	269
+1018	1	269
+1019	2	269
+1023	1	269
+1030	1	269
+1055	1	269
+1087	1	269
+1090	1	269
+1135	1	269
+1203	1	269
+1240	1	269
+1260	1	269
+1275	1	269
+1276	1	269
+1278	1	269
+1280	1	269
+1285	1	269
+1286	1	269
+1287	1	269
+1302	1	269
+1335	1	269
+1352	1	269
+1359	1	269
+1390	1	269
+1397	2	269
+1416	2	269
+1417	3	269
+1428	1	269
+1432	1	269
+1451	1	269
+1451	1	269

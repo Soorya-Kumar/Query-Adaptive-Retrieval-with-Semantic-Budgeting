@@ -1,0 +1,57 @@
+A recognition of the importance of useful evaluative techniques is an 
+indirect or secondary result of the hugely expanded national investment in 
+scientific research.  Such recognition has followed the expenditure of much time
+and money on the development of information systems which utilize advances in
+information handling and data processing (primarily computer-oriented) to
+handle the "explosion" of recorded information.  Information scientists from
+a typically diverse group of parent disciplines are now cooperating not only
+to develop methodologies of evaluation of such systems, but to apply them.
+.X
+27	1	474
+29	1	474
+35	1	474
+42	1	474
+43	1	474
+58	1	474
+70	2	474
+73	1	474
+75	1	474
+84	1	474
+134	1	474
+149	1	474
+319	1	474
+389	1	474
+390	2	474
+444	1	474
+445	1	474
+447	1	474
+449	1	474
+474	7	474
+486	1	474
+532	1	474
+565	1	474
+566	1	474
+625	1	474
+660	1	474
+762	1	474
+764	1	474
+773	1	474
+780	3	474
+785	2	474
+893	1	474
+966	1	474
+1016	1	474
+1030	1	474
+1045	1	474
+1084	1	474
+1195	1	474
+1201	1	474
+1235	1	474
+1255	1	474
+1279	1	474
+1281	1	474
+1282	3	474
+1285	1	474
+1307	1	474
+1422	1	474
+1422	1	474

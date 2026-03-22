@@ -1,0 +1,45 @@
+Our report on the analysis of social structure in the Monteith
+Library Project begins with discussion of certain general characteristics
+of research of this type and with comments on the academic institution
+as a specific type of formal organization.  We turn next to a consideration
+of particular social science concepts found useful in bringing into focus
+significant features of the Monteith structure.  Finally, we discuss the
+effect of these Monteith structural features upon the library project at
+each stage of its development.
+.X
+4	1	1068
+9	1	1068
+32	1	1068
+96	1	1068
+137	1	1068
+163	1	1068
+207	1	1068
+262	1	1068
+353	1	1068
+365	1	1068
+370	1	1068
+456	1	1068
+768	1	1068
+774	1	1068
+783	1	1068
+799	1	1068
+811	1	1068
+816	1	1068
+847	1	1068
+913	1	1068
+961	1	1068
+962	1	1068
+964	1	1068
+968	1	1068
+1068	7	1068
+1151	1	1068
+1203	2	1068
+1211	1	1068
+1212	1	1068
+1246	1	1068
+1266	1	1068
+1321	1	1068
+1407	1	1068
+1425	1	1068
+1445	1	1068
+1445	1	1068

@@ -1,0 +1,48 @@
+Ten to 15 years ago, much technical literature was accurately indexed 
+according to strict rules of classification.. Today, because of the large
+amount of technical data written, it is no longer practical to apply the same
+rigid indexing procedures.. We should therefore be concerned with new search 
+techniques which will allow us to handle input at the lower level we are forced 
+to accept.. This paper describes such a search technique..
+.X
+28	1	714
+42	2	714
+49	1	714
+54	2	714
+72	1	714
+79	1	714
+150	1	714
+152	1	714
+164	1	714
+165	1	714
+252	1	714
+254	1	714
+319	1	714
+347	1	714
+465	1	714
+480	1	714
+512	1	714
+564	1	714
+565	1	714
+591	1	714
+641	1	714
+660	1	714
+661	1	714
+663	1	714
+671	1	714
+673	1	714
+683	1	714
+687	2	714
+689	1	714
+714	7	714
+748	1	714
+761	1	714
+809	1	714
+810	1	714
+907	1	714
+1089	1	714
+1279	1	714
+1394	1	714
+1407	1	714
+1452	1	714
+1452	1	714

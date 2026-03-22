@@ -1,0 +1,34 @@
+To permit a qualitative estimate of a college library's resources, the
+Advisory Group on College Libraries of the Carnegie Corporation authorized
+the compilation of a list of not less that 8,000 nor more than 15,000 titles
+which might be regarded as a statement of the minimum or basic book collection
+of a four-year liberal arts college.
+  The procedure on which the Advisory Group decided included (1) the selection
+of a librarian under whose direction the compilation should be made, (2) the
+checking and improvement of the original lists drawn up by this compiler by such
+a homogeneous group as the faculty of a single college, and (3) the submission
+of these revised recommendations to an able group of widely scattered college
+teachers for further revision.
+.X
+7	1	1028
+14	1	1028
+153	1	1028
+170	1	1028
+223	1	1028
+240	1	1028
+262	1	1028
+266	1	1028
+271	1	1028
+405	1	1028
+550	1	1028
+926	1	1028
+927	1	1028
+1019	1	1028
+1028	5	1028
+1086	1	1028
+1090	1	1028
+1211	1	1028
+1212	1	1028
+1266	1	1028
+1424	2	1028
+1424	2	1028

@@ -1,0 +1,80 @@
+Library patrons who wish to obtain a known document with which they
+have had prior personal contact often cannot remember the standard author-
+title-subject information about it with sufficient accuracy to be able
+to look it up easily in present-day card catalogs.. However, they may
+remember a surprising amount of such "nonstandard" information as the
+color of the document's cover or its approximate length.. Could this
+type of "nonstandard" information be profitably exploited in computerized
+catalogs of the future?  Such facilities, if available, would surely be
+used, for according to catalog usage surveys a majority of today's
+library patrons seek known documents, and of these, a substantial
+minority possess nonstandard information.. In this report, the results of
+a memory experiment to test the memorability of various types of
+nonstandard information are described and analyzed.. A ranking according
+to relative memorability and potential retrieval usefulness of various
+nonstandard book features is given.. It is estimated that if the average
+patron's nonstandard information were exploited by appropriate retrieval
+strategies, he would only have to search through roughly one five-hundredth
+as many documents as in a random search.. This reduction factor is great
+enough to make nonstandard information potentially useful in many
+situations..
+.X
+35	1	655
+42	1	655
+43	1	655
+52	1	655
+70	1	655
+73	1	655
+76	1	655
+81	1	655
+95	2	655
+104	1	655
+110	1	655
+132	1	655
+159	2	655
+161	1	655
+257	1	655
+274	1	655
+276	2	655
+348	1	655
+420	1	655
+429	1	655
+489	1	655
+493	1	655
+498	1	655
+501	1	655
+578	1	655
+582	3	655
+583	2	655
+584	1	655
+585	1	655
+589	2	655
+594	1	655
+595	1	655
+653	1	655
+655	6	655
+656	1	655
+657	1	655
+688	1	655
+783	2	655
+796	1	655
+797	2	655
+798	2	655
+799	1	655
+801	1	655
+802	1	655
+858	1	655
+859	1	655
+861	1	655
+1054	1	655
+1154	1	655
+1232	1	655
+1281	1	655
+1287	1	655
+1295	1	655
+1297	1	655
+1298	1	655
+1300	1	655
+1405	1	655
+1445	1	655
+1445	1	655

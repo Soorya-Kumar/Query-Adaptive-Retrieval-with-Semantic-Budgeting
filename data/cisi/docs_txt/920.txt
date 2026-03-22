@@ -1,0 +1,34 @@
+The nature of serials is such that, in both the ALA Cataloging Rules for 
+Author and Titles Entries and the Anglo-American Cataloging Rules (AACR),there
+are special rules for choice of entry for serials that differ from the rules for 
+monographs.  While the Statement of Principles Adopted at the International
+Conference on Cataloging Principles (Paris Principles) leaves much room for 
+interpretation and controversy regarding serials, it also provides for special 
+rules for choice of entry.
+.X
+10	1	920
+121	1	920
+246	1	920
+265	1	920
+331	1	920
+342	1	920
+541	4	920
+799	1	920
+873	1	920
+877	1	920
+878	1	920
+881	2	920
+904	2	920
+919	4	920
+920	8	920
+921	3	920
+922	1	920
+999	2	920
+1000	1	920
+1001	2	920
+1002	2	920
+1003	2	920
+1013	1	920
+1441	1	920
+1445	1	920
+1445	1	920

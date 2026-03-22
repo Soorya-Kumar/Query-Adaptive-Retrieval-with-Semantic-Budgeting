@@ -1,0 +1,28 @@
+An outline of methods and summary of findings of a study of American,British
+and Overseas physicists.. This project was conducted by Aslib Research 
+Department (acting for the Institution of Electrical Engineers) and the 
+American Institute of Physics.. It took place in 1966, the first year of
+publication of Current Papers in Physics.. Aims were to assess the need for and
+reactions to this new current awareness journal and suggestions for improvement,
+and to obtain background information on the current awareness requirements of 
+the physics community..
+.X
+147	1	763
+210	1	763
+355	1	763
+717	1	763
+763	6	763
+772	1	763
+788	1	763
+986	1	763
+1050	1	763
+1095	2	763
+1106	1	763
+1155	1	763
+1156	1	763
+1158	1	763
+1160	1	763
+1254	1	763
+1291	1	763
+1404	1	763
+1404	1	763

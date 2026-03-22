@@ -1,0 +1,44 @@
+An on-line serials control system with particular emphasis on storage and
+maintenance concepts is described.. The system, operational since January,
+1971, has evolved from a former batch card system and remains completely
+compatible with it.. The system allows real-time display and updating of
+all elements of the file.. Consequently all check-in, bindery, and claims
+operations, as well as new entries and data field changes are accomplished
+on a real-time basis.. All programs are in PL/1.. Required equipment is an
+IBM time-shared facility with 100 K memory available for the applications
+programs, and IBM 2260 display units..
+   This article is the first of three.. The second is concerned with an
+analysis of inverted file retrieval features and the third compares the
+operation of the on-line with the batch system, comparable manual operations,
+and discusses costs..
+.X
+90	2	617
+200	1	617
+231	1	617
+261	1	617
+289	1	617
+294	1	617
+295	1	617
+299	1	617
+334	1	617
+354	1	617
+553	1	617
+608	1	617
+610	1	617
+612	1	617
+617	6	617
+620	5	617
+815	1	617
+872	1	617
+938	1	617
+939	1	617
+963	1	617
+990	1	617
+991	1	617
+992	1	617
+1221	2	617
+1229	1	617
+1318	1	617
+1365	1	617
+1390	1	617
+1390	1	617

@@ -1,0 +1,156 @@
+The Matthew Effect occurs when scientists receive differential recognition
+for a particular scientific contribution depending on their
+location in the stratification system.  Merton originally introduced
+the concept to explain the allocation of credit among authors of
+multiple discoveries or collaborators.  In this paper the concept is
+generalized to apply to all scientific work.  If the Matthew Effect
+were to operate, the reception of papers of equal quality should be
+influenced by the location of their authors in the stratification system.
+To test this hypothesis, data are drawn from several studies of
+similar design.  In each study we control for the number of citations
+papers received at time 2.  This enables us to look at groups of
+papers that were judged to be roughly equal in quality at time 2.
+We then see whether there were any differences in the reception of
+these papers at time 1 depending upon various aspects of the author's
+location in the stratification system.  All the data indicate
+that assessed quality of papers at time 2 is a more important 
+determinant of a paper's initial reception than any of the stratification
+variables.  However, the speed of diffusion of papers of equal quality
+is influenced by the reputation of the author based on past work
+that is being heavily utilized at the time of a new discovery.  The
+Matthew Effect also operates for those scientists located at prestigious
+points of the social system of science.  All other stratification
+variables, including eminence as measured by receipt of awards
+did not influence the speed of diffusion.  Data are presented that
+indicate that top papers written by high-ranking scientists are no 
+more likely to be widely diffused early than are top papers by low-
+ranking scientists.  The Matthew Effect also serves to focus
+attention on the work of little-known men who collaborate with
+scientists of high repute and to increase retroactively the visibility
+of the early work of scientists who go on to greater fame.  A discussion
+is included of the relevance of these data for the study of
+resistance to scientific discoveries.
+.X
+33	1	89
+36	1	89
+39	1	89
+41	1	89
+76	1	89
+88	1	89
+89	12	89
+97	1	89
+98	1	89
+100	1	89
+102	4	89
+105	3	89
+107	1	89
+109	1	89
+110	1	89
+111	2	89
+112	1	89
+113	3	89
+155	1	89
+157	1	89
+163	1	89
+183	2	89
+184	2	89
+193	2	89
+198	1	89
+199	1	89
+201	1	89
+203	1	89
+204	1	89
+210	1	89
+225	1	89
+269	1	89
+308	1	89
+312	1	89
+314	1	89
+356	2	89
+359	1	89
+373	1	89
+384	1	89
+391	1	89
+544	2	89
+545	1	89
+552	2	89
+560	3	89
+582	1	89
+587	1	89
+589	1	89
+602	1	89
+605	1	89
+613	1	89
+614	1	89
+632	1	89
+638	1	89
+656	1	89
+685	1	89
+722	1	89
+735	3	89
+747	1	89
+750	1	89
+753	1	89
+766	2	89
+767	1	89
+775	1	89
+782	1	89
+784	4	89
+788	1	89
+789	1	89
+793	1	89
+800	1	89
+808	1	89
+828	1	89
+905	1	89
+953	1	89
+977	1	89
+983	1	89
+1016	1	89
+1023	1	89
+1030	2	89
+1050	2	89
+1055	2	89
+1062	2	89
+1083	1	89
+1085	1	89
+1087	1	89
+1090	1	89
+1135	1	89
+1256	2	89
+1260	1	89
+1273	1	89
+1275	2	89
+1276	1	89
+1278	1	89
+1280	2	89
+1283	1	89
+1284	1	89
+1285	4	89
+1286	1	89
+1287	2	89
+1290	1	89
+1291	3	89
+1293	1	89
+1294	1	89
+1295	1	89
+1296	3	89
+1297	1	89
+1300	1	89
+1301	1	89
+1302	4	89
+1319	1	89
+1335	1	89
+1339	1	89
+1341	1	89
+1346	4	89
+1347	1	89
+1386	3	89
+1387	1	89
+1390	1	89
+1397	2	89
+1417	1	89
+1428	1	89
+1432	2	89
+1444	1	89
+1444	1	89

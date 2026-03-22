@@ -1,0 +1,47 @@
+This paper is a survey of current methods of the on-line creation and 
+editing of computer programs and of ordinary manuscript text.. The 
+characteristics of on-line editing systems are examined and examples of 
+various implementations are described in three categories: program editors,
+text editors, and terminals with local editing facilities..
+.X
+66	1	332
+168	1	332
+174	1	332
+197	1	332
+218	1	332
+317	1	332
+332	5	332
+417	1	332
+443	1	332
+446	1	332
+484	1	332
+489	1	332
+493	1	332
+499	1	332
+500	1	332
+508	1	332
+517	1	332
+523	1	332
+526	1	332
+527	1	332
+528	1	332
+534	1	332
+546	3	332
+572	1	332
+579	1	332
+593	1	332
+594	2	332
+606	2	332
+608	1	332
+626	1	332
+637	1	332
+826	1	332
+830	1	332
+902	1	332
+1035	1	332
+1046	1	332
+1327	2	332
+1374	1	332
+1399	1	332
+1427	1	332
+1427	1	332

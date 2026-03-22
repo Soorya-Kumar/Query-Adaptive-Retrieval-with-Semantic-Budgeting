@@ -1,0 +1,62 @@
+This study of the habits of customers of technical
+libraries and information departments had three main aims.
+1. Determination of user demands:  to discover what items of
+information or documents customers seek, why they seek
+them and how they obtain them.
+2. Classification of user groups and their demands:  to test a
+hypothesis; that it is possible to classify customers into
+meaningful user groups possessing recognizable common
+features and characteristic behavior patterns, and to
+classify group needs.
+3. Estimation of the significance of the above for librarians:
+to measure the demand on librarians and libraries, in
+terms of expenditure of their time and skill, and use of
+stock made by different user groups.
+.X
+24	1	1404
+62	1	1404
+65	1	1404
+66	1	1404
+75	1	1404
+76	1	1404
+137	1	1404
+147	2	1404
+161	1	1404
+165	1	1404
+210	2	1404
+278	1	1404
+279	1	1404
+280	1	1404
+355	1	1404
+371	1	1404
+382	1	1404
+386	1	1404
+395	1	1404
+398	1	1404
+475	1	1404
+560	1	1404
+614	1	1404
+658	2	1404
+716	1	1404
+748	1	1404
+760	1	1404
+763	1	1404
+770	1	1404
+776	1	1404
+782	1	1404
+788	2	1404
+789	1	1404
+837	1	1404
+889	1	1404
+925	1	1404
+967	1	1404
+986	1	1404
+1050	1	1404
+1083	1	1404
+1089	1	1404
+1254	1	1404
+1291	1	1404
+1361	1	1404
+1400	1	1404
+1404	5	1404
+1404	5	1404

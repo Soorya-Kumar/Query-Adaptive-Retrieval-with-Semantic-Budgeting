@@ -1,0 +1,30 @@
+Purpose of this paper.  The purpose of this preliminary study is to attempt  
+to discover how far it succeeds at present and how far and by what methods
+it may continue to succeed or be made to succeed in the future.  One person
+(or two, for Brian Vickery is tackling the problem from the point of view
+of scientific and technological users) with however many helpful consultants
+can only hope to isolate some of the problems and to indicate some of the
+possible solutions.  This, it is hoped, may prepare the ground and stimulate
+the critical and creative efforts of others towards fruitful developments.
+.X
+75	1	1429
+154	3	1429
+257	1	1429
+260	1	1429
+476	2	1429
+477	3	1429
+653	2	1429
+838	4	1429
+898	2	1429
+1066	1	1429
+1074	2	1429
+1075	2	1429
+1231	1	1429
+1255	1	1429
+1259	2	1429
+1391	4	1429
+1394	1	1429
+1402	2	1429
+1429	5	1429
+1430	5	1429
+1430	5	1429

@@ -1,0 +1,57 @@
+A survey of the R.E. Gibson Library's journal collection was conducted
+to determine 1) which journal titles could be discontinued, 2) which journal
+holdings could be moved to remote storage, and 3) which journal holdings
+could be converted to microfilm.  Totals were maintained for three areas of
+journal usage according to: 1) the number of times patrons used current 
+issues, 2) the number of times the journal issues were reshelved by library 
+staff, and 3) the number of times that journals were cited in articles by 
+Applied Physics Laboratory (APL) authors.  The survey resulted in a 9.6% 
+reduction in journal subscriptions which, in effect, added 7.5% additional 
+shelf space in which to display journals.  Further studies of the
+accumulated data are being made to determine which holdings will be sent to
+a remote storage area which is under construction.  The survey data have been
+and will continue to be consulted before any journals are converted to 
+microfilm.
+.X
+48	1	1369
+167	1	1369
+193	2	1369
+195	1	1369
+196	2	1369
+201	2	1369
+203	1	1369
+204	1	1369
+205	2	1369
+210	1	1369
+219	1	1369
+614	4	1369
+635	1	1369
+638	4	1369
+748	1	1369
+753	1	1369
+756	1	1369
+757	1	1369
+764	1	1369
+787	1	1369
+792	1	1369
+821	2	1369
+831	1	1369
+905	1	1369
+952	1	1369
+953	1	1369
+977	1	1369
+1083	1	1369
+1210	1	1369
+1254	1	1369
+1256	1	1369
+1260	1	1369
+1275	2	1369
+1278	1	1369
+1302	3	1369
+1352	1	1369
+1355	2	1369
+1369	5	1369
+1373	1	1369
+1397	1	1369
+1418	1	1369
+1418	1	1369

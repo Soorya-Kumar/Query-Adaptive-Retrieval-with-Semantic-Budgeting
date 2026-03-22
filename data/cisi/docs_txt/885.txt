@@ -1,0 +1,67 @@
+There is little so ephemeral as a "Current review" in an area so rapidly
+changing as library networking.  Yet this very characteristic of rapid change
+makes valid the effort of providing an overview at a point in time.
+    The first task, then, is network definition and description, necessary
+because a large number of library activities have been described as "networks"
+and only a limited number are covered here.  The chapter on "Library and
+Information Networks" in volume seven of the Annual Review of Information
+Science and Technology provides a "normative list" of "essential 
+characteristics":
+    1. A network's function is to marshal resources ... to accomplish results
+       beyond the ability of any one of its members.
+    2. A network has developed an organizational design and structure that
+       allows it to establish an identifiable domain....
+    3. It has a base in communications technology.
+.X
+115	1	885
+123	1	885
+141	1	885
+335	1	885
+342	1	885
+363	1	885
+400	1	885
+409	1	885
+434	1	885
+459	2	885
+505	1	885
+594	1	885
+598	1	885
+643	1	885
+644	1	885
+645	2	885
+646	1	885
+647	1	885
+651	1	885
+739	1	885
+826	1	885
+872	1	885
+879	1	885
+881	2	885
+882	2	885
+883	2	885
+884	2	885
+885	9	885
+886	1	885
+887	2	885
+888	1	885
+917	1	885
+921	1	885
+947	1	885
+972	1	885
+999	1	885
+1000	1	885
+1001	1	885
+1002	1	885
+1003	1	885
+1004	1	885
+1016	1	885
+1356	1	885
+1368	1	885
+1370	1	885
+1372	1	885
+1374	1	885
+1375	2	885
+1376	2	885
+1377	1	885
+1437	1	885
+1437	1	885

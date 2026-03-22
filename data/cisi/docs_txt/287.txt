@@ -1,0 +1,40 @@
+This article is based on a longer, more detailed paper prepared for the 1970 
+Midwinter Meeting of the Association of Research Libraries.. Readers interested 
+in the  complete test (with bibliography) are referred to the Minutes of the ARL
+meeting.. The author discusses automation in the context of the management, 
+facilities, and system requirements for large research libraries..
+.X
+177	1	287
+178	1	287
+287	6	287
+348	2	287
+406	2	287
+408	3	287
+554	1	287
+584	1	287
+654	1	287
+849	1	287
+851	1	287
+856	1	287
+857	1	287
+858	1	287
+859	1	287
+860	1	287
+861	1	287
+862	1	287
+897	1	287
+916	2	287
+925	1	287
+936	1	287
+959	1	287
+960	1	287
+962	1	287
+979	1	287
+1007	2	287
+1012	1	287
+1013	1	287
+1033	1	287
+1035	1	287
+1400	1	287
+1445	1	287
+1445	1	287

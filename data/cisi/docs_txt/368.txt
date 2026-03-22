@@ -1,0 +1,28 @@
+It is not a simple matter to describe this book.  Briefly, it
+attempts to provide and apply a set of concepts from economic theory
+that may prove valuable to those who are now or may become decision-
+makers in the selection, financing, and/or use of computers.  Only
+theory relevant for such decision-makers is presented here.  This means
+that the effects of computers on the economy as a whole lie outside
+the scope of this book, as do a number of related issues.  We deal,
+thus, with microeconomic, not macroeconomic, theory: our focus is on the
+small (industry, firm, computer) and not the large (gross national
+product, consumer price index, unemployment).
+.X
+5	1	368
+90	1	368
+91	1	368
+158	1	368
+222	1	368
+223	1	368
+368	5	368
+435	1	368
+615	1	368
+815	1	368
+957	1	368
+1023	1	368
+1219	1	368
+1227	1	368
+1365	1	368
+1390	1	368
+1390	1	368

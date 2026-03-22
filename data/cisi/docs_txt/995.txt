@@ -1,0 +1,48 @@
+The much-favored "early warning" generic medium designation is discriminatory,
+functionally inefficient, and out of line with the national and international
+acceptance of AACR.. A specific designation, placed with the collation, is
+preferable on all these grounds; and there are better ways of giving an "early
+warning"..
+.X
+141	1	995
+299	2	995
+333	3	995
+449	1	995
+522	1	995
+530	2	995
+553	1	995
+627	2	995
+628	3	995
+802	1	995
+819	1	995
+873	1	995
+874	3	995
+875	2	995
+876	1	995
+877	1	995
+878	1	995
+892	2	995
+940	1	995
+941	3	995
+992	1	995
+993	1	995
+994	1	995
+995	5	995
+996	1	995
+997	1	995
+998	1	995
+1079	3	995
+1152	1	995
+1153	2	995
+1189	1	995
+1216	1	995
+1251	1	995
+1351	2	995
+1396	1	995
+1420	2	995
+1421	1	995
+1434	3	995
+1435	3	995
+1436	1	995
+1442	2	995
+1442	2	995

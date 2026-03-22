@@ -1,0 +1,50 @@
+The growing need for library space dictated a quantitative study to
+ascertain user requirements.  A monitoring operation has been established
+whereby data are continuously collected on the use made of periodicals shelved
+in a restricted storage area.  The data, obtained from photocopy request forms,
+identify the core collection of journals which satisfies 90% of our library 
+research requirements.
+.X
+31	1	1352
+33	1	1352
+41	1	1352
+106	1	1352
+183	1	1352
+189	1	1352
+193	1	1352
+196	1	1352
+201	3	1352
+203	1	1352
+205	1	1352
+215	1	1352
+219	1	1352
+221	1	1352
+269	1	1352
+314	1	1352
+359	1	1352
+373	1	1352
+614	1	1352
+638	1	1352
+672	1	1352
+721	1	1352
+724	1	1352
+767	2	1352
+821	1	1352
+889	1	1352
+938	1	1352
+959	1	1352
+977	3	1352
+1014	1	1352
+1071	1	1352
+1085	1	1352
+1086	1	1352
+1090	1	1352
+1147	1	1352
+1203	2	1352
+1256	1	1352
+1302	1	1352
+1352	8	1352
+1369	1	1352
+1397	1	1352
+1451	1	1352
+1451	1	1352

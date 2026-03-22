@@ -1,0 +1,56 @@
+The development of cataloging codes for nonbook materials in surveyed, with
+particular attention devoted to the absence of stated objectives, the problem of
+the integrated catalog, terminology, and examples, and some of the complications
+caused by the blanket use of title main entry..
+.X
+90	1	992
+91	1	992
+231	2	992
+232	1	992
+261	1	992
+295	1	992
+299	1	992
+333	1	992
+334	1	992
+352	1	992
+354	2	992
+404	1	992
+449	1	992
+530	1	992
+553	1	992
+608	1	992
+610	1	992
+617	1	992
+620	1	992
+628	1	992
+802	1	992
+815	1	992
+819	1	992
+874	1	992
+877	1	992
+878	1	992
+938	1	992
+939	1	992
+940	1	992
+941	1	992
+991	1	992
+992	5	992
+993	1	992
+995	1	992
+1057	1	992
+1079	1	992
+1153	1	992
+1189	1	992
+1216	1	992
+1221	1	992
+1269	1	992
+1318	1	992
+1351	1	992
+1364	1	992
+1365	1	992
+1390	1	992
+1421	1	992
+1434	1	992
+1435	1	992
+1436	1	992
+1436	1	992

@@ -1,0 +1,170 @@
+While Fairthorne may not have been the first person to recognize it,
+certainly, for this author, Fairthorne was the first to make explicit the
+fundamental problems of information retrieval systems, namely the clash
+between OBNA and ABNO (Only-But-Not-All and All-But-Not-Only).
+Although it was not until 1958 that the terms occur in Fairthorne's
+writings, the concept had been discussed in many meetings of the AGARD
+Documentation Panel and elsewhere.  Originally it was considered that to meet
+these two requirements, it might be necessary to have two separate systems,
+and the test of the UNITERM system in 1954 was based on the hypothesis
+that a 'Marshalling' system (e.g. U.D.C.) was fundamentally different from
+a 'Retrieval' system (e.g. UNITERM).  While the idea persisted in this form
+for some time, it gradually evolved into the inverse relationship of recall
+and precision, which is to say that while it is possible to obtain, of the
+relevant documents, All-But-Not-Only, or alternatively to obtain Only-But-
+Not-All, it is not possible to obtain All and Only.
+.X
+10	1	826
+18	1	826
+61	1	826
+120	1	826
+124	1	826
+127	2	826
+129	1	826
+145	1	826
+190	3	826
+191	1	826
+197	2	826
+211	1	826
+214	1	826
+218	1	826
+225	1	826
+243	1	826
+244	1	826
+274	1	826
+304	1	826
+305	1	826
+306	1	826
+307	1	826
+320	1	826
+330	1	826
+332	1	826
+357	1	826
+358	1	826
+376	1	826
+378	1	826
+382	1	826
+385	1	826
+394	1	826
+433	1	826
+450	1	826
+451	1	826
+452	1	826
+458	1	826
+459	7	826
+468	1	826
+484	2	826
+492	1	826
+506	1	826
+508	2	826
+511	1	826
+512	1	826
+514	1	826
+518	1	826
+520	1	826
+523	2	826
+524	2	826
+525	2	826
+526	3	826
+527	1	826
+528	1	826
+529	2	826
+530	2	826
+532	1	826
+534	4	826
+546	3	826
+553	1	826
+579	3	826
+594	2	826
+603	1	826
+604	1	826
+606	3	826
+609	1	826
+610	1	826
+611	1	826
+612	1	826
+625	3	826
+626	3	826
+630	1	826
+633	1	826
+634	1	826
+635	1	826
+636	2	826
+637	3	826
+642	2	826
+646	3	826
+648	1	826
+650	1	826
+692	1	826
+696	2	826
+699	1	826
+702	2	826
+703	2	826
+705	2	826
+708	1	826
+726	1	826
+727	1	826
+728	1	826
+730	1	826
+731	2	826
+732	3	826
+733	2	826
+734	2	826
+736	3	826
+738	1	826
+739	1	826
+740	1	826
+741	1	826
+742	1	826
+743	1	826
+744	1	826
+754	1	826
+755	1	826
+795	1	826
+814	1	826
+817	1	826
+820	2	826
+823	1	826
+825	1	826
+826	9	826
+827	4	826
+828	1	826
+830	1	826
+877	1	826
+879	3	826
+883	2	826
+885	1	826
+947	1	826
+948	1	826
+1004	1	826
+1017	1	826
+1035	2	826
+1058	1	826
+1078	1	826
+1089	1	826
+1091	1	826
+1146	1	826
+1207	1	826
+1230	1	826
+1257	1	826
+1263	1	826
+1264	1	826
+1297	1	826
+1303	1	826
+1356	2	826
+1357	1	826
+1364	1	826
+1368	2	826
+1370	3	826
+1372	3	826
+1373	1	826
+1374	3	826
+1375	2	826
+1376	2	826
+1377	2	826
+1383	1	826
+1390	1	826
+1396	1	826
+1405	1	826
+1427	1	826
+1427	1	826

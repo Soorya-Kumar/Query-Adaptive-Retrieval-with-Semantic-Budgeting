@@ -1,0 +1,140 @@
+MEDLINE (MEDLARS-ON-LINE) is the new on-line, interactive bibliographic
+searching system which was recently developed by the National Library of 
+Medicine.. The system provides users with lists of bibliographical citations
+and other information from a three-year file of over 1,250 biomedical
+journals.. A survey testing user reactions was conducted at the University of
+Virginia Medical Library.. The results of the survey are based on replies by
+246 users who requested one or more MEDLINE searches between September 1972 and
+March 1973.. The findings indicate that over 93% believe that MEDLINE is a 
+substantial improvement over the traditional methods of searching through the
+printed indexes.. These respondents also stated that the results of MEDLINE
+searches had assisted them in their clinical or research work, or both.. Asked
+whether they would continue to use MEDLINE after the imposition of user charges
+on July 1, 1973, about 75% said that they would.. The remaining 25% expressed
+some reservation and doubts.. The survey gives reason to believe that with the
+imposition of user charges the use of MEDLINE will decline..
+.X
+10	1	190
+124	1	190
+127	1	190
+129	1	190
+190	5	190
+191	2	190
+197	1	190
+211	1	190
+214	1	190
+218	1	190
+225	1	190
+243	1	190
+244	1	190
+304	1	190
+305	1	190
+306	1	190
+307	1	190
+330	1	190
+358	1	190
+378	1	190
+385	1	190
+394	1	190
+433	1	190
+450	1	190
+451	1	190
+452	1	190
+459	3	190
+468	1	190
+484	1	190
+492	1	190
+508	1	190
+511	1	190
+512	1	190
+514	2	190
+518	1	190
+520	1	190
+523	1	190
+524	1	190
+525	1	190
+526	1	190
+529	1	190
+530	1	190
+534	2	190
+546	1	190
+547	1	190
+553	1	190
+579	1	190
+594	1	190
+603	1	190
+604	1	190
+606	1	190
+609	1	190
+610	1	190
+611	1	190
+612	2	190
+625	2	190
+626	1	190
+630	1	190
+636	1	190
+637	1	190
+642	1	190
+646	1	190
+648	2	190
+650	1	190
+692	1	190
+696	1	190
+699	1	190
+702	1	190
+703	1	190
+705	1	190
+708	1	190
+726	1	190
+727	1	190
+728	1	190
+731	2	190
+732	2	190
+733	1	190
+734	1	190
+736	1	190
+738	1	190
+739	1	190
+740	1	190
+741	1	190
+742	1	190
+743	2	190
+744	1	190
+755	1	190
+817	1	190
+820	2	190
+823	1	190
+825	1	190
+826	3	190
+827	3	190
+828	1	190
+879	1	190
+883	1	190
+947	1	190
+948	1	190
+1004	1	190
+1017	1	190
+1035	1	190
+1058	1	190
+1078	1	190
+1089	1	190
+1091	1	190
+1146	1	190
+1207	1	190
+1230	1	190
+1257	1	190
+1264	1	190
+1297	1	190
+1303	2	190
+1356	1	190
+1364	1	190
+1368	1	190
+1370	1	190
+1372	1	190
+1373	1	190
+1374	1	190
+1375	1	190
+1376	1	190
+1377	1	190
+1390	1	190
+1390	1	190

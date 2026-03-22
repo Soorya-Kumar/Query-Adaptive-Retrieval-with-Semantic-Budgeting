@@ -1,0 +1,58 @@
+Although catalogue codes and standards have received much attention, there 
+has been very little fundamental questioning of cataloguing principles and 
+practice.  Basic questions in need of investigation include: whether individual 
+libraries need catalogues of their own stock; how far printed  bibliographies
+could serve as a substitute; the functions catalogues are serving at present, 
+and the actual demands placed on them; the nature of users and non-users, and 
+the possible conflicts between the catalogue needs of librarians and 
+non-librarians; the psychological factors of approachability and usability; 
+whether standardization should over-rule local needs; whether catalogues
+should be designed for use by readers at all; the functions of printed national 
+catalogues; the implications of increased co-operation and of the changing 
+functions of libraries; what a catalogue entry should contain and how it
+should be arranged; and the possible administrative uses of catalogue data.  
+Mechanization has made these questions of great urgency.
+.X
+4	1	913
+9	1	913
+32	1	913
+96	1	913
+137	1	913
+163	1	913
+172	1	913
+207	1	913
+365	1	913
+453	1	913
+456	1	913
+652	1	913
+768	2	913
+774	1	913
+783	2	913
+799	1	913
+811	1	913
+816	1	913
+825	1	913
+856	1	913
+872	1	913
+886	1	913
+888	1	913
+913	5	913
+943	1	913
+961	1	913
+962	1	913
+963	1	913
+964	1	913
+968	1	913
+970	1	913
+1004	1	913
+1068	1	913
+1203	1	913
+1257	1	913
+1258	1	913
+1321	1	913
+1407	1	913
+1433	1	913
+1434	1	913
+1441	1	913
+1445	1	913
+1445	1	913

@@ -1,0 +1,68 @@
+A description is given of the English Electric 'Thesaurofacet', a faceted 
+classification and thesaurus covering engineering and related scientific, 
+technical, and management subjects.. A novel feature of the system is the 
+integration of the classification schedules and thesaurus.. Each term appears
+both in the thesaurus and in the schedules.. In the schedules the term is
+displayed in the most appropriate facet and hierarchy: the thesaurus supplements 
+this information by indicating alternative hierarchies and other relationships 
+which cut across the classified arrangement.. The thesaurus also controls word 
+forms and synonyms and acts as the alphabetical index to the class numbers.. 
+The resulting tool is multipurpose, as easily applicable to shelf arrangement 
+and conventional classified card catalogues as to co-ordinate indexing and
+computerized retrieval systems.. The reasons are given for modifying certain
+traditional facet techniques, including the choice of traditional disciplines
+for main classes, the lack of a 'built-in' preferred order, and the use, in 
+certain instances, of enumeration rather than synthesis to express multi-term
+concepts.. Methods of application of the Thesaurofacet in pre-coordinate and
+post-coordinate systems are discussed and brief account is given of the 
+techniques employed in its compilation..
+.X
+151	2	798
+159	2	798
+257	2	798
+348	1	798
+429	1	798
+489	1	798
+493	1	798
+498	1	798
+501	1	798
+504	1	798
+582	1	798
+583	2	798
+585	1	798
+653	1	798
+655	2	798
+688	1	798
+715	1	798
+773	1	798
+795	1	798
+796	2	798
+797	3	798
+798	7	798
+799	1	798
+801	1	798
+802	1	798
+858	1	798
+859	1	798
+861	1	798
+902	1	798
+906	1	798
+907	1	798
+1089	1	798
+1118	3	798
+1122	1	798
+1123	1	798
+1133	1	798
+1141	1	798
+1163	1	798
+1175	1	798
+1209	1	798
+1226	1	798
+1230	1	798
+1265	1	798
+1289	1	798
+1294	1	798
+1393	1	798
+1394	1	798
+1405	1	798
+1405	1	798

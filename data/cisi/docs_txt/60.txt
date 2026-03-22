@@ -1,0 +1,30 @@
+In seeking a new sense of identity, we ask, in this article, the question: 
+What is information science? What does the information science do? Tentative 
+answers to these questions are given in the hope of simulating discussion that 
+will help clarify the nature of our field and our work..
+.X
+20	1	60
+22	1	60
+42	1	60
+60	5	60
+85	2	60
+129	1	60
+172	1	60
+272	1	60
+371	1	60
+469	1	60
+574	1	60
+585	1	60
+599	1	60
+640	2	60
+652	1	60
+665	1	60
+762	1	60
+803	1	60
+907	1	60
+1022	2	60
+1045	1	60
+1077	1	60
+1268	1	60
+1309	1	60
+1309	1	60

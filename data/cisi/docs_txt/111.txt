@@ -1,0 +1,122 @@
+The present study attempted to extend previous work on
+bibliographical reference patterns in sociological journals
+in the following ways: (1) by selecting for study those
+journals to which American sociologists prefer to submit
+their work, (2) by including, over a two-year period, all
+bibliographical references (journals, books, technical
+reports, etc.), and (3) by including, for initial comparison,
+a journal from the physical sciences.  Such a study, it was
+hoped, would yield data concerning similarities and
+differences among the sociological journals and between
+the sociological journals and the physical science journal.
+.X
+33	2	111
+36	1	111
+41	1	111
+48	1	111
+88	2	111
+89	2	111
+97	1	111
+98	1	111
+100	1	111
+102	2	111
+103	1	111
+104	1	111
+105	1	111
+106	1	111
+107	3	111
+110	2	111
+111	13	111
+112	5	111
+113	6	111
+155	1	111
+161	1	111
+163	2	111
+170	1	111
+183	1	111
+184	1	111
+193	1	111
+199	2	111
+203	1	111
+210	1	111
+225	1	111
+243	1	111
+269	1	111
+356	1	111
+359	1	111
+360	1	111
+373	1	111
+456	2	111
+487	1	111
+545	4	111
+552	1	111
+560	2	111
+587	1	111
+592	1	111
+602	2	111
+605	1	111
+607	1	111
+613	1	111
+614	1	111
+638	1	111
+735	1	111
+747	1	111
+750	1	111
+753	1	111
+764	1	111
+766	1	111
+767	1	111
+775	1	111
+782	1	111
+784	1	111
+788	2	111
+789	2	111
+793	4	111
+800	1	111
+808	1	111
+905	1	111
+911	1	111
+953	1	111
+977	1	111
+983	1	111
+1016	1	111
+1023	1	111
+1030	2	111
+1055	1	111
+1062	3	111
+1083	1	111
+1085	1	111
+1087	1	111
+1090	1	111
+1135	1	111
+1260	1	111
+1273	1	111
+1275	2	111
+1276	1	111
+1278	1	111
+1280	1	111
+1285	2	111
+1286	1	111
+1287	2	111
+1291	2	111
+1293	1	111
+1296	2	111
+1298	1	111
+1300	1	111
+1301	1	111
+1302	4	111
+1315	1	111
+1335	5	111
+1338	1	111
+1340	1	111
+1344	1	111
+1345	1	111
+1346	2	111
+1347	3	111
+1390	1	111
+1397	1	111
+1417	1	111
+1428	1	111
+1432	1	111
+1451	1	111
+1451	1	111

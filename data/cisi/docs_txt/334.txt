@@ -1,0 +1,29 @@
+Librarians are known for their organizational work
+with recorded knowledge.  Information storage and retrieval
+are two well-known, basic functions associated with this
+work.  A search of the literature of library science reveals
+that these functions have not been examined to any significant
+degree from the users' point of view.  This is true in regard
+to library catalogs and library subject headings.
+.X
+90	1	334
+231	1	334
+261	1	334
+295	1	334
+299	1	334
+334	5	334
+354	1	334
+608	1	334
+610	1	334
+617	1	334
+620	1	334
+815	1	334
+938	1	334
+939	1	334
+991	1	334
+992	1	334
+1221	1	334
+1318	1	334
+1365	1	334
+1390	1	334
+1390	1	334

@@ -1,0 +1,117 @@
+There are many useful computer-readable data bases that are accessible
+only to major governmental units, universities, or industrial organizations.
+An experiment is described in which the public library is used as a "linking 
+agent" between the public and such data bases. Retrieval terminals have been 
+placed  in four public libraries in Northern California to provide access to 
+sixteen different data bases.  The first year of this two-year experiment is 
+described, and some of the technical, organizational, and economic aspects of 
+the study are reviewed. Rapid acceptance of the system during this initial 
+no-cost period has been achieved and  useful evaluative data have been obtained.
+.X
+124	1	1377
+127	1	1377
+129	1	1377
+190	1	1377
+191	1	1377
+197	1	1377
+211	1	1377
+214	1	1377
+218	1	1377
+243	1	1377
+307	1	1377
+330	1	1377
+378	1	1377
+450	1	1377
+451	2	1377
+452	1	1377
+459	2	1377
+460	1	1377
+468	1	1377
+484	1	1377
+492	1	1377
+508	1	1377
+511	1	1377
+512	1	1377
+514	1	1377
+518	1	1377
+520	1	1377
+523	1	1377
+524	1	1377
+525	1	1377
+526	2	1377
+529	1	1377
+530	1	1377
+534	1	1377
+546	2	1377
+553	1	1377
+579	1	1377
+594	1	1377
+603	1	1377
+604	1	1377
+606	2	1377
+609	2	1377
+610	1	1377
+611	1	1377
+612	2	1377
+618	1	1377
+625	1	1377
+626	1	1377
+630	1	1377
+635	1	1377
+636	1	1377
+637	2	1377
+641	1	1377
+642	4	1377
+645	1	1377
+646	1	1377
+648	1	1377
+650	1	1377
+692	1	1377
+696	1	1377
+699	1	1377
+703	1	1377
+705	1	1377
+708	1	1377
+726	1	1377
+727	1	1377
+728	1	1377
+731	1	1377
+732	1	1377
+733	2	1377
+734	2	1377
+736	1	1377
+738	1	1377
+739	1	1377
+740	1	1377
+741	1	1377
+742	2	1377
+743	2	1377
+744	3	1377
+755	1	1377
+820	1	1377
+826	2	1377
+827	1	1377
+879	2	1377
+883	2	1377
+885	1	1377
+1004	1	1377
+1035	1	1377
+1078	1	1377
+1089	1	1377
+1091	1	1377
+1207	1	1377
+1264	2	1377
+1297	1	1377
+1302	1	1377
+1303	1	1377
+1356	2	1377
+1364	1	1377
+1368	2	1377
+1370	2	1377
+1372	2	1377
+1373	1	1377
+1374	3	1377
+1375	3	1377
+1376	3	1377
+1377	7	1377
+1377	7	1377

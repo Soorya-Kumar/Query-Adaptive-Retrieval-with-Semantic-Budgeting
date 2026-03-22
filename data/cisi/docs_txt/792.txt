@@ -1,0 +1,104 @@
+Evidence provided by the Dainton Report indicates that special libraries in
+the UK are far from fully exploiting the photocopying services provided by the
+national libraries.. As these photocopying services are legally obliged to 
+operate at cost, they offer significant economies to any special library which 
+exploits them systematically..
+   This paper describes a simple graphical method of estimating the savings 
+that can be made, or the extended subject coverage that can be obtained at no
+additional cost, by substituting photocopies for relevant papers in the 
+peripheral periodicals relating to any well-defined scientific or technical
+subject..
+   Though photocopying charges must be realistic, the confident exploitation of 
+the national photocopying services depends on the avoidance of arbitrary jumps in
+photocopying charges..
+.X
+36	1	792
+48	1	792
+55	1	792
+57	1	792
+83	1	792
+147	1	792
+149	1	792
+153	1	792
+167	2	792
+175	1	792
+184	1	792
+193	1	792
+195	1	792
+201	1	792
+203	1	792
+204	1	792
+205	1	792
+222	2	792
+223	1	792
+228	1	792
+229	1	792
+233	1	792
+245	1	792
+255	1	792
+267	2	792
+359	2	792
+361	1	792
+395	1	792
+494	4	792
+515	3	792
+587	4	792
+614	1	792
+635	1	792
+638	1	792
+667	1	792
+748	2	792
+750	2	792
+751	3	792
+753	1	792
+756	1	792
+757	1	792
+759	1	792
+765	1	792
+767	1	792
+778	1	792
+787	3	792
+791	1	792
+792	13	792
+793	2	792
+794	1	792
+800	2	792
+804	1	792
+815	1	792
+821	1	792
+823	1	792
+831	2	792
+840	3	792
+841	1	792
+842	1	792
+925	3	792
+945	1	792
+948	1	792
+952	1	792
+953	1	792
+1081	1	792
+1082	1	792
+1083	2	792
+1085	3	792
+1086	2	792
+1201	1	792
+1210	1	792
+1219	1	792
+1254	1	792
+1256	1	792
+1260	1	792
+1275	1	792
+1278	2	792
+1282	1	792
+1302	1	792
+1317	1	792
+1324	1	792
+1365	2	792
+1369	1	792
+1373	1	792
+1400	1	792
+1401	2	792
+1416	1	792
+1417	2	792
+1418	2	792
+1418	2	792

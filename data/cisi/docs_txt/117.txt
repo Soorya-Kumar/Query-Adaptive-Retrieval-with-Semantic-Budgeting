@@ -1,0 +1,60 @@
+In mechanized systems used for searching in literature stores there is a 
+steadily growing necessity not only to be able to formulate concepts as a
+search condition but also the characteristic connections under which these
+concepts appear in the inquiry.. In this way the precision of the mechanized
+literature search is considerably increased.. TOSAR has been developed in 
+order to improve computerized literature searching in this respect..
+.X
+58	1	117
+68	1	117
+116	1	117
+117	7	117
+165	1	117
+254	1	117
+320	1	117
+327	1	117
+445	1	117
+476	1	117
+525	1	117
+569	1	117
+572	1	117
+590	3	117
+621	1	117
+641	2	117
+664	1	117
+668	2	117
+670	2	117
+671	3	117
+673	1	117
+674	1	117
+677	1	117
+678	1	117
+679	1	117
+682	1	117
+683	2	117
+688	1	117
+689	3	117
+690	1	117
+693	1	117
+694	1	117
+695	1	117
+698	1	117
+700	1	117
+704	1	117
+706	1	117
+707	2	117
+715	1	117
+730	1	117
+738	1	117
+797	1	117
+819	1	117
+833	1	117
+1026	1	117
+1046	1	117
+1072	1	117
+1077	1	117
+1231	1	117
+1292	1	117
+1443	1	117
+1452	1	117
+1452	1	117

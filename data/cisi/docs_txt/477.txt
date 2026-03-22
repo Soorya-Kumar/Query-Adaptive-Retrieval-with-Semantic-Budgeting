@@ -1,0 +1,76 @@
+"The machine language [information language in our terminology D.S.]
+should not be confused with the machine code: (Upenskii, 59:357).  In
+Ranganathan's more general terms: There should be no confusion between the
+idea plane and the notational plane.  Many difficulties in classification
+arise from this confusion.  This paper is devoted mainly to problems on
+the idea plane.
+    "The IR-language I want to talk about, is the language in which the
+information to be retrieved is formulated, i.e. a declarative sentence
+language, not the imperative sentence language of the programmer-retriever"
+(Bohnert in Samet, 62.1:10), that is, the information language should not
+be confused with the programming language.  (To avoid misunderstandings
+it would perhaps be better to say "descriptive" instead of "declarative"
+and to state explicitly that in a descriptive sentence an imperative may
+be described which is, however, not to be executed by the system but to
+be retrieved by appropriate searches.)
+.X
+29	1	477
+68	1	477
+69	1	477
+151	1	477
+154	1	477
+160	1	477
+175	1	477
+258	1	477
+259	1	477
+261	1	477
+263	1	477
+309	1	477
+346	1	477
+382	1	477
+388	1	477
+416	1	477
+454	1	477
+458	1	477
+476	3	477
+477	9	477
+478	1	477
+479	1	477
+480	1	477
+484	1	477
+485	1	477
+501	1	477
+504	1	477
+516	1	477
+542	1	477
+558	1	477
+566	1	477
+600	1	477
+653	4	477
+680	1	477
+704	1	477
+746	1	477
+758	1	477
+781	3	477
+791	1	477
+802	1	477
+838	3	477
+852	1	477
+898	2	477
+901	1	477
+970	1	477
+1066	1	477
+1074	1	477
+1075	1	477
+1118	1	477
+1175	1	477
+1231	2	477
+1259	4	477
+1391	5	477
+1394	1	477
+1402	1	477
+1414	1	477
+1422	1	477
+1429	3	477
+1430	3	477
+1430	3	477

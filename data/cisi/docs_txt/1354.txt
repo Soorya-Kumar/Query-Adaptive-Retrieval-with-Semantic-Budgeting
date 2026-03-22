@@ -1,0 +1,47 @@
+The concept of library cooperation is examined generally and that among 
+academic libraries, among special libraries, and between academic and special 
+libraries as reported in the recent literature. The question of the probable 
+future of cooperation between academic and special libraries is addressed and 
+possible support mechanisms for establishing soundly based cooperative 
+undertakings are suggested.
+.X
+9	1	1354
+207	1	1354
+222	1	1354
+223	1	1354
+296	1	1354
+297	1	1354
+298	1	1354
+300	1	1354
+301	1	1354
+302	1	1354
+340	1	1354
+358	1	1354
+364	1	1354
+431	1	1354
+515	1	1354
+535	1	1354
+625	1	1354
+629	1	1354
+631	1	1354
+634	1	1354
+791	1	1354
+811	1	1354
+816	1	1354
+818	1	1354
+823	1	1354
+843	1	1354
+844	1	1354
+846	1	1354
+915	1	1354
+961	1	1354
+962	1	1354
+964	1	1354
+994	1	1354
+1009	1	1354
+1015	1	1354
+1242	1	1354
+1247	2	1354
+1268	1	1354
+1354	6	1354
+1354	6	1354

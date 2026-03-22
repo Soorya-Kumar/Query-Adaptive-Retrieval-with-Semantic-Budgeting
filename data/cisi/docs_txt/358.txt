@@ -1,0 +1,114 @@
+The report is concerned with the social utility of libraries and
+with the factors that appear to be requirements for effective
+programs.  In the absence of established standards or criteria for
+measuring program effectiveness, we have substituted a comparative analysis of
+a number of programs based on detailed observation of the program process;
+a survey of needs and interests of the
+target groups, both users and nonusers; and an assessment of the
+library's role in the target neighborhood as it is perceived by other
+community institutions serving the same groups.  Thus a basis for
+comparisons and for judgements has been introduced which provides
+a foundation for suggestions as to the direction in which programs
+of service to the disadvantaged might move.
+  To achieve the study objectives, library programs and practices
+in low-income neighborhoods were examined in a number of cities.
+In each of fifteen cities data were collected through interview and
+observation in four subject areas: (1) the needs and interests of
+the community residents, (2) library services in relation to other
+available community resources, (3) the nature and scope of the
+neighborhood library program and its relation to the rest of the
+library system, and (4) available measures of the impact or
+effectiveness of the program.
+.X
+9	1	358
+10	1	358
+161	1	358
+190	1	358
+207	1	358
+208	1	358
+222	1	358
+223	1	358
+225	1	358
+232	1	358
+239	2	358
+241	1	358
+244	1	358
+295	1	358
+296	1	358
+297	1	358
+298	1	358
+300	2	358
+301	1	358
+302	1	358
+304	1	358
+305	1	358
+306	1	358
+331	1	358
+358	16	358
+364	1	358
+385	2	358
+394	1	358
+406	1	358
+433	2	358
+459	1	358
+515	1	358
+534	1	358
+535	1	358
+624	1	358
+625	1	358
+629	1	358
+631	2	358
+634	1	358
+702	1	358
+731	1	358
+732	1	358
+791	1	358
+811	1	358
+816	1	358
+817	1	358
+818	1	358
+820	1	358
+823	2	358
+825	1	358
+826	1	358
+827	1	358
+828	1	358
+843	1	358
+844	1	358
+846	1	358
+896	1	358
+908	1	358
+915	1	358
+937	2	358
+946	5	358
+947	1	358
+948	2	358
+961	1	358
+962	1	358
+964	1	358
+994	1	358
+1005	4	358
+1015	1	358
+1017	1	358
+1018	2	358
+1032	1	358
+1033	1	358
+1056	4	358
+1058	1	358
+1079	1	358
+1145	2	358
+1146	1	358
+1227	1	358
+1230	1	358
+1240	2	358
+1242	1	358
+1247	1	358
+1257	1	358
+1268	1	358
+1354	1	358
+1373	1	358
+1379	1	358
+1384	1	358
+1390	1	358
+1403	1	358
+1403	1	358

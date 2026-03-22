@@ -1,0 +1,53 @@
+The mathematical theory of measurement is used to construct a framework
+for the evaluation of information retrieval strategies.  The model arrived at
+is based on precision and recall.  After a detailed examination of the kind of
+conditions the model can be expected to satisfy a plausible measure of
+effectiveness is derived.  Finally, a number of other measures are shown to be
+special cases of it.
+.X
+28	1	829
+57	1	829
+73	3	829
+157	1	829
+175	2	829
+274	1	829
+381	1	829
+389	2	829
+390	2	829
+445	1	829
+449	1	829
+468	1	829
+509	1	829
+514	1	829
+518	1	829
+519	2	829
+577	1	829
+587	1	829
+595	1	829
+615	1	829
+625	1	829
+634	1	829
+643	1	829
+644	1	829
+646	1	829
+649	2	829
+652	1	829
+660	1	829
+752	2	829
+754	2	829
+764	1	829
+780	3	829
+785	2	829
+812	1	829
+820	1	829
+822	1	829
+824	1	829
+827	1	829
+829	5	829
+830	1	829
+895	4	829
+1044	1	829
+1091	2	829
+1282	2	829
+1307	2	829
+1307	2	829

@@ -1,0 +1,44 @@
+Sometimes it seems as if the library world has divided into two camps; those
+who seem to know all about this thing called "OCLC" and who keep popping that
+rounded acronym into their conversation with a certain bromidic effervescence,
+and the other camp - plain folk who are happy to take library life one
+acronym at a time, as they need it, and who, if pressed, might guess that OCLC
+has something to do with, oh, Optical Codes at the Library of Congress?
+  Only in Ohio - where the Ohio College Library Center began and where
+this national, computerized, bibliographic data exchange continues to grow -
+is OCLC universally a library household term, even among computer-phobes.  In
+Ohio, most librarians already realize the kind of thing going on at OCLC is
+not simply the building up of someone else's data base in little bits and bytes,
+but perhaps the biggest revolution in access to library collections since books
+were unchained from the shelves.
+.X
+1	1	92
+92	5	92
+235	1	92
+246	2	92
+247	1	92
+326	1	92
+333	1	92
+375	1	92
+556	1	92
+825	1	92
+883	1	92
+930	1	92
+941	1	92
+950	2	92
+978	1	92
+988	1	92
+991	1	92
+997	2	92
+1000	1	92
+1004	1	92
+1024	1	92
+1079	1	92
+1153	1	92
+1216	2	92
+1247	1	92
+1258	1	92
+1266	1	92
+1395	1	92
+1441	1	92
+1441	1	92

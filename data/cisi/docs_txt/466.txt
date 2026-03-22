@@ -1,0 +1,78 @@
+An outline is given of the history of the Project and the development, with 
+OSTI support, of an information service in intestinal absorption which is intended
+to become self-supporting.. Results of an evaluation of computer-based current 
+awareness techniques including journal scanning is discussed with reference to 
+cost, completeness and minimum delay.. A simple technique is suggested for
+profile construction e.g. for Chemical Titles computer search, based on 
+frequency and specificity of words in a sample of relevant titles..
+.X
+13	1	466
+18	1	466
+34	1	466
+49	1	466
+53	1	466
+59	1	466
+76	1	466
+121	1	466
+164	1	466
+175	1	466
+202	1	466
+213	2	466
+224	1	466
+243	1	466
+371	1	466
+421	1	466
+465	2	466
+466	7	466
+480	1	466
+490	1	466
+491	1	466
+506	1	466
+507	1	466
+510	1	466
+512	1	466
+531	1	466
+591	1	466
+595	1	466
+603	1	466
+604	1	466
+622	1	466
+623	1	466
+629	1	466
+633	1	466
+639	1	466
+659	1	466
+676	1	466
+711	1	466
+720	1	466
+722	1	466
+723	1	466
+726	1	466
+728	1	466
+730	1	466
+731	1	466
+732	1	466
+809	1	466
+810	2	466
+812	1	466
+813	1	466
+814	2	466
+817	1	466
+820	1	466
+822	1	466
+828	1	466
+870	1	466
+879	1	466
+894	1	466
+914	1	466
+1091	1	466
+1283	1	466
+1298	1	466
+1299	1	466
+1362	1	466
+1363	2	466
+1366	1	466
+1367	1	466
+1368	1	466
+1396	1	466
+1396	1	466

@@ -1,0 +1,102 @@
+The following pages form the concluding portion of four lectures
+delivered by me in the University of Cambridge as Sandars Reader
+in Bibliography, 1921.
+  As the two pairs of lectures appeal to widely different classes
+of the community, I have decided to print them separately, though
+the underlying theme is the same, viz. the need for uniformity in
+book classification as a preliminary to co-operative action in
+library administration and bibliography.
+  Book classification is shelf classification, and shelf classification
+carried to its furthest limits leads necessarily to uniformity
+in the extension and definition of its classes.  Add to this a
+chronological order of books in their classes and your scheme of
+classification acquires a new value; for it presents for each period
+a bibliographical counterpart of the corresponding growth of the
+activities of the human mind.
+  My first two lectures dealt with this thesis in its practical
+application to library work and the compilation of subject
+bibliographies.  Here statistical bibliography is considered in
+relation to the growth of modern civilization.
+  Strictly speaking, the province of statistical bibliography ends
+with the presentation of the figures compiled.  Their final
+interpretation should be left to those possessing the necessary
+qualifications.  I am, therefore, conscious that in attempting to
+furnish some explanation of the interrelations of the various factors
+which are associated with the growth of modern civilization, I have
+outstripped the limits of bibliographical propriety.  On this count
+I offer no defense.
+.X
+19	1	1380
+37	2	1380
+39	2	1380
+40	2	1380
+47	1	1380
+61	1	1380
+88	1	1380
+97	2	1380
+102	1	1380
+103	1	1380
+199	1	1380
+233	1	1380
+253	2	1380
+313	1	1380
+359	1	1380
+377	1	1380
+379	4	1380
+395	1	1380
+470	1	1380
+505	1	1380
+560	1	1380
+573	1	1380
+618	3	1380
+622	1	1380
+632	1	1380
+635	1	1380
+667	1	1380
+748	1	1380
+749	2	1380
+751	1	1380
+764	1	1380
+765	2	1380
+777	2	1380
+778	1	1380
+782	1	1380
+804	1	1380
+805	1	1380
+893	1	1380
+907	1	1380
+925	1	1380
+952	1	1380
+1016	1	1380
+1018	1	1380
+1030	1	1380
+1032	1	1380
+1061	1	1380
+1083	1	1380
+1085	2	1380
+1086	2	1380
+1087	2	1380
+1182	1	1380
+1200	1	1380
+1201	1	1380
+1255	1	1380
+1268	1	1380
+1274	1	1380
+1275	2	1380
+1277	1	1380
+1278	1	1380
+1280	1	1380
+1285	1	1380
+1286	1	1380
+1287	1	1380
+1301	2	1380
+1302	3	1380
+1304	1	1380
+1313	1	1380
+1338	1	1380
+1344	1	1380
+1347	1	1380
+1380	8	1380
+1428	1	1380
+1444	1	1380
+1444	1	1380

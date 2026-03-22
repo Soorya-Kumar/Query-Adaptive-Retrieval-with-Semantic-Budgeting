@@ -1,0 +1,39 @@
+Educational systems specialists lament the
+deplorable lack of organization of nonprint
+media for utilization in the learning process.
+Audiovisual personnel have, out of despair,
+made a painful entry into the world of
+bibliography while librarians, long experienced
+in the bibliographic control of printed matter,
+still appear preoccupied with more conventional
+forms of information and reluctant to turn
+their expertise to the organization of nonprint
+media.
+.X
+90	1	231
+231	6	231
+261	1	231
+295	1	231
+299	1	231
+334	1	231
+352	2	231
+354	1	231
+383	1	231
+608	1	231
+610	1	231
+617	1	231
+620	1	231
+815	1	231
+911	1	231
+938	1	231
+939	1	231
+991	1	231
+992	2	231
+1152	1	231
+1153	1	231
+1189	1	231
+1221	1	231
+1318	1	231
+1365	1	231
+1390	1	231
+1390	1	231

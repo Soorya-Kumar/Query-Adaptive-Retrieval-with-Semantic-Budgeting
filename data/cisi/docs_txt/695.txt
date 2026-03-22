@@ -1,0 +1,44 @@
+An interactive search and retrieval system for Weswesser Line Notation (WLN)
+has been implemented.. The system employs bit screens, which are useful for 
+filtering a file.. The user can graphically specify a search request structure
+and immediately receive graphic information as the result of the search.. Four
+Fortran IV programs were developed to prepare bit screens for WLN files, input 
+the search request to generate the WLN, iteratively search the WLN bit screen 
+file, and generate a two-dimensional representation of the chemical structure 
+directly from the WLN..
+.X
+116	1	695
+117	1	695
+254	1	695
+316	1	695
+327	2	695
+641	1	695
+668	1	695
+670	1	695
+671	1	695
+673	1	695
+674	1	695
+677	1	695
+678	1	695
+679	1	695
+682	2	695
+689	1	695
+690	2	695
+692	1	695
+693	1	695
+694	4	695
+695	5	695
+697	2	695
+698	5	695
+700	1	695
+704	1	695
+706	1	695
+707	1	695
+730	1	695
+738	1	695
+833	1	695
+1026	1	695
+1072	1	695
+1292	1	695
+1452	3	695
+1452	3	695

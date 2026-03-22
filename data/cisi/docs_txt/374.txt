@@ -1,0 +1,50 @@
+Following five years of experience with the mechanization
+of procedures using data processing equipment, the university
+library in Bochum is attempting to summarize its findings.
+A comparison with earlier publications about the use of
+electronic data processing equipment shows in what measure
+the original plans have actually been affected by the
+experience that has been gained.  This summary also serves
+as a report for the wider public that may be interested in
+technical questions of library processing.
+.X
+64	1	374
+164	1	374
+172	1	374
+175	1	374
+177	1	374
+178	1	374
+245	1	374
+374	5	374
+408	1	374
+419	1	374
+458	1	374
+471	1	374
+481	1	374
+491	1	374
+507	1	374
+520	1	374
+523	1	374
+623	1	374
+717	1	374
+781	1	374
+783	1	374
+822	1	374
+834	1	374
+835	1	374
+848	1	374
+849	1	374
+850	1	374
+851	1	374
+852	1	374
+907	1	374
+922	1	374
+925	1	374
+981	1	374
+982	1	374
+1042	1	374
+1051	1	374
+1248	1	374
+1327	1	374
+1415	1	374
+1415	1	374

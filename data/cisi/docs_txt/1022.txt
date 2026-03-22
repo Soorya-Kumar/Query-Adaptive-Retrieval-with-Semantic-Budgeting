@@ -1,0 +1,26 @@
+These information systems create a real challenge for librarianship, since
+on the surface it would seem that librarians can have a central role in their
+development, their operation, and their management.  But to do so, librarians
+must recognize the contribution they can make and be willing to accept the
+challenges.
+.X
+20	1	1022
+42	1	1022
+60	2	1022
+85	3	1022
+129	1	1022
+172	1	1022
+469	1	1022
+585	2	1022
+599	1	1022
+640	1	1022
+652	1	1022
+665	1	1022
+762	1	1022
+803	2	1022
+1022	5	1022
+1045	1	1022
+1077	1	1022
+1268	1	1022
+1309	1	1022
+1309	1	1022

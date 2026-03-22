@@ -1,0 +1,49 @@
+Future users of large data banks must be protected from having to know how 
+the data is organized in the machine (the internal representation). A prompting
+service which supplies such information is not a satisfactory solution.. 
+Activities of users at terminals and most application programs should remain 
+unaffected when the internal representation of data is changed
+and even when some aspects of the external representation are changed.. Changes
+in data representation will often be nedded as a result of changes in query, 
+update, and report traffic and natural growth in the types of stored 
+information.. 
+  Existing noninferential, formated data systems provide users with tree-
+structured files or slightly more general network models of the data.. In 
+Section 1, inadequacies of these models are discussed.. A model based on n-ary
+relations, a normal form for data base relations, and the concept of a universal
+data sublanguage are introduced.. IN Section 2, certain operations (other than 
+logical inference) are discussed and applied to the problems of redundancy and
+consistency in the user's model..
+.X
+45	1	310
+62	1	310
+174	1	310
+175	1	310
+310	8	310
+318	4	310
+363	1	310
+409	1	310
+422	1	310
+454	1	310
+455	1	310
+458	1	310
+462	1	310
+479	1	310
+483	1	310
+485	1	310
+564	1	310
+604	1	310
+661	1	310
+662	1	310
+663	1	310
+737	1	310
+745	1	310
+769	1	310
+853	1	310
+875	1	310
+883	1	310
+1274	1	310
+1327	1	310
+1419	2	310
+1427	1	310
+1427	1	310

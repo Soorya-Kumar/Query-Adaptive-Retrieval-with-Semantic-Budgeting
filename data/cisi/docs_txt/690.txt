@@ -1,0 +1,56 @@
+New computer methods have been developed in associations with the drug
+development programs of the Walter Reed Army Institute of Research.  Experiences
+with these systems are recounted.  Special input devices and computer 
+programming have been developed for the input and retrieval of conventional
+chemical structural diagrams.  The costs, operation, and the advantages of this
+system are discussed.  Associated files of biological properties and inventory
+control information have been created, which are searchable.  The methods used
+in creating consolidated listings of selected chemical compounds and associated
+biological data are discussed.
+
+.X
+116	2	690
+117	1	690
+166	1	690
+254	2	690
+316	1	690
+327	1	690
+491	1	690
+496	1	690
+582	1	690
+641	1	690
+657	1	690
+668	3	690
+670	1	690
+671	2	690
+673	1	690
+677	1	690
+678	1	690
+679	1	690
+682	1	690
+689	1	690
+690	9	690
+693	1	690
+694	3	690
+695	2	690
+697	1	690
+698	2	690
+699	2	690
+700	2	690
+704	1	690
+706	1	690
+707	1	690
+710	1	690
+730	2	690
+737	1	690
+738	1	690
+833	1	690
+1012	1	690
+1026	1	690
+1072	1	690
+1292	2	690
+1293	1	690
+1295	1	690
+1296	1	690
+1452	1	690
+1452	1	690

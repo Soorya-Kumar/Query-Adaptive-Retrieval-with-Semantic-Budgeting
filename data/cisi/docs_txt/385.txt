@@ -1,0 +1,59 @@
+In these days of large government programs intended to reduce poverty,
+develop communities, prevent delinquency and crime, control disease, and
+reconstruct cities, the predominant rhetoric is that of planning, pilot
+projects, experimental and demonstration programs - and evaluation.  Those
+who seek to select for support the more promising plans and projects submitted
+to funding agencies have become habituated to the ritualistic inclusion in
+the proposal of a final section on Evaluation.  In most cases this section
+consists of sometimes grandiose but usually vague statements of intent and
+procedure for assessing the impact of the proposed action.  In some cases
+there is an elegant, highly academic, and impractical scheme worked out in
+meticulous detail by an obviously talented research consultant.  In a few
+treasured instances there is a well-considered, realistic, and workmanlike
+plan for getting some fairly reliable answers to the questions of what worked
+and why. 
+.X
+10	1	385
+190	1	385
+208	1	385
+217	1	385
+225	1	385
+243	1	385
+244	1	385
+249	1	385
+304	1	385
+305	1	385
+306	1	385
+358	2	385
+364	1	385
+385	7	385
+394	1	385
+433	1	385
+459	1	385
+534	1	385
+598	1	385
+702	1	385
+731	1	385
+732	1	385
+779	1	385
+817	1	385
+820	1	385
+823	1	385
+825	1	385
+826	1	385
+827	1	385
+828	1	385
+947	1	385
+948	1	385
+1005	1	385
+1017	1	385
+1018	1	385
+1056	1	385
+1058	1	385
+1146	1	385
+1230	1	385
+1257	1	385
+1384	1	385
+1390	1	385
+1403	1	385
+1403	1	385

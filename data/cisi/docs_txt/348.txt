@@ -1,0 +1,103 @@
+The Ohio College Library Center is developing
+a computerized, user-oriented, library system
+that will improve efficiency of library use and
+operations; that will increase availability of
+library resources within a region; and that will facilitate
+evolution of new and easier accesses to information in
+libraries.  The center does not conceive of its task as being
+merely the mechanization of library procedures of the past.
+  For the immediate future, the principal academic objective
+of the center is to increase the availability of library
+resources for use in educational and research programs in
+colleges and universities throughout Ohio.  A more distant
+objective is to enable libraries to participate actively in the
+programs of instruction and research in their institutions.
+The passive service functions that libraries have developed
+during the past century are proving inadequate to meet the
+present demands made of libraries, and will be increasingly
+inadequate in the future.
+  The per-student costs of libraries are rising somewhat
+more than twice as rapidly as unit-cost rises in the general
+economy.  Therefore, the principal economic goal of the
+Ohio College Library Center is to decelerate the rate of rise
+of per-student costs, so that the rate of increase will
+approximate that of the economy as a whole.
+.X
+63	1	348
+90	1	348
+159	1	348
+175	1	348
+177	1	348
+214	1	348
+218	1	348
+250	1	348
+287	2	348
+340	1	348
+348	11	348
+375	1	348
+389	1	348
+390	1	348
+406	1	348
+408	2	348
+487	1	348
+502	1	348
+546	1	348
+554	1	348
+579	1	348
+582	1	348
+583	1	348
+584	1	348
+585	1	348
+596	1	348
+600	1	348
+601	1	348
+654	1	348
+655	1	348
+797	1	348
+798	1	348
+799	2	348
+805	1	348
+807	1	348
+834	1	348
+849	1	348
+851	1	348
+855	1	348
+856	1	348
+857	1	348
+858	2	348
+859	3	348
+860	1	348
+861	2	348
+862	1	348
+863	1	348
+864	1	348
+868	1	348
+872	1	348
+897	1	348
+916	1	348
+954	1	348
+956	1	348
+963	1	348
+979	1	348
+986	1	348
+987	1	348
+988	1	348
+989	1	348
+1007	1	348
+1012	2	348
+1013	1	348
+1035	1	348
+1152	1	348
+1188	1	348
+1196	1	348
+1197	1	348
+1265	1	348
+1294	1	348
+1327	1	348
+1333	1	348
+1362	1	348
+1363	1	348
+1366	1	348
+1379	1	348
+1445	1	348
+1445	1	348

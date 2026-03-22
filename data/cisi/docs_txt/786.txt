@@ -1,0 +1,61 @@
+A recent article by Kozachkov and Khursin, entitled 'The basic probability
+distribution in information flow systems', describes the fundamental similarity
+of a number of known statistical regularities in the flow of information.. They
+propose a basic model, called the 'hyperbolic ladder' and relate it, in 
+particular, to work in linguistics by Zipf, in documentation by Bradford, and
+in the science of science by Lotka.. The purpose of this note is to speculate 
+further on the relevance of Zipf's law in librarianship..
+.X
+4	1	786
+33	1	786
+71	1	786
+72	1	786
+73	1	786
+74	1	786
+75	1	786
+77	1	786
+78	1	786
+79	1	786
+81	2	786
+82	1	786
+83	1	786
+86	1	786
+153	1	786
+156	1	786
+211	1	786
+212	1	786
+233	1	786
+245	1	786
+267	1	786
+277	1	786
+279	1	786
+280	1	786
+486	1	786
+614	1	786
+638	1	786
+651	1	786
+720	1	786
+748	3	786
+751	1	786
+765	2	786
+778	1	786
+785	1	786
+786	5	786
+787	1	786
+788	1	786
+789	1	786
+791	3	786
+793	1	786
+800	1	786
+811	1	786
+840	1	786
+925	4	786
+948	1	786
+983	1	786
+984	1	786
+1019	1	786
+1030	1	786
+1401	1	786
+1417	1	786
+1422	1	786
+1422	1	786

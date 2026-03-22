@@ -1,0 +1,95 @@
+The processing and transfer of information is an important activity of many
+thousands of libraries, research institutes, educational institutions,
+professional and trade associations, non-profit organizations, publishing
+houses, government agencies, and others.  All of these groups are already
+listed in a variety of existing directories.  This publication, on the other
+hand, has selected from the above groups, those organizations and services
+which are principally concerned with storage, retrieval, and dissemination
+of information, and in addition, are innovative, experimental, or non-
+conventional.  A major emphasis is on computerization, micrographics, networks,
+advanced reference services, information centers, and data banks.
+  The Encyclopedia of Information Systems and Services includes descriptions
+of the following types of services and facilities:
+        
+        Information Centers
+        Computerized Systems and Services
+        Networks and Cooperative Programs
+        Data Banks
+        Documentation Centers
+	Information Storage and Retrieval Systems
+	Micrographic Systems and Services
+        Research Centers and Projects
+        Clearinghouses and Referral Centerss
+        Consulting and Planning Organizations and Services
+	Information Offices
+        Industrial Research Information Centers
+        Professional Associations
+        Specialized Library Reference Services
+.X
+91	1	375
+92	1	375
+161	1	375
+197	1	375
+214	1	375
+218	2	375
+243	1	375
+250	1	375
+253	1	375
+340	1	375
+348	1	375
+375	12	375
+406	1	375
+408	1	375
+445	1	375
+454	1	375
+472	1	375
+492	1	375
+497	1	375
+503	1	375
+506	2	375
+507	2	375
+508	1	375
+510	1	375
+548	1	375
+554	1	375
+579	1	375
+591	1	375
+593	1	375
+594	2	375
+595	1	375
+596	1	375
+597	1	375
+599	1	375
+600	1	375
+601	1	375
+603	1	375
+604	2	375
+606	1	375
+607	3	375
+723	1	375
+724	1	375
+725	1	375
+801	1	375
+805	1	375
+806	1	375
+836	1	375
+855	1	375
+866	2	375
+867	2	375
+956	1	375
+986	1	375
+989	1	375
+1012	1	375
+1042	1	375
+1057	1	375
+1087	1	375
+1188	1	375
+1247	1	375
+1258	1	375
+1298	1	375
+1299	1	375
+1327	2	375
+1364	1	375
+1379	1	375
+1405	1	375
+1405	1	375

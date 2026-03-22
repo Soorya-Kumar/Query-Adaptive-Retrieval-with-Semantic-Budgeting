@@ -1,0 +1,62 @@
+Although the use of games in professional education has
+become widespread only during the last decade, the method has
+been used in a number of fields for many hundreds of years.
+Its origins have been traced to simple war games, used in
+military training when the "real thing" was either unavailable
+or too dangerous.  In more recent times, these games have
+become more and more sophisticated, and many now use large
+electronic computers to handle the complex calculations involved.
+Since 1956, when the first well-developed management game was
+introduced, the technique has spread rapidly into a wide variety
+of disciplines and today it is used at all levels of education,
+from primary school classes to courses for experienced professional
+men and women.  One of the main causes of this "game explosion"
+has been the rapid development of sophisticated management
+techniques, such as simulation and mathematical modelling, which
+have been made possible by rapid advances in computer technology.
+.X
+4	2	5
+5	6	5
+90	1	5
+91	1	5
+115	1	5
+158	1	5
+207	1	5
+222	1	5
+223	1	5
+234	1	5
+245	2	5
+364	2	5
+365	1	5
+368	1	5
+435	1	5
+535	1	5
+553	1	5
+598	1	5
+615	1	5
+764	1	5
+766	1	5
+811	2	5
+815	1	5
+816	2	5
+818	1	5
+823	1	5
+842	1	5
+915	1	5
+925	2	5
+944	1	5
+948	1	5
+957	1	5
+959	1	5
+960	1	5
+961	2	5
+962	1	5
+964	1	5
+1023	2	5
+1219	1	5
+1227	1	5
+1257	1	5
+1365	1	5
+1390	1	5
+1400	1	5
+1400	1	5

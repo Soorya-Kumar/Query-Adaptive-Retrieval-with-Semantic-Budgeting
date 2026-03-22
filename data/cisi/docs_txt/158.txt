@@ -1,0 +1,65 @@
+For some time past, interest has been developing within the Aslib Research
+Department in the problems of establishing standard costs for information
+systems.  A literature search recently conducted by the Department (R.
+Reynolds) has revealed a scarcity of usable information on this subject:
+such data as is available is difficult to evaluate comparatively because
+of the differing definitions of the operations costed and of the terms used to
+describe them.  It would seem, therefore, that a first step towards developing
+a costing method of widespread application would be the establishment of
+standard conventions for the analysis of information systems.
+  One might postulate two possible ways of arriving at comparative costs for
+these systems, namely:
+(a) General survey method:  The overall costs of a large number of information
+    systems are broken down into a small number of categories, and analysed
+    for correlation (see, for example, C.J. Wessel et al).
+(b) In-depth study:  A small number of systems are studied in detail in an
+    attempt to establish the true sources of the costs and factors affecting
+    them.
+  In a current project, we are attempting to apply method (b) to the production
+of current-awareness bulletins.  An outline of some of the preliminary work in
+this project follows.
+.X
+2	1	158
+5	1	158
+27	1	158
+74	1	158
+83	1	158
+90	1	158
+91	1	158
+152	1	158
+158	8	158
+222	1	158
+223	1	158
+249	1	158
+292	1	158
+368	1	158
+435	1	158
+490	1	158
+491	1	158
+492	1	158
+495	1	158
+496	1	158
+497	1	158
+500	1	158
+584	1	158
+591	1	158
+615	1	158
+770	1	158
+776	1	158
+815	2	158
+823	1	158
+841	3	158
+842	1	158
+925	1	158
+948	1	158
+957	1	158
+1023	1	158
+1219	1	158
+1227	1	158
+1242	1	158
+1317	1	158
+1365	1	158
+1390	1	158
+1401	1	158
+1414	1	158
+1414	1	158

@@ -1,0 +1,46 @@
+The schedules of Edition 18, like those of 17, are based on the
+principle of subject integrity.  Both the subject matter and the notation are
+hierarchical, so that what is true of a given whole is true of all its parts.
+The schedules are developed according to logical principles, so that the
+classifier is guided to make correct decisions.  The terminology of the
+classification scheme reflects the terminology used by the literature
+being classified.
+  For ease of use, this edition includes many more example notes, more detailed
+and precise instructions, and freer use of layman's terminology than did its
+immediate predecessor.
+  Since this edition is intended for use as a shelf-arrangement system for
+general libraries of all sizes, its fulness is based upon the number of titles
+that large libraries may be expected to acquire in various fields.  Since
+it is also intended for use in classified catalogs and bibliographies (for
+which the Dewey Decimal Classification is increasingly in demand in many
+countries), it contains an increased number of provisions for number building.
+.X
+90	1	354
+231	1	354
+261	2	354
+295	1	354
+299	1	354
+334	1	354
+354	6	354
+404	1	354
+608	1	354
+610	1	354
+617	1	354
+620	1	354
+815	1	354
+874	1	354
+884	1	354
+887	1	354
+892	1	354
+938	1	354
+939	1	354
+991	1	354
+992	2	354
+998	1	354
+1221	1	354
+1318	1	354
+1351	1	354
+1365	1	354
+1390	1	354
+1395	1	354
+1395	1	354

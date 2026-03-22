@@ -1,0 +1,85 @@
+Compound words cause some difficulty in post-coordinate indexing
+systems:  if too many are fractured, or the wrong categories are selected
+for fracturing, noise will be produced at unacceptable levels on retrieval..
+Various prior suggestions for handling compound terms are examined which
+include those for pre-coordinated or rotated, indexes..
+   The syntactic origins are also explored and it is found that many
+compound words hinge on a prepositional relationship between the components,
+and that this relationship can be applied to decision making.. Other
+compound words are in effect abbreviated statements from longer phrases, 
+while some are influenced by the presence of a verb-like form..
+   These syntactic influences, together with some of the philosophy from
+earlier studies - especially that of the 'force' required to fracture a
+term, have been combined to produce a set of rules which have been
+employed at the National Rubber Producers' Research Association (NRPRA)
+for over two years.. These have greatly eased decision making and have
+enabled the thesaural vocabulary to be made more consistent..
+   It is also suggested that the rules have some bearing on the
+application of roles especially if these are employed on a pre-coordinate
+basis..
+.X
+63	1	600
+160	1	600
+161	1	600
+175	2	600
+197	1	600
+348	1	600
+375	1	600
+389	1	600
+390	1	600
+445	1	600
+454	1	600
+472	1	600
+477	1	600
+487	1	600
+502	1	600
+503	1	600
+506	1	600
+507	1	600
+554	1	600
+558	2	600
+579	2	600
+591	1	600
+593	1	600
+594	1	600
+595	1	600
+596	2	600
+597	1	600
+599	1	600
+600	5	600
+601	1	600
+603	1	600
+604	1	600
+606	1	600
+653	2	600
+723	1	600
+724	1	600
+746	1	600
+781	1	600
+799	1	600
+801	1	600
+805	2	600
+806	1	600
+807	1	600
+836	1	600
+863	1	600
+864	1	600
+866	1	600
+867	1	600
+901	1	600
+956	2	600
+963	1	600
+987	1	600
+988	1	600
+989	2	600
+1152	1	600
+1265	1	600
+1294	1	600
+1298	1	600
+1299	1	600
+1327	2	600
+1394	1	600
+1405	1	600
+1414	1	600
+1422	1	600
+1422	1	600

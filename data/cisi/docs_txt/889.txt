@@ -1,0 +1,35 @@
+The Documentation Research Project of the American Institute has been
+engaged for some years in an effort to improve the various systems available
+for the publication and dissemination of physics literature.  Numerous
+aspects of the problem have been studied and much information has been
+obtained from the projects listed in the bibliography which appears on
+the inside cover of this Report.  Studies which resulted in the determination
+of the indexing requirements of research physicists, new methods for the
+content analysis and indexing of physics research papers, and better
+production methods for journal indexes have formed the backbone of the work
+which has as its ultimate objective the creation of a reference retrieval system 
+which is adequate for the physicists who will use it.
+.X
+55	1	889
+147	1	889
+161	1	889
+201	1	889
+203	1	889
+373	1	889
+379	2	889
+560	1	889
+614	1	889
+748	2	889
+760	1	889
+778	2	889
+889	6	889
+977	1	889
+1085	1	889
+1118	1	889
+1203	1	889
+1256	1	889
+1352	1	889
+1397	1	889
+1404	1	889
+1418	1	889
+1418	1	889

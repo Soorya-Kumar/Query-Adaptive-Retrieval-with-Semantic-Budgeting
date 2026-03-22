@@ -1,0 +1,107 @@
+Some methods of estimating the minimum amounts of information in a document
+not retrievable through its title are discussed.  An analysis of the information
+transferred by different types of keywords is helpful in planning search
+strategies, e.g., 30% of chemical substances mentioned in journal articles
+are not discernable in their titles even when broad class names are used
+as synonyms.  Patents have considerably less informative titles than journal
+articles.  In nuclear science, report titles are also less informative than 
+those of journal articles, but the proportion of reports with completely 
+uninformative titles is now only 10% of the 1957 value.  Titles in chemistry
+are more informative than those in most other fields, but the use of alerting
+and other services based on titles requires a good understanding of the
+underlying information transfer principles.
+.X
+18	1	722
+34	1	722
+38	2	722
+49	1	722
+52	2	722
+53	1	722
+59	1	722
+88	1	722
+89	1	722
+91	1	722
+150	2	722
+164	1	722
+202	1	722
+213	1	722
+224	1	722
+243	1	722
+384	1	722
+421	1	722
+429	3	722
+465	1	722
+466	1	722
+490	1	722
+491	1	722
+506	1	722
+507	1	722
+510	2	722
+512	1	722
+513	2	722
+560	1	722
+582	3	722
+588	1	722
+589	4	722
+591	1	722
+595	1	722
+603	4	722
+604	1	722
+613	1	722
+614	1	722
+618	1	722
+622	1	722
+623	1	722
+629	1	722
+633	1	722
+639	1	722
+657	1	722
+659	1	722
+676	1	722
+685	1	722
+686	1	722
+691	1	722
+711	1	722
+721	1	722
+722	7	722
+723	1	722
+724	1	722
+725	1	722
+726	1	722
+728	1	722
+730	1	722
+731	1	722
+732	1	722
+770	1	722
+776	1	722
+809	1	722
+810	1	722
+813	1	722
+814	1	722
+820	1	722
+822	1	722
+828	1	722
+830	1	722
+870	1	722
+879	1	722
+958	1	722
+987	1	722
+988	1	722
+1030	1	722
+1091	1	722
+1144	1	722
+1195	2	722
+1208	1	722
+1256	1	722
+1283	1	722
+1293	1	722
+1298	1	722
+1299	1	722
+1302	1	722
+1363	1	722
+1366	1	722
+1367	1	722
+1368	1	722
+1396	1	722
+1421	1	722
+1421	1	722

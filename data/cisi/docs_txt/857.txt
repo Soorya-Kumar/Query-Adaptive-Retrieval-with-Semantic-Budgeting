@@ -1,0 +1,37 @@
+A computer based laboratory for library science students to use in class 
+assignments and for independent projects has been developed and used for one 
+year at Syracuse University.. MARC Pilot Project tapes formed the data base.. 
+Different computer programs and various samples of the MARC file (48,000 
+records, approx.) were used for search and retrieval operations..  Data bases,
+programs, and seven different class assignments are described and evaluated for 
+their impact on library education in general and individual students and faculty
+in particular..
+.X
+159	1	857
+178	1	857
+243	1	857
+287	1	857
+348	1	857
+408	1	857
+554	1	857
+584	1	857
+654	1	857
+851	1	857
+852	1	857
+854	1	857
+856	1	857
+857	6	857
+858	2	857
+859	2	857
+860	1	857
+861	2	857
+862	1	857
+970	1	857
+1012	1	857
+1013	1	857
+1035	1	857
+1043	1	857
+1252	1	857
+1415	1	857
+1445	1	857
+1445	1	857

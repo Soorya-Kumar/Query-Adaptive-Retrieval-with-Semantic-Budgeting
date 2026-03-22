@@ -1,0 +1,75 @@
+Citation indexing is a relatively new method of organizing the contents of a
+collection of documents in a way that overcomes many of the shortcomings of the
+more traditional indexing methods.  The primary advantage of citation indexing
+is that it identifies relationships between documents that are often overlooked
+in a subject index.  An important secondary advantage is that the compilation 
+of citation indexes is especially well suited to the use of man-machine indexing
+methods that do not require indexers who are subject specialists.  Furthermore,
+citations, which are bibliographic descriptions of documents, are not 
+vulnerable to scientific and technological obsolescence as are the terms used
+in subject indexes.
+.X
+19	1	377
+37	1	377
+39	1	377
+40	1	377
+41	1	377
+47	2	377
+88	1	377
+97	1	377
+102	1	377
+103	1	377
+106	1	377
+233	1	377
+253	1	377
+313	1	377
+359	1	377
+377	7	377
+379	1	377
+395	1	377
+505	1	377
+560	1	377
+573	1	377
+605	1	377
+613	1	377
+618	1	377
+632	3	377
+635	1	377
+667	1	377
+748	1	377
+749	1	377
+751	1	377
+764	2	377
+765	1	377
+777	1	377
+778	1	377
+782	1	377
+804	1	377
+805	1	377
+893	1	377
+952	1	377
+1016	1	377
+1061	1	377
+1085	1	377
+1086	1	377
+1087	2	377
+1182	1	377
+1200	1	377
+1234	1	377
+1274	3	377
+1277	3	377
+1278	2	377
+1280	2	377
+1285	2	377
+1287	1	377
+1301	2	377
+1302	3	377
+1304	1	377
+1313	3	377
+1338	1	377
+1344	1	377
+1347	1	377
+1380	1	377
+1428	1	377
+1444	2	377
+1444	2	377

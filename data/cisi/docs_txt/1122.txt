@@ -1,0 +1,31 @@
+Some theoretical propositions are considered with respect to the flow of
+engineering information with the purpose of drawing practical conclusions
+for the editing of information announcement publications..
+.X
+151	1	1122
+359	1	1122
+416	1	1122
+504	1	1122
+748	1	1122
+759	1	1122
+765	1	1122
+773	1	1122
+778	1	1122
+789	1	1122
+798	1	1122
+1108	2	1122
+1114	4	1122
+1118	1	1122
+1122	10	1122
+1123	2	1122
+1133	1	1122
+1141	1	1122
+1157	1	1122
+1167	2	1122
+1172	1	1122
+1173	2	1122
+1174	1	1122
+1176	1	1122
+1182	1	1122
+1226	2	1122
+1226	2	1122

@@ -1,0 +1,30 @@
+A steadily increasing rate of productivity should be the economic goal of 
+library automation.. Such productivity will be achieved only by development of
+a new library technology.. Thereby, rise in library costs, which are going up
+exponentially at a frightening rate, will be brought into line with cost rises 
+in the economy as a whole..
+.X
+24	2	281
+75	1	281
+78	1	281
+80	1	281
+177	1	281
+200	1	281
+211	1	281
+281	5	281
+336	1	281
+835	2	281
+849	1	281
+850	2	281
+851	2	281
+852	1	281
+853	1	281
+854	1	281
+855	1	281
+907	1	281
+979	1	281
+984	1	281
+1011	1	281
+1051	1	281
+1197	1	281
+1197	1	281

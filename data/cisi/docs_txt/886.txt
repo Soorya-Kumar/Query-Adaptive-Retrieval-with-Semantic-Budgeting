@@ -1,0 +1,57 @@
+The results of a study carried out under the auspices of the Council on 
+Library Resources are described.. The stated goal of this study was to 
+determine and analyze the current state of planning and implementation for 
+computer-generated replacements for the card catalog (book catalog, microimage
+catalog, on-line catalog) for large collections (250,000 titles or more) and
+selected smaller libraries (less than 250,000 titles) that had actually
+implemented an alternative form of catalog..
+.X
+10	1	886
+56	2	886
+141	1	886
+172	1	886
+232	1	886
+363	1	886
+365	1	886
+409	1	886
+453	1	886
+551	1	886
+645	1	886
+647	1	886
+651	1	886
+652	1	886
+739	1	886
+825	1	886
+856	1	886
+881	2	886
+882	2	886
+883	1	886
+884	1	886
+885	1	886
+886	9	886
+887	3	886
+888	1	886
+892	2	886
+913	1	886
+917	1	886
+943	1	886
+963	1	886
+998	1	886
+999	1	886
+1000	1	886
+1001	1	886
+1002	1	886
+1003	1	886
+1004	2	886
+1058	1	886
+1059	1	886
+1060	1	886
+1229	1	886
+1257	2	886
+1258	1	886
+1371	1	886
+1375	1	886
+1376	1	886
+1433	1	886
+1441	1	886
+1441	1	886

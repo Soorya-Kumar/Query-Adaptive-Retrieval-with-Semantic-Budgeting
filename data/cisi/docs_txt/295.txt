@@ -1,0 +1,48 @@
+A description of the methodology used in collecting performance data in a
+large academic research library is given.. Twelve types of surveys used to 
+measure and evaluate users, services, and materials were developed and 
+conducted during the period 1968/69 at Columbia University libraries and later
+evaluated.. Sample results are included.. Costs of providing research services
+were found to be 64 percent versus 36 percent for instructional services..
+.X
+90	1	295
+161	1	295
+231	1	295
+249	1	295
+250	1	295
+261	1	295
+288	1	295
+289	1	295
+295	5	295
+299	1	295
+300	1	295
+334	1	295
+354	1	295
+358	1	295
+394	1	295
+433	1	295
+608	1	295
+610	1	295
+617	1	295
+620	1	295
+624	1	295
+631	1	295
+815	1	295
+865	1	295
+872	1	295
+937	1	295
+938	2	295
+939	1	295
+946	1	295
+981	1	295
+991	1	295
+992	1	295
+1221	1	295
+1247	1	295
+1257	1	295
+1318	1	295
+1365	1	295
+1373	1	295
+1390	2	295
+1410	1	295
+1410	1	295

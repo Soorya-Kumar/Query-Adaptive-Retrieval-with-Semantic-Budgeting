@@ -1,0 +1,32 @@
+This textbook grew out of some discussions between the authors
+about the interdisciplinary character of the field of information storage
+and retrieval.  We both felt that the need existed to show what
+each professional group concerned with the solution of information
+storage and retrieval problems could contribute.  A university-level
+course was developed, based on the concept that each person should
+be made aware of how others could help him.  The course was presented
+about a dozen times over the ensuing years, and this book is based on it.
+.X
+127	1	471
+133	1	471
+175	2	471
+177	1	471
+337	1	471
+374	1	471
+408	1	471
+458	1	471
+471	7	471
+660	1	471
+810	1	471
+960	1	471
+1053	1	471
+1082	1	471
+1219	2	471
+1227	1	471
+1231	1	471
+1248	1	471
+1306	1	471
+1327	1	471
+1417	1	471
+1418	1	471
+1418	1	471

@@ -1,0 +1,18 @@
+A major prospect for meeting the present critical situation
+in the domain of scientific communications - which is a
+natural corollary of the advancement of scientific and
+technical revolution is the development and practical
+implementation of a special type of information systems,
+known as Integrated Information Systems.
+.X
+37	1	1223
+40	1	1223
+452	1	1223
+883	1	1223
+899	1	1223
+1093	1	1223
+1123	1	1223
+1168	1	1223
+1223	11	1223
+1460	1	1223
+1460	1	1223

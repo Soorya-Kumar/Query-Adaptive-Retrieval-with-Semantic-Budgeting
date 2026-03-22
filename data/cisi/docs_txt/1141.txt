@@ -1,0 +1,34 @@
+Two alternative concepts of isomorphism of classification are examined..
+It is shown that with the accuracy of up to isomorphism, the structure of a
+classification is characterized by a certain semigroup.. For an important type 
+of classifications, the algebraic structure of these semigroups is completely
+characterized by the relation of order on the set of generants.. The case of
+"perfect order" on the generants corresponds to hierarchical (tree) 
+classifications.. The case of "incomparability" of the generants corresponds to
+facet classifications.. All the other cases are "intermediate" between these
+two types of classification..
+.X
+25	1	1141
+151	1	1141
+362	1	1141
+455	1	1141
+504	1	1141
+773	1	1141
+798	1	1141
+1117	2	1141
+1118	1	1141
+1119	1	1141
+1122	1	1141
+1123	1	1141
+1133	1	1141
+1137	3	1141
+1138	1	1141
+1140	3	1141
+1141	6	1141
+1169	1	1141
+1220	1	1141
+1226	1	1141
+1267	1	1141
+1409	1	1141
+1459	1	1141
+1459	1	1141

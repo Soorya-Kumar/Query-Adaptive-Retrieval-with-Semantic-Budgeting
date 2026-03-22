@@ -1,0 +1,41 @@
+In 1966, AIP had a modest program in physics information supported by the
+National Science Foundation.  The program went back several years, and
+AIP was considering a major expansion. The first task faced in such an
+expansion was to augment the staff so as to be interdisciplinary in physics,
+computer operations and scientific information.  The staff would be able
+to analyze and extend the studies made at AIP and elsewhere, and would 
+formulate a basic approach.
+.X
+91	1	1208
+253	1	1208
+429	1	1208
+513	1	1208
+580	1	1208
+582	1	1208
+588	1	1208
+589	1	1208
+603	1	1208
+613	1	1208
+614	1	1208
+618	1	1208
+657	1	1208
+685	3	1208
+686	2	1208
+691	2	1208
+721	2	1208
+722	1	1208
+724	1	1208
+725	2	1208
+765	1	1208
+770	1	1208
+776	1	1208
+958	1	1208
+987	1	1208
+988	1	1208
+1208	5	1208
+1209	1	1208
+1290	1	1208
+1293	1	1208
+1299	2	1208
+1302	1	1208
+1302	1	1208

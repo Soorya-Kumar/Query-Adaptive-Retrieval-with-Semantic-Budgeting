@@ -1,0 +1,87 @@
+The paper reviews the need for current awareness services and describes the 
+basic characteristics of SDI, indicating its advantages.. Details are given of 
+the problems that have arisen in providing an SDI service based on Chemical 
+Titles tapes at Aldermaston with particular reference to program limitations.. 
+Data on operating costs and on use assessments of the service are given.. The 
+pros and cons of title-only alerting systems are discussed..
+.X
+13	1	465
+18	1	465
+34	1	465
+40	1	465
+49	3	465
+53	1	465
+54	1	465
+59	1	465
+76	1	465
+121	1	465
+150	2	465
+164	1	465
+202	1	465
+213	2	465
+224	1	465
+243	1	465
+347	1	465
+371	1	465
+421	1	465
+465	6	465
+466	2	465
+480	2	465
+490	1	465
+491	1	465
+506	1	465
+507	1	465
+510	1	465
+512	1	465
+591	1	465
+595	1	465
+603	1	465
+604	1	465
+622	1	465
+623	1	465
+629	1	465
+633	1	465
+639	1	465
+659	1	465
+676	1	465
+681	1	465
+682	1	465
+704	1	465
+711	1	465
+714	1	465
+716	1	465
+717	1	465
+720	1	465
+722	1	465
+723	1	465
+726	1	465
+728	1	465
+730	1	465
+731	1	465
+732	1	465
+748	1	465
+782	1	465
+809	1	465
+810	1	465
+813	1	465
+814	1	465
+820	1	465
+822	1	465
+828	1	465
+870	1	465
+879	1	465
+914	1	465
+1089	1	465
+1091	1	465
+1151	1	465
+1279	1	465
+1283	1	465
+1298	1	465
+1299	1	465
+1362	1	465
+1363	2	465
+1366	1	465
+1367	1	465
+1368	1	465
+1396	1	465
+1396	1	465

@@ -1,0 +1,44 @@
+A computer program is described which generates a connectivity matrix using
+as input an unmodified Wiswesser notation.  This program records the topology
+of a molecule as a statement of the atoms and their connectivity.  One symbol
+is used to represent each atom and this symbol is descriptive of the atom and
+its bonds.  The network of a complex molecule is recorded as a series of 
+interruptions in an assumed linear path.  The application of this matrix to
+information handling of chemical structures is described in a subsequent paper.
+.X
+116	1	679
+117	1	679
+254	1	679
+327	1	679
+641	1	679
+668	1	679
+670	1	679
+671	1	679
+673	2	679
+674	1	679
+675	1	679
+677	1	679
+678	2	679
+679	5	679
+681	1	679
+682	1	679
+687	1	679
+689	1	679
+690	1	679
+693	1	679
+694	1	679
+695	1	679
+697	1	679
+698	1	679
+700	1	679
+704	1	679
+706	1	679
+707	1	679
+730	1	679
+738	1	679
+833	1	679
+1026	2	679
+1072	1	679
+1292	1	679
+1452	4	679
+1452	4	679

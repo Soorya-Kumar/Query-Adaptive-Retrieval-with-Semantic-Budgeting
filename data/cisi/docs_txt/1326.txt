@@ -1,0 +1,20 @@
+This dictionary contains 3035 terms in information theory, its system of
+methods and practice.
+Each terms give an interpretation in Russian and the equivalent term in
+English.
+The Dictionary has alphabetical indexes of terms in both languages, and a
+list of abbreviations.
+.X
+78	1	1326
+1099	1	1326
+1102	1	1326
+1103	1	1326
+1107	1	1326
+1110	1	1326
+1118	1	1326
+1136	2	1326
+1163	1	1326
+1165	1	1326
+1326	9	1326
+1412	1	1326
+1412	1	1326

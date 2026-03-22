@@ -1,0 +1,63 @@
+Many methods for the coding of chemical structures 
+have been described in the literature.	Some methods code
+the compound only partially; typical of these are the
+methods using descriptor codes.  Other methods, among
+which the so-called ciphers are prominent, code
+compounds exhaustively.  All these methods require
+cerebral effort; that is, a chemist is needed who must 
+have learned the rules of the code, and who must known how
+to dismember correctly each structure to be coded.  A
+disadvantage of code designations of structures is, furthermore,
+that they are not generally understood by chemists.  No
+advantages accrue to the chemist from knowing how to
+generate and how to interpret a chemical code.	Codes are
+needed only for the mechanical manipulation of chemical
+structures.  Clearly then, if the coding of chemical compounds
+could be accomplished automatically this automatic conversion would
+relieve the chemist of considerable burden.
+.X
+116	1	668
+117	2	668
+165	1	668
+254	2	668
+327	1	668
+445	1	668
+476	1	668
+525	1	668
+590	1	668
+621	1	668
+641	1	668
+668	7	668
+670	2	668
+671	2	668
+673	1	668
+674	1	668
+675	1	668
+677	1	668
+678	1	668
+679	1	668
+682	1	668
+683	1	668
+689	2	668
+690	3	668
+693	1	668
+694	1	668
+695	1	668
+698	1	668
+700	1	668
+704	1	668
+706	1	668
+707	1	668
+715	1	668
+730	2	668
+738	1	668
+797	1	668
+819	1	668
+833	1	668
+1026	1	668
+1072	1	668
+1077	1	668
+1231	1	668
+1292	1	668
+1452	1	668
+1452	1	668

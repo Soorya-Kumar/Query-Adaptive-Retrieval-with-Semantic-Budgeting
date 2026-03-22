@@ -1,0 +1,121 @@
+It is rather surprising that behavioral scientists have not discovered 
+libraries much sooner in their search for institutional environments suited for
+the testing of theoretical hypotheses. Librarians and their assistants respect 
+research and scholarship and are inclined to go far beyond the call of duty in 
+helping the investigator, even when they are skeptical (rightfully, in most 
+instances) of the usefulness of such research for the
+improvement of their own organizations.
+Data and related information are necessarily treated with greater precision and
+discipline in libraries than in factories and most bureaucratic offices; 
+therefore, significant results can often be obtained
+with smaller samples and in shorter periods
+of observation.  People working in libraries do not feel they should curtail
+disclosures about basic processes.  Elsewhere professional employees are 
+obligated to preserve trade secrets from competitors
+or to suppress facts which might be considered scandalous by legislative
+committees.  At least as important to an investigator is the fact that one or 
+more libraries almost always lie close at hand - there could hardly be any 
+more convenient institution.
+.X
+4	2	964
+5	1	964
+9	2	964
+31	2	964
+32	1	964
+36	1	964
+41	1	964
+46	2	964
+96	1	964
+137	1	964
+163	1	964
+181	1	964
+182	1	964
+183	1	964
+184	1	964
+193	1	964
+195	1	964
+198	1	964
+201	1	964
+206	2	964
+207	5	964
+208	3	964
+217	1	964
+222	2	964
+223	2	964
+245	2	964
+266	2	964
+269	1	964
+277	1	964
+282	1	964
+289	1	964
+296	1	964
+297	1	964
+298	1	964
+300	1	964
+301	1	964
+302	1	964
+358	1	964
+364	2	964
+395	1	964
+408	1	964
+415	1	964
+456	1	964
+515	1	964
+535	1	964
+591	2	964
+625	1	964
+629	1	964
+631	1	964
+634	1	964
+760	1	964
+766	1	964
+767	1	964
+768	1	964
+774	2	964
+778	1	964
+783	1	964
+791	1	964
+799	1	964
+811	3	964
+816	4	964
+818	1	964
+823	1	964
+843	1	964
+844	1	964
+846	1	964
+891	1	964
+905	1	964
+913	1	964
+915	1	964
+925	2	964
+948	1	964
+952	1	964
+953	1	964
+959	1	964
+960	1	964
+961	3	964
+962	4	964
+964	9	964
+968	2	964
+976	1	964
+994	1	964
+1005	1	964
+1009	1	964
+1015	1	964
+1018	1	964
+1019	1	964
+1068	1	964
+1203	1	964
+1240	1	964
+1242	1	964
+1247	1	964
+1268	1	964
+1321	1	964
+1354	1	964
+1359	1	964
+1397	1	964
+1400	2	964
+1407	1	964
+1417	1	964
+1445	1	964
+1445	1	964

@@ -1,0 +1,40 @@
+At the IFLA Liverpool Conference in 1971 a Joint working
+Group of the Committees on Cataloguing and on Serial Publications
+was set up to draw up an International Standard Bibliographic
+Description for Serials, taking the ISBD(M) as a model in
+so far as practicable.  As might be expected, the special problems
+presented by serial publications made the task of developing an
+ISBD(S) a difficult assignment which the Joint Working Group
+tackled with great energy and devotion.  The successive drafts
+were prepared by the Chairman and the Secretary, Mlle M.-L.
+Bossuat and Mlle M. Pelletier.
+  Probably no data element presented such a severe problem as
+that of serial title.  The seemingly countless Mitteilungen,
+Memoires, Proceedings, Bulletins, Trudy's, and the like seemed to 
+demand some useful and standardized way to be identified.  A
+solution to this problem was found in the adoption of a device
+which consisted of marrying the author statement to the generic
+title proper, with a wedding ring consisting of a space-hyphen-
+space and dubbing the happy couple the "distinctive title."
+.X
+10	1	541
+121	1	541
+333	2	541
+541	7	541
+873	1	541
+877	1	541
+878	1	541
+881	2	541
+904	3	541
+919	3	541
+920	4	541
+921	3	541
+940	1	541
+999	3	541
+1000	2	541
+1001	3	541
+1002	3	541
+1003	3	541
+1013	1	541
+1441	1	541
+1441	1	541

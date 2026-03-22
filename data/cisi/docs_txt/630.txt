@@ -1,0 +1,173 @@
+The philosophy of a systems approach to the design of information
+storage and retrieval systems is suggested in which the computer is
+recognized in its proper perspective as a powerful and effective
+alternative tool.. This philosophy is in contrast to a prevalent
+philosophy of the '60's in which many information systems designers
+touted the computer as the answer to all information storage and
+retrieval situations.. Important principles of information system
+design incorporated within the framework of the novel philosophy
+for the '70's are presented.. These are:  the performance of users'
+needs studies by the representative small group technique; the
+analysis of users' needs including their rank ordering by priority; 
+the selection and adaptation for a specific application of a suitable
+existent information storage and retrieval system from those available; 
+the involvement of potential users in the system design by establishing
+a model with which they can interact and provide feedback; and the final
+design of a cost-effective system.. A number of pitfalls arising from
+earlier design methodologies are pointed out, and the avoidance of these
+pitfalls by adopting a true systems approach is discussed.. 
+.X
+120	1	630
+124	1	630
+127	1	630
+128	1	630
+129	1	630
+135	1	630
+141	1	630
+175	1	630
+190	1	630
+191	1	630
+197	1	630
+211	1	630
+214	1	630
+218	1	630
+224	1	630
+243	1	630
+244	2	630
+245	1	630
+291	1	630
+298	1	630
+299	1	630
+307	1	630
+330	1	630
+365	1	630
+378	1	630
+381	1	630
+450	1	630
+451	1	630
+452	1	630
+456	1	630
+458	1	630
+459	2	630
+468	2	630
+484	1	630
+492	1	630
+508	1	630
+511	1	630
+512	1	630
+514	2	630
+518	2	630
+520	1	630
+523	2	630
+524	1	630
+525	1	630
+526	1	630
+529	2	630
+530	1	630
+534	1	630
+546	1	630
+553	1	630
+554	1	630
+575	2	630
+579	2	630
+591	1	630
+594	1	630
+595	1	630
+599	2	630
+603	2	630
+604	1	630
+606	1	630
+609	1	630
+610	1	630
+611	1	630
+612	1	630
+615	1	630
+619	1	630
+620	1	630
+621	2	630
+625	3	630
+626	1	630
+630	5	630
+634	1	630
+636	1	630
+637	1	630
+642	1	630
+648	1	630
+650	1	630
+692	2	630
+696	1	630
+699	1	630
+703	1	630
+705	1	630
+708	1	630
+726	1	630
+727	1	630
+728	1	630
+731	1	630
+732	1	630
+733	1	630
+734	1	630
+736	1	630
+738	1	630
+739	1	630
+740	1	630
+741	1	630
+742	1	630
+743	1	630
+744	1	630
+752	1	630
+755	1	630
+780	1	630
+820	1	630
+822	2	630
+826	1	630
+827	1	630
+854	1	630
+871	1	630
+872	1	630
+873	1	630
+874	1	630
+875	1	630
+876	1	630
+877	1	630
+878	1	630
+879	2	630
+880	1	630
+883	1	630
+892	1	630
+907	1	630
+925	1	630
+940	1	630
+941	1	630
+990	1	630
+994	1	630
+997	1	630
+998	1	630
+1004	1	630
+1035	1	630
+1078	1	630
+1079	1	630
+1089	1	630
+1091	1	630
+1143	1	630
+1207	1	630
+1230	1	630
+1257	1	630
+1264	1	630
+1297	1	630
+1303	2	630
+1356	1	630
+1364	1	630
+1368	1	630
+1370	1	630
+1372	1	630
+1373	1	630
+1374	1	630
+1375	1	630
+1376	1	630
+1377	1	630
+1396	1	630
+1402	1	630
+1435	1	630
+1436	1	630
+1436	1	630

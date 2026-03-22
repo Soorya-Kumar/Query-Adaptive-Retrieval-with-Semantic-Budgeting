@@ -1,0 +1,60 @@
+In this book we give a mathematical account of some of the methods of data
+simplification which are involved in or suggested by the practice of biological
+taxonomy.  The computable methods derived are offered as potentially useful
+tools for taxonomists, rather than as substitutes for their activities.
+  Superficially similar problems of data simplification arise in pattern 
+recognition and in the various sciences which make substantial use of
+classificatory systems:  biological taxonomy, ecology, psychology, linguistics,
+archaeology, sociology, etc.  But more detailed examination shows that the
+kinds of classification used and the kinds of data on which they are based
+differ widely from science to science.  Whilst we recognize that some of the
+methods described here, particularly in Part II of the book, are more
+widely applicable, we have deliberately limited discussion to biological
+taxonomy.  The emphasis throughout is on the clarification of the mathematical
+properties of methods of automatic classification and of the conditions under
+which their application is valid, so that anyone who wishes to apply the
+methods in other fields shall be aware of their limitations, and of the lines
+along which they may profitably be developed and modified.
+.X
+39	1	1044
+175	7	1044
+176	1	1044
+327	1	1044
+389	2	1044
+390	2	1044
+416	1	1044
+422	2	1044
+458	1	1044
+498	1	1044
+509	3	1044
+560	1	1044
+562	1	1044
+564	1	1044
+566	1	1044
+570	1	1044
+602	1	1044
+618	1	1044
+632	1	1044
+643	1	1044
+644	1	1044
+660	1	1044
+670	1	1044
+699	1	1044
+700	1	1044
+708	1	1044
+737	1	1044
+752	1	1044
+754	1	1044
+785	1	1044
+829	1	1044
+1010	1	1044
+1044	12	1044
+1082	1	1044
+1092	1	1044
+1154	1	1044
+1202	1	1044
+1218	3	1044
+1300	1	1044
+1327	4	1044
+1444	1	1044
+1444	1	1044

@@ -1,0 +1,24 @@
+The information need and its main properties are defined..  Classification
+of information needs in different activities is given..  Relationships between
+information needs and requests are considered, and the process of shaping of 
+information needs and request formulation are traced..  Findings of a study of
+information utilization by different categories of specialists on the basis of
+the classification proposed by the author are given..
+.X
+1095	2	1103
+1096	1	1103
+1099	3	1103
+1101	1	1103
+1102	2	1103
+1103	5	1103
+1125	1	1103
+1128	1	1103
+1155	1	1103
+1156	1	1103
+1158	1	1103
+1161	1	1103
+1169	1	1103
+1181	1	1103
+1326	1	1103
+1446	1	1103
+1446	1	1103

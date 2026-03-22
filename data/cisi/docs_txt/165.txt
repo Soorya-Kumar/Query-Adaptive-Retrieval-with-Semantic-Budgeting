@@ -1,0 +1,94 @@
+Successful delegated searching for publications relevant to the topic of
+an inquirer obeys rules whose relations to thermodynamics are unmistakable.
+By the continuous growth of a documentation system in the physical and
+conceptual respect, steadily increasing demands are made on the degree of order
+which prevails in the system or can be established at the specific request of
+an inquirer.  If the order in a system cannot keep pace with the increasing
+requirements, its working capability will continuously decrease, because
+the searcher is becoming more and more overburdened in relation to his
+available search time, search patience, and search memory.  The degree of
+order attainable in a growing literature collection can be estimated on the
+basis of six postulates.  The better the requirements imposed by these
+postulates are approximated in a practical documentation system, the higher
+are its working capability and life expectancy, but the expenditure to be
+made on the literature analyses must also inevitably be higher.
+  The establishment of these postulates originated from practical experience
+with the IDC-system and its precursors.  These postulates form the basis
+of this system and of its further development.
+.X
+29	1	165
+58	1	165
+117	1	165
+124	1	165
+125	1	165
+165	7	165
+252	1	165
+254	1	165
+347	1	165
+381	1	165
+445	2	165
+448	1	165
+451	1	165
+452	1	165
+476	1	165
+484	1	165
+511	1	165
+516	1	165
+518	1	165
+521	1	165
+522	1	165
+523	1	165
+525	2	165
+526	1	165
+527	1	165
+528	1	165
+529	1	165
+530	1	165
+575	1	165
+590	2	165
+609	1	165
+610	1	165
+615	1	165
+621	3	165
+625	1	165
+626	1	165
+636	1	165
+641	3	165
+656	1	165
+668	1	165
+670	1	165
+671	2	165
+673	1	165
+674	1	165
+683	2	165
+687	1	165
+689	3	165
+700	1	165
+705	1	165
+707	1	165
+714	1	165
+715	1	165
+727	1	165
+754	1	165
+762	1	165
+797	1	165
+812	1	165
+814	1	165
+817	1	165
+819	1	165
+824	1	165
+875	1	165
+898	1	165
+901	1	165
+1077	3	165
+1089	1	165
+1231	4	165
+1303	1	165
+1327	1	165
+1364	1	165
+1366	1	165
+1367	1	165
+1368	1	165
+1404	1	165
+1452	1	165
+1452	1	165

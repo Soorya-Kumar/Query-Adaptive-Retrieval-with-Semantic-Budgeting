@@ -1,0 +1,83 @@
+The conventionally erected and reported circulation analysis of serial use
+in the individual and the feeder library is found to be statistically invalid
+and misleading, since it measures neither the intellectual use of the serial's
+contents nor the physical handlings or serial units, and is nonrepresentative
+of the in-depth library use of serials.. It fails utterly to report or even to
+suggest the relation of intralibrary and interlibrary serial resources.. The
+actual mechanics of the serial use analysis, and the active variables in the
+library situation which affect serial use, are demonstrated in a simulated
+analysis and are explained at length.. A positive design is offered for the
+objective gathering and reporting of data on the local intellectual use and
+physical handling of serials and the relating of resources.. Data gathering in
+the feeder library, and implications for the extension of the feeder library's
+resources, are discussed..
+.X
+33	1	205
+36	2	205
+57	1	205
+90	1	205
+161	1	205
+181	1	205
+182	1	205
+183	2	205
+184	3	205
+193	3	205
+195	1	205
+196	1	205
+199	1	205
+201	4	205
+202	1	205
+203	4	205
+204	4	205
+205	5	205
+209	1	205
+210	1	205
+212	1	205
+217	1	205
+220	1	205
+222	1	205
+233	1	205
+267	1	205
+284	1	205
+286	1	205
+294	1	205
+359	1	205
+395	1	205
+543	1	205
+587	1	205
+588	1	205
+613	1	205
+614	1	205
+624	1	205
+638	1	205
+667	1	205
+748	1	205
+750	1	205
+751	1	205
+759	1	205
+765	1	205
+767	1	205
+778	1	205
+787	1	205
+791	1	205
+792	1	205
+793	1	205
+799	1	205
+800	2	205
+808	1	205
+959	1	205
+977	1	205
+1081	1	205
+1082	1	205
+1083	1	205
+1085	1	205
+1086	1	205
+1151	1	205
+1201	1	205
+1278	1	205
+1352	1	205
+1369	2	205
+1401	1	205
+1417	1	205
+1418	1	205
+1418	1	205

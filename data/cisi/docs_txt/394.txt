@@ -1,0 +1,61 @@
+The two major problems of the present system are (1) the unequal
+distribution of lending, with a few of the largest libraries handling
+a large proportion of the requests, and (2) the difficulty of filling
+requests which are incomplete, incorrect, or inadequately checked.
+  Solutions proposed for these two problems have been (1)
+compensation to the largest libraries for each transaction, and (2)
+better bibliographic checking of requests before they are forwarded to
+the lending library.
+.X
+10	1	394
+119	1	394
+122	1	394
+190	1	394
+225	1	394
+244	1	394
+249	1	394
+250	1	394
+295	1	394
+304	1	394
+305	1	394
+306	1	394
+358	1	394
+365	1	394
+385	1	394
+394	5	394
+433	1	394
+453	1	394
+459	1	394
+526	1	394
+528	1	394
+534	1	394
+612	1	394
+702	1	394
+731	1	394
+732	1	394
+817	1	394
+820	1	394
+823	1	394
+825	1	394
+826	1	394
+827	1	394
+828	1	394
+872	2	394
+940	1	394
+947	1	394
+948	1	394
+981	1	394
+1017	1	394
+1058	1	394
+1143	1	394
+1146	1	394
+1230	1	394
+1247	2	394
+1257	2	394
+1264	1	394
+1367	1	394
+1390	3	394
+1410	1	394
+1435	1	394
+1436	1	394
+1436	1	394

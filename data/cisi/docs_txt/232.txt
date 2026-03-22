@@ -1,0 +1,31 @@
+Bibliographic control of microforms is a foremost need in today's library
+world.  Despite the rapidly increasing quantity of materials and their
+bibliographic complexity, the methods for controlling microforms on all
+levels - local, national, and international - are inadequate.
+.X
+10	1	232
+91	1	232
+232	11	232
+241	1	232
+331	1	232
+358	1	232
+406	1	232
+551	1	232
+886	1	232
+887	1	232
+896	1	232
+943	1	232
+946	1	232
+948	1	232
+992	1	232
+1033	1	232
+1057	1	232
+1058	1	232
+1059	1	232
+1060	1	232
+1079	1	232
+1269	1	232
+1364	1	232
+1379	1	232
+1403	1	232
+1403	1	232

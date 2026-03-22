@@ -1,0 +1,77 @@
+A funny thing happened on the way
+to the biggest building boom in library
+history.  Book collections grew faster
+than the new space to hold them, so when
+the boom was over the aggregate space
+problem of academic libraries was a little
+worse than it was at the beginning.
+     During the roughly eight-year span
+of the rise and fall of the boom, some 570
+new or expanded library buildings sprang
+up on the campuses of four-year and
+graduate institutions around the nation.
+
+.X
+5	1	944
+115	3	944
+128	1	944
+129	1	944
+130	1	944
+167	1	944
+183	1	944
+192	1	944
+196	1	944
+215	1	944
+219	1	944
+221	1	944
+223	1	944
+225	1	944
+234	3	944
+245	1	944
+280	1	944
+304	1	944
+306	1	944
+338	1	944
+364	1	944
+365	1	944
+393	1	944
+415	1	944
+468	1	944
+494	1	944
+639	1	944
+646	2	944
+647	2	944
+651	2	944
+764	1	944
+765	1	944
+811	1	944
+816	1	944
+818	2	944
+822	1	944
+823	2	944
+827	1	944
+842	1	944
+925	2	944
+942	1	944
+943	3	944
+944	5	944
+948	2	944
+1017	1	944
+1023	1	944
+1049	1	944
+1070	1	944
+1071	1	944
+1085	1	944
+1206	1	944
+1237	1	944
+1257	1	944
+1302	1	944
+1374	1	944
+1378	1	944
+1390	1	944
+1401	1	944
+1437	1	944
+1440	1	944
+1450	1	944
+1453	1	944
+1453	1	944

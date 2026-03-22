@@ -1,0 +1,116 @@
+Terminalogy and parameters for describing the relation between figures for
+the use of library literature and for its age are discussed.. Unless a 
+correction for growth is applied, half-life fails a simple test of suitability,
+as do Brookes's aging and utility factors.. Results based on cumulated data
+have other important disadvantages.. Relative 'use-per-item' figures are 
+satisfactory.. The need to relate terminology more closely to the facts they
+represent is stressed: item-consultation decay rate, and 50% consultation 
+probability age are suggested and defined.. In the context of citation studies,
+item-citation decay rate and 50% citation probability age are equivalent and 
+avoid similar objections..
+   In data from NRLSI, item-consultation decay rates are only approximately 
+exponential.. Different rates are demonstrated for updating and basic searches,
+for academic and other types of readers, and for types of literature.. For some
+historical searches negative decay rates were found in the NRLSI and BML..
+.X
+33	3	808
+36	2	808
+41	1	808
+76	1	808
+89	1	808
+90	1	808
+97	1	808
+102	1	808
+111	1	808
+112	1	808
+155	1	808
+161	1	808
+163	1	808
+183	2	808
+184	2	808
+193	2	808
+199	2	808
+201	1	808
+202	1	808
+203	2	808
+204	1	808
+205	1	808
+209	1	808
+210	1	808
+212	1	808
+217	1	808
+220	1	808
+222	1	808
+225	1	808
+269	1	808
+284	1	808
+286	1	808
+294	1	808
+314	1	808
+373	1	808
+543	1	808
+545	1	808
+552	1	808
+587	3	808
+588	1	808
+605	1	808
+613	2	808
+614	2	808
+624	1	808
+638	2	808
+735	1	808
+747	1	808
+750	2	808
+753	2	808
+756	1	808
+764	1	808
+766	1	808
+767	1	808
+775	3	808
+782	1	808
+784	1	808
+788	1	808
+789	1	808
+793	4	808
+794	2	808
+799	1	808
+800	4	808
+808	8	808
+905	1	808
+953	1	808
+959	1	808
+977	1	808
+983	1	808
+1016	1	808
+1023	1	808
+1030	1	808
+1055	1	808
+1087	1	808
+1090	2	808
+1097	1	808
+1098	1	808
+1109	1	808
+1111	1	808
+1123	2	808
+1125	1	808
+1135	1	808
+1151	1	808
+1172	1	808
+1174	1	808
+1260	1	808
+1275	1	808
+1276	1	808
+1278	1	808
+1280	1	808
+1285	4	808
+1286	1	808
+1287	2	808
+1302	2	808
+1308	1	808
+1335	1	808
+1390	1	808
+1397	1	808
+1417	1	808
+1428	1	808
+1432	1	808
+1432	1	808

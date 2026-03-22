@@ -1,0 +1,51 @@
+The BIBCON file management system, designed for use on IBM 360 system 
+equipment, performs two basic functions: (1) it creates MARC structured, 
+bibliographic records from untagged input data; (2) from these records it 
+produces page image output for book catalogs.. The system accepts data from
+several different input devices and can produce a variety of output formats by 
+line printer, photocomposition, or computer output microform (COM)..
+.X
+141	1	880
+244	1	880
+299	1	880
+326	1	880
+365	1	880
+529	1	880
+530	1	880
+630	1	880
+822	1	880
+824	1	880
+825	1	880
+848	1	880
+854	2	880
+871	1	880
+872	1	880
+873	1	880
+874	2	880
+875	1	880
+876	1	880
+877	1	880
+878	1	880
+879	1	880
+880	5	880
+892	1	880
+922	1	880
+940	1	880
+941	1	880
+990	2	880
+994	1	880
+997	1	880
+998	1	880
+1061	1	880
+1079	1	880
+1143	1	880
+1146	1	880
+1215	1	880
+1230	1	880
+1257	1	880
+1303	1	880
+1396	1	880
+1435	1	880
+1436	1	880
+1441	1	880
+1441	1	880

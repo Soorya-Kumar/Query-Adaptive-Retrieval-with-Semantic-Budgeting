@@ -1,0 +1,102 @@
+In May 1965 a survey into student attitudes to the Library of Southampton
+University was carried out by questionnaire with a sample of 322 
+undergraduates.. The aim was to assess the effect, if any, of the considerable 
+measures taken since the 1962 survey.. Uncontrolled factors, mainly related to
+the rapid expansion of the University, may. however, have effected the results..
+It appears that, except for social science students, there were few improvements
+in attitudes and use, and that seminars had little measurable effect.. Possible 
+explanations for this are offered, and the place of reader services in a 
+university library discussed.. Other items covered by the survey include the use
+of libraries in Halls of resinence and of Southampton Public Libraries, which in 
+both cases showed a sharp decline since 1962, the number and cost of books 
+bought by undergraduates, and their use of libraries in vacations..
+.X
+2	1	774
+4	2	774
+9	1	774
+31	1	774
+32	1	774
+36	1	774
+41	1	774
+46	1	774
+76	1	774
+96	1	774
+132	1	774
+137	2	774
+139	1	774
+152	1	774
+155	1	774
+163	1	774
+181	1	774
+182	1	774
+183	2	774
+184	1	774
+193	1	774
+195	2	774
+198	1	774
+201	1	774
+203	1	774
+204	1	774
+207	1	774
+210	1	774
+269	1	774
+293	1	774
+298	1	774
+370	1	774
+395	1	774
+415	1	774
+418	1	774
+456	1	774
+475	1	774
+552	1	774
+648	1	774
+760	2	774
+767	1	774
+768	4	774
+774	6	774
+775	1	774
+778	1	774
+783	1	774
+788	1	774
+789	1	774
+799	1	774
+811	1	774
+816	1	774
+818	1	774
+823	1	774
+839	1	774
+842	1	774
+843	1	774
+844	1	774
+847	1	774
+891	1	774
+905	1	774
+913	1	774
+952	1	774
+953	1	774
+961	1	774
+962	1	774
+964	2	774
+968	2	774
+977	1	774
+1009	1	774
+1018	1	774
+1019	1	774
+1055	1	774
+1056	1	774
+1068	1	774
+1069	1	774
+1070	1	774
+1203	1	774
+1214	1	774
+1240	1	774
+1246	1	774
+1321	1	774
+1359	1	774
+1397	1	774
+1401	1	774
+1407	1	774
+1417	1	774
+1445	1	774
+1451	1	774
+1451	1	774

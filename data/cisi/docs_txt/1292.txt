@@ -1,0 +1,40 @@
+This article is concerned with the general theory of chemical synthesis and
+with the application of machine computation to the generation of chemical 
+pathways for the synthesis of complicated organic molecules.  The basis for 
+the approach which has been developed comes in large measure from the methods 
+used by chemists in the solution of certain types of synthetic problems.
+.X
+116	1	1292
+117	1	1292
+254	1	1292
+327	2	1292
+569	1	1292
+641	1	1292
+668	1	1292
+670	1	1292
+671	2	1292
+673	1	1292
+677	1	1292
+678	1	1292
+679	1	1292
+681	1	1292
+682	1	1292
+689	1	1292
+690	2	1292
+693	1	1292
+694	2	1292
+695	1	1292
+698	1	1292
+700	1	1292
+704	1	1292
+706	2	1292
+707	1	1292
+709	1	1292
+730	1	1292
+738	1	1292
+833	1	1292
+1026	1	1292
+1072	1	1292
+1292	6	1292
+1452	3	1292
+1452	3	1292

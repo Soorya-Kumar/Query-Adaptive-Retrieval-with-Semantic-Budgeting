@@ -1,0 +1,56 @@
+A monitor system based upon computer-produced printed indexes is described in
+this paper.  The system is intended to monitor a large scale experiment in file
+organization for a real-time, interactive chemical information system.  It is
+based upon a topological screen system that ensures the inclusion of every
+compound atom (including H) in at least one screen assignment, that appears to
+be responsive to a broad range of query types, and that is amenable to random-
+access techniques.  The Monitor system is also considered, in this paper, as
+an independent interim approach toward fulfilling, in an effective and economic
+manner, the functional requirements of a small- to medium-sized chemical 
+information system.  Thus it could be used to encode and generate structure
+files, to assign search screens, and to provide manual substructure search
+capability via microfilm or hard copy printed indexes. 
+.X
+116	1	682
+117	1	682
+150	1	682
+254	1	682
+327	1	682
+347	1	682
+371	1	682
+465	1	682
+480	1	682
+641	1	682
+668	1	682
+669	1	682
+670	1	682
+671	1	682
+673	2	682
+674	1	682
+677	1	682
+678	4	682
+679	1	682
+681	1	682
+682	6	682
+689	1	682
+690	1	682
+693	1	682
+694	2	682
+695	2	682
+697	1	682
+698	2	682
+700	1	682
+704	3	682
+706	1	682
+707	1	682
+716	1	682
+717	1	682
+730	1	682
+738	1	682
+833	1	682
+1026	1	682
+1072	1	682
+1292	1	682
+1419	1	682
+1452	3	682
+1452	3	682

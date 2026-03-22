@@ -1,0 +1,30 @@
+This book studies the qualitative relations between text and dictionary
+compilation.
+Chapter I considers general questions related to the compilation and use of
+frequency vocabulary; a new Zipf's Law.
+Chapter III considers various ways of describing the statistical properties
+of a text and its lexicon, and presents the results of the author's research
+on the statistic structure of Pushkin's lexicon.
+Chapter IV considers methods for comparing the vocabulary of texts.
+A new method for comparing word lists is suggested, which is then used for
+comparing word lists from the different geures in Pushkin's works.
+.X
+26	1	1381
+175	1	1381
+361	1	1381
+416	1	1381
+664	1	1381
+759	1	1381
+761	1	1381
+765	1	1381
+1118	1	1381
+1159	1	1381
+1168	1	1381
+1170	1	1381
+1172	1	1381
+1182	2	1381
+1226	2	1381
+1267	1	1381
+1381	12	1381
+1382	1	1381
+1382	1	1381

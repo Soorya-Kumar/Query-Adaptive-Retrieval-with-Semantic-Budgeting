@@ -1,0 +1,46 @@
+My objective in this work has been to try to get at the fundamental
+aspects of the elements and media of scientific and technological
+communication and to describe the critical issues involving them as well
+as the opportunities and techniques for exploiting them which hopefully
+could aid both the "users" and the "handlers" of these important resources.
+.X
+15	1	1319
+89	1	1319
+105	1	1319
+110	1	1319
+152	1	1319
+155	1	1319
+157	1	1319
+313	1	1319
+314	1	1319
+356	1	1319
+440	1	1319
+447	1	1319
+449	1	1319
+533	1	1319
+544	1	1319
+560	1	1319
+574	1	1319
+582	1	1319
+625	1	1319
+656	1	1319
+685	2	1319
+803	1	1319
+1030	1	1319
+1050	1	1319
+1062	1	1319
+1209	1	1319
+1256	1	1319
+1284	1	1319
+1285	1	1319
+1290	1	1319
+1291	1	1319
+1293	1	1319
+1294	1	1319
+1295	1	1319
+1296	2	1319
+1297	1	1319
+1319	8	1319
+1346	1	1319
+1386	2	1319
+1386	2	1319

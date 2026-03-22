@@ -1,0 +1,70 @@
+A comprehensive enginnering approach to the analysis and functional design 
+of library systems is described in terms of fundamental space-time relationship 
+which characterize university libraries.. Long-run trends in aquisitions and
+circulation are related to the relative obsolescence of stored materials, and 
+the uncertainty of short-run demand pattern is related to the need for excess
+service capability.. The spatial dispertion of library resources among 
+specialized information centers and central depositories is considered with
+respect to availability, retrieval, duplication, and efficient storage..
+.X
+33	1	267
+36	1	267
+57	1	267
+184	1	267
+193	1	267
+195	1	267
+201	1	267
+203	1	267
+204	1	267
+205	1	267
+222	1	267
+233	1	267
+245	1	267
+267	6	267
+278	1	267
+359	1	267
+395	1	267
+494	1	267
+515	1	267
+587	2	267
+614	1	267
+638	1	267
+651	1	267
+667	1	267
+748	2	267
+750	1	267
+751	2	267
+759	1	267
+765	2	267
+767	1	267
+778	2	267
+786	1	267
+787	1	267
+791	2	267
+792	2	267
+793	2	267
+800	2	267
+811	1	267
+823	1	267
+840	1	267
+925	4	267
+948	2	267
+983	1	267
+1019	2	267
+1081	1	267
+1082	1	267
+1083	1	267
+1085	1	267
+1086	1	267
+1184	1	267
+1201	1	267
+1219	1	267
+1278	1	267
+1317	1	267
+1324	1	267
+1400	1	267
+1401	1	267
+1416	2	267
+1417	3	267
+1418	1	267
+1418	1	267

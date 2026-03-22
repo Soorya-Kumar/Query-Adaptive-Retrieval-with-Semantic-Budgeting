@@ -1,0 +1,57 @@
+The Sheffield "Follow-up" Study revealed that an overwhelming majority
+of graduates of the Post-Graduate School of Librarianship and Information
+Science are satisfied with their work and working situations.  Some of the
+factors relating to job satisfaction/dissatisfaction are examined together
+with job mobility and "drop-out" rates.
+.X
+4	1	844
+9	1	844
+207	1	844
+222	1	844
+223	1	844
+293	1	844
+296	1	844
+297	1	844
+298	2	844
+300	1	844
+301	1	844
+302	1	844
+358	1	844
+364	1	844
+371	1	844
+418	1	844
+515	1	844
+535	1	844
+559	1	844
+625	1	844
+629	1	844
+631	1	844
+634	1	844
+768	1	844
+774	1	844
+791	1	844
+811	1	844
+816	1	844
+818	1	844
+823	2	844
+842	1	844
+843	4	844
+844	5	844
+846	1	844
+915	1	844
+961	1	844
+962	1	844
+964	1	844
+994	1	844
+1015	1	844
+1020	1	844
+1069	1	844
+1070	1	844
+1214	1	844
+1233	1	844
+1242	1	844
+1247	1	844
+1268	1	844
+1354	1	844
+1424	1	844
+1424	1	844

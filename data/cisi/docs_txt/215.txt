@@ -1,0 +1,31 @@
+This annotated list of 178 items is compiled as a guide to the development
+of the reference collection in a small medical library..
+   Arrangement, following the pattern of the previous revision, is by broad 
+subject groups.. Titles are chiefly in English.. Textbooks in subject fields
+have been omitted since these are covered adequately in several comprehensive
+guides to the literature..
+.X
+41	1	215
+87	1	215
+115	1	215
+183	1	215
+189	1	215
+192	3	215
+196	3	215
+215	7	215
+219	3	215
+221	4	215
+359	1	215
+410	1	215
+415	2	215
+943	1	215
+944	1	215
+949	2	215
+1071	7	215
+1085	1	215
+1086	1	215
+1090	1	215
+1147	2	215
+1302	2	215
+1352	1	215
+1352	1	215

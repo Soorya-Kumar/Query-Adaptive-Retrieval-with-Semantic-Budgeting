@@ -1,0 +1,56 @@
+More and more examples accumulated of highly variable growth
+rates and of their influence on scientific careers.  Gradually the study
+began to incorporate calculations of the effects of variable growth on
+a wide range of scientific concerns: studying, teaching, research,
+publishing, citations, the basis of scientific prestige, promotions,
+unemployment.  It became apparent that generally unsuspected forces have
+a powerful influence on the careers of scientists and everyone else
+enmeshed in rapid change.
+  This book presents some evidence for change and speculates about
+many effects.  It also makes a beginning toward understanding the
+forces that cause and do not cause change.  It may provide some solace
+for those in dormant fields who have wondered why life has passed
+them by.  It may, perhaps, make a few highly successful scientists a
+little more modest.  Most of all it may guide those who still have a
+choice - and so have we all.
+.X
+33	2	1308
+47	1	1308
+48	1	1308
+101	1	1308
+102	1	1308
+105	1	1308
+113	1	1308
+155	1	1308
+503	1	1308
+513	1	1308
+544	1	1308
+560	1	1308
+587	1	1308
+605	1	1308
+638	1	1308
+667	1	1308
+750	1	1308
+775	2	1308
+793	1	1308
+794	1	1308
+800	2	1308
+808	1	1308
+1063	1	1308
+1081	1	1308
+1082	1	1308
+1088	1	1308
+1210	1	1308
+1234	1	1308
+1285	2	1308
+1286	1	1308
+1287	2	1308
+1300	1	1308
+1308	6	1308
+1312	1	1308
+1313	1	1308
+1334	1	1308
+1339	1	1308
+1340	1	1308
+1346	1	1308
+1346	1	1308

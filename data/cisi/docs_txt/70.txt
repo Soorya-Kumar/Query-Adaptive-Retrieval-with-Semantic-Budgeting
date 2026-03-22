@@ -1,0 +1,84 @@
+An empirical investigation of the role of documents in relevance judgements
+is reported.. Abstracts previously judged relevant, partially relevant, and 
+nonrelevant to each of 61 questions were compared to see whether textual 
+differences could be found which might reasonably account for the rating 
+differences.. The results of this comparison were fairly clear-cut 
+characterizations in each case of relevant and partially relevant abstracts.. 
+These characterizations were found to be expressible largely as meaningful
+co-occurrences of terms closely related to the question.. It is suggested that 
+the textual bases of user choices may be more understandable than has been 
+supposed..
+.X
+29	1	70
+35	2	70
+42	2	70
+43	2	70
+52	1	70
+58	1	70
+61	1	70
+67	1	70
+70	5	70
+71	1	70
+72	2	70
+73	3	70
+75	1	70
+81	1	70
+84	1	70
+95	1	70
+135	1	70
+149	1	70
+175	1	70
+206	1	70
+207	1	70
+208	1	70
+319	1	70
+382	1	70
+420	1	70
+444	1	70
+445	1	70
+447	1	70
+449	1	70
+458	1	70
+474	2	70
+481	1	70
+483	1	70
+485	1	70
+486	1	70
+532	1	70
+565	1	70
+578	1	70
+582	1	70
+589	1	70
+594	1	70
+595	1	70
+625	1	70
+655	1	70
+656	1	70
+657	1	70
+660	1	70
+762	1	70
+764	1	70
+779	1	70
+780	1	70
+893	1	70
+981	1	70
+982	1	70
+1016	1	70
+1030	1	70
+1045	1	70
+1054	1	70
+1084	1	70
+1154	1	70
+1195	1	70
+1201	1	70
+1232	1	70
+1235	1	70
+1281	2	70
+1285	1	70
+1295	1	70
+1298	1	70
+1358	1	70
+1402	1	70
+1410	1	70
+1417	1	70
+1417	1	70

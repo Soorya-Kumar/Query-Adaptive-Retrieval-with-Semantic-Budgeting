@@ -1,0 +1,92 @@
+In his book on Documentation (1948) the librarian, S.C. Bradford,
+discussed certain regularities in the pattern of distribution of articles on 
+a particular subject over different journals.  He gives as examples the
+distributions for geophysics from 1928-31 inclusive and lubrication for
+1931 to June, 1933, inclusive.  The typical picture is one in which, to a
+bibliography covering a certain short term of years, a few journals contribute
+a large number of articles, more journals contribute fewer and so on in
+a monotonic sequence ending with a large number of journals contributing
+one article each.  Patterns of this kind have been observed by several
+authors, but Bradford was the first, I think, to advance an explanation of
+the effect in bibliographical terms.
+.X
+19	1	1182
+37	1	1182
+39	1	1182
+40	1	1182
+47	1	1182
+88	1	1182
+97	1	1182
+102	1	1182
+103	1	1182
+162	1	1182
+233	2	1182
+253	1	1182
+313	1	1182
+359	5	1182
+377	1	1182
+379	2	1182
+395	1	1182
+416	2	1182
+505	3	1182
+515	1	1182
+560	1	1182
+573	2	1182
+616	1	1182
+618	1	1182
+632	1	1182
+635	1	1182
+667	1	1182
+748	5	1182
+749	1	1182
+751	3	1182
+759	4	1182
+764	1	1182
+765	5	1182
+776	1	1182
+777	1	1182
+778	6	1182
+782	1	1182
+791	2	1182
+804	2	1182
+805	1	1182
+893	2	1182
+952	1	1182
+1016	2	1182
+1061	1	1182
+1076	1	1182
+1083	2	1182
+1085	3	1182
+1086	2	1182
+1087	1	1182
+1090	1	1182
+1097	1	1182
+1098	1	1182
+1114	1	1182
+1122	1	1182
+1157	1	1182
+1168	1	1182
+1172	1	1182
+1173	1	1182
+1182	10	1182
+1200	1	1182
+1201	1	1182
+1226	1	1182
+1274	1	1182
+1277	1	1182
+1278	1	1182
+1280	1	1182
+1287	1	1182
+1301	1	1182
+1302	1	1182
+1304	1	1182
+1313	1	1182
+1338	1	1182
+1344	1	1182
+1347	1	1182
+1380	1	1182
+1381	2	1182
+1418	1	1182
+1428	1	1182
+1444	1	1182
+1444	1	1182

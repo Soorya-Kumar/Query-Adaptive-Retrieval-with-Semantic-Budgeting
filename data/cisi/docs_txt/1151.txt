@@ -1,0 +1,60 @@
+In a letter in New Scientist (vol. 19, p. 148) the rate of duplication of 
+research among scientists was said to have been
+estimated at about 10 per cent.  The first
+systematic attempt to assess the size of this problem, carried out by the Aslib
+Research Department, suggests the actual figure is more than double this, and 
+the consequent cost to the nation to be measurable in millions of pounds.
+  We put questions to 647 scientists engaged in industrial, academic or 
+government research, including chemists, physicists, biologists, psychologists
+and mathematicians.  One question was: "Have you, during your current research,
+discovered in the literature information which you wish you had had at the 
+beginning of your project?"  To this, 144 of them (22 per cent) replied that
+they had.  Many had made more than one such find, so that the total number of 
+instances was 245.
+.X
+2	1	1151
+32	1	1151
+33	1	1151
+36	1	1151
+40	1	1151
+83	1	1151
+90	1	1151
+147	1	1151
+150	1	1151
+161	1	1151
+183	1	1151
+184	1	1151
+193	1	1151
+199	1	1151
+201	1	1151
+202	1	1151
+203	1	1151
+204	1	1151
+205	1	1151
+209	1	1151
+212	1	1151
+217	1	1151
+220	1	1151
+222	1	1151
+284	1	1151
+286	1	1151
+294	1	1151
+369	1	1151
+382	1	1151
+465	1	1151
+543	1	1151
+588	1	1151
+613	1	1151
+624	1	1151
+717	1	1151
+771	1	1151
+782	1	1151
+799	1	1151
+800	1	1151
+808	1	1151
+959	1	1151
+1068	1	1151
+1089	1	1151
+1151	9	1151
+1361	1	1151
+1361	1	1151

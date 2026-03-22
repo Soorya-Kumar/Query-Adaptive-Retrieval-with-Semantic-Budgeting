@@ -1,0 +1,74 @@
+The essentially logistical problem of making library books physically
+available when wanted by library users is central to librarianship.  This
+book is a tentative attempt to provide a treatise on this problem.  As such
+it has to deal with both theoretical analysis and the practicality of
+solutions.  No apology is made for the attention devoted to theoretical
+analysis, because the author believes that a clear conceptual understanding
+of the factors involved is important for improved librarianship.  The
+fact that analytical models are not always usable does not mean that the
+insight that can sometimes be derived from such analyses will not lead to
+a better understanding of the problems and, thereby, to improved library
+services.
+.X
+5	1	234
+115	2	234
+128	1	234
+129	1	234
+130	1	234
+167	1	234
+207	2	234
+223	1	234
+225	1	234
+234	14	234
+236	1	234
+245	1	234
+280	1	234
+303	1	234
+304	1	234
+306	1	234
+338	1	234
+361	1	234
+364	1	234
+365	1	234
+393	1	234
+433	1	234
+468	1	234
+494	1	234
+502	1	234
+638	1	234
+639	1	234
+646	2	234
+647	2	234
+651	2	234
+764	2	234
+765	1	234
+811	3	234
+816	2	234
+818	2	234
+822	1	234
+823	2	234
+827	1	234
+842	1	234
+925	3	234
+942	1	234
+943	2	234
+944	3	234
+948	3	234
+963	1	234
+1017	1	234
+1023	1	234
+1049	1	234
+1070	1	234
+1085	1	234
+1206	1	234
+1237	1	234
+1257	1	234
+1374	1	234
+1378	1	234
+1390	1	234
+1401	1	234
+1437	1	234
+1440	1	234
+1450	1	234
+1453	1	234
+1453	1	234

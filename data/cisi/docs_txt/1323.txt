@@ -1,0 +1,11 @@
+The present collection of articles discusses three basic problems:  the
+typological classification of information retrieval languages, the formal 
+method of lexical semantic research, and textual semantics. Problems 
+connected with lexical word meaning, the building up of semantic fields using 
+computers, and automatic indexing are considered.
+.X
+175	1	1323
+538	1	1323
+1323	6	1323
+1327	1	1323
+1327	1	1323

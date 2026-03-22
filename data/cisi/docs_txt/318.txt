@@ -1,0 +1,52 @@
+A generalized file structure is provided by which the concepts of keyword,
+index, record, file, directory decoding, and record retrieval are defined and
+from which some of the frequently used file structures such is inverted files,
+index-sequential files, and multilists files are derived..
+   Two algorithms which retrieve records from the generalized file structure 
+are presented..
+.X
+19	1	318
+62	1	318
+175	1	318
+228	1	318
+310	4	318
+318	8	318
+321	1	318
+324	1	318
+329	2	318
+363	1	318
+409	1	318
+416	1	318
+442	2	318
+450	2	318
+455	1	318
+458	1	318
+462	1	318
+495	1	318
+511	2	318
+523	1	318
+524	1	318
+563	1	318
+565	2	318
+567	2	318
+604	1	318
+620	1	318
+737	1	318
+745	1	318
+835	1	318
+851	1	318
+853	1	318
+862	1	318
+867	1	318
+869	1	318
+875	3	318
+883	1	318
+1078	1	318
+1193	1	318
+1194	1	318
+1196	1	318
+1199	1	318
+1274	1	318
+1362	1	318
+1419	1	318
+1419	1	318

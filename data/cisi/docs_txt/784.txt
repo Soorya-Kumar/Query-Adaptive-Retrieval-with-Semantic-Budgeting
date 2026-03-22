@@ -1,0 +1,97 @@
+I would suggest three possible reasons for the constant average number of
+references per article.  Firstly, on average, articles more than fifteen years
+old rarely get cited as they are rendered obsolete by the rate of advance.  The
+net increase per annum of 'citeable articles' is not as large as might otherwise
+be expected.
+  Secondly many relatively small specialized subject areas, each tending to
+have its own literature and 'internal' citation practices, are hiving off from
+the classical areas, because of the specialized nature of modern science.
+  Thirdly it seems that the 'building blocks' of an article can on average
+be adequately specified (regardless of the volume of published information)
+by reference to about eleven items of the prior art relating to the main
+theme, associated concepts and methods, and general background.
+.X
+33	2	784
+36	1	784
+39	1	784
+41	1	784
+48	1	784
+76	1	784
+89	4	784
+97	1	784
+102	1	784
+111	1	784
+112	1	784
+113	1	784
+163	1	784
+183	2	784
+184	2	784
+193	2	784
+198	1	784
+199	1	784
+201	1	784
+203	1	784
+204	1	784
+210	1	784
+225	1	784
+233	1	784
+269	1	784
+373	1	784
+545	1	784
+552	2	784
+587	1	784
+605	1	784
+613	1	784
+614	1	784
+632	1	784
+638	1	784
+735	3	784
+747	1	784
+750	1	784
+753	1	784
+766	2	784
+767	1	784
+775	1	784
+782	1	784
+784	5	784
+788	1	784
+789	1	784
+793	1	784
+800	1	784
+808	1	784
+828	1	784
+905	1	784
+953	1	784
+977	1	784
+983	1	784
+1016	1	784
+1023	1	784
+1030	1	784
+1055	2	784
+1082	1	784
+1087	1	784
+1090	1	784
+1135	1	784
+1260	1	784
+1273	1	784
+1275	2	784
+1276	1	784
+1278	1	784
+1280	1	784
+1283	1	784
+1285	2	784
+1286	2	784
+1287	2	784
+1302	2	784
+1335	2	784
+1338	1	784
+1341	2	784
+1346	1	784
+1347	1	784
+1390	1	784
+1397	2	784
+1417	1	784
+1428	1	784
+1432	2	784
+1444	1	784
+1444	1	784

@@ -1,0 +1,50 @@
+A computerized serials record and control system developed in 1968/69 for the
+Technical Information Department of Pfizer Inc. is described and subjected to a 
+cost analysis.. This cost analysis is conducted in the context of an investment
+decision, using the concept of net present value, a method not previously used 
+in library literature.. The cost analysis reveals a positive net present value
+and a system life break-even requirement of seven years at a 10% cost of 
+capital.. This demonstrates that such an automated system can be economically
+justifiable in a library of relatively modest size (approx. 1,100 serial and
+periodical titles).. It may be that the break-even point in terms of collection
+size required for successful automation of serial records is smaller than has 
+been assumed to date..
+.X
+235	1	865
+288	2	865
+289	2	865
+291	2	865
+292	1	865
+295	1	865
+408	1	865
+548	1	865
+591	1	865
+594	1	865
+597	1	865
+598	1	865
+601	1	865
+836	1	865
+863	1	865
+864	1	865
+865	5	865
+866	1	865
+868	1	865
+897	1	865
+915	1	865
+916	1	865
+925	1	865
+936	1	865
+938	1	865
+957	1	865
+959	1	865
+960	1	865
+961	1	865
+962	1	865
+972	1	865
+984	1	865
+1052	1	865
+1248	1	865
+1353	1	865
+1400	1	865
+1401	1	865
+1401	1	865

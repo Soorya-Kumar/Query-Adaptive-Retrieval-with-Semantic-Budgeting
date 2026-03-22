@@ -1,0 +1,56 @@
+A determination of the needs of users is
+absolutely essential to the management of an
+Information Center.  Various techniques of
+doing this (e.g., interview, diary, questionnaire,
+etc.) are detailed along with their limitations.
+Some specific user need studies
+are described with their significant results.
+Interactions between users and an information
+system are described.  Finally, all of these
+factors are considered in assessing the user
+needs that might be used to properly manage
+Information Centers.
+.X
+2	1	1361
+24	1	1361
+32	1	1361
+62	1	1361
+65	1	1361
+66	1	1361
+75	1	1361
+76	1	1361
+137	1	1361
+157	1	1361
+161	1	1361
+210	1	1361
+278	1	1361
+279	1	1361
+280	1	1361
+382	1	1361
+386	1	1361
+395	1	1361
+398	1	1361
+475	1	1361
+624	1	1361
+656	1	1361
+658	2	1361
+716	1	1361
+748	1	1361
+771	1	1361
+772	1	1361
+782	1	1361
+788	1	1361
+789	1	1361
+837	1	1361
+925	1	1361
+955	1	1361
+966	1	1361
+967	1	1361
+982	1	1361
+1083	1	1361
+1151	1	1361
+1353	1	1361
+1361	6	1361
+1400	1	1361
+1404	1	1361
+1404	1	1361

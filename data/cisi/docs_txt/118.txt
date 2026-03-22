@@ -1,0 +1,14 @@
+The theory presented in this book links together the subjects of population 
+and brhavior.  It applies to animals in general, which gives it an exceedingly
+wide scope.
+.X
+21	2	118
+118	7	118
+168	1	118
+412	3	118
+549	1	118
+1034	2	118
+1047	1	118
+1332	2	118
+1399	1	118
+1399	1	118

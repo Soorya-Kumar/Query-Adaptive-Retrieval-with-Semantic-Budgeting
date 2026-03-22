@@ -1,0 +1,47 @@
+Bell Telephone laboratories has established an on-line circulation system 
+linking two terminals in each of its three largest libraries to a central 
+computer.. Objectives include improved service through computer pooling of 
+collections, immediate reporting on publication availability or a borrower's 
+record, automatic reserve follow-up; reduced labor; and increased management 
+information.. Loans, returns, reserves and many queries are handled in real 
+time.. Input may be keyboard only or combined with card reading, to handle all 
+publications with borrower present or absent.. BELLREL is now being used for 
+some 1500 transactions per day..
+.X
+24	1	850
+53	1	850
+64	1	850
+175	1	850
+200	1	850
+211	1	850
+245	1	850
+281	2	850
+294	1	850
+374	1	850
+408	1	850
+481	1	850
+686	1	850
+717	1	850
+781	1	850
+783	1	850
+834	1	850
+835	2	850
+848	1	850
+849	3	850
+850	9	850
+851	2	850
+852	1	850
+897	1	850
+907	1	850
+922	1	850
+925	1	850
+979	1	850
+980	1	850
+981	1	850
+982	1	850
+1011	1	850
+1042	1	850
+1051	2	850
+1080	1	850
+1415	1	850
+1415	1	850

@@ -1,0 +1,76 @@
+Computer dissemination of information offers significant advantages over
+manual dissemination because the computer can use strategies that are 
+impractical and in some cases impossible for a human.. This paper describes
+the Ames Laboratory Selective Dissemination of Information system with emphasis
+on the effectiveness of user feedback.. The system will accept any document, 
+abstract, keyword, etc., in a KWIC or Science Citation Index Source format..
+User profiles consist of words or word clusters each with an initially 
+assigned significance value.. These values are used in making the decision to
+notify a user that he may be interested in a particular document.. According to
+responses, the significance values are increased or decreased and quickly 
+attain an equilibrium which accurately describes the user's interests.. The
+system is economical compared to other existing SDI systems and human
+intervention is negligible except for adding and deleting profile entries..
+.X
+18	1	49
+34	1	49
+49	5	49
+53	1	49
+54	1	49
+59	1	49
+164	1	49
+202	1	49
+213	1	49
+224	1	49
+243	1	49
+421	2	49
+465	3	49
+466	1	49
+480	1	49
+490	1	49
+491	1	49
+506	1	49
+507	1	49
+510	1	49
+512	1	49
+591	1	49
+595	1	49
+603	1	49
+604	1	49
+622	1	49
+623	1	49
+629	1	49
+633	1	49
+639	1	49
+659	1	49
+676	2	49
+711	1	49
+714	1	49
+722	1	49
+723	1	49
+726	1	49
+728	1	49
+730	1	49
+731	1	49
+732	1	49
+748	1	49
+809	1	49
+810	1	49
+813	1	49
+814	1	49
+820	1	49
+822	1	49
+828	1	49
+870	1	49
+879	1	49
+1091	1	49
+1279	1	49
+1283	1	49
+1298	1	49
+1299	1	49
+1363	1	49
+1366	1	49
+1367	1	49
+1368	1	49
+1396	1	49
+1396	1	49

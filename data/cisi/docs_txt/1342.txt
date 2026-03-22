@@ -1,0 +1,35 @@
+A general account is presented of the emergence, growth, and decline of
+scientific research networks and their associated problem areas.. Research 
+networks are seen to pass through three phases.. The first, exploratory phase 
+is distinguished by a lack of effective communication among participants and
+by the pursuit of imprecisely defined problems.. The second phase is one of
+rapid growth, associated with increasing social and intellectual integration,
+made possible by improved communication.. An increasingly precise scientific
+consensus gradually emerges from a process of negotiation, in which those
+participants who are members of the scientific elite exert most influence.. 
+But as consensus is achieved the problem area becomes less scientifically
+fruitful; and as the network grows, career opportunities diminish.. 
+Consequently, the third, final phase is one of decline and disbandment of the
+network, together with the movement of participants to new areas of 
+scientific opportunity..
+.X
+99	1	1342
+103	1	1342
+104	1	1342
+108	2	1342
+170	1	1342
+893	1	1342
+1063	1	1342
+1234	1	1342
+1273	1	1342
+1274	1	1342
+1300	1	1342
+1313	1	1342
+1315	1	1342
+1334	2	1342
+1342	6	1342
+1343	3	1342
+1345	1	1342
+1387	1	1342
+1444	1	1342
+1444	1	1342

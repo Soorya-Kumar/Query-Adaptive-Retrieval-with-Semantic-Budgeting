@@ -1,0 +1,48 @@
+This book is one of the products of a contract initiated by the Automation
+Task Force of the Federal Library Committee, sponsored and monitored by the
+U.S. Office of Education, and carried out by the System Development 
+Corporation.  The project included a questionnaire survey of all Federal
+libraries (2104), as of December, 1970, to gather systems planning data and 
+to identify Federal libraries with operational or planned automated systems.
+Respondents in the latter group were sent a Federal Library Automation Survey
+questionnaire requesting specific details about existing and planned systems.
+From these sources, amplified by visits to Federal libraries and an extensive
+review of the automation literature, information was distilled for use in
+this Handbook. 
+.X
+91	1	406
+114	1	406
+177	1	406
+178	1	406
+232	1	406
+241	1	406
+287	2	406
+331	1	406
+348	1	406
+358	1	406
+375	1	406
+406	11	406
+408	3	406
+607	1	406
+725	1	406
+849	1	406
+896	1	406
+897	1	406
+916	2	406
+925	1	406
+946	1	406
+948	1	406
+959	1	406
+960	1	406
+962	1	406
+979	1	406
+1007	3	406
+1033	2	406
+1057	1	406
+1079	1	406
+1318	1	406
+1364	1	406
+1379	1	406
+1400	1	406
+1403	1	406
+1403	1	406

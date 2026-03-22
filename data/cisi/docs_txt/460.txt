@@ -1,0 +1,46 @@
+For several years we have thought that greater effort should be
+expended to create more understanding of the processes involved in
+information storage, retrieval, and dissemination.  Too often, concepts
+deriving from science and technology are made to seem unnecessarily
+abstruse, either inadvertently or deliberately to preserve some sort of
+mystique.  This book is intended to explicate, if not popularize, major
+aspects of I S & R processes as they are exemplified by the field of
+chemical documentation.  To the extent that this work is found useful
+by chemists, information specialists, and all individuals interested in
+scientific documentation, we shall be gratified.
+.X
+125	1	460
+127	1	460
+129	1	460
+363	1	460
+432	1	460
+451	1	460
+460	5	460
+461	1	460
+526	1	460
+546	1	460
+580	1	460
+606	1	460
+609	1	460
+612	1	460
+622	1	460
+637	1	460
+641	1	460
+642	2	460
+643	1	460
+644	1	460
+645	1	460
+646	1	460
+649	1	460
+650	1	460
+708	1	460
+733	1	460
+736	1	460
+737	1	460
+738	1	460
+739	1	460
+741	1	460
+1374	1	460
+1376	1	460
+1377	1	460
+1377	1	460

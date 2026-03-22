@@ -1,0 +1,59 @@
+This paper will describe three areas of current serials activity which are
+of importance to conventional libraries.  I would like to do this in general
+terms, eschewing details which only seem to serve to confuse.  The three
+areas are:
+  l. Standards.  What they are, what impact they can have, what influence
+     they currently are having on serials processing.
+  2. Standards Setting Projects. I will attempt to describe and/or define
+     the almost incestuous intricacies of the National Serials Data Program
+     (NSDP), the International Serials Data System (ISDS), and CONSER
+     (CONversion of SERials).
+  3. Code Revision Activities.  I will outline the influence that current
+     standards and projects are having on code revision activities.
+  My comments are to be considered within the context of conventional
+libraries, primarily one wherein card catalogs still exist and manual processes
+are the rule.
+.X
+128	1	888
+172	1	888
+342	1	888
+365	1	888
+453	1	888
+560	1	888
+646	1	888
+647	1	888
+652	2	888
+823	1	888
+825	1	888
+827	1	888
+831	1	888
+856	1	888
+881	2	888
+882	2	888
+885	1	888
+886	1	888
+888	6	888
+904	1	888
+913	1	888
+919	1	888
+921	1	888
+943	1	888
+963	1	888
+999	1	888
+1000	1	888
+1001	2	888
+1002	1	888
+1003	2	888
+1004	2	888
+1060	1	888
+1241	1	888
+1257	1	888
+1258	1	888
+1291	1	888
+1315	1	888
+1340	1	888
+1433	1	888
+1437	1	888
+1441	1	888
+1445	1	888
+1445	1	888

@@ -1,0 +1,108 @@
+Patterns of searching in library catalogues were analysed,using the data 
+from a large survey of the use of three university library and one public 
+library catalogues.. 'Known-item' searches were the object of the study..
+Success or failure of the search was correlated to degree of correctness and
+completeness of the searcher's information about title and author of the item 
+that he wished to locate.. Factors involved in searching strategies were 
+discussed.. The double role played by both the title and the author as a way of 
+access to the catalogue and as a means for identifying the right entry was 
+examined..
+.X
+4	1	799
+9	1	799
+32	1	799
+33	1	799
+36	1	799
+52	1	799
+63	1	799
+75	1	799
+81	1	799
+82	1	799
+90	1	799
+96	1	799
+137	1	799
+159	1	799
+161	1	799
+163	1	799
+175	1	799
+183	1	799
+184	1	799
+193	1	799
+199	1	799
+201	1	799
+202	1	799
+203	1	799
+204	1	799
+205	1	799
+207	1	799
+209	1	799
+212	1	799
+217	1	799
+220	1	799
+222	1	799
+246	1	799
+265	1	799
+284	1	799
+286	1	799
+294	1	799
+331	1	799
+348	2	799
+389	1	799
+390	1	799
+456	1	799
+487	1	799
+502	1	799
+543	1	799
+579	1	799
+583	1	799
+585	1	799
+588	1	799
+596	1	799
+600	1	799
+601	1	799
+613	1	799
+624	1	799
+655	1	799
+768	1	799
+774	1	799
+781	1	799
+783	2	799
+797	1	799
+798	1	799
+799	7	799
+800	1	799
+805	1	799
+807	1	799
+808	1	799
+811	1	799
+816	1	799
+858	1	799
+859	1	799
+861	1	799
+863	1	799
+864	1	799
+913	1	799
+919	1	799
+920	1	799
+922	1	799
+956	1	799
+959	1	799
+961	1	799
+962	1	799
+963	1	799
+964	1	799
+968	1	799
+987	1	799
+988	1	799
+989	1	799
+1068	1	799
+1151	1	799
+1152	1	799
+1203	1	799
+1265	1	799
+1294	1	799
+1321	1	799
+1327	1	799
+1407	1	799
+1445	2	799
+1445	2	799

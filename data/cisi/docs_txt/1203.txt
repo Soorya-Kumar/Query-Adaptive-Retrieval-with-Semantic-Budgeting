@@ -1,0 +1,76 @@
+The accumulative growth, without limit in ultimate size, of the
+general research library must produce stresses and strains that many
+institutions will find difficult to resolve.  The rising costs of space
+for library buildings and bookstacks; the scarcity of centrally located
+campus land; aesthetic and functional limitations on the heights, bulk,
+and areas of library buildings; and increasing complexity in the organization
+of materials and services for the efficient use of large research collections,
+are illustrative of some of these stresses and strains.
+.X
+4	1	1203
+9	1	1203
+31	2	1203
+32	1	1203
+46	2	1203
+96	1	1203
+115	1	1203
+137	1	1203
+163	1	1203
+183	1	1203
+193	1	1203
+201	3	1203
+203	1	1203
+207	1	1203
+262	1	1203
+269	1	1203
+280	1	1203
+290	2	1203
+353	1	1203
+359	1	1203
+365	1	1203
+373	2	1203
+379	1	1203
+456	1	1203
+475	1	1203
+748	1	1203
+767	1	1203
+768	1	1203
+774	1	1203
+783	1	1203
+799	1	1203
+811	1	1203
+816	1	1203
+889	1	1203
+913	1	1203
+925	2	1203
+943	1	1203
+961	1	1203
+962	1	1203
+964	1	1203
+968	1	1203
+977	2	1203
+983	1	1203
+1005	1	1203
+1018	1	1203
+1019	1	1203
+1023	1	1203
+1030	1	1203
+1068	2	1203
+1173	1	1203
+1203	12	1203
+1211	1	1203
+1212	1	1203
+1256	1	1203
+1266	1	1203
+1285	1	1203
+1321	1	1203
+1352	2	1203
+1397	1	1203
+1407	1	1203
+1416	1	1203
+1417	1	1203
+1425	1	1203
+1445	1	1203
+1450	1	1203
+1451	1	1203
+1451	1	1203

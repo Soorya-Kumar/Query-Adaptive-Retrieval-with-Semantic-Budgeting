@@ -1,0 +1,117 @@
+To explore their use of on-line computer-based bibliographic search services,
+a one-page questionnaire was sent to 100 academic libraries in the United 
+States having separate departmental chemistry or science libraries.. An attempt
+was made to determine the background training of the persons performing the
+searches, who the end users were, the growth trend, the funding, the data
+bases used, and the value to the users.. Of the 73 replies, 49.3% indicated use
+of such services, while 24.6% were planning to use them primarily by faculty
+and graduate students.. Of those reporting, 83.3% used searchers with a 
+background in library or information science; 47.2% had a background in 
+scientific discipline..Two or more on-line services were used by 72.2%.. A 
+majority of respondents stated that the use paid all expenses or a portion of 
+the expenses.. The searches met the needs of the use most of the time in 83.3% 
+of the cases, and all of the time in 5.4%..
+.X
+124	2	743
+125	1	743
+127	1	743
+129	1	743
+190	2	743
+191	2	743
+197	1	743
+211	1	743
+214	1	743
+218	1	743
+243	1	743
+307	2	743
+330	1	743
+378	1	743
+450	1	743
+451	1	743
+452	1	743
+459	2	743
+468	1	743
+484	1	743
+492	1	743
+508	1	743
+511	1	743
+512	1	743
+514	2	743
+518	1	743
+520	1	743
+523	1	743
+524	1	743
+525	1	743
+526	1	743
+529	1	743
+530	1	743
+534	1	743
+546	1	743
+547	1	743
+553	1	743
+579	1	743
+594	1	743
+603	1	743
+604	1	743
+606	1	743
+609	1	743
+610	1	743
+611	2	743
+612	1	743
+625	1	743
+626	1	743
+630	1	743
+636	1	743
+637	1	743
+642	3	743
+643	1	743
+648	3	743
+650	1	743
+692	1	743
+696	1	743
+699	1	743
+703	1	743
+705	1	743
+708	1	743
+726	1	743
+727	1	743
+728	1	743
+731	1	743
+732	1	743
+733	1	743
+734	3	743
+736	2	743
+738	1	743
+739	1	743
+740	2	743
+741	1	743
+742	3	743
+743	5	743
+744	2	743
+755	1	743
+820	1	743
+826	1	743
+827	1	743
+879	1	743
+883	2	743
+1004	1	743
+1035	1	743
+1078	1	743
+1089	1	743
+1091	1	743
+1146	1	743
+1207	1	743
+1264	2	743
+1297	1	743
+1303	2	743
+1356	1	743
+1364	1	743
+1368	1	743
+1370	1	743
+1372	1	743
+1373	1	743
+1374	4	743
+1375	3	743
+1376	3	743
+1377	2	743
+1377	2	743

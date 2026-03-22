@@ -1,0 +1,136 @@
+The expression 'half-life', borrowed from physics, has appeared
+quite frequently in the literature on documentation since 1960, when an
+article by Burton and Kebler on The 'half-life' of some scientific and technical
+literatures was published, although it had certainly been used previously.
+Burton and Kebler point out that literature becomes obsolescent rather than
+disintegrating (as in its original meaning), so that 'half-life' means 'half the
+active life', and this is commonly understood as meaning the time during
+which one-half of the currently active literature was published.  Numerous
+studies have been carried out, mainly by the analysis of citations, to establish
+obsolescence rates of the literature of different subjects.  Bourne points out
+that different studies have given widely different results, so that many of the
+'half-life' figures reported are not valid beyond the particular sample of
+literature or users surveyed; certainly they cannot be used as accurate
+measures for discriminating between different subject-fields.
+.X
+33	4	793
+36	2	793
+41	1	793
+48	1	793
+57	1	793
+88	1	793
+89	1	793
+97	1	793
+102	2	793
+103	1	793
+104	1	793
+106	3	793
+110	1	793
+111	4	793
+112	3	793
+113	2	793
+155	1	793
+163	1	793
+170	1	793
+183	1	793
+184	2	793
+193	2	793
+195	1	793
+199	1	793
+201	1	793
+203	2	793
+204	1	793
+205	1	793
+210	1	793
+225	1	793
+233	1	793
+267	2	793
+269	1	793
+314	1	793
+359	1	793
+373	1	793
+395	1	793
+456	2	793
+545	2	793
+552	1	793
+560	1	793
+587	7	793
+588	1	793
+605	1	793
+613	1	793
+614	4	793
+638	2	793
+651	1	793
+667	1	793
+735	1	793
+747	2	793
+748	2	793
+750	4	793
+751	2	793
+753	1	793
+759	1	793
+765	2	793
+766	1	793
+767	3	793
+775	3	793
+778	2	793
+782	1	793
+784	1	793
+786	1	793
+787	1	793
+788	1	793
+789	1	793
+791	2	793
+792	2	793
+793	16	793
+794	5	793
+800	9	793
+808	4	793
+811	1	793
+905	1	793
+925	1	793
+948	1	793
+953	1	793
+977	1	793
+983	2	793
+1010	1	793
+1016	1	793
+1019	1	793
+1023	1	793
+1030	1	793
+1055	1	793
+1062	1	793
+1081	1	793
+1082	1	793
+1083	1	793
+1085	1	793
+1086	2	793
+1087	2	793
+1090	3	793
+1135	1	793
+1201	1	793
+1222	1	793
+1260	1	793
+1275	1	793
+1276	1	793
+1278	2	793
+1280	1	793
+1285	5	793
+1286	1	793
+1287	3	793
+1291	1	793
+1302	1	793
+1308	1	793
+1335	2	793
+1340	1	793
+1344	1	793
+1346	1	793
+1347	1	793
+1390	1	793
+1397	1	793
+1401	1	793
+1417	2	793
+1418	1	793
+1428	1	793
+1432	1	793
+1432	1	793

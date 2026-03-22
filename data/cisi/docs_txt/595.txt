@@ -1,0 +1,177 @@
+A variety of aspects related to testing of retrieval systems were
+examined.. A model of a retrieval system, together with a set of measures
+and a methodology for performance testing were developed.. In the main
+experiment the effect on performance of the following variables
+was tested:  sources of indexing, indexing languages, coding schemes,
+question analyses, search strategies and formats of output.. In
+addition, a series of separate experiments was carried out to investigate
+the problems of controls in experimentation with IR systems.. The main
+conclusions:  the human factor appears to be the main variable in all
+components of an IR system; length of indexes affects performance
+considerably more than indexing languages; question analyses and search
+strategies to affect performance to a great extent - as much, if not  more
+than indexing.. Retrieval systems seem to be able to perform at present only
+on a general level, failing to be at the same time comprehensive and specific..
+It seems that testing of total IR systems controlling and monitoring all
+factors (environmental and systems-related) is not possible at present..  
+.X
+18	1	595
+28	1	595
+34	1	595
+35	1	595
+42	1	595
+43	1	595
+49	1	595
+52	1	595
+53	1	595
+57	1	595
+59	1	595
+68	1	595
+70	1	595
+73	1	595
+75	1	595
+77	1	595
+78	1	595
+79	1	595
+81	1	595
+95	1	595
+157	1	595
+161	1	595
+164	1	595
+175	2	595
+176	1	595
+197	1	595
+202	1	595
+213	1	595
+224	2	595
+243	1	595
+298	1	595
+329	1	595
+375	1	595
+381	2	595
+389	1	595
+420	2	595
+421	1	595
+445	1	595
+454	1	595
+456	1	595
+458	1	595
+465	1	595
+466	1	595
+468	1	595
+472	1	595
+490	1	595
+491	1	595
+503	1	595
+506	2	595
+507	2	595
+510	1	595
+512	1	595
+514	2	595
+518	1	595
+554	2	595
+565	3	595
+572	1	595
+575	1	595
+578	1	595
+579	2	595
+582	1	595
+585	1	595
+589	1	595
+591	3	595
+592	1	595
+593	2	595
+594	2	595
+595	10	595
+596	2	595
+597	1	595
+599	2	595
+600	1	595
+603	3	595
+604	2	595
+606	1	595
+608	1	595
+615	2	595
+619	2	595
+620	1	595
+621	1	595
+622	1	595
+623	1	595
+625	1	595
+629	1	595
+630	1	595
+633	1	595
+639	1	595
+646	1	595
+655	1	595
+656	1	595
+657	1	595
+659	1	595
+676	1	595
+711	1	595
+722	1	595
+723	2	595
+724	1	595
+726	1	595
+728	1	595
+730	1	595
+731	1	595
+732	1	595
+752	2	595
+762	1	595
+780	1	595
+785	1	595
+790	1	595
+801	1	595
+805	1	595
+806	1	595
+809	1	595
+810	2	595
+812	1	595
+813	2	595
+814	2	595
+820	2	595
+822	3	595
+827	1	595
+828	1	595
+829	1	595
+836	1	595
+866	1	595
+867	1	595
+870	2	595
+879	1	595
+894	1	595
+895	1	595
+907	1	595
+928	1	595
+956	2	595
+963	1	595
+989	1	595
+990	1	595
+991	1	595
+1054	1	595
+1091	2	595
+1118	1	595
+1124	1	595
+1131	1	595
+1154	1	595
+1232	1	595
+1255	1	595
+1281	2	595
+1282	1	595
+1283	1	595
+1295	1	595
+1298	3	595
+1299	2	595
+1309	1	595
+1327	2	595
+1363	1	595
+1366	1	595
+1367	1	595
+1368	1	595
+1382	1	595
+1396	1	595
+1405	1	595
+1413	1	595
+1445	1	595
+1445	1	595

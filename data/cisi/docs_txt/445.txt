@@ -1,0 +1,131 @@
+The concept of "relevance", sometimes also called "pertinence" or 
+"aboutness", is central to the theory of information retrieval.. Unfortunately,
+however, there is at present no consensus as to how this notion should be 
+defined.. The purpose of this paper is to propose and defend a definition of
+what it means to say that a piece of stored information is "relevant" to the
+information need of a retrieval system user..
+   The suggested definition explicates relevance in terms of logical 
+implication.. For one yes-or-no question answering system which operates with
+one of the standard formalized languages, the definition provides a 
+mathematically precise criterion of relevance.. For other types of fact 
+retrieval systems and reference retrieval systems, including all systems whose 
+stored information is expressed in natural language, the definition is not  
+mathematically precise but is nevertheless still helpful on a conceptual 
+level..
+.X
+29	2	445
+35	1	445
+42	1	445
+43	1	445
+57	1	445
+58	2	445
+70	1	445
+73	1	445
+84	1	445
+117	1	445
+161	1	445
+165	2	445
+197	1	445
+259	1	445
+274	1	445
+375	1	445
+381	1	445
+390	1	445
+434	1	445
+444	2	445
+445	14	445
+447	3	445
+449	4	445
+451	1	445
+454	1	445
+457	1	445
+472	1	445
+474	1	445
+476	1	445
+486	1	445
+503	1	445
+506	1	445
+507	1	445
+523	1	445
+525	1	445
+532	2	445
+554	2	445
+577	1	445
+579	1	445
+590	2	445
+591	1	445
+593	1	445
+594	1	445
+595	1	445
+596	1	445
+597	1	445
+599	1	445
+600	1	445
+603	1	445
+604	1	445
+606	1	445
+609	1	445
+621	1	445
+625	3	445
+634	1	445
+643	1	445
+644	1	445
+649	1	445
+652	1	445
+656	1	445
+660	3	445
+668	1	445
+670	1	445
+671	1	445
+674	1	445
+683	1	445
+689	2	445
+715	1	445
+723	1	445
+724	1	445
+752	1	445
+754	1	445
+762	2	445
+764	1	445
+780	1	445
+785	2	445
+797	1	445
+801	1	445
+805	1	445
+806	1	445
+812	1	445
+814	1	445
+819	1	445
+829	1	445
+830	1	445
+836	1	445
+866	1	445
+867	1	445
+874	1	445
+893	1	445
+895	1	445
+901	1	445
+956	1	445
+989	1	445
+1016	1	445
+1030	1	445
+1045	1	445
+1077	2	445
+1084	1	445
+1195	1	445
+1201	2	445
+1215	1	445
+1231	2	445
+1235	1	445
+1255	1	445
+1265	1	445
+1281	1	445
+1282	2	445
+1285	1	445
+1298	1	445
+1299	1	445
+1327	2	445
+1386	1	445
+1405	1	445
+1448	1	445
+1448	1	445

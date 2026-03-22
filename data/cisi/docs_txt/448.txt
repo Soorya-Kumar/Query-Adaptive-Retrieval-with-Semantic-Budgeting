@@ -1,0 +1,104 @@
+An evaluation of graph theoretical clusters of index terms which can be 
+extracted from an automatically indexed document collection, and the effects of 
+employing such cluster in automatic document retrieval is described.. The graph 
+theoretical cluster which were developed from six data base under two different 
+cluster definition were analyzed for average size and related data.. The 
+clusters were also used to expand the queries in each of six data bases to 
+determine the effect of the expansions on the document retrieval results..
+   Although a large variety of clusters and associated query explanations were
+obtained, no significant improvements in the document retrieval performance 
+were achieved.. In some cases, however, significant degradations in the 
+retrieval performance occurred.. Although seemingly meaningful clusters can be
+obtained, the results indicate that the effort involved in finding clusters 
+and adding the clustered terms to queries is far to great to warrant their use
+in an operational system.. The data bases employed were relatively small, and 
+the  authors caution against generalizing these results to large data bases or 
+other  situations..
+.X
+51	1	448
+69	1	448
+71	2	448
+77	2	448
+79	2	448
+124	1	448
+125	1	448
+165	1	448
+168	1	448
+175	2	448
+176	2	448
+315	1	448
+381	1	448
+382	1	448
+448	6	448
+452	1	448
+462	1	448
+480	1	448
+483	1	448
+484	2	448
+486	1	448
+488	2	448
+491	1	448
+493	1	448
+503	1	448
+507	1	448
+509	2	448
+510	1	448
+511	1	448
+512	1	448
+516	1	448
+517	1	448
+518	1	448
+520	1	448
+521	1	448
+522	2	448
+523	1	448
+526	1	448
+527	2	448
+528	2	448
+529	1	448
+531	1	448
+565	3	448
+566	1	448
+575	1	448
+581	1	448
+596	1	448
+603	1	448
+608	1	448
+610	1	448
+615	1	448
+625	1	448
+626	1	448
+633	1	448
+636	1	448
+659	3	448
+660	1	448
+700	1	448
+705	1	448
+707	1	448
+715	1	448
+727	1	448
+754	2	448
+790	1	448
+805	1	448
+809	1	448
+810	2	448
+812	2	448
+813	1	448
+814	1	448
+817	2	448
+824	2	448
+825	1	448
+875	1	448
+894	2	448
+1051	1	448
+1202	1	448
+1294	2	448
+1303	1	448
+1327	2	448
+1364	1	448
+1366	1	448
+1367	1	448
+1368	1	448
+1419	1	448
+1427	1	448
+1427	1	448

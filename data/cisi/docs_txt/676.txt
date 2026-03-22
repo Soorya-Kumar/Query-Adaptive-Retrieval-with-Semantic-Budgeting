@@ -1,0 +1,80 @@
+ASCA (Automatic Subject Citation Alert) is a commercially available SDI
+system covering the journal literature.  The repertoire of questions which
+ASCA can utilize includes cited references, words from titles, authors,
+organizations, etc., and allows for logical combinations of these questions.
+This paper discusses differences and similarities between "citations" and
+"words" in retrieving and disseminating information.  The problem of user-
+system interaction is explored, and some techniques for developing effective
+interest profiles are described.  Although ASCA is a multi-disciplinary system,
+examples from fields like synthetic chemistry and biochemistry are provided.
+
+.X
+18	1	676
+34	1	676
+49	2	676
+53	1	676
+59	2	676
+61	1	676
+164	1	676
+202	1	676
+213	2	676
+224	1	676
+243	1	676
+252	1	676
+347	1	676
+381	1	676
+382	1	676
+421	2	676
+465	1	676
+466	1	676
+490	1	676
+491	3	676
+506	2	676
+507	1	676
+510	1	676
+512	1	676
+591	1	676
+595	1	676
+603	1	676
+604	1	676
+622	1	676
+623	1	676
+629	1	676
+633	1	676
+639	1	676
+659	1	676
+676	10	676
+696	1	676
+711	1	676
+722	1	676
+723	1	676
+726	1	676
+728	1	676
+730	1	676
+731	1	676
+732	1	676
+805	1	676
+809	1	676
+810	1	676
+813	1	676
+814	1	676
+820	1	676
+822	1	676
+828	1	676
+870	1	676
+879	1	676
+986	1	676
+1010	1	676
+1055	1	676
+1091	1	676
+1281	2	676
+1283	3	676
+1290	1	676
+1298	1	676
+1299	1	676
+1363	1	676
+1366	1	676
+1367	1	676
+1368	1	676
+1396	1	676
+1396	1	676

@@ -1,0 +1,62 @@
+May we please raise four questions which are important at the present time
+when government policy on information retrieval is being considered? These
+arise from results recently produced by SDC which are germane to Dr.
+Somerfield's paper on 'Computer-based Information Services' (Aslib
+Proceedings, 20, 12, 542-50 (1968)), and to OSTI's work in this field.
+  The SDC is making comparisons of the efficiency of various published
+indexes and other sources of scientific information and the first results
+of rigorously checked comparisons are becoming available for a case study
+on the subject of 'Computers Related to Mass Spectrometry'.  This results
+from an extensive literature search prepared by combining and collating
+results of searches in twelve of the world's major indexes to chemistry and
+spectroscopy, including searches of SDC's own data bank files.  Nearly
+two hundred unique references on 'Computers Related to Mass Spectrometry'
+were found and are being checked individually for relevance going back
+to the original paper or asking expert opinion where necessary.
+.X
+65	1	156
+71	1	156
+72	1	156
+73	1	156
+74	1	156
+75	2	156
+76	1	156
+77	1	156
+78	1	156
+79	1	156
+81	1	156
+82	1	156
+83	1	156
+86	2	156
+153	1	156
+156	5	156
+211	1	156
+212	1	156
+213	1	156
+214	1	156
+245	1	156
+277	1	156
+279	1	156
+280	1	156
+382	1	156
+486	1	156
+495	1	156
+720	1	156
+748	1	156
+779	1	156
+785	1	156
+786	1	156
+787	1	156
+788	1	156
+789	1	156
+790	1	156
+791	1	156
+925	1	156
+984	1	156
+1055	1	156
+1083	1	156
+1086	1	156
+1195	1	156
+1295	1	156
+1297	1	156
+1297	1	156

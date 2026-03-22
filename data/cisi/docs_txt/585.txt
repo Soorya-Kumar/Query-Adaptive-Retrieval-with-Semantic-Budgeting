@@ -1,0 +1,55 @@
+Arguments are advanced to suggest that information and operations on 
+information are phenomena, the principles of which provide the basis for a
+metascience of information  (informatology).. The fundamental character of the
+phenomena is evidenced in the operations executed during the processing and
+communication functions.. The role of the metascience is dictated by several
+factors, namely, the need for a common basis upon which all information-
+oriented specialized sciences and technologies can be understood and studied,
+a common framework and language for all scientists and technologists concerned
+in some form or other with information on one side and man's relationship
+to the phenomena on the other side..  The content of the postulated metascience
+of information is circumscribed by a list of specific questions and problems
+for which the science has to provide answers and solutions.. It is suggested
+that an educational concept responsive to the needs of metascience of 
+information be developed and implemented..
+.X
+20	1	585
+42	1	585
+60	1	585
+85	2	585
+129	1	585
+159	1	585
+172	1	585
+175	1	585
+313	1	585
+348	1	585
+420	1	585
+469	1	585
+540	1	585
+583	1	585
+585	9	585
+592	1	585
+593	1	585
+595	1	585
+599	1	585
+640	1	585
+652	1	585
+655	1	585
+665	1	585
+762	1	585
+797	1	585
+798	1	585
+799	1	585
+803	2	585
+858	1	585
+859	1	585
+861	1	585
+1022	2	585
+1045	1	585
+1169	2	585
+1268	1	585
+1309	1	585
+1386	1	585
+1423	1	585
+1459	1	585
+1459	1	585

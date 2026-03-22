@@ -1,0 +1,111 @@
+The spread of ideas within a scientific community and the spread of infectious
+disease are both special cases of a general communication process.  Thus a
+general theory of epidemics can explain the growth of symbolic logic from 1847
+to 1962.  An epidemic model predicts the rise and fall of particular research 
+areas within symbolic logic.  A Markov chain model of individual movement 
+between research areas indicates that once an individual leaves an area he is
+not expected to return.
+  KEY WORDS AND PHRASES:  epidemic model, epidemic process, theory of epidemics,
+growth of literature, history of symbolic logic, epidemiology of symbolic logic,
+epidemic curve, stochastic models, Markov chains.
+.X
+19	1	667
+33	1	667
+36	1	667
+37	1	667
+39	3	667
+40	1	667
+47	1	667
+57	1	667
+88	1	667
+97	1	667
+101	1	667
+102	1	667
+103	1	667
+105	1	667
+106	1	667
+184	1	667
+193	1	667
+195	1	667
+201	1	667
+203	1	667
+204	1	667
+205	1	667
+233	2	667
+253	1	667
+267	1	667
+313	1	667
+359	2	667
+377	1	667
+379	1	667
+395	2	667
+455	1	667
+505	1	667
+544	1	667
+560	2	667
+573	1	667
+587	1	667
+605	2	667
+618	1	667
+632	3	667
+635	1	667
+667	7	667
+748	2	667
+749	1	667
+750	2	667
+751	2	667
+759	1	667
+764	1	667
+765	2	667
+767	1	667
+775	1	667
+777	1	667
+778	2	667
+782	1	667
+787	1	667
+791	1	667
+792	1	667
+793	1	667
+800	2	667
+804	1	667
+805	1	667
+893	1	667
+952	1	667
+1016	1	667
+1030	1	667
+1061	1	667
+1063	1	667
+1081	4	667
+1082	3	667
+1083	1	667
+1085	2	667
+1086	2	667
+1087	1	667
+1088	3	667
+1182	1	667
+1200	1	667
+1201	2	667
+1274	1	667
+1277	1	667
+1278	2	667
+1280	1	667
+1285	1	667
+1286	1	667
+1287	4	667
+1301	1	667
+1302	1	667
+1304	1	667
+1308	1	667
+1312	1	667
+1313	1	667
+1334	1	667
+1338	1	667
+1344	1	667
+1347	1	667
+1380	1	667
+1401	1	667
+1417	1	667
+1418	1	667
+1428	1	667
+1444	1	667
+1444	1	667

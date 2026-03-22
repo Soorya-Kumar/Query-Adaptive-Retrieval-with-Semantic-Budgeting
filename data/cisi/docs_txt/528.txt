@@ -1,0 +1,167 @@
+LEADERMART is a fully operational information retrieval system featuring 
+on-line interactive service  to a wide variety of user groups in business,
+industry, government, and universities.. With the availability of many
+computer-readable bibliographic data bases, experience with users dictated the 
+development of special-purpose information products based on a thorough 
+understanding of individual client needs, and the delivery of such products in 
+a customized form.. Each different application required a different package, 
+with variations of both software and data base coverage.. These packages were
+developed via suitable modification of modular system software to result in 
+products tailored to user idiosyncracies..
+   The paper describes problems associated with these repackaging procedures, 
+and discusses the changes brought about by the introduction of an on-line, 
+interactive retrieval service into the operating environment of users.. 
+Implications for networking and resource-sharing, focusing upon 
+cost-effectiveness and performance measures, are also discussed..
+.X
+18	1	528
+51	1	528
+69	1	528
+71	1	528
+77	1	528
+79	1	528
+119	1	528
+122	1	528
+124	1	528
+125	2	528
+145	1	528
+165	1	528
+168	1	528
+175	1	528
+176	1	528
+211	1	528
+300	1	528
+315	1	528
+332	1	528
+365	1	528
+378	1	528
+381	1	528
+382	1	528
+394	1	528
+439	1	528
+440	1	528
+448	2	528
+452	2	528
+453	2	528
+467	1	528
+468	1	528
+480	1	528
+483	1	528
+484	3	528
+486	1	528
+488	1	528
+491	1	528
+493	1	528
+495	1	528
+503	1	528
+506	1	528
+507	1	528
+508	2	528
+509	1	528
+510	1	528
+511	2	528
+512	2	528
+514	1	528
+516	1	528
+517	2	528
+518	1	528
+520	2	528
+521	2	528
+522	2	528
+523	3	528
+524	1	528
+526	4	528
+527	2	528
+528	8	528
+529	1	528
+531	1	528
+534	1	528
+546	1	528
+565	1	528
+566	1	528
+575	1	528
+576	1	528
+579	1	528
+580	1	528
+581	1	528
+594	1	528
+596	1	528
+603	1	528
+604	1	528
+606	1	528
+608	1	528
+609	1	528
+610	1	528
+612	2	528
+614	1	528
+615	1	528
+619	1	528
+622	1	528
+623	1	528
+624	1	528
+625	1	528
+626	2	528
+629	1	528
+631	1	528
+632	1	528
+633	2	528
+636	1	528
+637	1	528
+659	1	528
+699	1	528
+700	2	528
+705	2	528
+707	2	528
+715	1	528
+723	1	528
+726	1	528
+727	2	528
+728	1	528
+729	1	528
+730	1	528
+731	1	528
+754	3	528
+790	1	528
+805	1	528
+809	1	528
+810	1	528
+812	3	528
+813	2	528
+814	2	528
+817	2	528
+818	1	528
+820	1	528
+822	1	528
+824	2	528
+825	1	528
+826	1	528
+830	1	528
+866	1	528
+870	1	528
+872	1	528
+873	1	528
+875	1	528
+894	1	528
+940	1	528
+1051	1	528
+1078	1	528
+1089	1	528
+1091	1	528
+1143	2	528
+1247	1	528
+1264	2	528
+1294	1	528
+1302	1	528
+1303	2	528
+1327	2	528
+1364	1	528
+1366	2	528
+1367	3	528
+1368	2	528
+1374	1	528
+1396	1	528
+1419	1	528
+1427	2	528
+1435	1	528
+1436	1	528
+1436	1	528

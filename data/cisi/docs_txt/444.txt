@@ -1,0 +1,39 @@
+Relevance is defined as a measure of information conveyed by a document 
+relative to a query.. It is shown that the relationship between the document 
+and the query, though necessary, is not sufficient to determine relevance..
+.X
+3	1	444
+29	1	444
+35	1	444
+42	2	444
+43	1	444
+58	1	444
+70	1	444
+84	1	444
+319	1	444
+444	5	444
+445	2	444
+447	2	444
+449	2	444
+474	1	444
+486	1	444
+487	1	444
+523	1	444
+532	2	444
+554	1	444
+625	1	444
+660	1	444
+762	2	444
+764	1	444
+893	1	444
+1016	1	444
+1030	1	444
+1045	1	444
+1084	1	444
+1195	1	444
+1201	2	444
+1235	1	444
+1281	1	444
+1285	1	444
+1327	1	444
+1327	1	444

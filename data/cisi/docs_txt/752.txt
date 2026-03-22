@@ -1,0 +1,94 @@
+It is now ten years since some slight experimental evidence was presented
+which appeared to support the hypothesis that there was an inverse
+relationship between recall and precision. The idea of this was certainly not
+new; Fairthorne had more than implied it in his discussions on OBNA and
+ABNO systems, i.e. Only-But-Not-All (high precision) and All-But-Not-
+Only (high recall).  However, it was one of the propositions arising from
+Cranfield I which met with strong opposition and was quite rightly attacked.
+In reply to the critical review by Swanson, I had to agree that the
+simple hypothesis required modification.  By the following year test results
+coming from the experiments by Salton and from Cranfield II made
+further modification necessary, and the hypothesis was finally put forward
+to read as follows: 'Within a single system, assuming that a sequence of
+subsearches for a particular question is made in the logical order of expected
+decreasing precision, and the requirements are those stated in the question,
+there is an inverse relationship between recall and precision, if the results
+of a number of different searches are averaged.  This, it will be noted, has
+four qualifications to the basic statement.
+.X
+28	1	752
+57	1	752
+73	3	752
+75	1	752
+79	1	752
+134	1	752
+146	1	752
+157	1	752
+175	2	752
+194	1	752
+224	1	752
+274	1	752
+298	1	752
+315	1	752
+381	2	752
+382	1	752
+389	3	752
+390	4	752
+419	1	752
+441	1	752
+445	1	752
+447	1	752
+449	1	752
+456	1	752
+458	2	752
+468	1	752
+509	1	752
+514	3	752
+518	1	752
+531	1	752
+554	1	752
+575	2	752
+577	2	752
+579	1	752
+591	1	752
+595	2	752
+599	1	752
+603	1	752
+615	2	752
+619	1	752
+620	1	752
+621	1	752
+625	3	752
+630	1	752
+634	1	752
+639	1	752
+643	1	752
+644	2	752
+646	1	752
+649	2	752
+652	1	752
+660	2	752
+752	11	752
+754	1	752
+780	5	752
+785	4	752
+795	1	752
+806	1	752
+812	3	752
+820	1	752
+822	2	752
+824	1	752
+827	1	752
+829	2	752
+830	1	752
+895	2	752
+907	1	752
+956	1	752
+1044	1	752
+1091	1	752
+1255	2	752
+1282	4	752
+1294	1	752
+1307	1	752
+1327	1	752
+1327	1	752

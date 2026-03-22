@@ -1,0 +1,47 @@
+This paper describes and specifies the rules for generating a code to 
+represent chemical formulas.  It may be used either as a notation or for 
+internal manipulation by computer for registration, screening, and atom-by-
+atom search.  It is basically a connection table in a concise format which also
+contains abnormality information relating to specific atoms or relations 
+between atoms.  The notation produced by these rules unambiguously defines
+a structure (as a connection table), but the notation is unique only to a
+given numbering (or citation order) of the atoms.  Hence, its uniqueness is
+dependent on the numbering uniqueness of the atoms in the structural formula.
+Techniques for the use of the code in registry and substructure search are
+also discussed.
+
+.X
+116	1	678
+117	1	678
+254	1	678
+327	1	678
+641	1	678
+668	1	678
+669	1	678
+670	1	678
+671	1	678
+673	2	678
+675	1	678
+677	1	678
+678	7	678
+679	2	678
+682	4	678
+689	1	678
+690	1	678
+693	1	678
+694	1	678
+695	1	678
+698	1	678
+700	1	678
+704	2	678
+706	2	678
+707	1	678
+730	1	678
+738	1	678
+833	1	678
+1026	2	678
+1072	1	678
+1292	1	678
+1419	1	678
+1452	2	678
+1452	2	678

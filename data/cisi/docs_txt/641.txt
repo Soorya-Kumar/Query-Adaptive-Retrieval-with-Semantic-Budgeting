@@ -1,0 +1,89 @@
+Successful information retrieval from a mechanized file is heavily
+dependent on the fidelity of the representation of concepts in the
+particular language of the system and on the predictability of this
+representation.. 
+   If an index language is employed, predictability is guaranteed and
+the quality of the retrieval is predominantly governed by the fidelity
+of the representation, i.e., by the extent to which conceptual
+distortion of the concepts to be represented can be avoided.. The various
+index languages vary widely with respect to their fidelity.. Differences
+in their performance are correspondingly great..
+   The lack of fidelity in most of the present day indexing languages
+is due mainly to insufficient representation of the relationships
+among concepts.. We describe a new graphical method of storing and
+retrieving concept relations of various kinds.. The points of such a
+graph are occupied by concepts, and the connecting lines between these
+points represent concept relations.. In a special field of chemistry,
+these graphs also serve as a kind of presentation of the essentials of a
+document to the reader that is much more lucid than a natural language
+text.. 
+
+
+ 
+.X
+116	1	641
+117	2	641
+165	3	641
+252	1	641
+254	2	641
+327	1	641
+347	1	641
+422	1	641
+451	1	641
+460	1	641
+525	1	641
+526	1	641
+530	1	641
+546	1	641
+569	1	641
+577	1	641
+606	1	641
+609	1	641
+612	1	641
+621	2	641
+637	1	641
+641	7	641
+642	1	641
+643	1	641
+644	1	641
+645	1	641
+649	1	641
+650	1	641
+668	1	641
+670	1	641
+671	3	641
+673	2	641
+677	1	641
+678	1	641
+679	1	641
+682	1	641
+683	1	641
+687	1	641
+689	2	641
+690	1	641
+693	1	641
+694	1	641
+695	1	641
+698	1	641
+700	1	641
+704	1	641
+706	1	641
+707	1	641
+709	1	641
+714	1	641
+730	1	641
+733	1	641
+738	1	641
+755	1	641
+825	1	641
+830	1	641
+833	1	641
+898	1	641
+1026	1	641
+1072	1	641
+1077	1	641
+1231	2	641
+1292	1	641
+1377	1	641
+1452	2	641
+1452	2	641

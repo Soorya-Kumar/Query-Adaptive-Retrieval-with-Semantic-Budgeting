@@ -1,0 +1,10 @@
+The experience gained with adjusting and debugging the technologies of
+automatic document indexing at an electrical engineering reference information
+centre are outlined.. The procedure applied to document handling is compared
+to that of processing an equipment part in industrial production and it has
+been designed in the corresponding terms..
+.X
+1118	1	1132
+1132	5	1132
+1162	1	1132
+1162	1	1132

@@ -1,0 +1,47 @@
+This article is the first in a series which described the general procedures 
+and some findings of over seventy studies which we conducted from 1966 to 1971 
+on the information-exchange activities of over 12000 scientists and engineers 
+in a sample of nine physical, social and engineering sciences.. We designed the
+studies so that (a) the full spectrum of scientific communication media could 
+be explored, (b) the various studies were coupled in order that data obtained
+from one study could be directly related to those obtained from other studies,
+(c) the scheduling of the studies was conducted in real time in order that the 
+same body of information could be followed from its inception to its final 
+integration into the general body of scientific knowledge, and (d) the same 
+studies were conducted for all nine disciplines being studied in order that 
+genuine comparisons could be made among them.. The data are now stored on
+machine-readable magnetic tapes and will be made available to scholars in the 
+field of information science..
+.X
+48	1	439
+91	1	439
+96	1	439
+98	2	439
+123	1	439
+300	1	439
+421	1	439
+439	7	439
+440	3	439
+456	1	439
+515	1	439
+528	1	439
+533	1	439
+580	1	439
+609	1	439
+614	1	439
+618	1	439
+624	1	439
+635	1	439
+696	1	439
+727	1	439
+809	1	439
+813	1	439
+818	1	439
+870	1	439
+1030	2	439
+1296	1	439
+1298	1	439
+1338	1	439
+1386	1	439
+1396	1	439
+1396	1	439

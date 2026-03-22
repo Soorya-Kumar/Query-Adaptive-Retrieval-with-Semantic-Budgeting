@@ -1,0 +1,38 @@
+This work describes a conceptual design of an automated
+national library system.  The design is "conceptual" in that it is
+intended to show the feasibility of a system concept rather than
+provide a detailed engineering design.  The design concerns an
+automated national library system but does not attempt to automate
+all parts of the system.  It is primarily concerned with the functions of
+bibliographic searching, acquisition, circulation, and cataloging.  If
+these functions can be economically automated, the major problems
+associated with our information explosion will be solved.
+.X
+24	2	336
+74	1	336
+75	2	336
+78	1	336
+80	1	336
+119	1	336
+122	1	336
+175	1	336
+177	1	336
+273	1	336
+281	1	336
+331	1	336
+336	6	336
+654	1	336
+684	1	336
+852	1	336
+853	1	336
+854	1	336
+855	2	336
+856	1	336
+925	1	336
+955	1	336
+984	1	336
+1011	3	336
+1080	1	336
+1144	1	336
+1451	1	336
+1451	1	336

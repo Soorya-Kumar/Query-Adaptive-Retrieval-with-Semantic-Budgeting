@@ -1,0 +1,52 @@
+Librarians must frequently judge circulation systems on the basis of widely 
+disparate descriptions that make comparisons difficult.. A way is needed to 
+place  various systems into a common perspective framework, so that their 
+similarities and differences can be readily understood.. This paper explains 
+basic (and largely familiar) concepts and components that are common to manual,
+machine-aided, and computer-based systems, and documents their significance as 
+key factors in the analysis and design of academic library circulation systems..
+Cost factors are not discussed..
+.X
+33	1	294
+36	1	294
+90	2	294
+161	1	294
+183	1	294
+184	1	294
+193	1	294
+199	1	294
+201	1	294
+202	1	294
+203	1	294
+204	1	294
+205	1	294
+209	1	294
+212	1	294
+217	1	294
+220	1	294
+222	1	294
+284	1	294
+286	1	294
+289	2	294
+294	5	294
+543	1	294
+553	1	294
+588	1	294
+612	1	294
+613	1	294
+617	1	294
+620	1	294
+624	1	294
+799	1	294
+800	1	294
+808	1	294
+849	1	294
+850	1	294
+897	1	294
+959	1	294
+963	1	294
+990	1	294
+1151	1	294
+1221	1	294
+1229	1	294
+1229	1	294

@@ -1,0 +1,55 @@
+The cataloguing in source experiment carried out by the United States 
+Library of Congress ended in 1959.. Studies on the feasibility of a new 
+pre-publication cataloguing programme were undertaken and on 1 July 1971 a new
+cataloguing in publication programmes were started.. Other programmes for
+pre-publication cataloguing, namely in Brazil and the Union of Soviet Socialist
+Republics, are described..
+.X
+141	1	1434
+299	2	1434
+333	3	1434
+449	1	1434
+522	1	1434
+530	2	1434
+553	1	1434
+627	2	1434
+628	3	1434
+768	1	1434
+783	1	1434
+802	1	1434
+819	1	1434
+872	1	1434
+873	1	1434
+874	3	1434
+875	2	1434
+876	1	1434
+877	1	1434
+878	1	1434
+892	2	1434
+913	1	1434
+940	1	1434
+941	3	1434
+970	1	1434
+987	1	1434
+988	1	1434
+992	1	1434
+993	1	1434
+994	1	1434
+995	3	1434
+996	1	1434
+997	1	1434
+998	1	1434
+1079	3	1434
+1153	1	1434
+1189	1	1434
+1216	1	1434
+1251	1	1434
+1351	2	1434
+1396	1	1434
+1420	2	1434
+1421	1	1434
+1434	6	1434
+1435	3	1434
+1436	1	1434
+1442	2	1434
+1442	2	1434

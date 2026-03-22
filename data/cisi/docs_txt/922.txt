@@ -1,0 +1,48 @@
+The major conclusions and recommendations of the study which follows are:
+  That the catalogs of The Research Libraries of the New York Public Library be
+divided chronologically at the earliest possible date;
+  That the present (or retrospective) Public Catalog be reproduced 
+photographically in book form;
+  That the future (or prospective) catalogs be produced in a combination of 
+card and book form from a store of machine-readable data;
+  That a Central Serial Record be created to contain acquisition information, 
+cataloging and holdings data, and bindery records for all serial publications 
+in The Research Libraries.
+.X
+64	1	922
+175	1	922
+245	1	922
+246	1	922
+265	1	922
+299	1	922
+326	1	922
+331	2	922
+374	1	922
+717	1	922
+781	1	922
+783	1	922
+799	1	922
+834	2	922
+835	1	922
+848	3	922
+849	1	922
+850	1	922
+851	1	922
+852	1	922
+874	2	922
+880	1	922
+892	1	922
+919	1	922
+920	1	922
+922	5	922
+925	1	922
+974	1	922
+981	1	922
+982	1	922
+984	1	922
+1042	1	922
+1051	1	922
+1359	1	922
+1415	1	922
+1445	1	922
+1445	1	922

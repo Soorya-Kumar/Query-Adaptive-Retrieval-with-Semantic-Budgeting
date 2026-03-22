@@ -1,0 +1,112 @@
+It is the purpose of this paper to analyse a class of distribution
+functions that appears in a wide range of empirical data - particularly
+data describing sociological, biological and economic phenomena.  Its
+appearance is so frequent, and the phenomena in which it appears so diverse,
+that one is led to the conjecture that if these phenomena have any property
+in common it can only be a similarity in the structure of the underlying 
+probability mechanisms.  The empirical distributions to which we shall refer
+specifically are: (A) distributions of words in prose samples by their
+frequency of occurrence, (B) distributions of scientists by number of papers
+published, (C) distributions of cities by population, (D) distributions of
+incomes by size, and (E) distributions of biological generally by number of
+species.
+.X
+19	1	233
+33	1	233
+36	1	233
+37	1	233
+39	1	233
+40	1	233
+41	1	233
+47	1	233
+48	1	233
+50	1	233
+57	1	233
+88	1	233
+97	1	233
+102	1	233
+103	1	233
+105	1	233
+184	1	233
+193	1	233
+195	1	233
+201	1	233
+203	1	233
+204	1	233
+205	1	233
+233	9	233
+253	1	233
+267	1	233
+313	1	233
+359	2	233
+377	1	233
+379	2	233
+395	2	233
+473	1	233
+505	1	233
+560	1	233
+573	1	233
+587	1	233
+618	1	233
+632	1	233
+635	1	233
+667	2	233
+748	4	233
+749	1	233
+750	1	233
+751	2	233
+759	1	233
+764	1	233
+765	3	233
+767	1	233
+777	1	233
+778	3	233
+782	1	233
+784	1	233
+786	1	233
+787	1	233
+791	2	233
+792	1	233
+793	1	233
+800	1	233
+804	1	233
+805	1	233
+893	5	233
+952	1	233
+1016	1	233
+1030	1	233
+1061	1	233
+1081	1	233
+1082	2	233
+1083	1	233
+1085	2	233
+1086	2	233
+1087	1	233
+1182	2	233
+1200	1	233
+1201	1	233
+1274	1	233
+1275	1	233
+1277	1	233
+1278	2	233
+1280	1	233
+1285	1	233
+1286	1	233
+1287	3	233
+1301	1	233
+1302	1	233
+1304	1	233
+1313	1	233
+1335	1	233
+1338	2	233
+1341	2	233
+1344	1	233
+1347	1	233
+1380	1	233
+1401	1	233
+1417	1	233
+1418	1	233
+1422	1	233
+1428	1	233
+1444	1	233
+1444	1	233

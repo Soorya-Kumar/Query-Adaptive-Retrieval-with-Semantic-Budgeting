@@ -1,0 +1,43 @@
+Several recently established national programs are evaluated from the point
+of view of the practicing librarian.. It is essential that we be aware of the 
+consequences of adopting these programs, and that planners and librarians
+communicate adequately..
+.X
+10	1	881
+121	1	881
+141	1	881
+363	1	881
+409	1	881
+541	2	881
+645	1	881
+647	1	881
+651	1	881
+739	1	881
+873	1	881
+874	1	881
+881	8	881
+882	4	881
+883	1	881
+884	1	881
+885	2	881
+886	2	881
+887	1	881
+888	2	881
+904	1	881
+917	1	881
+919	2	881
+920	2	881
+921	4	881
+999	2	881
+1000	2	881
+1001	2	881
+1002	2	881
+1003	2	881
+1004	2	881
+1060	1	881
+1216	1	881
+1375	1	881
+1376	1	881
+1437	1	881
+1441	1	881
+1441	1	881

@@ -1,0 +1,59 @@
+Universal Decimal Classification - dying duck or live bird? - or some
+such title - was suggested to me, but this is highly debatable, and there will
+hardly be time for the duck-shooters to develop a concerted onslaught in the
+half-hour or so allowed us for discussion.  Besides, I hope to be able to
+convince you - if the BSI's fine efforts have not already done so - that the
+UDC is by no means the dying duck - certainly not the dead duck - that some of
+its severest critics seem to imagine.  Perhaps the bird has ceased to soar as
+it once did in the times of Otlet, La Fontaine, Bradford and Donker Duyvis, but
+that it is still viable in the turbulent air of current documentation may be
+gauged from a recent FID inquiry aimed at obtaining figures for the
+distribution of UDC editions and an approximate estimate of the number of
+users throughout the world.
+.X
+16	1	154
+30	1	154
+71	1	154
+75	2	154
+77	1	154
+78	1	154
+79	1	154
+80	1	154
+81	1	154
+82	1	154
+83	1	154
+114	1	154
+154	6	154
+194	1	154
+212	2	154
+247	1	154
+257	1	154
+260	1	154
+458	1	154
+476	1	154
+477	1	154
+581	1	154
+627	1	154
+666	1	154
+770	1	154
+796	2	154
+802	2	154
+838	4	154
+853	1	154
+898	1	154
+989	1	154
+1066	1	154
+1074	2	154
+1075	2	154
+1231	1	154
+1255	1	154
+1391	2	154
+1392	1	154
+1393	1	154
+1394	1	154
+1402	2	154
+1429	3	154
+1430	3	154
+1431	3	154
+1448	1	154
+1448	1	154

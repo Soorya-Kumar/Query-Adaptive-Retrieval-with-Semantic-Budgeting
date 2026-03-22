@@ -1,0 +1,133 @@
+This paper reports the results of a four-week questionnaire survey carried 
+out at the National Lending Library (N.L.L.), Great Britian, to discover which
+types of organizations were the principal users of medical literature, what 
+types of literature were used, and which were the main sources of references
+to medical publications..Industrial organizations and universities accounted
+for the majority (62 percent) of the loans, most of which were English-language
+periodicals published since 1960.. For the whole sample, citation list in 
+periodical articles were the principal sources of references, although for
+literature published in the last fifteen months, abstracting and indexing
+journals were the main sources.. Of the latter, Index Medicus proved to be the
+most fruitful source of references.. By asking whether the item requested was
+really useful to their work, a measure of the reliability of the different
+sources of references was obtained..
+   Appendixes include the questionnaire, a list of the most frequently borrowed
+journals, and a list of abstracting and indexing journals used as sources of
+references..
+.X
+2	1	210
+24	1	210
+33	1	210
+36	1	210
+41	1	210
+55	1	210
+62	1	210
+65	1	210
+66	1	210
+75	1	210
+76	2	210
+89	1	210
+97	1	210
+102	1	210
+111	1	210
+112	1	210
+132	1	210
+137	2	210
+139	1	210
+147	1	210
+152	1	210
+155	1	210
+163	1	210
+183	3	210
+184	1	210
+193	2	210
+195	1	210
+196	1	210
+199	1	210
+201	1	210
+202	1	210
+203	5	210
+204	2	210
+205	1	210
+210	11	210
+219	1	210
+225	3	210
+269	1	210
+278	1	210
+279	1	210
+280	1	210
+355	1	210
+359	1	210
+373	1	210
+386	1	210
+395	1	210
+398	1	210
+475	1	210
+545	1	210
+552	2	210
+587	1	210
+605	1	210
+613	1	210
+614	2	210
+638	1	210
+658	1	210
+716	1	210
+735	1	210
+747	1	210
+748	2	210
+750	1	210
+753	1	210
+760	1	210
+763	1	210
+766	1	210
+767	1	210
+774	1	210
+775	2	210
+782	2	210
+784	1	210
+788	5	210
+789	3	210
+793	1	210
+800	1	210
+808	1	210
+837	1	210
+905	1	210
+925	1	210
+953	1	210
+977	2	210
+983	1	210
+986	1	210
+1016	1	210
+1023	1	210
+1030	1	210
+1050	1	210
+1055	3	210
+1056	1	210
+1083	1	210
+1086	1	210
+1087	1	210
+1090	1	210
+1135	1	210
+1254	1	210
+1260	1	210
+1275	1	210
+1276	1	210
+1278	1	210
+1280	1	210
+1285	1	210
+1286	1	210
+1287	1	210
+1291	1	210
+1302	1	210
+1335	1	210
+1361	1	210
+1369	1	210
+1390	1	210
+1397	1	210
+1400	1	210
+1404	2	210
+1417	1	210
+1428	1	210
+1432	1	210
+1451	1	210
+1451	1	210

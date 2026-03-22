@@ -1,0 +1,25 @@
+Backed up by numerical data  derived from an ASLIB analysis of the planned
+world-wide system of UNISIST, the author critically investigates the claimed
+university of the U.D.C.  According to it, the so-called "Universal Decimal
+Classification" proves to be fragmentary.  Terminological aspects are not
+provided for, hierarchical order often is fictitious, and the representation
+of special fields is inadequate.  For the purpose of reforming the Decimal
+Classification, a reconstruction scheme is suggested, consisting of free
+facets, with the aid of which special classifications can be compiled,
+according to the modular principle.
+.X
+75	1	1074
+154	2	1074
+477	1	1074
+838	2	1074
+898	1	1074
+989	1	1074
+1074	6	1074
+1075	3	1074
+1077	1	1074
+1391	2	1074
+1402	2	1074
+1413	1	1074
+1429	2	1074
+1430	2	1074
+1430	2	1074

@@ -1,0 +1,195 @@
+The cost-performance evaluation of the SUPARS system is reported.. SUPARS 
+was an on-line, free-text bibliographic  retrieval system; cost-effectiveness 
+data of such systems are not readily available.. In our evaluation, two 
+measures of cost were employed: a computer processing charge expressed in 
+dollars, and the number of documents retrieved (a measure of work that must be 
+expended to review the retrieved items).. The measure of performance was an 
+estimate of the recall ratio..
+   To obtain the requisite measures an experimental plan was developed in which 
+experts searched the data base of Psychological Abstracts forming their queries
+from written statements of information needs.. These statements (along with the 
+list of documents relevant to them) were produced by people with information
+problems.. Tallies were kept of the number of documents retrieved before each 
+of the designed relevant items were found.. The major findings are noted 
+below..
+   (1) Queries to the system employing simple Boolean operators (AND, OR) have
+better cost-performance characteristics than queries using more elegant 
+searching operators..
+   (2) On-demand access to the index or dictionary contributes sizeably to
+improving the cost-performance of the system..
+   (3) The argument is raised that human factors, such as the differences among
+users of a system, probably should be a major factor in the design, operation 
+and evaluation of retrieval systems.. It appears that consideration of these 
+factors will improve system cost-performance..
+.X
+18	1	523
+75	1	523
+124	2	523
+125	2	523
+127	1	523
+129	1	523
+145	1	523
+164	1	523
+165	1	523
+172	1	523
+178	1	523
+190	1	523
+191	1	523
+197	1	523
+211	2	523
+214	1	523
+218	1	523
+243	1	523
+307	1	523
+318	1	523
+330	1	523
+332	1	523
+374	1	523
+378	2	523
+381	1	523
+419	1	523
+440	1	523
+444	1	523
+445	1	523
+447	1	523
+448	1	523
+449	1	523
+450	1	523
+451	1	523
+452	3	523
+453	1	523
+459	1	523
+467	1	523
+468	4	523
+481	1	523
+484	3	523
+491	1	523
+492	1	523
+495	1	523
+506	1	523
+507	1	523
+508	4	523
+511	3	523
+512	2	523
+514	2	523
+516	1	523
+517	1	523
+518	3	523
+520	3	523
+521	2	523
+522	1	523
+523	11	523
+524	2	523
+525	1	523
+526	4	523
+527	1	523
+528	3	523
+529	2	523
+530	1	523
+532	1	523
+534	2	523
+546	2	523
+547	2	523
+553	1	523
+554	1	523
+575	1	523
+576	1	523
+579	2	523
+580	1	523
+594	3	523
+603	1	523
+604	2	523
+606	3	523
+609	2	523
+610	2	523
+611	1	523
+612	2	523
+615	1	523
+619	1	523
+622	1	523
+623	2	523
+625	3	523
+626	3	523
+629	1	523
+630	2	523
+631	1	523
+632	1	523
+633	1	523
+634	1	523
+636	2	523
+637	2	523
+642	1	523
+648	1	523
+650	1	523
+692	1	523
+696	1	523
+699	2	523
+700	2	523
+703	1	523
+705	3	523
+707	2	523
+708	1	523
+723	1	523
+726	2	523
+727	3	523
+728	2	523
+729	1	523
+730	1	523
+731	2	523
+732	1	523
+733	1	523
+734	1	523
+736	1	523
+738	1	523
+739	1	523
+740	1	523
+741	1	523
+742	1	523
+743	1	523
+744	1	523
+754	2	523
+755	1	523
+812	2	523
+813	1	523
+814	1	523
+817	1	523
+820	2	523
+822	2	523
+824	1	523
+826	2	523
+827	1	523
+830	1	523
+866	1	523
+870	1	523
+873	1	523
+875	1	523
+879	1	523
+883	1	523
+907	1	523
+1004	1	523
+1035	1	523
+1078	3	523
+1089	2	523
+1091	2	523
+1143	1	523
+1207	1	523
+1264	3	523
+1297	1	523
+1302	1	523
+1303	4	523
+1327	2	523
+1356	2	523
+1364	2	523
+1366	2	523
+1367	2	523
+1368	3	523
+1370	1	523
+1372	2	523
+1373	1	523
+1374	3	523
+1375	1	523
+1376	1	523
+1377	1	523
+1396	1	523
+1427	1	523
+1427	1	523

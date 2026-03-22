@@ -1,0 +1,78 @@
+The problem studied in this research is that of developing a set of
+formal statistical rules for the purpose of identifying the keywords of
+a document--words likely to be useful as index terms for that document..
+The research was prompted by the observation, made by a number of writers,
+that non-specialty words, words which possess little value for indexing
+purposes, tend to be distributed at random in a collection of documents..
+In contrast, specialty words are not so distributed..
+   In Part I of the study, a mixture of two Poisson distributions is 
+examined in detail as a model of specialty word distribution, and formulas
+expressing the three parameters of the model in terms of empirical
+frequency statistics are derived.. The fit of the model is tested on an
+experimental document collection and found to be acceptable for the
+purposes of the study.. A measure intended to identify specialty words, 
+consistent with the 2-Poisson model, is proposed and evaluated..
+.X
+57	1	649
+73	2	649
+75	1	649
+79	1	649
+125	1	649
+127	1	649
+129	1	649
+175	1	649
+274	1	649
+315	1	649
+363	1	649
+390	1	649
+419	1	649
+422	1	649
+432	1	649
+441	1	649
+445	1	649
+449	1	649
+460	1	649
+461	1	649
+519	1	649
+531	1	649
+575	1	649
+577	3	649
+580	1	649
+622	1	649
+625	1	649
+634	1	649
+641	1	649
+642	1	649
+643	3	649
+644	4	649
+645	2	649
+646	1	649
+649	5	649
+650	2	649
+652	1	649
+660	2	649
+708	1	649
+709	1	649
+736	1	649
+737	1	649
+738	1	649
+739	1	649
+741	1	649
+752	2	649
+754	1	649
+755	1	649
+780	3	649
+785	1	649
+812	2	649
+824	1	649
+825	1	649
+829	2	649
+830	2	649
+895	2	649
+956	1	649
+1282	2	649
+1294	1	649
+1307	1	649
+1374	1	649
+1376	1	649
+1376	1	649

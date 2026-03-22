@@ -1,0 +1,26 @@
+The author outlines a plan for the systematic handling of bibliographical
+data from the time a book is printed anywhere in the world until its 
+cataloguing in the libraries.. The various problems are set forth and possible 
+solutions proposed..
+.X
+172	1	1433
+177	1	1433
+246	2	1433
+333	1	1433
+365	1	1433
+453	1	1433
+652	1	1433
+825	1	1433
+856	1	1433
+886	1	1433
+888	1	1433
+913	1	1433
+943	1	1433
+963	1	1433
+1004	1	1433
+1013	1	1433
+1257	1	1433
+1258	1	1433
+1433	7	1433
+1441	1	1433
+1441	1	1433

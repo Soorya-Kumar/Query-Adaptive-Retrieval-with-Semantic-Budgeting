@@ -1,0 +1,57 @@
+This inquiry examines a technique for automatically classifying (indexing)
+documents according to their subject content.. The task, in essence, is to have
+a computing machine read a document and on the basis of the occurrence of 
+selected clue words decide to which of many subject categories the document in
+question belongs.. This paper describes the design, execution and evaluation of 
+a modest experimental study aimed at testing empirically one statistical 
+technique for automatic indexing..
+.X
+26	4	662
+39	1	662
+45	3	662
+51	2	662
+61	1	662
+69	1	662
+114	2	662
+144	1	662
+150	1	662
+174	2	662
+175	3	662
+176	2	662
+310	1	662
+315	1	662
+328	1	662
+419	4	662
+420	3	662
+421	1	662
+422	2	662
+454	1	662
+458	2	662
+479	2	662
+483	1	662
+485	2	662
+503	1	662
+562	2	662
+564	4	662
+565	1	662
+566	1	662
+577	3	662
+644	1	662
+660	5	662
+661	2	662
+662	12	662
+663	4	662
+664	3	662
+666	1	662
+769	2	662
+780	1	662
+812	1	662
+824	1	662
+1144	1	662
+1218	1	662
+1279	1	662
+1282	1	662
+1327	2	662
+1382	1	662
+1419	1	662
+1419	1	662

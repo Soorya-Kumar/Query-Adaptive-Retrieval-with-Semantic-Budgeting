@@ -1,0 +1,19 @@
+A fuzzy mapping from X to Y is a fuzzy set on X * Y.. The concept is 
+extended to fuzzy mappings of fuzzy set on X to Y, fuzzy function and its 
+inverse, fuzzy parametric function, fuzzy observation, and control.. Set
+theoretical relations are obtained for fuzzy mappings, fuzzy functions, and 
+fuzzy parametric functions.. It is shown that under certain conditions a 
+precise control goal can be attained with fuzzy observation and control as long 
+as the observations become sufficiently precise when the goal is approached..
+.X
+397	3	430
+417	3	430
+430	5	430
+443	4	430
+455	5	430
+464	4	430
+745	4	430
+1204	3	430
+1398	4	430
+1427	3	430
+1427	3	430

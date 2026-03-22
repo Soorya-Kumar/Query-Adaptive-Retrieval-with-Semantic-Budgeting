@@ -1,0 +1,107 @@
+In trying to give an account of the statistical properties of
+language, one is faced with the problem of having to find the
+common thread which would show the many and multifarious forms
+of language statistics - embodied in scattered papers written
+by linguists, philosophers, mathematicians, engineers, each using
+his own professional idiom as belonging to one great whole:
+quantitative linguistics.
+  The book stresses the peculiarity of statistics of language
+structure as against just conventional statistics.  To put the
+difference between two types of statistics briefly, the latter comprises
+the methods and parameters of general number statistics as applied, e.g., in
+Economics and Demography, the former has its own methods and characterising
+parameters, particularly useful for describing and evaluating language
+structure.  The idea of statistical linguistics as using concepts and
+methods of its own, which was adumbrated in the author's "Language as
+choice and Chance", 1956, has now taken definite shape.
+  Of this development I shall try to give a brief account.  In my book,
+"Language as Choice and Chance", the foundation was laid for a truly
+sensible application of statistics to language by my interpretation
+of the langue-parole dichotomy as being essentially that between statistical
+universe and sample.
+.X
+19	7	19
+37	1	19
+39	1	19
+40	1	19
+44	1	19
+47	1	19
+88	1	19
+97	1	19
+102	1	19
+103	1	19
+228	2	19
+229	1	19
+233	1	19
+253	1	19
+313	1	19
+318	1	19
+321	2	19
+324	1	19
+329	2	19
+359	1	19
+377	1	19
+379	1	19
+395	1	19
+416	2	19
+441	1	19
+442	1	19
+450	1	19
+495	1	19
+505	1	19
+511	1	19
+521	1	19
+524	1	19
+560	1	19
+563	1	19
+565	1	19
+567	1	19
+573	1	19
+592	1	19
+618	1	19
+632	1	19
+635	1	19
+667	1	19
+700	1	19
+748	1	19
+749	1	19
+751	1	19
+764	1	19
+765	1	19
+777	1	19
+778	1	19
+782	1	19
+791	1	19
+804	1	19
+805	1	19
+835	1	19
+851	1	19
+862	1	19
+875	1	19
+893	1	19
+952	1	19
+1016	1	19
+1061	1	19
+1085	1	19
+1086	1	19
+1087	1	19
+1182	1	19
+1194	1	19
+1199	2	19
+1200	1	19
+1274	1	19
+1277	1	19
+1278	1	19
+1280	1	19
+1287	1	19
+1301	1	19
+1302	1	19
+1304	1	19
+1313	1	19
+1338	1	19
+1344	1	19
+1347	1	19
+1380	1	19
+1428	1	19
+1444	1	19
+1444	1	19

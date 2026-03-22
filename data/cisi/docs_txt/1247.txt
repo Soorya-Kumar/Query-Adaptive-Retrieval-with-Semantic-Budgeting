@@ -1,0 +1,78 @@
+This volume is intended as a means of exploration for the practicing
+librarian and as a textbook for the library school student.  It will try
+to draw attention to significant social, behavioral, theoretical, 
+organizational, functional, and operational generalizations about library
+interrelationships; and to suggest a sense of the total fabric of the
+cooperative endeavor.  It does not aim at identifying and incorporating
+the forms and the range of library cooperation in which individual libraries
+seek to extend the limits of their separate capabilities.
+.X
+9	1	1247
+92	1	1247
+119	1	1247
+122	1	1247
+207	1	1247
+222	1	1247
+223	1	1247
+249	1	1247
+250	1	1247
+295	1	1247
+296	1	1247
+297	1	1247
+298	2	1247
+300	1	1247
+301	1	1247
+302	1	1247
+303	1	1247
+340	1	1247
+353	1	1247
+358	1	1247
+364	1	1247
+365	1	1247
+375	1	1247
+394	2	1247
+431	2	1247
+453	1	1247
+515	1	1247
+526	1	1247
+528	1	1247
+535	1	1247
+612	1	1247
+625	1	1247
+629	1	1247
+631	1	1247
+634	1	1247
+791	1	1247
+811	1	1247
+816	1	1247
+818	1	1247
+823	1	1247
+843	1	1247
+844	1	1247
+846	1	1247
+872	3	1247
+915	1	1247
+940	1	1247
+961	1	1247
+962	1	1247
+964	1	1247
+981	1	1247
+994	1	1247
+1008	1	1247
+1011	1	1247
+1013	1	1247
+1015	1	1247
+1143	1	1247
+1242	1	1247
+1247	8	1247
+1257	1	1247
+1258	1	1247
+1264	1	1247
+1268	1	1247
+1354	2	1247
+1367	1	1247
+1390	1	1247
+1410	1	1247
+1435	1	1247
+1436	1	1247
+1436	1	1247

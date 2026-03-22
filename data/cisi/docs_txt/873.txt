@@ -1,0 +1,138 @@
+Under the auspices of the International Federation of Library Association's
+Committees on Cataloging and Mechanization, an International Working Group on
+Content Designators was formed to attempt to resolve the differences in the 
+content designators assigned by national agencies to their machine-readable 
+bibliographic records..
+   All working papers emanating from the IFLA Working Group will be submitted
+to the International Standards Organization Technical Committee 46, Subcommittee 
+4, Working Group on Content Designators..
+   Prior to any attempt to standardize the content designators for the 
+international exchange of bibliographic data in machine-readable form, it is 
+necessary to agree on certain basic points from which all future work will be 
+derived.. This first working paper is a statement of: 1) the obstacles that 
+presently exist which prevent the effective international interchange of
+bibliographic data in machine-readable form; 2) the score of concern for the
+IFLA Working Group; and 3) the definition of terms included in the broader term
+"content designators"..
+   If an international standard format can be derived, it would greatly 
+facilitate the use in this country of machine-readable bibliographic records
+issued by other national agencies.. It should also contribute significantly to 
+the expansion of MARC to other languages by the Library of Congress..
+.X
+18	1	873
+121	1	873
+125	1	873
+141	2	873
+145	1	873
+211	1	873
+244	1	873
+299	2	873
+333	1	873
+365	1	873
+378	1	873
+440	1	873
+452	1	873
+453	1	873
+467	1	873
+468	1	873
+495	1	873
+506	1	873
+508	1	873
+511	1	873
+512	1	873
+514	1	873
+517	1	873
+520	1	873
+521	1	873
+522	1	873
+523	1	873
+524	1	873
+526	1	873
+528	1	873
+529	1	873
+530	1	873
+541	1	873
+576	1	873
+580	1	873
+604	1	873
+609	1	873
+612	1	873
+619	1	873
+622	1	873
+623	1	873
+627	1	873
+628	1	873
+629	1	873
+630	1	873
+631	1	873
+632	1	873
+633	1	873
+699	1	873
+700	1	873
+705	1	873
+707	1	873
+723	1	873
+726	1	873
+727	1	873
+728	1	873
+729	1	873
+730	1	873
+731	1	873
+754	1	873
+812	1	873
+813	1	873
+814	1	873
+820	1	873
+822	2	873
+854	1	873
+866	1	873
+870	1	873
+871	1	873
+872	1	873
+873	5	873
+874	2	873
+875	2	873
+876	2	873
+877	1	873
+878	1	873
+879	1	873
+880	1	873
+881	1	873
+892	2	873
+919	1	873
+920	1	873
+921	1	873
+940	1	873
+941	2	873
+990	1	873
+994	2	873
+995	1	873
+996	1	873
+997	2	873
+998	2	873
+1042	1	873
+1078	1	873
+1079	2	873
+1089	1	873
+1091	1	873
+1143	2	873
+1153	1	873
+1189	1	873
+1230	1	873
+1251	1	873
+1257	1	873
+1264	1	873
+1302	1	873
+1303	2	873
+1351	1	873
+1366	1	873
+1367	1	873
+1368	1	873
+1396	3	873
+1420	1	873
+1434	1	873
+1435	2	873
+1436	1	873
+1441	1	873
+1442	1	873
+1442	1	873

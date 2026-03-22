@@ -1,0 +1,56 @@
+The different between pertinence and relevance is discussed.. Other pairs of
+terms and the differences between their members are examined, and the 
+suggestion is made that such studies could increase our understanding of the 
+theory of information systems, and hence lead to practical improvements.. Some
+examples are considered, among them the use of "personality profiles" to 
+improve the pertinence effectiveness of systems..
+.X
+29	1	532
+35	1	532
+42	1	532
+43	1	532
+58	1	532
+70	1	532
+84	1	532
+124	1	532
+444	2	532
+445	2	532
+447	2	532
+449	2	532
+459	1	532
+474	1	532
+486	1	532
+514	1	532
+523	1	532
+532	5	532
+533	1	532
+554	1	532
+594	1	532
+604	1	532
+611	1	532
+625	2	532
+646	1	532
+660	1	532
+728	1	532
+733	1	532
+762	1	532
+764	1	532
+826	1	532
+893	1	532
+1016	1	532
+1030	1	532
+1045	1	532
+1084	1	532
+1094	1	532
+1138	1	532
+1195	1	532
+1201	1	532
+1235	1	532
+1263	1	532
+1281	1	532
+1285	1	532
+1303	1	532
+1327	1	532
+1357	1	532
+1405	1	532
+1405	1	532

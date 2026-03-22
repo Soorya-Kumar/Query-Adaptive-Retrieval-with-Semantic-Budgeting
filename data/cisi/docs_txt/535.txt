@@ -1,0 +1,49 @@
+This book is concerned with the practices of information transfer and use.
+It examines information science for the purpose of control of the information
+"flood" through systems, services, and centers.  The book is designed as a 
+text for use at the university level and as a reference source for working
+information scientists and specialists, for documentalists, for engineers
+and for researchers in the physical, life, and social sciences.
+.X
+5	1	535
+9	1	535
+207	1	535
+222	1	535
+223	1	535
+296	1	535
+297	1	535
+298	1	535
+300	1	535
+301	1	535
+302	1	535
+358	1	535
+364	1	535
+408	1	535
+515	1	535
+535	7	535
+553	1	535
+554	1	535
+598	1	535
+625	1	535
+629	1	535
+631	1	535
+634	1	535
+791	1	535
+811	1	535
+816	1	535
+818	1	535
+823	1	535
+843	1	535
+844	1	535
+846	1	535
+915	1	535
+961	1	535
+962	1	535
+964	1	535
+994	1	535
+1015	1	535
+1242	1	535
+1247	1	535
+1268	1	535
+1354	1	535
+1354	1	535

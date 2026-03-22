@@ -1,0 +1,77 @@
+A combination of quantitative and qualitative analyses were used on the
+journal articles indexed in one volume of Library Literature.. Findings
+include: the dispersion of a articles among journals followed a Bradford-type
+distribution except for a "collapse" at the end, possibly showing low level of
+interaction of librarianship with other fields; considerable proportion of
+articles was of news-type; administration was the largest single subject 
+covered.. The methodology may be appropriate for analysis of activities in 
+other fields..
+.X
+19	1	573
+37	1	573
+39	1	573
+40	1	573
+47	1	573
+55	1	573
+88	1	573
+97	1	573
+102	1	573
+103	1	573
+233	1	573
+253	1	573
+313	1	573
+314	1	573
+359	4	573
+377	1	573
+379	1	573
+395	1	573
+487	1	573
+505	2	573
+515	1	573
+560	1	573
+573	6	573
+616	1	573
+618	1	573
+632	1	573
+635	1	573
+667	1	573
+748	3	573
+749	1	573
+751	4	573
+759	1	573
+764	1	573
+765	3	573
+777	1	573
+778	4	573
+782	1	573
+791	1	573
+804	1	573
+805	1	573
+893	1	573
+952	1	573
+1016	4	573
+1061	1	573
+1083	1	573
+1084	1	573
+1085	3	573
+1086	2	573
+1087	1	573
+1090	1	573
+1182	2	573
+1200	1	573
+1274	1	573
+1277	1	573
+1278	1	573
+1280	1	573
+1287	1	573
+1301	1	573
+1302	1	573
+1304	1	573
+1313	1	573
+1338	1	573
+1344	1	573
+1347	1	573
+1380	1	573
+1428	1	573
+1444	1	573
+1444	1	573

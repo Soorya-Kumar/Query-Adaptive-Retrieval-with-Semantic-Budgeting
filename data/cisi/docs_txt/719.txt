@@ -1,0 +1,32 @@
+Scientists are worried about the "information explosion" and the amount of
+published literature that could have a significant impact on their work. One
+thing that can help is a condensation and evaluation of the published material.
+This is the task of reviews, and without them, the other tools for dealing with
+the information explosion will be inadequate. Suggestions are made on ways for
+authors and editors to make their reviews more eccessible and more useful and on 
+the need for better education of users.
+.X
+59	1	719
+63	1	719
+175	1	719
+347	1	719
+355	2	719
+481	1	719
+482	1	719
+717	1	719
+718	4	719
+719	5	719
+958	2	719
+980	1	719
+1010	1	719
+1042	1	719
+1051	1	719
+1094	1	719
+1099	1	719
+1102	1	719
+1107	1	719
+1179	1	719
+1410	1	719
+1415	1	719
+1426	1	719
+1426	1	719

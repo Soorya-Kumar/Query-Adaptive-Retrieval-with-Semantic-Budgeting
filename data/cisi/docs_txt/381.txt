@@ -1,0 +1,132 @@
+The continuing need to put scientists in contact with the research of
+others, coupled with the rapidly expanding volume of published
+material during the past several decades, has placed new emphasis on
+the old arts of assembling, coding, and disseminating recorded
+knowledge.  In some instances, the emphasis has manifested itself in
+research on improvement of traditional library systems.  In other
+instances, it has resulted in the assembly of specialized collections and
+their intensive indexing for access in a variety of ways.  Still other
+systems have progressed from the passive role of responding to
+requests to the active role of supplying documents, or references to
+them, to researchers as the documents become available.  For lack of a
+more descriptive terminology, all of these activities are referred to in
+this book as "document transfer systems," implying that the product
+being retrieved (or disseminated) is a document rather than the
+information (if any) in it.  That is, intelligence systems or fact retrieval
+systems (if facts are indeed retrieved) are excluded from our concern.
+The document, of course, may be a book, a journal article, a drawing,
+an abstract, a piece of film, or a piece of magnetic tape.
+.X
+28	1	381
+73	1	381
+74	1	381
+83	1	381
+124	1	381
+125	1	381
+157	1	381
+165	1	381
+175	1	381
+213	1	381
+224	1	381
+245	1	381
+273	1	381
+279	1	381
+288	1	381
+298	1	381
+331	1	381
+381	17	381
+382	2	381
+389	1	381
+408	1	381
+445	1	381
+448	1	381
+452	1	381
+456	1	381
+458	1	381
+468	1	381
+484	1	381
+490	2	381
+491	1	381
+496	1	381
+506	1	381
+511	1	381
+514	2	381
+516	1	381
+518	2	381
+521	1	381
+522	1	381
+523	1	381
+526	1	381
+527	1	381
+528	1	381
+529	1	381
+554	1	381
+575	2	381
+579	1	381
+591	4	381
+592	1	381
+595	2	381
+599	1	381
+603	1	381
+610	1	381
+615	3	381
+619	1	381
+620	1	381
+621	1	381
+625	2	381
+626	1	381
+630	1	381
+636	1	381
+639	1	381
+646	1	381
+676	1	381
+696	1	381
+700	1	381
+705	1	381
+707	1	381
+723	2	381
+724	1	381
+727	1	381
+752	2	381
+754	1	381
+779	1	381
+780	1	381
+785	2	381
+812	1	381
+817	1	381
+820	1	381
+822	4	381
+824	1	381
+827	1	381
+829	1	381
+834	1	381
+860	1	381
+875	1	381
+895	1	381
+907	1	381
+925	1	381
+957	1	381
+976	1	381
+986	1	381
+1065	1	381
+1078	1	381
+1091	1	381
+1148	1	381
+1227	1	381
+1279	1	381
+1282	2	381
+1303	1	381
+1317	1	381
+1327	1	381
+1353	1	381
+1359	1	381
+1360	1	381
+1364	1	381
+1366	1	381
+1367	1	381
+1368	1	381
+1400	1	381
+1410	1	381
+1424	1	381
+1448	1	381
+1448	1	381

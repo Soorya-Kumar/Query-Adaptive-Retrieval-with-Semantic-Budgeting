@@ -1,0 +1,96 @@
+A new concept in science communication will be given its first test in
+calendar year 1972.. Primary and secondary contents of a selected subset of 
+the world's journal literature in physics will be provided in a variety of
+output formats.. Among them are a monthly microfilm containing the full texts
+of all articles in the set of journals (Current Physics Microform); an advance
+abstracts journal describing the articles (Current Physics Advance Abstracts);
+a printed, classified index of the titles of the articles (Current Physics 
+Titles); and a computer tape index to the articles (Searchable Physics 
+Information Notices)..
+.X
+18	1	1299
+34	1	1299
+49	1	1299
+53	1	1299
+59	1	1299
+161	1	1299
+164	1	1299
+197	1	1299
+202	1	1299
+213	1	1299
+224	1	1299
+243	1	1299
+375	1	1299
+421	1	1299
+445	1	1299
+454	1	1299
+465	1	1299
+466	1	1299
+472	1	1299
+490	1	1299
+491	1	1299
+503	1	1299
+506	2	1299
+507	2	1299
+510	1	1299
+512	1	1299
+554	1	1299
+579	1	1299
+591	2	1299
+593	1	1299
+594	1	1299
+595	2	1299
+596	1	1299
+597	1	1299
+599	1	1299
+600	1	1299
+603	2	1299
+604	2	1299
+606	1	1299
+622	1	1299
+623	1	1299
+629	1	1299
+633	1	1299
+639	1	1299
+659	1	1299
+676	1	1299
+685	1	1299
+711	1	1299
+722	1	1299
+723	2	1299
+724	1	1299
+726	1	1299
+728	1	1299
+730	1	1299
+731	1	1299
+732	1	1299
+801	1	1299
+805	1	1299
+806	1	1299
+809	1	1299
+810	1	1299
+813	1	1299
+814	1	1299
+820	1	1299
+822	1	1299
+828	1	1299
+836	1	1299
+866	1	1299
+867	1	1299
+870	1	1299
+879	1	1299
+956	1	1299
+989	1	1299
+1091	1	1299
+1208	2	1299
+1283	1	1299
+1298	2	1299
+1299	6	1299
+1327	1	1299
+1363	1	1299
+1366	1	1299
+1367	1	1299
+1368	1	1299
+1396	1	1299
+1405	1	1299
+1405	1	1299

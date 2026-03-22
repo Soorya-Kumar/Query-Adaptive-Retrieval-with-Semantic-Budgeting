@@ -1,0 +1,134 @@
+To index successfully in the Defense Documentation Center's environment, an
+automated system must chose single words or phrases (dependent upon context)
+rapidly and economically.. The automation of DDC's indexing has been 
+machine-aided from its inception.. A machine-aided indexing (MAI) system is 
+described that indexes one million words of text per hour of CPU time.. 
+Grammatical errors do not exceed five per cent of the output, so human 
+screening is satisfactorily low.. The system could potentially scale up to an
+operational size of 10 million words of text per year - the equivalent of a
+dozen bibles or a third of the Encyclopedia Britannica.. In a batch mode, the
+programs to accomplish this indexing would require no more than fifteen minutes
+of CPU time per week..
+.X
+18	1	517
+51	1	517
+69	1	517
+71	1	517
+77	1	517
+79	1	517
+125	1	517
+145	1	517
+168	1	517
+174	1	517
+175	3	517
+176	2	517
+211	1	517
+315	1	517
+332	1	517
+378	1	517
+382	1	517
+440	1	517
+446	2	517
+448	1	517
+452	1	517
+453	1	517
+467	1	517
+468	1	517
+480	1	517
+483	1	517
+484	1	517
+486	1	517
+488	1	517
+489	1	517
+491	1	517
+493	2	517
+495	1	517
+499	2	517
+500	2	517
+503	2	517
+506	1	517
+507	1	517
+508	1	517
+509	1	517
+510	1	517
+511	1	517
+512	2	517
+514	1	517
+517	7	517
+520	2	517
+521	1	517
+522	2	517
+523	1	517
+524	1	517
+526	1	517
+527	3	517
+528	2	517
+531	1	517
+565	1	517
+566	1	517
+576	3	517
+580	1	517
+581	1	517
+589	1	517
+596	1	517
+603	1	517
+604	1	517
+608	1	517
+609	1	517
+612	1	517
+619	1	517
+622	1	517
+623	1	517
+629	1	517
+631	1	517
+632	1	517
+633	2	517
+657	1	517
+659	1	517
+699	1	517
+700	1	517
+705	1	517
+707	1	517
+715	1	517
+723	1	517
+726	1	517
+727	1	517
+728	1	517
+729	1	517
+730	1	517
+731	1	517
+754	2	517
+790	1	517
+805	1	517
+809	1	517
+810	1	517
+812	2	517
+813	2	517
+814	2	517
+817	1	517
+820	1	517
+822	1	517
+824	1	517
+825	1	517
+830	1	517
+866	1	517
+870	1	517
+873	1	517
+894	1	517
+1051	1	517
+1078	1	517
+1089	1	517
+1091	1	517
+1143	1	517
+1264	1	517
+1294	1	517
+1302	1	517
+1303	1	517
+1327	2	517
+1366	1	517
+1367	1	517
+1368	1	517
+1396	1	517
+1419	1	517
+1427	1	517
+1427	1	517

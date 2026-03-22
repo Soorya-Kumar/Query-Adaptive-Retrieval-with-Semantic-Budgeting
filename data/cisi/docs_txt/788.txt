@@ -1,0 +1,153 @@
+The paper presents the results of a survey of the use of social science 
+periodicals carried out at the National Lending Library during a period of four 
+weeks in 1968..
+   Three-quarters of the requests came from universities and industrial 
+organizations and over 90% of the requests were for English language 
+publications.. Over a fifth of the requests were for seventeen titles.. There
+were marked variations in the subject matter requested by different types of
+organizations and although the overall 'half-life' of the literature proved to
+be 3 1/2 years this figure varied considerably from one subject to another..
+   Concerning the sources of references, it was discovered that compared with
+scientists and technologists social scientists make relatively little use of
+abstracting and indexing publications..
+   Appendixes include a copy of the questionnaire used in the survey, a list of
+title requested six or more times, and a list of abstracting and indexing 
+publications cited five or more times as sources of references..
+.X
+2	1	788
+10	1	788
+24	1	788
+33	1	788
+36	1	788
+41	1	788
+62	1	788
+65	1	788
+66	1	788
+71	1	788
+72	1	788
+73	1	788
+74	1	788
+75	2	788
+76	2	788
+77	1	788
+78	1	788
+79	1	788
+81	1	788
+82	1	788
+83	1	788
+86	1	788
+89	1	788
+97	1	788
+102	1	788
+110	1	788
+111	2	788
+112	1	788
+132	1	788
+137	2	788
+139	1	788
+147	1	788
+152	1	788
+153	1	788
+155	2	788
+156	1	788
+163	1	788
+183	2	788
+184	1	788
+193	1	788
+195	1	788
+199	1	788
+203	2	788
+204	1	788
+210	5	788
+211	1	788
+212	1	788
+225	1	788
+245	1	788
+269	1	788
+277	1	788
+278	1	788
+279	2	788
+280	2	788
+355	1	788
+359	1	788
+373	1	788
+386	1	788
+395	1	788
+398	1	788
+475	2	788
+486	1	788
+545	2	788
+552	2	788
+587	1	788
+605	1	788
+613	1	788
+614	1	788
+638	1	788
+658	2	788
+716	1	788
+720	1	788
+735	1	788
+747	1	788
+748	2	788
+750	1	788
+753	1	788
+760	2	788
+763	1	788
+766	1	788
+767	1	788
+771	1	788
+774	1	788
+775	2	788
+782	2	788
+784	1	788
+785	1	788
+786	1	788
+787	2	788
+788	18	788
+789	7	788
+791	1	788
+793	1	788
+800	1	788
+808	1	788
+837	1	788
+840	1	788
+905	1	788
+925	2	788
+953	1	788
+977	2	788
+983	1	788
+984	1	788
+986	1	788
+1016	1	788
+1023	1	788
+1030	1	788
+1050	1	788
+1055	3	788
+1056	1	788
+1083	1	788
+1085	1	788
+1087	1	788
+1090	1	788
+1135	1	788
+1254	2	788
+1260	1	788
+1275	2	788
+1276	1	788
+1278	1	788
+1280	1	788
+1285	1	788
+1286	1	788
+1287	1	788
+1291	1	788
+1302	1	788
+1335	1	788
+1361	1	788
+1390	2	788
+1397	1	788
+1400	1	788
+1404	2	788
+1417	1	788
+1428	1	788
+1432	1	788
+1451	2	788
+1451	2	788

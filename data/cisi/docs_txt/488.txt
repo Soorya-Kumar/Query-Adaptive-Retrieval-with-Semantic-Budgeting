@@ -1,0 +1,96 @@
+This report summarizes the work carried out on the automatic construction of
+keyword classifications and their use in information retrieval that we have 
+carried out in the last eighteen months.. It discusses the possible 
+characteristics of such classifications, and potential ways of using them; and 
+described the various approaches to classification we have considered, in terms
+of an overall frame of reference in which several types of classification are 
+distinguished.. The results of experiments using a collection of documents and
+test requests obtained from the Aslib Clanfield project are presented, from 
+which it can be conclude that automatic classifications which lead to noticeable
+improvements in retrieval performance over those obtainable with unclassified 
+terms can be set up..
+.X
+38	1	488
+51	1	488
+69	1	488
+71	3	488
+77	2	488
+79	2	488
+84	1	488
+168	2	488
+175	3	488
+176	3	488
+315	1	488
+317	1	488
+320	1	488
+382	2	488
+389	1	488
+390	1	488
+448	2	488
+458	1	488
+479	1	488
+480	1	488
+483	1	488
+484	1	488
+485	1	488
+486	1	488
+488	8	488
+489	2	488
+490	1	488
+491	2	488
+492	1	488
+493	3	488
+494	1	488
+495	1	488
+496	1	488
+497	1	488
+498	1	488
+499	2	488
+500	1	488
+503	1	488
+507	1	488
+509	2	488
+510	1	488
+512	1	488
+517	1	488
+520	1	488
+522	1	488
+527	1	488
+528	1	488
+531	1	488
+565	3	488
+566	1	488
+570	3	488
+581	3	488
+583	1	488
+584	1	488
+586	1	488
+596	2	488
+603	1	488
+608	1	488
+633	1	488
+659	4	488
+715	1	488
+754	1	488
+790	2	488
+795	1	488
+801	1	488
+805	1	488
+809	1	488
+810	1	488
+812	1	488
+813	1	488
+814	1	488
+817	1	488
+824	1	488
+825	1	488
+894	1	488
+986	1	488
+1051	1	488
+1255	1	488
+1294	4	488
+1327	1	488
+1419	1	488
+1427	1	488
+1443	1	488
+1443	1	488

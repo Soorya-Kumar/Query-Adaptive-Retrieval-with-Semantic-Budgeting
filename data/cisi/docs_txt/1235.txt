@@ -1,0 +1,51 @@
+Natural Science, whose internal development for three
+centuries is so uniform, well-documented and relatively self-
+generating, is an obvious candidate for such treatment.  And
+having noticed the intellectual connections between the ideas
+of various scholars, we must surely pass on to an investigation 
+of the social relations through which those connections are
+established.  How do scientists teach, communicate with, promote,
+criticize, honour, give ear to, give patronage to, one another?
+What is the nature of the community to which they adhere? 
+.X
+15	1	1235
+29	1	1235
+35	1	1235
+40	1	1235
+42	1	1235
+43	1	1235
+58	1	1235
+70	1	1235
+84	1	1235
+102	1	1235
+105	1	1235
+444	1	1235
+445	1	1235
+447	1	1235
+449	1	1235
+474	1	1235
+486	1	1235
+532	1	1235
+625	1	1235
+660	1	1235
+762	1	1235
+764	1	1235
+893	1	1235
+952	1	1235
+953	1	1235
+958	1	1235
+1016	1	1235
+1030	2	1235
+1045	1	1235
+1084	1	1235
+1195	1	1235
+1201	1	1235
+1209	1	1235
+1235	5	1235
+1281	1	1235
+1285	1	1235
+1289	1	1235
+1290	1	1235
+1329	1	1235
+1387	1	1235
+1387	1	1235

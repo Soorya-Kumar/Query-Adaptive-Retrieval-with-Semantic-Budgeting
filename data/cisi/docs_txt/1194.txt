@@ -1,0 +1,36 @@
+This paper presents a method for compacting proper given names for computer
+storage.. The method presented uses x-grams which are combinations of from one
+to eight letters.. Rather than spelling names letter by letter, they are 
+"spelled" with x-grams..
+   An algorithm as been implemented in a computer program and used to obtain
+sets of x-grams for two large (42,165 and 43,875) given name samples.. Using
+the x-grams obtained, it was possible to represent the names from one sample in
+1.78 bits per original character and in 2.1 bits per original character in the
+second sample..
+.X
+19	1	1194
+228	3	1194
+318	1	1194
+321	2	1194
+324	1	1194
+329	2	1194
+416	3	1194
+442	3	1194
+450	2	1194
+495	2	1194
+511	3	1194
+524	3	1194
+563	1	1194
+565	1	1194
+567	1	1194
+835	2	1194
+851	2	1194
+862	2	1194
+867	1	1194
+875	1	1194
+1194	5	1194
+1196	1	1194
+1199	2	1194
+1396	1	1194
+1398	1	1194
+1398	1	1194

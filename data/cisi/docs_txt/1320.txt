@@ -1,0 +1,16 @@
+This study analyzes relations between professional employees,
+the professions to which they belong, and the organizations for
+which they work.
+.X
+99	1	1320
+101	1	1320
+102	2	1320
+170	1	1320
+1186	1	1320
+1320	7	1320
+1321	1	1320
+1337	1	1320
+1339	1	1320
+1347	1	1320
+1387	1	1320
+1387	1	1320

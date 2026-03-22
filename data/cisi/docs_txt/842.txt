@@ -1,0 +1,66 @@
+The kinds of information needed by managing librarians to make correct 
+decisions are considered, with emphasis on the value of current data on the 
+exceptional situation.. Management information in a library is of greatest use 
+in comparison, either internally, or with data from other libraries.. A simple,
+standard method of recording and costing is urged, so that librarians may 
+readily identify procedures requiring improvement..
+   Development of the present costing method is traced from its original state
+as a simple management information system based on exception reporting (i.e.
+reporting the exceptions which occur in any particular survey), through a pilot 
+study in a large university library, to its full installation in two further 
+university libraries.. The method of analyzing the raw data is described, and
+examples of the tables are given, together with brief background information on 
+the libraries concerned..
+   After a note on the limitations of the present costing method and of unit 
+costs in general, unit times and costs are given for numerous operations in 
+both the libraries surveyed, covering both reader and technical services.. There
+is agreement between results of several American studies and those of the 
+present investigation.. For further comparison, the information on times and
+salaries has been used in conjunction with a standard civil service costing
+procedure..
+.X
+4	1	842
+5	1	842
+83	1	842
+115	1	842
+153	1	842
+158	1	842
+234	1	842
+245	2	842
+249	1	842
+292	1	842
+293	1	842
+298	1	842
+311	1	842
+364	1	842
+365	1	842
+418	1	842
+764	1	842
+768	1	842
+774	1	842
+792	1	842
+811	2	842
+815	1	842
+816	2	842
+818	1	842
+823	3	842
+841	2	842
+842	9	842
+843	1	842
+844	1	842
+925	2	842
+944	1	842
+948	2	842
+994	1	842
+1023	1	842
+1069	1	842
+1070	1	842
+1214	1	842
+1232	1	842
+1236	1	842
+1242	1	842
+1257	1	842
+1317	2	842
+1400	1	842
+1401	1	842
+1401	1	842

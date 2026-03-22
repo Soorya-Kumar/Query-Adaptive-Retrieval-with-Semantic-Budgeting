@@ -1,0 +1,149 @@
+A major problem in the design of screening systems for substructure searches
+of chemical structure files is the development of a methodology for selection of
+an optimal set of structural characteristics to act as screens.  The set chosen
+for a particular application will depend on the characteristics of the
+collection, as well as on its size and growth rate.  A strategy which takes
+account of the disparate frequencies of the various species of fragments
+in a data-base by use of differential, and, in part, hierarchical levels of
+description is detailed.  The distributions of a variety of structural
+characteristics, including bond-centered, atom-centered, and ring fragments
+in a 30,000-compound sample of the Chemical Abstracts Service Registry System
+are summarized.  Implementation of the approach, using primarily bond-centered
+fragments, by means of simple and highly efficient computer programs, is
+detailed.
+.X
+18	1	700
+19	1	700
+116	1	700
+117	1	700
+124	1	700
+125	2	700
+145	1	700
+165	1	700
+211	1	700
+228	1	700
+229	1	700
+254	1	700
+321	1	700
+327	1	700
+329	2	700
+359	1	700
+378	1	700
+381	1	700
+416	1	700
+440	1	700
+448	1	700
+452	2	700
+453	1	700
+467	1	700
+468	1	700
+484	1	700
+495	1	700
+506	1	700
+508	1	700
+511	3	700
+512	1	700
+514	1	700
+516	1	700
+517	1	700
+518	1	700
+520	1	700
+521	3	700
+522	1	700
+523	2	700
+524	1	700
+526	2	700
+527	1	700
+528	2	700
+529	1	700
+568	1	700
+575	1	700
+576	1	700
+580	1	700
+604	1	700
+609	1	700
+610	1	700
+612	1	700
+615	1	700
+619	1	700
+622	1	700
+623	1	700
+625	1	700
+626	1	700
+629	1	700
+631	1	700
+632	1	700
+633	1	700
+636	1	700
+641	1	700
+643	1	700
+644	1	700
+668	1	700
+670	2	700
+671	1	700
+673	1	700
+677	1	700
+678	1	700
+679	1	700
+682	1	700
+689	1	700
+690	2	700
+693	1	700
+694	1	700
+695	1	700
+697	1	700
+698	1	700
+699	3	700
+700	9	700
+704	1	700
+705	2	700
+706	1	700
+707	3	700
+708	1	700
+709	1	700
+723	1	700
+726	1	700
+727	2	700
+728	1	700
+729	1	700
+730	2	700
+731	2	700
+737	2	700
+738	2	700
+754	2	700
+791	1	700
+812	2	700
+813	1	700
+814	1	700
+817	1	700
+820	1	700
+822	1	700
+824	1	700
+833	1	700
+866	1	700
+870	1	700
+872	1	700
+873	1	700
+875	1	700
+1026	1	700
+1044	1	700
+1072	1	700
+1078	1	700
+1089	1	700
+1091	1	700
+1092	1	700
+1143	1	700
+1196	1	700
+1199	1	700
+1264	1	700
+1292	1	700
+1302	1	700
+1303	2	700
+1327	1	700
+1364	1	700
+1366	2	700
+1367	2	700
+1368	2	700
+1396	1	700
+1452	2	700
+1452	2	700

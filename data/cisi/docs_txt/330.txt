@@ -1,0 +1,121 @@
+This document, Computer Readable Bibliographic Data Bases -- A Directory
+and Data Sourcebook not only updates the 1973 publication, which included 
+information on 81 data bases, but expands the coverage to 300 data bases and 
+includes considerably more information about the data bases.
+  Methodology used to obtain data involved:  (1) consulting published and
+unpublished sources; (2) design of a 13 page questionnaire; (3) mail survey;
+and (4) telephone follow up and verification.  The sources consulted were
+(1) the Survey of Commercially Available Computer-Readable Bibliographic
+Data Bases; (2) M.E. Williams' personal data base files which include
+information from the open literature, news releases, and personal contacts;
+(3) NEWSIDIC, April 1975 issue number 16, the quarterly newsletter produced
+by EUSIDIC which included a survey of computer readable bibliographic files;
+(4) the "World Inventory of Abstracting and Indexing Services--Data Elements
+Definition List;" and (5) the ASIDIC Survey of Information Center Services.
+.X
+124	1	330
+127	1	330
+128	1	330
+129	1	330
+190	1	330
+191	1	330
+197	1	330
+211	1	330
+214	1	330
+218	1	330
+243	1	330
+307	1	330
+330	6	330
+378	1	330
+450	1	330
+451	1	330
+452	1	330
+459	1	330
+468	1	330
+484	1	330
+492	1	330
+508	1	330
+511	1	330
+512	1	330
+514	1	330
+518	1	330
+520	1	330
+523	1	330
+524	1	330
+525	1	330
+526	1	330
+529	1	330
+530	1	330
+534	1	330
+546	1	330
+553	1	330
+579	1	330
+594	1	330
+603	1	330
+604	1	330
+606	1	330
+609	1	330
+610	1	330
+611	1	330
+612	1	330
+623	1	330
+625	1	330
+626	1	330
+630	1	330
+636	1	330
+637	1	330
+642	1	330
+648	1	330
+650	1	330
+692	1	330
+696	1	330
+699	1	330
+703	1	330
+705	1	330
+708	1	330
+726	1	330
+727	1	330
+728	1	330
+729	1	330
+731	1	330
+732	1	330
+733	1	330
+734	1	330
+736	1	330
+738	1	330
+739	1	330
+740	1	330
+741	1	330
+742	1	330
+743	1	330
+744	2	330
+748	1	330
+755	1	330
+757	1	330
+820	1	330
+826	1	330
+827	1	330
+831	1	330
+879	1	330
+883	1	330
+893	1	330
+1004	1	330
+1035	1	330
+1078	1	330
+1089	1	330
+1091	1	330
+1207	1	330
+1264	1	330
+1297	1	330
+1303	1	330
+1356	1	330
+1364	1	330
+1368	1	330
+1370	1	330
+1372	1	330
+1373	1	330
+1374	1	330
+1375	2	330
+1376	2	330
+1377	1	330
+1377	1	330

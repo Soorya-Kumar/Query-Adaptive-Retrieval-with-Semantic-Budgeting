@@ -1,0 +1,78 @@
+This book is directed both to advanced college students
+enrolled in sociology courses and to students of the other
+social sciences (such as anthropology, economics, history,
+and psychology) who are concerned with diffusion.  (For this 
+reason, sociological concepts are defined when they are
+introduced.)
+  More than five hundred publications on the diffusion of
+innovations are reviewed here.  The innovations studied range
+from new drugs among physicians to hand tools among primitive
+tribes, and from driver training among public high 
+schools to hybrid corn among farmers.  Although a generally
+consistent set of findings has emerged from these studies, a
+search of the literature shows little attempt to summarize and
+evaluate available results and theories on the spread of ideas.
+This volume synthesizes these findings and theories. 
+.X
+15	1	356
+89	2	356
+102	1	356
+105	3	356
+110	1	356
+111	1	356
+113	2	356
+139	1	356
+147	1	356
+155	1	356
+157	1	356
+161	1	356
+163	1	356
+243	1	356
+312	3	356
+314	1	356
+356	11	356
+391	1	356
+426	1	356
+436	3	356
+437	2	356
+475	1	356
+544	2	356
+545	1	356
+560	3	356
+582	1	356
+592	1	356
+602	1	356
+607	1	356
+656	1	356
+658	1	356
+685	1	356
+1030	2	356
+1036	1	356
+1041	1	356
+1050	3	356
+1062	1	356
+1154	1	356
+1186	1	356
+1187	2	356
+1256	1	356
+1284	1	356
+1285	1	356
+1288	1	356
+1290	1	356
+1291	2	356
+1293	2	356
+1294	1	356
+1295	1	356
+1296	2	356
+1297	1	356
+1298	1	356
+1300	1	356
+1319	1	356
+1321	1	356
+1333	2	356
+1346	3	356
+1347	1	356
+1386	2	356
+1406	1	356
+1407	1	356
+1407	1	356

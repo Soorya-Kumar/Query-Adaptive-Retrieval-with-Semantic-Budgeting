@@ -1,0 +1,56 @@
+In general, the more critical the decision, the less useful a cost-benefit
+analysis is to library decision makers.. Political analysis is required, and 
+Easton's conceptual framework is presented to suggest the utility of political 
+analysis.. A list of normative issues is derived from raising descriptive
+questions about the politics of university libraries..
+.X
+10	1	306
+190	1	306
+225	1	306
+234	1	306
+244	1	306
+298	1	306
+304	2	306
+305	1	306
+306	5	306
+338	1	306
+358	1	306
+385	1	306
+394	1	306
+418	1	306
+433	1	306
+459	1	306
+534	1	306
+646	1	306
+647	1	306
+651	1	306
+702	1	306
+731	1	306
+732	1	306
+817	1	306
+820	1	306
+823	1	306
+825	1	306
+826	1	306
+827	1	306
+828	1	306
+942	1	306
+943	1	306
+944	1	306
+947	1	306
+948	2	306
+1017	2	306
+1049	1	306
+1058	1	306
+1146	1	306
+1206	1	306
+1230	1	306
+1237	1	306
+1257	1	306
+1378	1	306
+1390	1	306
+1422	1	306
+1440	1	306
+1450	1	306
+1453	1	306
+1453	1	306

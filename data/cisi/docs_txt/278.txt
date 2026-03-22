@@ -1,0 +1,45 @@
+Questions about the accuracy of library records, the behavior or attitudes
+of patrons, or the conditions of the books in the collection can often be 
+answered by a random sampling study.. Use of this time and money saving 
+technique requires no special mathematical ability or statistical background..
+The concept of accuracy is discussed and a table is provided to simplify the
+determination of an appropriate sample size.. A method of selecting a sample 
+using random numbers is shown.. Three examples illustrate the application of 
+the technique to library problems..
+.X
+24	1	278
+46	1	278
+62	1	278
+65	1	278
+66	1	278
+75	1	278
+76	1	278
+137	1	278
+210	1	278
+245	1	278
+267	1	278
+278	6	278
+279	1	278
+280	1	278
+282	1	278
+300	1	278
+386	1	278
+395	1	278
+398	1	278
+658	1	278
+716	1	278
+748	1	278
+768	1	278
+782	1	278
+788	1	278
+789	1	278
+837	1	278
+925	2	278
+1083	1	278
+1184	1	278
+1263	1	278
+1317	1	278
+1361	1	278
+1400	1	278
+1404	1	278
+1404	1	278

@@ -1,0 +1,76 @@
+This report describes a method of indexing documents which is based on the 
+assumptions, (1) that a subset of the words in a document can be an effective 
+index to that document, and (2) that this subject can be approximated by 
+selecting those words from the document whose frequencies are statistically
+unexpectedly high.. The results of the experiment are encouraging, although not
+definitive because any index set chosen must be tested by using it for 
+retrieval from a large collection..
+.X
+26	1	51
+51	5	51
+61	1	51
+69	2	51
+71	1	51
+77	1	51
+79	2	51
+114	1	51
+144	1	51
+168	1	51
+175	2	51
+176	3	51
+315	1	51
+382	1	51
+419	2	51
+441	1	51
+448	1	51
+458	1	51
+480	1	51
+483	1	51
+484	1	51
+486	1	51
+488	1	51
+491	1	51
+493	1	51
+503	1	51
+507	1	51
+509	1	51
+510	1	51
+512	1	51
+517	1	51
+520	1	51
+522	1	51
+527	1	51
+528	1	51
+531	1	51
+565	2	51
+566	2	51
+577	2	51
+581	1	51
+596	1	51
+603	1	51
+608	1	51
+633	1	51
+644	1	51
+659	1	51
+660	3	51
+662	2	51
+664	1	51
+715	1	51
+754	1	51
+790	1	51
+805	1	51
+809	1	51
+810	1	51
+812	2	51
+813	1	51
+814	1	51
+817	1	51
+824	2	51
+825	1	51
+894	1	51
+1051	1	51
+1294	2	51
+1327	2	51
+1419	1	51
+1427	1	51
+1427	1	51

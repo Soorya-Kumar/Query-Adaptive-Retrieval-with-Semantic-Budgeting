@@ -1,0 +1,45 @@
+The availability of scientific journals on 16-mm film is a relatively new
+phenomenon.  User acceptance of this microfilm application has been greatly       
+improved by loading the file into cartridges and making use of motor-driven
+reader-printers.  This equipment permits rapid searching of the microfilm
+and adds the convenience of on-the-spot hard-copy prints as needed.  Of prime  
+importance are the economic advantages of these editions, since they allow many
+special libraries to stretch greatly the space available to them for journal
+housing.  The economics of this approach are also discussed, as are the 
+reactions of the scientists and information personnel who use them.
+.X
+91	1	721
+286	2	721
+429	1	721
+513	1	721
+582	1	721
+588	1	721
+589	1	721
+603	1	721
+613	1	721
+614	1	721
+618	1	721
+657	1	721
+672	2	721
+685	2	721
+686	2	721
+691	2	721
+721	5	721
+722	1	721
+724	2	721
+725	2	721
+765	1	721
+770	1	721
+776	1	721
+958	1	721
+987	1	721
+988	1	721
+1014	2	721
+1058	1	721
+1208	2	721
+1209	1	721
+1290	1	721
+1293	1	721
+1302	1	721
+1352	1	721
+1352	1	721

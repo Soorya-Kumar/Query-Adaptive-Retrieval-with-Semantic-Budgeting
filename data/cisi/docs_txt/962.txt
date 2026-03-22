@@ -1,0 +1,99 @@
+For optimal allocations of limited funds, it is necessary for libraries to 
+develop measures of output.. Various forms of user exposure to documents are
+discussed in an effort to develop such measures for public libraries.. It is
+suggested that the actual method of accounting  be used to compare such measures
+with costs, and an illustrative computation is presented.. It is shown how size 
+of user population, amount of exposure, and costs for a given year can be 
+estimated..Similar techniques are suggested for evaluation of library programs..
+This approach is then compared with current concepts of library standards.. The
+paper concludes with suggestions for further research..
+.X
+4	2	962
+5	1	962
+9	2	962
+32	1	962
+96	1	962
+137	1	962
+163	1	962
+178	2	962
+206	1	962
+207	3	962
+208	1	962
+217	1	962
+222	2	962
+223	2	962
+245	2	962
+287	1	962
+288	1	962
+291	1	962
+292	1	962
+296	1	962
+297	1	962
+298	1	962
+300	1	962
+301	1	962
+302	1	962
+358	1	962
+364	2	962
+406	1	962
+408	2	962
+456	1	962
+515	1	962
+535	1	962
+591	3	962
+625	1	962
+629	1	962
+631	1	962
+634	1	962
+766	1	962
+768	1	962
+774	1	962
+783	1	962
+791	1	962
+799	1	962
+811	3	962
+816	4	962
+818	1	962
+823	1	962
+843	1	962
+844	1	962
+846	1	962
+865	1	962
+913	1	962
+915	2	962
+916	1	962
+925	3	962
+948	1	962
+957	2	962
+959	4	962
+960	3	962
+961	4	962
+962	10	962
+964	4	962
+968	1	962
+972	1	962
+976	1	962
+984	1	962
+994	1	962
+1005	1	962
+1007	1	962
+1015	1	962
+1018	1	962
+1033	1	962
+1068	1	962
+1149	1	962
+1203	1	962
+1205	1	962
+1242	1	962
+1247	1	962
+1268	1	962
+1318	1	962
+1321	1	962
+1333	1	962
+1353	1	962
+1354	1	962
+1400	4	962
+1401	1	962
+1407	1	962
+1445	1	962
+1445	1	962

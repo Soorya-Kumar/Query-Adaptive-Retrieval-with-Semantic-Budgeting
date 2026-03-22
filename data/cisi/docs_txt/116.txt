@@ -1,0 +1,41 @@
+Due to the fact that scientific-technical research is constantly increasing,
+it is becoming more and more difficult to retrieve the published results of 
+research.. A new field of science, documentation, has been developed as a 
+contribution to the removal of this difficulty.. Depending on the type and 
+extent of the subject different methods for its documentation will be followed..
+Methods and possibilities for the comprehensive documentation of chemistry and 
+its related fields are explained..
+.X
+116	5	116
+117	1	116
+254	1	116
+327	1	116
+641	1	116
+668	1	116
+670	1	116
+671	2	116
+673	1	116
+677	1	116
+678	1	116
+679	1	116
+682	1	116
+689	1	116
+690	2	116
+693	1	116
+694	1	116
+695	1	116
+698	1	116
+699	1	116
+700	1	116
+704	1	116
+706	1	116
+707	1	116
+710	1	116
+730	1	116
+738	1	116
+833	1	116
+1026	1	116
+1072	3	116
+1292	1	116
+1452	1	116
+1452	1	116

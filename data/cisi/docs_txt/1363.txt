@@ -1,0 +1,91 @@
+Three types of current awareness publications
+are defined in terms of their generation
+and distribution characteristics.  These
+types are the SDI type, the intermediate type
+such as NASA's SCAN program, and the unselected
+type such as the usual library accession
+list.  A fourth type, the indexing and
+abstracting journal is defined but not related
+to the other three types.  The three current
+awareness publications are shown to have a
+relationship in terms of the number of
+requests they can produce from a given set of
+references or notices.  The SDI system will
+produce about one request from ten notices;
+the intermediate type about one request per
+hundred notices; ad the unselected type,
+one request per thousand notices.  Despite
+the differences in the number of notices to
+generate one request, the cost to produce one
+request is about the same for the three types
+of tools.  Also, the usage of these tools is
+related to the amount of user time available
+and a curve is presented based on various
+assumptions to define this relationship.
+.X
+13	1	1363
+18	1	1363
+34	1	1363
+49	1	1363
+53	1	1363
+59	1	1363
+76	1	1363
+121	2	1363
+164	1	1363
+202	1	1363
+213	2	1363
+224	1	1363
+243	1	1363
+348	1	1363
+421	1	1363
+465	2	1363
+466	2	1363
+490	1	1363
+491	1	1363
+506	1	1363
+507	1	1363
+510	1	1363
+512	1	1363
+582	1	1363
+591	1	1363
+595	1	1363
+603	1	1363
+604	1	1363
+622	1	1363
+623	1	1363
+629	1	1363
+633	1	1363
+639	1	1363
+659	1	1363
+676	1	1363
+711	1	1363
+720	1	1363
+722	1	1363
+723	1	1363
+726	1	1363
+728	1	1363
+730	1	1363
+731	1	1363
+732	1	1363
+809	1	1363
+810	1	1363
+813	1	1363
+814	1	1363
+820	1	1363
+822	1	1363
+828	1	1363
+859	1	1363
+870	1	1363
+879	1	1363
+914	1	1363
+1091	1	1363
+1283	1	1363
+1298	1	1363
+1299	1	1363
+1362	2	1363
+1363	5	1363
+1366	1	1363
+1367	1	1363
+1368	1	1363
+1396	1	1363
+1396	1	1363

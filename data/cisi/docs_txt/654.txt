@@ -1,0 +1,37 @@
+Networks and network models of industrial and military systems have received 
+much attention in operation research literature.. The extension of network
+modeling to library networks provides some interesting twists of the usual 
+models.. A general library network is offered, a mathematical statement of the 
+network problem is given, and the solution of the problem is discussed.. An
+example of the use of the model in evaluation and design situations is 
+provided.. The necessity for further work in both theoretical and applied areas
+is cited in the summary..
+.X
+287	1	654
+336	1	654
+348	1	654
+408	1	654
+433	1	654
+515	1	654
+554	1	654
+584	1	654
+647	1	654
+654	7	654
+851	1	654
+855	3	654
+856	2	654
+857	1	654
+858	1	654
+859	1	654
+860	1	654
+861	1	654
+862	1	654
+972	2	654
+1011	1	654
+1012	1	654
+1013	1	654
+1035	1	654
+1184	1	654
+1385	1	654
+1445	1	654
+1445	1	654

@@ -1,0 +1,77 @@
+A state-of-the-art survey of automatic indexing systems
+and experiments has been conducted by the Research Information
+Center and Advisory Service on Information Processing,
+Information Technology Division, Institute for Applied
+Technology, National Bureau of Standards.  Consideration is first
+given to indexes compiled by or with the aid of machines,
+including citation indexes.  Automatic derivative indexing is
+exemplified by key-word-in-context (KWIC) and other word-
+in-context techniques.  Advantages, disadvantages, and
+possibilities for modification and improvement are discussed.
+Experiments in automatic assignment indexing are summarized.
+Related research efforts in such areas as automatic classification
+and categorization, computer use of thesauri, statistical
+association techniques, and linguistic data processing are
+described.  A major question is that of evaluation, particularly
+in view of evidence of human inter-indexer inconsistency.  It
+is concluded that indexes based on words extracted from text
+are practical for many purposes today, and that automatic
+assignment indexing and classification experiments show promise
+for future progress. 
+.X
+26	1	1144
+38	2	1144
+39	1	1144
+52	1	1144
+77	1	1144
+78	1	1144
+149	1	1144
+150	1	1144
+168	1	1144
+174	2	1144
+175	4	1144
+273	1	1144
+315	1	1144
+324	1	1144
+331	1	1144
+336	1	1144
+382	1	1144
+419	1	1144
+420	1	1144
+455	1	1144
+479	1	1144
+483	1	1144
+485	1	1144
+498	1	1144
+501	1	1144
+503	1	1144
+562	1	1144
+564	1	1144
+565	1	1144
+576	1	1144
+583	1	1144
+586	1	1144
+589	2	1144
+603	1	1144
+608	1	1144
+643	1	1144
+657	1	1144
+660	1	1144
+661	1	1144
+662	1	1144
+663	1	1144
+664	1	1144
+722	1	1144
+769	1	1144
+824	1	1144
+830	1	1144
+925	1	1144
+1080	1	1144
+1144	12	1144
+1195	1	1144
+1207	1	1144
+1283	1	1144
+1294	2	1144
+1327	1	1144
+1421	1	1144
+1421	1	1144

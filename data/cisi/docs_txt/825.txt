@@ -1,0 +1,163 @@
+Before starting to trace the development of PRECIS to its
+theoretical beginnings I shall describe the system briefly in its present
+form.  This will serve not only as an introduction for those who are not
+familiar with the system, but will also help to explain the relevance of
+some of the historical sections which follow, in which we shall see how a
+machine-produced alphabetical indexing system, based on a syntax derived
+from a study of natural language, developed out of research into 
+principles for a new general classification.
+  PRECIS, or the PREserved Context Indexing System, differs in some
+respects from traditional alphabetical indexes and lists of subject headings.
+Like the system developed by Coates for the British Technology Index,
+PRECIS consists essentially of a set of working procedures, not a prescribed
+list of terms or phrases.  The system is firmly based upon the concept of an
+open-ended vocabulary, which means that terms can be admitted into the
+index at any time, as soon as they have been encountered in literature.
+Once a term has been admitted, its relationships with other terms are
+handled in two different ways, distinguished as the syntactical and the
+semantic sides of the system.
+.X
+10	1	825
+51	1	825
+69	1	825
+71	1	825
+77	1	825
+79	2	825
+86	1	825
+92	1	825
+146	1	825
+160	1	825
+168	2	825
+172	1	825
+175	1	825
+176	1	825
+190	1	825
+194	1	825
+225	1	825
+244	1	825
+246	1	825
+258	1	825
+304	1	825
+305	1	825
+306	1	825
+315	1	825
+358	1	825
+361	1	825
+365	1	825
+382	2	825
+385	1	825
+394	1	825
+422	1	825
+433	1	825
+448	1	825
+453	1	825
+458	1	825
+459	1	825
+478	1	825
+480	2	825
+483	1	825
+484	1	825
+486	1	825
+487	1	825
+488	1	825
+491	1	825
+493	1	825
+503	1	825
+507	1	825
+509	1	825
+510	1	825
+512	1	825
+517	1	825
+520	1	825
+522	1	825
+527	1	825
+528	1	825
+530	1	825
+531	1	825
+534	1	825
+565	1	825
+566	1	825
+577	1	825
+581	1	825
+596	1	825
+603	1	825
+608	2	825
+633	1	825
+641	1	825
+643	1	825
+644	1	825
+645	1	825
+649	1	825
+650	1	825
+652	1	825
+659	1	825
+702	1	825
+709	1	825
+715	1	825
+731	1	825
+732	1	825
+746	1	825
+754	1	825
+755	1	825
+781	1	825
+790	1	825
+805	1	825
+809	1	825
+810	1	825
+812	1	825
+813	1	825
+814	1	825
+817	4	825
+820	1	825
+823	1	825
+824	2	825
+825	19	825
+826	1	825
+827	1	825
+828	1	825
+830	1	825
+856	1	825
+880	1	825
+883	1	825
+886	1	825
+888	1	825
+894	1	825
+901	1	825
+913	1	825
+930	1	825
+941	1	825
+943	1	825
+947	1	825
+948	1	825
+950	1	825
+963	1	825
+966	1	825
+978	1	825
+988	1	825
+997	2	825
+1004	1	825
+1017	1	825
+1024	2	825
+1051	1	825
+1054	1	825
+1058	1	825
+1061	1	825
+1079	1	825
+1146	2	825
+1215	7	825
+1216	2	825
+1230	3	825
+1257	2	825
+1258	1	825
+1266	1	825
+1294	1	825
+1327	1	825
+1390	1	825
+1394	1	825
+1395	1	825
+1419	1	825
+1421	1	825
+1427	1	825
+1433	1	825
+1441	2	825
+1441	2	825

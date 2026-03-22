@@ -1,0 +1,41 @@
+After a decade of systems development, firms of the European chemical 
+industry founded a corporation (IDC) to make the chemical journal and patent
+literature accessible by efficient computer methods.. A comprehensive and 
+critical review of these methods accommodated to the four most important types 
+of chemical data is given..
+.X
+58	1	683
+68	1	683
+117	2	683
+165	2	683
+179	1	683
+180	1	683
+252	1	683
+254	1	683
+347	1	683
+445	1	683
+476	1	683
+525	1	683
+572	1	683
+590	2	683
+621	1	683
+641	1	683
+668	1	683
+670	1	683
+671	2	683
+673	1	683
+674	1	683
+683	6	683
+687	2	683
+689	3	683
+714	1	683
+715	1	683
+726	1	683
+797	1	683
+819	1	683
+1072	1	683
+1077	1	683
+1139	1	683
+1231	1	683
+1452	1	683
+1452	1	683

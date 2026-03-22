@@ -1,0 +1,57 @@
+This report is an analysis of 6300 acts of use
+in 104 technical libraries in the United Kingdom.
+Library use is only one aspect of the wider pattern of
+information use.  Information transfer in libraries is
+restricted to the use of documents.  It takes no
+account of documents used outside the library, still
+less of information transferred orally from person
+to person.  The library acts as a channel in only a
+proportion of the situations in which information is
+transferred.
+Taking technical information transfer as a whole,
+there is no doubt that this proportion is not the
+major one.  There are users of technical information -
+particularly in technology rather than science -
+who visit libraries rarely if at all, relying on desk
+collections of handbooks, current periodicals and personal
+contact with their colleagues and with people in other
+organizations.  Even regular library users also receive
+information in other ways.
+.X
+2	5	2
+32	1	2
+76	1	2
+132	1	2
+137	1	2
+139	1	2
+152	2	2
+155	1	2
+158	1	2
+183	1	2
+195	1	2
+203	1	2
+204	1	2
+210	1	2
+243	1	2
+371	1	2
+475	1	2
+552	1	2
+760	1	2
+770	1	2
+771	1	2
+774	1	2
+775	1	2
+776	1	2
+788	1	2
+789	1	2
+801	1	2
+815	1	2
+839	1	2
+977	1	2
+1055	1	2
+1056	1	2
+1151	1	2
+1361	1	2
+1414	1	2
+1451	1	2
+1451	1	2

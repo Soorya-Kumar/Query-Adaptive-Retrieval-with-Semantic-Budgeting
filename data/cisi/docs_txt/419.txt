@@ -1,0 +1,83 @@
+Written communication of ideas is carried out on the basis of statistical 
+probability in that a writer chooses that level of subject specificity and that
+combination of words which he feels will convey the most meaning.. Since this
+process varies among individuals and since similar ideas are therefore relayed
+of different levels of specificity and by means of different words, the problem
+of literature searching by machines still present major difficulties.. A 
+statistical approach  to this problem will be outlined and the various steps
+of a system based on this approach will be described.. Steps include the 
+statistical analysis of a collection of document in a field of interest, the 
+establishment of a set of "notions" and the vocabulary by which they are
+expressed, the compilation of a thesaurus-type dictionary and index, the
+automatic encoding of documents by machine with the aid of such a dictionary,
+the encoding of topological notations (such as branches structures), the 
+recording of the coded information, the establishment of a searching pattern 
+for finding pertinent information, and the programming of appropriate machines
+to carry out a search..
+.X
+26	3	419
+30	1	419
+45	1	419
+51	2	419
+61	1	419
+75	1	419
+79	1	419
+114	1	419
+144	1	419
+164	1	419
+172	1	419
+174	1	419
+175	1	419
+176	3	419
+178	1	419
+315	2	419
+321	1	419
+363	1	419
+374	1	419
+389	1	419
+419	9	419
+420	1	419
+421	1	419
+434	1	419
+441	1	419
+458	1	419
+479	1	419
+481	1	419
+483	1	419
+485	1	419
+491	1	419
+507	1	419
+520	1	419
+523	1	419
+531	1	419
+562	3	419
+564	2	419
+565	2	419
+566	1	419
+575	1	419
+577	3	419
+623	1	419
+644	2	419
+649	1	419
+660	5	419
+661	2	419
+662	4	419
+663	2	419
+664	3	419
+752	1	419
+769	1	419
+780	1	419
+812	3	419
+822	1	419
+824	2	419
+907	1	419
+956	1	419
+1144	1	419
+1218	1	419
+1279	1	419
+1282	1	419
+1294	1	419
+1327	2	419
+1414	1	419
+1448	1	419
+1448	1	419

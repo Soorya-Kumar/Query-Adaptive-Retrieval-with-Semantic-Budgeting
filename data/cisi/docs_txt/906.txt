@@ -1,0 +1,19 @@
+This work is a contribution to the literature of librarianship and
+some parts of it may interest a wider audience.  The chapters consist
+of a series of introductory explorations into several related fields.
+Some of these areas are usually included in curricula for library
+studies programmes, under a title such as "The library and the
+community" or "The social background to libraries."
+.X
+795	1	906
+796	1	906
+798	1	906
+902	1	906
+906	6	906
+907	1	906
+1089	1	906
+1209	1	906
+1239	1	906
+1289	1	906
+1294	1	906
+1294	1	906

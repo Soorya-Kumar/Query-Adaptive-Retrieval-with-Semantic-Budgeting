@@ -1,0 +1,119 @@
+Users of information in science and technology have been studied in great
+detail with respect to material read, amount of time spent in reading and
+searching the literature, categories of questions asked, an so on.. Probing
+for this information has been undertaken by means of structured  and 
+unstructured  interviews, diaries, surveys, and questionnaires..
+   Although a large amount of data has emerged on information usage and flow,
+the subjective response of scientists furnishes comment only on the satisfaction
+produced by present information services and does not yield insight into the
+extent to which needs remain unsatisfied.. Relevance  figures based upon the
+response of systems to questions cannot be equated with satisfaction of needs,
+since questions constitute, in most cases, inadequate representations of 
+underlying information needs..
+   Assessment of the needs of users of medical libraries and information system
+must, in fact, be made in relation to the observed behavior and experience of
+biomedical scientists.. There is room for well-designed experimentation which
+can explore the interaction of both psychological and environmental factors..
+Significant differences in information needs exist among and between individuals
+such as researches and clinicians  in the same environment.. With respect to
+environment, it is hypothesized that the information needs for medical
+practitioners in remote areas might differ significantly from those of their
+colleagues working in large metropolitan centers in close proximity to medical
+schools, research institutions, and other rich sources of information fallout..
+   It is anticipated that experimentation will eventually result in a
+methodology which will permit the determination and prediction of the
+information needs of any identified groups of users in a specific environment..
+.X
+18	1	202
+33	1	202
+34	1	202
+36	1	202
+42	1	202
+49	1	202
+53	1	202
+59	1	202
+90	1	202
+132	1	202
+161	1	202
+164	1	202
+183	1	202
+184	2	202
+193	2	202
+199	1	202
+201	1	202
+202	6	202
+203	2	202
+204	1	202
+205	1	202
+209	1	202
+210	1	202
+212	1	202
+213	1	202
+217	1	202
+220	1	202
+222	1	202
+224	1	202
+243	1	202
+284	1	202
+286	1	202
+294	1	202
+421	1	202
+465	1	202
+466	1	202
+490	1	202
+491	1	202
+506	1	202
+507	1	202
+510	1	202
+512	1	202
+543	1	202
+588	1	202
+591	1	202
+595	1	202
+603	1	202
+604	1	202
+613	1	202
+622	1	202
+623	1	202
+624	1	202
+629	1	202
+633	1	202
+639	1	202
+659	1	202
+676	1	202
+711	1	202
+722	1	202
+723	1	202
+726	1	202
+728	1	202
+730	1	202
+731	1	202
+732	1	202
+799	1	202
+800	1	202
+808	1	202
+809	1	202
+810	1	202
+813	1	202
+814	1	202
+820	1	202
+822	1	202
+828	1	202
+870	1	202
+879	1	202
+891	1	202
+928	1	202
+959	1	202
+965	1	202
+973	1	202
+1091	1	202
+1151	1	202
+1283	1	202
+1298	1	202
+1299	1	202
+1363	1	202
+1366	1	202
+1367	1	202
+1368	1	202
+1396	1	202
+1396	1	202

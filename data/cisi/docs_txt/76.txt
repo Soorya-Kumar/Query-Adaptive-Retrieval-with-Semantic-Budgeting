@@ -1,0 +1,119 @@
+The author's journal reference cards for 1965 and 1966 were analyzed 
+according to three "interest patterns": (I) the total collection of 1469 
+article titles, a "potentially useful" set; (II) a subset concerning only his
+research speciality; and (III) a subset of articles defined as "useful". For
+each pattern, journals were ranked by frequency of use and a scatter diagram 
+was drawn..
+   Patterns I and II largely resembled patterns obtained by counting citations
+in basic journals or by counting publications of selected researchers.. Pattern 
+III was more widely scattered..  It is concluded that access to diverse 
+journals is needed by researchers to supply new ideas, and that this diversity 
+of reading is not reflected adequately by citation counting or other indirect 
+means..
+   Current Contents, used by the author for current-awareness purposes in 
+building his card file, generated 88% of all articles.. Scatter diagrams 
+indicated the decreased scatter predicted from its use..
+   The 30% most important journals in this collection, including about 80% of
+titles, are ranked for each pattern..
+.X
+2	1	76
+13	1	76
+24	1	76
+44	1	76
+57	1	76
+62	1	76
+65	2	76
+66	1	76
+75	2	76
+76	8	76
+81	1	76
+89	1	76
+95	1	76
+104	1	76
+110	1	76
+121	1	76
+132	1	76
+137	2	76
+139	1	76
+152	1	76
+155	1	76
+156	1	76
+161	1	76
+183	2	76
+184	1	76
+193	1	76
+195	1	76
+198	1	76
+201	1	76
+203	1	76
+204	2	76
+210	2	76
+213	2	76
+214	1	76
+278	1	76
+279	1	76
+280	1	76
+359	1	76
+382	1	76
+386	1	76
+395	1	76
+398	1	76
+416	1	76
+465	1	76
+466	1	76
+475	1	76
+495	1	76
+552	2	76
+582	1	76
+584	1	76
+589	1	76
+655	1	76
+658	1	76
+716	1	76
+720	1	76
+735	1	76
+748	2	76
+759	1	76
+760	1	76
+765	1	76
+766	1	76
+774	1	76
+775	1	76
+778	1	76
+779	1	76
+782	1	76
+784	1	76
+787	1	76
+788	2	76
+789	2	76
+790	1	76
+808	1	76
+828	1	76
+837	1	76
+893	1	76
+914	1	76
+925	1	76
+977	1	76
+1055	3	76
+1056	1	76
+1081	1	76
+1082	1	76
+1083	3	76
+1086	1	76
+1098	1	76
+1123	1	76
+1172	1	76
+1201	1	76
+1287	1	76
+1295	1	76
+1297	2	76
+1300	1	76
+1361	1	76
+1362	1	76
+1363	1	76
+1397	1	76
+1400	1	76
+1404	1	76
+1432	1	76
+1451	1	76
+1451	1	76

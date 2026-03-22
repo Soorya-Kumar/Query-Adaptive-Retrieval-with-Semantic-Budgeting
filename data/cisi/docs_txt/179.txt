@@ -1,0 +1,35 @@
+This book deals with the computer processing of large
+information files, with special emphasis on automatic text handling methods.
+Described in particular are procedures for dictionary construction and
+dictionary look-up, statistical and syntactic language analysis methods,
+information search and matching procedures, automatic information
+dissemination systems, and methods for user interaction with the mechanized
+system.  As such, the text includes elements of linguistics, mathematics,
+and computer programming.
+.X
+30	1	179
+179	14	179
+180	1	179
+317	1	179
+363	1	179
+464	1	179
+509	1	179
+539	1	179
+562	1	179
+564	1	179
+566	2	179
+572	1	179
+659	1	179
+664	1	179
+683	1	179
+853	1	179
+1117	1	179
+1118	1	179
+1130	1	179
+1136	1	179
+1137	1	179
+1138	1	179
+1139	1	179
+1140	2	179
+1327	1	179
+1327	1	179

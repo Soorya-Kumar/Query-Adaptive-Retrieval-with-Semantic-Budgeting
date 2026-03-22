@@ -1,0 +1,63 @@
+The Management Review and Analysis Program (MRAP), designed, tested, and 
+operated by the Association of Research Libraries' Office of University Library
+Management Studies (OMS), is an assisted self-study strategy intended for use 
+by large academic and research libraries.. The program assists libraries in 
+reviewing and analyzing their current management policies and practices, and
+provides guidelines for the application of contemporary principles of 
+management for the improvement of library programs..
+.X
+10	1	304
+190	1	304
+225	1	304
+234	1	304
+244	1	304
+293	1	304
+296	1	304
+298	2	304
+304	6	304
+305	1	304
+306	2	304
+338	1	304
+358	1	304
+385	1	304
+394	1	304
+433	1	304
+459	1	304
+534	1	304
+646	1	304
+647	1	304
+651	1	304
+702	1	304
+731	1	304
+732	1	304
+817	1	304
+820	1	304
+823	1	304
+825	1	304
+826	1	304
+827	1	304
+828	1	304
+942	1	304
+943	1	304
+944	1	304
+947	1	304
+948	2	304
+951	1	304
+1015	1	304
+1017	2	304
+1041	1	304
+1049	1	304
+1058	1	304
+1146	1	304
+1183	1	304
+1206	1	304
+1230	1	304
+1233	1	304
+1237	1	304
+1257	1	304
+1378	1	304
+1390	1	304
+1440	1	304
+1450	1	304
+1453	1	304
+1453	1	304

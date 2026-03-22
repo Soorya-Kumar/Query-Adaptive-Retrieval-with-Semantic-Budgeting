@@ -1,0 +1,57 @@
+This book is intended to supply the background needed for
+participation in the analysis and design of information-handling
+systems and for understanding the literature in the field.
+I have tried to present a unified approach to the subject
+and to the relation of information retrieval to other
+disciplines and an appreciation of the importance of this
+interdisciplinary relationship.  I hope that the scientist
+or computer programmer, newly interested in information-retrieval
+problems, as well as the librarian, will find the book of value.
+.X
+39	1	114
+51	1	114
+61	1	114
+114	9	114
+131	1	114
+144	2	114
+149	2	114
+154	1	114
+169	1	114
+174	1	114
+175	3	114
+176	1	114
+194	1	114
+212	1	114
+289	1	114
+345	1	114
+400	1	114
+406	1	114
+408	1	114
+419	1	114
+420	1	114
+458	3	114
+459	1	114
+493	1	114
+503	1	114
+548	1	114
+577	1	114
+627	2	114
+644	1	114
+660	1	114
+662	2	114
+664	1	114
+666	1	114
+770	1	114
+785	1	114
+796	1	114
+802	1	114
+990	1	114
+1007	1	114
+1073	1	114
+1327	1	114
+1368	1	114
+1392	2	114
+1414	1	114
+1431	1	114
+1448	2	114
+1448	2	114

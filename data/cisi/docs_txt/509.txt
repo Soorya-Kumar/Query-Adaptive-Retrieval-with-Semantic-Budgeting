@@ -1,0 +1,88 @@
+We introduce information retrieval strategies which are based on automatic
+hierarchic clustering of documents.. We discuss the evaluation of retrieval
+strategies and show, using a subset of the Cranfield Aeronautics document 
+collection, that cluster-based retrieval strategies can be devised which are as 
+effective as linear associative retrieval strategies and much more efficient..
+Finally, we outline how cluster-based retrieval may be extended to large growing
+document collections and indicate some ways in which the effectiveness of
+cluster-based retrieval strategies may be improved..
+.X
+51	1	509
+54	1	509
+69	1	509
+71	2	509
+73	1	509
+77	1	509
+79	1	509
+168	1	509
+175	5	509
+176	4	509
+179	1	509
+315	1	509
+319	1	509
+327	1	509
+382	1	509
+389	2	509
+390	3	509
+448	2	509
+464	1	509
+479	1	509
+480	1	509
+483	1	509
+484	1	509
+486	1	509
+488	2	509
+491	1	509
+493	1	509
+503	1	509
+507	1	509
+509	12	509
+510	1	509
+512	1	509
+517	1	509
+519	3	509
+520	1	509
+522	1	509
+527	1	509
+528	1	509
+531	1	509
+564	1	509
+565	3	509
+566	3	509
+581	1	509
+596	2	509
+603	1	509
+608	1	509
+625	1	509
+633	1	509
+659	2	509
+660	1	509
+715	1	509
+752	1	509
+754	2	509
+780	1	509
+785	1	509
+790	1	509
+805	1	509
+809	1	509
+810	2	509
+812	2	509
+813	1	509
+814	1	509
+817	1	509
+824	1	509
+825	1	509
+829	1	509
+853	1	509
+894	1	509
+1044	3	509
+1051	1	509
+1117	1	509
+1140	1	509
+1218	1	509
+1294	1	509
+1307	1	509
+1327	1	509
+1419	1	509
+1427	2	509
+1427	2	509

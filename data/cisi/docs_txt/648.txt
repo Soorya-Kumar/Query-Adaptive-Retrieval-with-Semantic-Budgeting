@@ -1,0 +1,131 @@
+The early 1970's have clearly shown a trend toward the use of on-line systems
+as the ideal medium for information retrieval.. The emphasis placed on direct 
+access by the practitioners in the field, rather than delegated searches through
+information specialists, leads to the growing need for an efficient design in 
+training transient user groups.. Printed manuals, live help, audiovisual 
+presentations and on-line instructions have all been used with varying degrees of
+success.. The author contends that the use of computer-assisted instruction in 
+conjunction with the on-line information retrieval system is the most promising
+form of instruction in that the medium itself, as well as the message may be 
+used to acquaint the novice searcher with an interactive user/system 
+interface..
+.X
+124	2	648
+127	1	648
+128	1	648
+129	1	648
+130	1	648
+190	2	648
+191	3	648
+197	1	648
+211	1	648
+214	1	648
+218	1	648
+243	1	648
+307	1	648
+330	1	648
+339	1	648
+370	2	648
+376	1	648
+378	1	648
+387	1	648
+450	1	648
+451	1	648
+452	1	648
+453	1	648
+459	2	648
+468	1	648
+484	1	648
+492	1	648
+508	1	648
+511	1	648
+512	1	648
+514	2	648
+518	1	648
+520	1	648
+523	1	648
+524	1	648
+525	1	648
+526	1	648
+529	1	648
+530	1	648
+534	1	648
+546	1	648
+547	1	648
+553	1	648
+579	1	648
+594	1	648
+603	1	648
+604	1	648
+606	1	648
+609	1	648
+610	1	648
+611	1	648
+612	1	648
+625	1	648
+626	1	648
+629	1	648
+630	1	648
+636	1	648
+637	1	648
+642	2	648
+643	1	648
+648	7	648
+650	1	648
+652	1	648
+692	1	648
+696	1	648
+699	1	648
+703	1	648
+705	1	648
+708	1	648
+726	1	648
+727	1	648
+728	1	648
+731	1	648
+732	1	648
+733	1	648
+734	2	648
+736	2	648
+738	1	648
+739	1	648
+740	1	648
+741	1	648
+742	2	648
+743	3	648
+744	1	648
+755	1	648
+768	1	648
+774	1	648
+818	1	648
+820	1	648
+826	1	648
+827	1	648
+839	1	648
+847	1	648
+879	1	648
+883	2	648
+1004	1	648
+1035	1	648
+1078	1	648
+1089	1	648
+1091	1	648
+1146	1	648
+1207	1	648
+1246	1	648
+1264	1	648
+1297	1	648
+1303	2	648
+1356	1	648
+1364	1	648
+1368	1	648
+1370	1	648
+1372	1	648
+1373	1	648
+1374	2	648
+1375	2	648
+1376	2	648
+1377	1	648
+1403	1	648
+1457	1	648
+1457	1	648

@@ -1,0 +1,56 @@
+This investigation shows that search keys derived from personal author
+names possess a sufficient degree of distinctness to be employed in an 
+efficient computerized interactive index to a file MARC II catalog records 
+having 167,745 personal author entries..
+.X
+141	2	876
+244	1	876
+299	2	876
+333	1	876
+365	1	876
+522	1	876
+529	1	876
+530	1	876
+627	1	876
+628	1	876
+630	1	876
+822	1	876
+854	1	876
+868	2	876
+869	3	876
+871	3	876
+872	2	876
+873	2	876
+874	2	876
+875	2	876
+876	5	876
+877	1	876
+878	1	876
+879	1	876
+880	1	876
+892	2	876
+940	1	876
+941	2	876
+990	1	876
+994	2	876
+995	1	876
+996	1	876
+997	2	876
+998	2	876
+1079	2	876
+1143	1	876
+1153	1	876
+1189	1	876
+1196	2	876
+1230	1	876
+1251	1	876
+1257	1	876
+1303	1	876
+1351	1	876
+1396	2	876
+1420	1	876
+1434	1	876
+1435	2	876
+1436	1	876
+1442	1	876
+1442	1	876

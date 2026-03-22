@@ -1,0 +1,114 @@
+Reverberations of the publishing explosion of recent years are reaching us
+now.  Production of monographs and journals, research reports and government
+documents has been increasing exponentially to the point that British
+university librarians are beginning to feel the sense of constriction of space
+which their American counterparts have been struggling with for a number
+of years (judging by the amount of print devoted to the subject in American
+library journals).  The force of this sense of constriction has been somewhat
+mitigated in all but the copyright libraries by the general lack of funds
+available for book purchasing, and by the increasing price of books.  However,
+when space in the library does become filled, obviously something must
+be done to create more space, because the flow of material is certainly not
+going to cease.
+.X
+5	2	1023
+33	1	1023
+36	1	1023
+41	1	1023
+46	1	1023
+89	1	1023
+90	1	1023
+91	1	1023
+97	1	1023
+102	1	1023
+111	1	1023
+112	1	1023
+115	1	1023
+158	1	1023
+163	1	1023
+183	1	1023
+184	1	1023
+193	1	1023
+199	1	1023
+203	1	1023
+210	1	1023
+222	1	1023
+223	1	1023
+225	1	1023
+234	1	1023
+245	1	1023
+269	1	1023
+290	1	1023
+364	1	1023
+365	1	1023
+368	1	1023
+373	1	1023
+435	1	1023
+545	1	1023
+552	1	1023
+587	1	1023
+605	1	1023
+613	1	1023
+614	1	1023
+615	1	1023
+638	1	1023
+735	1	1023
+747	1	1023
+750	1	1023
+753	1	1023
+764	1	1023
+766	1	1023
+767	1	1023
+775	1	1023
+782	1	1023
+784	1	1023
+788	1	1023
+789	1	1023
+793	1	1023
+800	1	1023
+808	1	1023
+811	1	1023
+815	1	1023
+816	1	1023
+818	1	1023
+823	1	1023
+842	1	1023
+905	1	1023
+925	1	1023
+943	2	1023
+944	1	1023
+948	1	1023
+953	1	1023
+957	1	1023
+977	1	1023
+983	1	1023
+1016	1	1023
+1021	1	1023
+1023	6	1023
+1030	1	1023
+1055	1	1023
+1087	1	1023
+1090	1	1023
+1135	1	1023
+1203	1	1023
+1219	1	1023
+1227	1	1023
+1257	1	1023
+1260	1	1023
+1275	1	1023
+1276	1	1023
+1278	1	1023
+1280	1	1023
+1285	1	1023
+1286	1	1023
+1287	1	1023
+1302	1	1023
+1335	1	1023
+1365	1	1023
+1390	2	1023
+1397	1	1023
+1417	1	1023
+1428	1	1023
+1432	1	1023
+1450	1	1023
+1450	1	1023

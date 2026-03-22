@@ -1,0 +1,56 @@
+This paper reports the results of a practical study of the application of 
+digital computers to the storage, analysis and retrieval of the full text of 
+Acts of Parliament and associated delegated legislation dealing with automatic 
+energy, a total of some 140,000 words.. A suite of computer programs has been 
+prepared in a high-level language for generating a dictionary and concordance 
+to the full text and organizing the search process.. The interrogation 
+language QUEST is described and its application to full text searching 
+discussed..
+.X
+77	2	498
+78	1	498
+79	1	498
+146	1	498
+159	1	498
+168	1	498
+175	2	498
+257	1	498
+317	1	498
+320	1	498
+416	1	498
+429	1	498
+483	1	498
+488	1	498
+489	2	498
+490	1	498
+491	1	498
+492	1	498
+493	2	498
+496	1	498
+497	1	498
+498	7	498
+499	1	498
+501	2	498
+570	1	498
+581	2	498
+582	1	498
+583	1	498
+653	1	498
+655	1	498
+659	1	498
+688	1	498
+790	1	498
+796	1	498
+797	1	498
+798	1	498
+801	1	498
+802	1	498
+819	1	498
+1035	1	498
+1044	1	498
+1144	1	498
+1294	2	498
+1327	1	498
+1405	1	498
+1443	1	498
+1443	1	498

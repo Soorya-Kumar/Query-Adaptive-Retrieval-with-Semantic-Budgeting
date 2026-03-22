@@ -1,0 +1,86 @@
+Case Studies in Library Computer Systems does not follow the mode of
+the other volumes in this series because none of the persons, libraries or
+systems is disguised.  Neither has information been withheld to force readers
+tp explore alternative choices, as in the usual case method.  Rather, all
+systems are identified and described as accurately as possible.  Descriptive
+case studies are problem-oriented, however, because they analyze a situation
+in which a librarian had to decide if a computer could be successfully
+utilized to solve the problem at hand.  The descriptive case method rather
+than the problem case method was chosen because it seemed important to
+describe each system in detail and to evaluate its performance in the context
+of a real library environment and against the background of particular
+institutional service objectives.
+.X
+10	1	244
+120	1	244
+128	1	244
+135	1	244
+141	1	244
+190	1	244
+225	1	244
+244	8	244
+245	1	244
+291	1	244
+299	1	244
+304	1	244
+305	1	244
+306	1	244
+358	1	244
+365	1	244
+385	1	244
+394	1	244
+433	1	244
+459	2	244
+529	1	244
+534	1	244
+575	1	244
+599	1	244
+621	1	244
+630	2	244
+692	1	244
+702	1	244
+731	1	244
+732	1	244
+817	1	244
+820	1	244
+822	1	244
+823	1	244
+825	1	244
+826	1	244
+827	1	244
+828	1	244
+854	1	244
+871	1	244
+872	1	244
+873	1	244
+874	1	244
+875	1	244
+876	1	244
+877	1	244
+878	1	244
+879	1	244
+880	1	244
+892	1	244
+925	1	244
+940	1	244
+941	1	244
+947	1	244
+948	1	244
+990	1	244
+994	1	244
+997	1	244
+998	1	244
+1017	1	244
+1058	1	244
+1079	1	244
+1143	1	244
+1146	1	244
+1230	2	244
+1257	2	244
+1303	1	244
+1390	1	244
+1396	1	244
+1402	1	244
+1435	1	244
+1436	1	244
+1436	1	244

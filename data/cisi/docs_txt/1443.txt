@@ -1,0 +1,49 @@
+We feel that a profound change has occurred in linguistic thinking
+in the last decade.  It is not longer of any interest to describe
+one after another language 'anyhow' without regard to the relevance
+of the facts to general linguistic theory.  As Ross put it, it makes
+no sense to talk about 'describing a language in terms of its own
+structure alone.'  Toward the end of the conference, when it had become
+apparent that the general agreement did not encompass any currently
+explicitly formulated model, the question was raised:  What should we
+be teaching our students?  Langendoen's answer seems to us most apt:
+We should give them the ability to recognize a interesting linguistic
+problem when they see one, that is, one which throws some light -
+negative or positive - on our conceptions of what languages in general
+are like.
+.X
+77	1	1443
+79	1	1443
+117	1	1443
+168	4	1443
+175	1	1443
+317	2	1443
+320	3	1443
+488	1	1443
+489	1	1443
+493	1	1443
+498	1	1443
+499	2	1443
+558	1	1443
+570	1	1443
+572	2	1443
+581	1	1443
+590	2	1443
+659	1	1443
+664	1	1443
+790	1	1443
+819	1	1443
+1024	1	1443
+1027	1	1443
+1045	1	1443
+1046	3	1443
+1047	1	1443
+1118	1	1443
+1213	1	1443
+1215	1	1443
+1231	1	1443
+1294	1	1443
+1389	1	1443
+1399	1	1443
+1443	6	1443
+1443	6	1443

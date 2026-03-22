@@ -1,0 +1,60 @@
+With the advent of individual detribalized man, a new
+education was needed.  Plato devised such a new program for 
+literate men.  It was based on the Ideas.  With the
+phonetic alphabet, classified wisdom took over from the
+operational wisdom of Homer and Hesiod and the tribal 
+encyclopedia.  Education by classified data has been the
+Western program ever since.
+  Now, however, in the electronic age, data classification
+yields to pattern recognition, the key phrase at IBM.  When
+data moves instantly, classification is too fragmentary.  In
+order to cope with data at electric speed in typical situations
+of "information overload," men resort to the study of configurations,
+like the sailor in Edgar Allan Poe's Maelstrom.
+  "The medium is the message" means, in terms of the electronic
+age, that a totally new environment has been created.  The "content"
+of this new environment is the old mechanized environment of
+the industrial age.
+.X
+3	1	1426
+39	1	1426
+50	1	1426
+59	1	1426
+62	1	1426
+63	1	1426
+120	1	1426
+140	1	1426
+172	3	1426
+175	1	1426
+326	1	1426
+355	1	1426
+360	2	1426
+446	1	1426
+473	1	1426
+481	1	1426
+482	1	1426
+485	1	1426
+503	1	1426
+572	1	1426
+616	1	1426
+632	1	1426
+717	1	1426
+718	1	1426
+719	1	1426
+773	1	1426
+907	3	1426
+958	1	1426
+980	1	1426
+1042	1	1426
+1051	1	1426
+1207	1	1426
+1219	2	1426
+1268	2	1426
+1283	1	1426
+1402	1	1426
+1410	1	1426
+1415	1	1426
+1417	1	1426
+1418	1	1426
+1426	8	1426
+1426	8	1426

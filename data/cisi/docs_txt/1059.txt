@@ -1,0 +1,20 @@
+This article lists and describes articles, books, and services that provide 
+information about publications available in microform and about microform 
+hardware..
+.X
+10	1	1059
+115	1	1059
+232	1	1059
+383	1	1059
+393	1	1059
+551	1	1059
+647	1	1059
+651	1	1059
+886	1	1059
+887	1	1059
+947	1	1059
+1014	1	1059
+1058	1	1059
+1059	5	1059
+1060	3	1059
+1060	3	1059

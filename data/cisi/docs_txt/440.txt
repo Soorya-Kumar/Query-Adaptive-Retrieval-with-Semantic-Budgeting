@@ -1,0 +1,95 @@
+This article is the last in series which describes a set of studies which
+were conducted over a 4,5-year period (1966-1971).. The series of articles 
+sought to describe a comprehensive picture of the dissemination and assimilation
+of scientific information as it flows through various informal and formal media,
+from the time a scientist initiates his work until it is published.. The 
+present article examines the continuity of scientific work and information 
+exchange by "productive scientists" two years after the publication of their 
+articles in 1968/1969.. The results indicate that about half of the authors had
+changed to a subject-matter area which differed from that of their earlier
+articles, however, such shifts did not decrease authors' productivity nor 
+greatly increase their information needs..
+.X
+18	1	440
+48	1	440
+91	1	440
+96	1	440
+98	1	440
+123	1	440
+125	1	440
+145	1	440
+211	1	440
+378	1	440
+421	1	440
+439	3	440
+440	5	440
+452	1	440
+453	1	440
+456	1	440
+467	1	440
+468	1	440
+495	1	440
+506	1	440
+508	1	440
+511	1	440
+512	1	440
+514	1	440
+517	1	440
+520	1	440
+521	1	440
+523	1	440
+524	1	440
+526	1	440
+528	1	440
+533	2	440
+576	1	440
+580	2	440
+604	1	440
+609	2	440
+612	1	440
+619	1	440
+622	1	440
+623	1	440
+629	1	440
+631	1	440
+632	1	440
+633	1	440
+696	1	440
+699	1	440
+700	1	440
+705	1	440
+707	1	440
+723	1	440
+726	1	440
+727	2	440
+728	1	440
+729	1	440
+730	1	440
+731	1	440
+754	1	440
+809	1	440
+812	1	440
+813	2	440
+814	1	440
+820	1	440
+822	1	440
+866	1	440
+870	2	440
+873	1	440
+1030	1	440
+1078	1	440
+1089	1	440
+1091	1	440
+1143	1	440
+1264	1	440
+1298	1	440
+1302	1	440
+1303	1	440
+1319	1	440
+1338	1	440
+1366	1	440
+1367	1	440
+1368	1	440
+1386	1	440
+1396	2	440
+1396	2	440

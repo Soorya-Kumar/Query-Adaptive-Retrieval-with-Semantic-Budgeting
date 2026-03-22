@@ -1,0 +1,43 @@
+The rapid development of information retrieval methods since
+the last war - together with the development of systems using
+mechanical or electromechanical means (punched cards) for such
+purposes followed later by electronic retrieval (computers) - have
+led to transformations in the structure of classification or coding
+systems for books and documents.  Generally speaking, document
+specialists have tended to elaborate a large number of different
+codes, usually totally unrelated to each other, each conceived
+to meet the special documentation requirements of a particular
+organization.  This is farther than ever - at least to all
+appearances - from the original intention of 1895 of the founders
+of the Institut International de Bibliographie (now known as the
+Federation Internationale de Documentation), i.e., the standardization
+of classification methods.
+.X
+75	1	1391
+154	2	1391
+258	2	1391
+259	1	1391
+263	1	1391
+388	1	1391
+476	2	1391
+477	5	1391
+480	1	1391
+516	1	1391
+542	1	1391
+653	2	1391
+758	2	1391
+838	4	1391
+898	2	1391
+1066	1	1391
+1074	2	1391
+1075	2	1391
+1231	2	1391
+1259	4	1391
+1391	9	1391
+1394	1	1391
+1402	2	1391
+1405	1	1391
+1414	1	1391
+1429	4	1391
+1430	4	1391
+1430	4	1391

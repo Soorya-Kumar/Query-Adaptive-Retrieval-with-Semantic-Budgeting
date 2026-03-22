@@ -1,0 +1,52 @@
+A common tool for the selection of serial publications for a research
+library is the lists of most cited serials.  The possibilities of this method
+were first studied by Gross and Gross who in 1927 applied a method of
+sample statistical investigation to the grading of scientific serials
+according to their relative importance based on citation counting from source
+journals.
+.X
+33	1	543
+36	1	543
+37	1	543
+90	1	543
+161	1	543
+183	1	543
+184	1	543
+193	1	543
+198	1	543
+199	1	543
+201	1	543
+202	1	543
+203	1	543
+204	1	543
+205	1	543
+209	1	543
+212	1	543
+217	1	543
+220	1	543
+222	1	543
+284	1	543
+286	1	543
+294	1	543
+360	3	543
+543	9	543
+588	1	543
+613	1	543
+614	1	543
+624	1	543
+638	1	543
+735	1	543
+799	1	543
+800	1	543
+808	1	543
+952	1	543
+959	1	543
+1151	1	543
+1210	1	543
+1260	1	543
+1275	1	543
+1276	1	543
+1302	1	543
+1355	1	543
+1432	3	543
+1432	3	543

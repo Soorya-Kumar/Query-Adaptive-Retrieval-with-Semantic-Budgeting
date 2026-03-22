@@ -1,0 +1,106 @@
+The concept of situational relevance is introduced, based on W.S.Cooper's
+definitions of logical relevance, on the notion of evidential relevance drawn
+from inductive logic, on the notions of a personal stock of knowledge and a set 
+of personal concerns, the latter explained in terms of preferences over ranges 
+of alternatives.. Situationally relevant items of information are those that 
+answer, or logically help to answer, questions of concern.. Significant 
+situationally relevant information is explained in terms of changes of view in 
+relation to questions of concern.. It is claimed that situational relevance is 
+an explication of the ordinary notion of practical relevance, and that it is 
+the appropriate relevance concept to use in evaluation of systems supplying 
+practically relevant information..
+.X
+15	1	449
+29	1	449
+35	1	449
+42	1	449
+43	1	449
+57	1	449
+58	1	449
+70	1	449
+73	1	449
+84	1	449
+126	1	449
+152	1	449
+259	1	449
+274	1	449
+313	1	449
+333	1	449
+390	1	449
+434	1	449
+444	2	449
+445	4	449
+447	3	449
+449	7	449
+474	1	449
+486	1	449
+523	1	449
+525	1	449
+526	1	449
+530	1	449
+532	2	449
+533	1	449
+553	1	449
+554	1	449
+574	2	449
+577	1	449
+616	1	449
+625	3	449
+628	1	449
+634	1	449
+640	1	449
+643	1	449
+644	1	449
+649	1	449
+652	1	449
+660	2	449
+752	1	449
+754	1	449
+762	1	449
+764	1	449
+780	1	449
+785	1	449
+802	1	449
+803	1	449
+812	1	449
+819	1	449
+823	1	449
+829	1	449
+830	1	449
+874	2	449
+877	1	449
+878	1	449
+893	1	449
+895	1	449
+940	1	449
+941	1	449
+992	1	449
+993	1	449
+995	1	449
+1016	1	449
+1030	1	449
+1045	1	449
+1079	1	449
+1084	1	449
+1195	1	449
+1201	1	449
+1215	1	449
+1216	1	449
+1235	1	449
+1255	1	449
+1265	1	449
+1281	1	449
+1282	1	449
+1285	1	449
+1305	1	449
+1306	1	449
+1313	1	449
+1319	1	449
+1327	1	449
+1386	1	449
+1421	1	449
+1434	1	449
+1435	1	449
+1436	1	449
+1448	1	449
+1448	1	449

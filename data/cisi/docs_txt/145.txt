@@ -1,0 +1,123 @@
+The data in that survey covered the year 1971.  Many recipients
+of the 1972 document have requested updated information.  Accordingly,
+the ASIDIC Cooperative Data Management Committee initiated a new survey.
+The questionnaires were mailed out in January of 1975 and responses
+came in throughout the year.  Questionnaires were sent to all member
+organizations of ASIDIC and EUSIDIC.  Questionnaires were also sent
+to individual members of ASIS SIG/SDI and SIG/UOI.
+     Responses received throughout 1975 were checked and tabulated in
+1976.  Because of the time delay in producing the final compilation
+the reader is warned against using this survey as an up-to-date source
+for information as to which centers are processing which data bases.
+     Of the 116 responding organizations 75 process data bases and
+41 use data base services either as end users or as brokers.  Of the 75
+that process data bases (i.e., spin tapes) 51 (68%) are members of ASIDIC
+and/or EUSIDIC.  This survey provides representative data for data base
+processing organizations.  The use of online search services was
+relatively new in 1974 hence data regarding online users would not be
+representative of the 1976 online situation.
+.X
+10	1	145
+18	5	145
+121	1	145
+125	2	145
+127	4	145
+129	2	145
+145	10	145
+211	2	145
+357	1	145
+376	3	145
+378	1	145
+382	1	145
+400	1	145
+440	1	145
+452	2	145
+453	1	145
+459	3	145
+467	1	145
+468	1	145
+495	1	145
+506	1	145
+508	1	145
+511	1	145
+512	1	145
+514	1	145
+517	1	145
+520	1	145
+521	1	145
+523	1	145
+524	2	145
+525	1	145
+526	1	145
+527	1	145
+528	1	145
+529	1	145
+530	1	145
+534	1	145
+546	1	145
+576	1	145
+580	1	145
+594	1	145
+604	1	145
+609	1	145
+612	1	145
+619	1	145
+622	1	145
+623	1	145
+629	1	145
+631	1	145
+632	1	145
+633	2	145
+635	1	145
+636	1	145
+637	1	145
+642	1	145
+699	1	145
+700	1	145
+702	1	145
+703	1	145
+705	1	145
+707	1	145
+723	1	145
+726	1	145
+727	1	145
+728	1	145
+729	1	145
+730	3	145
+731	1	145
+732	1	145
+733	1	145
+734	1	145
+736	1	145
+754	1	145
+812	1	145
+813	1	145
+814	1	145
+820	1	145
+822	1	145
+826	1	145
+827	1	145
+866	1	145
+870	1	145
+873	1	145
+877	1	145
+879	1	145
+942	1	145
+1051	1	145
+1078	1	145
+1089	1	145
+1091	1	145
+1143	3	145
+1227	1	145
+1264	1	145
+1302	2	145
+1303	2	145
+1366	1	145
+1367	1	145
+1368	2	145
+1370	1	145
+1372	1	145
+1383	1	145
+1390	1	145
+1396	5	145
+1396	5	145

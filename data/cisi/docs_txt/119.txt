@@ -1,0 +1,47 @@
+In the literature, active network plans and developments appear to cluster 
+in three main areas: (1) Education, (2) Libraries, and (3) Government, Industry,
+and Professional Societies.  These network groupings are described in this
+chapter following a discussion of network definitions, concepts, and current
+impetus.  References to information systems are included when there is an 
+indication that a particular system will probably be transformed into a network.
+.X
+24	1	119
+74	1	119
+75	1	119
+119	10	119
+122	5	119
+206	1	119
+214	1	119
+241	1	119
+336	1	119
+365	1	119
+394	1	119
+408	1	119
+452	1	119
+453	1	119
+458	1	119
+526	1	119
+528	1	119
+612	1	119
+684	1	119
+761	1	119
+851	1	119
+855	1	119
+872	2	119
+916	1	119
+940	1	119
+955	2	119
+986	1	119
+1011	4	119
+1012	1	119
+1080	1	119
+1084	1	119
+1143	1	119
+1175	1	119
+1247	1	119
+1264	1	119
+1367	1	119
+1435	1	119
+1436	1	119
+1451	1	119
+1451	1	119

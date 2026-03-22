@@ -1,0 +1,23 @@
+This article presents the results of a study of the information requests of
+inquirers. It was elucidated that engineers spent an average of 10 hours per 
+week in search of needed information. Most valuable sources of information are 
+theoretical journals. The study showed that "stable life" of theoretical 
+journals equals about 12 years and information journals about 5-6 years. Some
+recommendations were formulated on how to construct a reference information
+collection.
+.X
+372	1	1156
+539	1	1156
+763	1	1156
+772	1	1156
+1095	4	1156
+1096	2	1156
+1099	2	1156
+1103	1	1156
+1105	1	1156
+1155	4	1156
+1156	6	1156
+1158	3	1156
+1160	2	1156
+1166	1	1156
+1166	1	1156

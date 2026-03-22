@@ -1,0 +1,51 @@
+This volume is an attempt to substantiate the thesis that the
+human side of enterprise is "all of a piece" - that the theoretical
+assumptions management holds about controlling its human resources
+determine the whole character of the enterprise.  They determine
+also the quality of its successive generations of management.
+    Of course the process is circular, and herein lies the possibility
+and the hope of future progress.  The key question for top management
+is:  "What are your assumptions (implicit as well as explicit) about
+the most effective way to manage people?"  From the answer to this
+question flow the answers to the questions Mr. Sloan raised in our
+discussion about the making of managers, as well as answers to many
+other questions which perplex and confound management as it seeks to
+achieve more successfully the economic objectives of enterprise.  It
+will be clear to the reader that I believe many of our present assumptions
+about the most effective way to manage people are far from adequate.
+.X
+4	1	418
+173	1	418
+227	1	418
+270	1	418
+285	1	418
+293	1	418
+296	1	418
+298	2	418
+301	1	418
+302	1	418
+306	1	418
+401	1	418
+418	13	418
+549	1	418
+578	1	418
+768	1	418
+774	1	418
+823	1	418
+842	1	418
+843	1	418
+844	1	418
+925	1	418
+1015	1	418
+1041	1	418
+1069	4	418
+1070	5	418
+1150	2	418
+1186	1	418
+1187	1	418
+1205	2	418
+1214	2	418
+1233	1	418
+1454	1	418
+1455	3	418
+1455	3	418

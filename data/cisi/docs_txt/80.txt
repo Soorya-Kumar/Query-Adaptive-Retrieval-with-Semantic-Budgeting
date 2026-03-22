@@ -1,0 +1,43 @@
+To improve accessibility and maintenance of art slides in the United States
+Military Academy Library at West Point, a model card with a graphic image of 
+the slide was designed with pertinent identifying information displayed 
+directly above a black-and-white opaque photo and also key-punched into it.. 
+The card serves for ample comparison reference previous to handling the slides
+and can produce a subject-arranged permuted index in book form.. The later 
+permits access from the approach of form, geographic area, name, time of 
+origin, artist, school, or style, etc.. Some added advantages, common to other 
+kinds of graphic collections, are detailed.. Estimated costs of 
+photo-reproduction of original cards, various kinds of copies, and computer 
+time and materials are listed.. Future benefits from a consistent, unified 
+cataloging system for graphic objects and the dissemination of this kind of 
+information in a network structure are indicated as major goals..
+.X
+24	1	80
+30	1	80
+71	1	80
+75	2	80
+77	1	80
+78	2	80
+79	1	80
+80	5	80
+81	1	80
+82	1	80
+83	1	80
+154	1	80
+177	1	80
+212	1	80
+247	1	80
+281	1	80
+336	1	80
+581	1	80
+666	1	80
+838	1	80
+852	1	80
+853	2	80
+854	1	80
+855	1	80
+984	1	80
+1011	1	80
+1393	1	80
+1431	1	80
+1431	1	80

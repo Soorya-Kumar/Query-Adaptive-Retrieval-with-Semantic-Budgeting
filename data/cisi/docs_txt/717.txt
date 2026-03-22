@@ -1,0 +1,50 @@
+A detailed description and a tabulated summary of the salient feature of 17
+current awareness information services are presented to illustrate various 
+approaches to handling the current information dissemination problem..
+.X
+59	1	717
+63	1	717
+64	1	717
+83	1	717
+150	1	717
+175	2	717
+245	1	717
+347	1	717
+355	1	717
+369	1	717
+371	1	717
+374	1	717
+382	1	717
+465	1	717
+480	1	717
+481	1	717
+482	1	717
+681	1	717
+682	1	717
+704	1	717
+716	1	717
+717	5	717
+718	1	717
+719	1	717
+763	1	717
+781	1	717
+783	1	717
+834	1	717
+835	1	717
+848	1	717
+849	1	717
+850	1	717
+851	1	717
+852	1	717
+922	1	717
+925	1	717
+980	1	717
+981	1	717
+982	1	717
+1042	2	717
+1051	2	717
+1151	1	717
+1410	1	717
+1415	2	717
+1426	1	717
+1426	1	717

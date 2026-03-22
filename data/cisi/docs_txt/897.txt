@@ -1,0 +1,46 @@
+An on_line cataloging pilot project for two elementary school is discussed..
+The system components are 2740 terminals, upper-lower-case input, IBM's FASTER
+generalized software package, and usual cards/labels output.. Reasons for 
+choosing FASTER, software and hardware features, operating procedures, system
+performance and costs are detailed. Future expansion to cataloging 100,000 
+annual K-12 acquisitions, on-line circulation, retrospective conversion, and 
+union book catalogs is set forth..
+.X
+16	1	897
+90	1	897
+177	1	897
+235	2	897
+250	1	897
+287	1	897
+289	2	897
+291	1	897
+294	1	897
+348	1	897
+404	1	897
+406	1	897
+408	1	897
+548	1	897
+594	1	897
+597	1	897
+598	1	897
+601	1	897
+836	1	897
+849	2	897
+850	1	897
+863	2	897
+864	2	897
+865	1	897
+866	1	897
+868	2	897
+869	1	897
+897	5	897
+916	2	897
+936	1	897
+979	1	897
+1007	1	897
+1052	1	897
+1152	1	897
+1196	1	897
+1248	1	897
+1392	1	897
+1392	1	897

@@ -1,0 +1,66 @@
+The on-line serials control system in use at UCLA Biomedical Library 
+utilizes an inverted file for its primary technique.. The correct title is
+reached with a entry about 80% of the time by using average of three title 
+words.. A detailed profile of title structure and search scheme is given..
+The major determinants of the scheme are evaluated on a performance and cost
+basis..
+.X
+90	2	620
+175	1	620
+200	1	620
+224	1	620
+231	1	620
+261	1	620
+289	1	620
+294	1	620
+295	1	620
+298	1	620
+299	1	620
+318	1	620
+334	1	620
+354	1	620
+381	1	620
+456	1	620
+458	1	620
+514	1	620
+553	1	620
+554	1	620
+575	1	620
+579	1	620
+591	1	620
+595	1	620
+599	1	620
+603	1	620
+608	1	620
+610	1	620
+612	1	620
+615	1	620
+617	5	620
+619	1	620
+620	7	620
+621	1	620
+625	1	620
+630	1	620
+752	1	620
+780	1	620
+815	1	620
+822	1	620
+867	1	620
+869	1	620
+872	1	620
+875	1	620
+907	1	620
+938	1	620
+939	1	620
+963	1	620
+990	1	620
+991	1	620
+992	1	620
+1193	1	620
+1196	1	620
+1221	2	620
+1229	1	620
+1318	1	620
+1365	1	620
+1390	1	620
+1390	1	620

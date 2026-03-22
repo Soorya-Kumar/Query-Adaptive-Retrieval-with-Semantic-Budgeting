@@ -1,0 +1,42 @@
+The approach to library planning studies in this paper is the use of 
+accounting models to measure library costs and implement program budgets.. A 
+cost-flow model for a university library is developed and tested with 
+historical data from the General Library at the University of California,
+Berkeley.. Various comparisons of an exploratory nature are made of the unit 
+costs and total costs for different parts of the Berkeley system..
+.X
+3	1	292
+39	1	292
+67	1	292
+83	1	292
+120	1	292
+158	1	292
+249	1	292
+288	1	292
+291	1	292
+292	5	292
+584	1	292
+591	1	292
+823	1	292
+841	1	292
+842	1	292
+865	1	292
+907	1	292
+915	1	292
+925	2	292
+948	1	292
+957	1	292
+959	1	292
+960	1	292
+961	1	292
+962	1	292
+972	1	292
+984	1	292
+1187	1	292
+1242	1	292
+1317	2	292
+1353	1	292
+1400	1	292
+1401	2	292
+1402	1	292
+1402	1	292

@@ -1,0 +1,55 @@
+This article discusses the possibility of exploiting the
+statistics of word co-occurrence in text for purposes of
+document retrieval. Co-occurrence is defined and related
+to the mental processes of authors and readers; several
+means of quantitative measurement of word co-occurrence
+are then scrutinized.  It is shown that the most
+strongly co-occurring word pairs, which are therefore
+"associated" in a statistical sense, can be represented
+in the form of an "association map."  The last half of the
+article presents two modes of use of association maps
+in literature searching.
+.X
+26	10	26
+35	1	26
+45	1	26
+51	1	26
+78	1	26
+174	1	26
+175	2	26
+176	1	26
+309	1	26
+315	2	26
+328	2	26
+419	3	26
+420	2	26
+421	1	26
+422	1	26
+479	1	26
+484	1	26
+485	1	26
+499	1	26
+562	3	26
+564	2	26
+565	2	26
+566	1	26
+571	1	26
+577	1	26
+660	3	26
+661	1	26
+662	4	26
+663	2	26
+664	4	26
+666	1	26
+769	1	26
+812	1	26
+824	1	26
+1118	1	26
+1144	1	26
+1232	1	26
+1279	1	26
+1381	1	26
+1382	2	26
+1385	1	26
+1427	1	26
+1427	1	26

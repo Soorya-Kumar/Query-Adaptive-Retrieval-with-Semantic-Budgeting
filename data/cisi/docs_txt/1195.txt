@@ -1,0 +1,60 @@
+Twenty-two users submitted 99 questions to experimental IR systems and 
+received 1086 documents as answers, receiving first titles, then abstracts, and
+finally full texts.. Ability of users to recognize relevance from shorter
+formats in comparison to full text judgement was observed.. Of 1086 answers
+evaluated, 843 or 78% had the same judgement on all three formats.. Of 207
+answers judged relevant from full text, 131 were judged so from titles and 160
+from abstracts.. Parallels between users' and IR systems' performance on 
+shorter formats are drawn..
+.X
+29	1	1195
+35	1	1195
+38	2	1195
+42	1	1195
+43	1	1195
+52	2	1195
+53	1	1195
+58	1	1195
+70	1	1195
+84	1	1195
+86	1	1195
+150	3	1195
+156	1	1195
+429	1	1195
+444	1	1195
+445	1	1195
+447	1	1195
+449	1	1195
+474	1	1195
+486	1	1195
+510	1	1195
+532	1	1195
+540	1	1195
+582	1	1195
+589	3	1195
+603	2	1195
+625	1	1195
+660	1	1195
+711	1	1195
+722	2	1195
+762	1	1195
+764	1	1195
+830	1	1195
+893	1	1195
+1016	1	1195
+1030	1	1195
+1045	1	1195
+1084	1	1195
+1101	1	1195
+1116	1	1195
+1130	1	1195
+1144	1	1195
+1165	1	1195
+1195	6	1195
+1201	1	1195
+1220	1	1195
+1235	1	1195
+1281	2	1195
+1285	1	1195
+1421	1	1195
+1421	1	1195

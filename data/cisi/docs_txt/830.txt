@@ -1,0 +1,80 @@
+This article reviews the state of the art in automatic indexing, that is,
+automatic techniques for analyzing and characterizing documents, for
+manipulating their descriptions in searching, and for generating the index
+language used for these purposes.  It concentrates on the literature from
+1968 to 1973.  Section I defines the topic and its context.  Sections II and III
+consider work in syntax and semantics respectively in detail.  Section IV
+comments on 'indirect' indexing.  Section V briefly surveys operating
+mechanized systems.  In Section VI major experiments in automatic indexing
+are reviewed, and Section VII attempts an overall conclusion on the current
+state of automatic indexing techniques.
+.X
+38	1	830
+52	1	830
+57	1	830
+73	1	830
+150	1	830
+175	1	830
+176	1	830
+274	1	830
+332	1	830
+390	1	830
+422	1	830
+445	1	830
+446	1	830
+449	1	830
+484	1	830
+499	1	830
+500	1	830
+508	1	830
+517	1	830
+522	1	830
+523	1	830
+526	1	830
+527	1	830
+528	1	830
+534	1	830
+546	1	830
+572	1	830
+574	1	830
+576	1	830
+577	2	830
+579	1	830
+589	1	830
+594	1	830
+603	1	830
+606	1	830
+625	1	830
+626	1	830
+634	1	830
+637	1	830
+641	1	830
+643	2	830
+644	2	830
+645	1	830
+649	2	830
+650	1	830
+652	1	830
+660	1	830
+709	1	830
+722	1	830
+752	1	830
+754	1	830
+755	1	830
+780	1	830
+785	1	830
+790	1	830
+812	1	830
+819	1	830
+825	1	830
+826	1	830
+829	1	830
+830	7	830
+895	1	830
+1144	1	830
+1195	1	830
+1282	1	830
+1374	1	830
+1421	1	830
+1427	1	830
+1427	1	830

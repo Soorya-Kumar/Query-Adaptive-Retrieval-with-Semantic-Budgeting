@@ -1,0 +1,46 @@
+This is the third in a series of studies of the Chicago Public Library, 
+spread over fifty years.  The first (A Library Plan for the Whole
+City, adopted in 1916) proposed expansion, particularly in branch units.  
+The second (A Metropolitan Library in Action, completed in 1939) proposed 
+quality, the achieving of recognized standards.  The underlying theme of the 
+present report is adaptability, the restructuring of the Library in a period 
+of change. 
+  The first report, practical and pragmatic, achieved results.  The second,for 
+all its internal excellence, had limited effect.  It is hoped that
+the present effort partakes both of the relevance of the one and of the 
+integrity of the other.
+.X
+22	1	1005
+206	1	1005
+207	1	1005
+208	2	1005
+239	2	1005
+245	1	1005
+266	1	1005
+277	1	1005
+282	1	1005
+358	4	1005
+385	1	1005
+408	1	1005
+896	1	1005
+908	1	1005
+925	1	1005
+946	2	1005
+957	1	1005
+959	1	1005
+962	1	1005
+964	1	1005
+976	1	1005
+1005	15	1005
+1018	4	1005
+1032	1	1005
+1056	4	1005
+1145	2	1005
+1149	1	1005
+1203	1	1005
+1227	1	1005
+1240	1	1005
+1333	1	1005
+1384	1	1005
+1400	1	1005
+1400	1	1005

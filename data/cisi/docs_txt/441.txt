@@ -1,0 +1,40 @@
+We apply a 200-year-old mathematical theorem to a 175-year-old historical
+problem, more to advance statistics than history.  Though problems of disputed
+authorship are common in history, literature, and politics, scholars regard their
+solutions as minor advances.  For us the question of whether Hamilton or
+Madison wrote the disputed Federalist papers has served as a laboratory and
+demonstration problem for developing and comparing statistical methods.
+While we help solve this historical problem, our practical application of Bayes'
+theorem to a large analysis of data is a step in testing the feasibility of a
+method being explored with fresh attitudes and fresh mathematics.  Furthermore,
+large practical applications have until now been few, and our work helps fill
+that gap.
+.X
+19	1	441
+51	1	441
+69	1	441
+75	1	441
+79	3	441
+226	1	441
+315	1	441
+324	2	441
+419	1	441
+441	7	441
+518	1	441
+531	1	441
+575	2	441
+577	2	441
+644	1	441
+649	1	441
+660	3	441
+752	1	441
+755	1	441
+780	1	441
+812	1	441
+824	1	441
+956	1	441
+1084	1	441
+1202	1	441
+1282	2	441
+1294	2	441
+1294	2	441

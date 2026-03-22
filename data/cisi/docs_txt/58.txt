@@ -1,0 +1,71 @@
+Disagreements about the relevance of documents to retrieval requests occur
+because relevance judges differently interpret requests of documents.. Requests
+may be differently interpreted because they are unclear.. Well-known types of
+request obscurity are reviewed.. Less well known is that a request may be 
+unclear because its form - "documents about subject S", "document answering 
+question Q", etc. - is unclear.. 
+   Explications are developed of the meanings of the request forms just given 
+and several others.. A request of any of the forms discussed is interpreted to 
+be for documents which support statements of a specified kind in a specified 
+way.. Examples are given which suggest that some, perhaps all, "about S" 
+requests are unclear.. Some ways of formulating clear question requests are 
+given..
+   Various ways in which documents may support statements are distinguished..
+These depend on on such factors as parts of a document use, inference strength,
+and background knowledge permitted.. Some possible clear support specifications
+are indicated..
+.X
+29	3	58
+35	1	58
+42	1	58
+43	1	58
+58	10	58
+66	1	58
+68	4	58
+70	1	58
+84	3	58
+117	1	58
+165	1	58
+172	1	58
+274	2	58
+386	1	58
+444	1	58
+445	2	58
+447	1	58
+449	1	58
+451	3	58
+457	1	58
+467	1	58
+474	1	58
+486	1	58
+532	1	58
+578	1	58
+590	2	58
+604	1	58
+609	1	58
+625	1	58
+656	1	58
+660	1	58
+683	1	58
+689	2	58
+762	2	58
+764	1	58
+785	1	58
+814	1	58
+893	1	58
+901	1	58
+967	1	58
+1016	1	58
+1030	1	58
+1045	1	58
+1054	1	58
+1077	1	58
+1084	1	58
+1094	1	58
+1195	1	58
+1201	1	58
+1231	1	58
+1235	1	58
+1281	1	58
+1285	1	58
+1285	1	58

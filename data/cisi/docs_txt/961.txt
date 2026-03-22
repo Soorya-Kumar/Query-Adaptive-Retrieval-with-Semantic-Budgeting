@@ -1,0 +1,98 @@
+The Library Research Unit of the University of Lancaster used an Operations
+Research (O.R.) approach to recommend changes in loan and duplication policies 
+in the university library.. The "variable" loan and duplication policy which was
+developed is described and also the considerable impact of implementation.. 
+Other libraries are now adopting this kind of policy.. The work is presented as 
+a case study in library O.R. .. The great importance of analyzing the structure
+of problems is stressed and the nature and usefulness of models is described..
+For the most useful results, suitable librarians should be included in the
+research team..
+.X
+4	3	961
+5	2	961
+9	2	961
+32	1	961
+72	1	961
+75	1	961
+96	1	961
+137	1	961
+149	1	961
+163	1	961
+207	3	961
+222	1	961
+223	1	961
+245	1	961
+288	1	961
+291	2	961
+292	1	961
+296	1	961
+297	1	961
+298	1	961
+300	1	961
+301	1	961
+302	1	961
+358	1	961
+359	1	961
+364	2	961
+382	1	961
+456	1	961
+515	1	961
+535	1	961
+554	1	961
+591	1	961
+608	1	961
+625	1	961
+629	1	961
+631	1	961
+634	1	961
+762	1	961
+766	1	961
+768	1	961
+774	1	961
+778	1	961
+783	1	961
+791	1	961
+799	1	961
+811	3	961
+816	3	961
+818	2	961
+823	1	961
+843	2	961
+844	1	961
+845	1	961
+846	1	961
+865	1	961
+913	1	961
+915	5	961
+925	5	961
+945	1	961
+956	1	961
+957	1	961
+959	3	961
+960	3	961
+961	16	961
+962	4	961
+964	3	961
+968	1	961
+972	1	961
+982	1	961
+984	1	961
+994	1	961
+1015	1	961
+1020	1	961
+1068	1	961
+1203	1	961
+1242	1	961
+1247	1	961
+1253	1	961
+1268	1	961
+1294	1	961
+1321	1	961
+1353	1	961
+1354	1	961
+1400	2	961
+1401	4	961
+1407	1	961
+1445	1	961
+1451	1	961
+1451	1	961

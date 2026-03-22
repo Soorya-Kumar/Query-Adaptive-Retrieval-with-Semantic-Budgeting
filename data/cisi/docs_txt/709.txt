@@ -1,0 +1,41 @@
+The Chemical Abstracts Service (CAS) Chemical Registry System is a computer-
+based system that uniquely identifies chemical substances on the basis of
+composition and structure.  Since initial operation in 1964 as a stand-alone
+input, storage, and retrieval system for structural representations of organic
+chemical compounds, the scope of the CAS Registry System has steadily increased
+to include all types of chemical substances and the entire system has been
+integrated into CAS indexing operations.  The third refinement of this system,
+Registry III, which has been in operation for over a year, involves major
+changes in Registry recods but no change in the basic algorithmic techniques
+for registering chemical substances.  The previous format for listing atoms 
+and bonds has been modified so that each ring system is now separately 
+identified, and this ring-system identifier is used in the record for each
+substance that contains that ring.  These modifications support CAS nomenclature
+derivation and also a computer-based structure output system.  The general
+design of Registry III, which involves a structure record of cyclic and acyclic
+segments, is presented.
+.X
+422	1	709
+577	1	709
+641	1	709
+643	1	709
+644	1	709
+645	1	709
+649	1	709
+650	1	709
+670	1	709
+671	2	709
+674	3	709
+675	1	709
+700	1	709
+701	1	709
+708	1	709
+709	8	709
+731	1	709
+738	2	709
+755	1	709
+825	1	709
+830	1	709
+1261	1	709
+1292	1	709
+1292	1	709

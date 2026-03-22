@@ -1,0 +1,64 @@
+The research reported here constitutes a case study in the acceptance
+of an innovation.  The innovation is a medical one, a drug which
+physicians use in everyday practice; the setting is in the Midwestern
+United States in the 1950's.  This study gives a glimpse of one small
+part of the great changes that have recently occurred within medicine
+and thus is of specific interest to the medical profession and its
+allied institutions.
+  But more generally, the question of the spread of an innovation
+is of interest to all students of society.  Particularly in an age of
+change, and in our complex and massive society, an understanding
+of the way in which an innovation can spread - for better or worse!
+- constitutes important knowledge of man.  It is to aid in this
+understanding, as well as to describe the case at hand, that this report
+is written.
+.X
+89	2	1050
+102	1	1050
+105	1	1050
+109	1	1050
+110	1	1050
+137	1	1050
+139	1	1050
+147	1	1050
+155	1	1050
+157	1	1050
+210	1	1050
+312	1	1050
+314	1	1050
+355	1	1050
+356	3	1050
+391	3	1050
+426	1	1050
+436	3	1050
+437	2	1050
+544	1	1050
+560	1	1050
+582	1	1050
+656	1	1050
+658	2	1050
+685	1	1050
+763	1	1050
+788	1	1050
+986	1	1050
+1030	1	1050
+1050	7	1050
+1062	1	1050
+1254	1	1050
+1256	1	1050
+1284	1	1050
+1285	1	1050
+1288	2	1050
+1290	1	1050
+1291	2	1050
+1293	1	1050
+1294	1	1050
+1295	1	1050
+1296	2	1050
+1297	1	1050
+1319	1	1050
+1339	1	1050
+1346	1	1050
+1386	2	1050
+1404	1	1050
+1404	1	1050

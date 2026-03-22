@@ -1,0 +1,36 @@
+The design and study of library information networks are enhanced by the use 
+of the concepts which have been developed by graph theorists.. In this paper we
+expand upon this theme, proposing a general network structure which we believe
+to be a good model for a wide variety of library and other information 
+networks.. The basic concepts from graph theory are illustrated with the aid of 
+a hypothetical Public Library Access Network (PLAN)..
+.X
+288	1	972
+291	1	972
+292	1	972
+433	1	972
+459	1	972
+505	1	972
+591	1	972
+594	1	972
+598	1	972
+602	1	972
+647	1	972
+654	2	972
+855	1	972
+865	1	972
+885	1	972
+915	1	972
+925	1	972
+957	1	972
+959	1	972
+960	1	972
+961	1	972
+962	1	972
+972	5	972
+984	1	972
+1353	1	972
+1385	1	972
+1400	1	972
+1401	1	972
+1401	1	972

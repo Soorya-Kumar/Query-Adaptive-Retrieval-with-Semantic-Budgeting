@@ -1,0 +1,104 @@
+In science and technology user studies are numerous and have a
+history of some twenty years.  The relevance of the methodology
+of science user studies to the social sciences is considered in 
+Chapter 2.  The pressing need in user studies, in science as well
+as social science, is for a general body of theory about the flow
+of information in research and teaching communities.  Some of the
+fundamental characteristics of social science research and its
+literature which have a bearing upon investigations of information
+needs and requirements are considered in the first part of Chapter
+3, and the second part is devoted to a review of empirical studies
+in the social sciences.  Other relevant material about the use made
+of information is discussed in Chapter 4 on systematic approaches.
+.X
+4	1	456
+9	1	456
+32	1	456
+48	3	456
+95	1	456
+96	1	456
+98	2	456
+102	1	456
+104	1	456
+106	1	456
+110	1	456
+111	2	456
+112	1	456
+113	1	456
+131	1	456
+137	2	456
+163	1	456
+170	1	456
+175	1	456
+207	1	456
+224	1	456
+298	1	456
+311	1	456
+312	1	456
+345	1	456
+381	1	456
+439	1	456
+440	1	456
+456	15	456
+458	1	456
+514	1	456
+533	2	456
+545	1	456
+554	1	456
+560	1	456
+575	1	456
+579	1	456
+591	1	456
+595	1	456
+599	1	456
+603	1	456
+607	1	456
+615	1	456
+619	1	456
+620	1	456
+621	1	456
+625	1	456
+630	1	456
+752	1	456
+760	1	456
+768	1	456
+772	1	456
+774	1	456
+780	1	456
+783	1	456
+793	2	456
+799	1	456
+803	1	456
+811	1	456
+816	1	456
+822	1	456
+837	1	456
+900	2	456
+907	1	456
+913	1	456
+961	1	456
+962	1	456
+964	1	456
+968	1	456
+1030	1	456
+1032	2	456
+1045	1	456
+1056	2	456
+1062	1	456
+1068	1	456
+1203	1	456
+1238	1	456
+1254	1	456
+1285	1	456
+1287	1	456
+1291	1	456
+1296	1	456
+1321	1	456
+1338	1	456
+1340	1	456
+1344	1	456
+1346	1	456
+1347	1	456
+1407	1	456
+1445	1	456
+1445	1	456

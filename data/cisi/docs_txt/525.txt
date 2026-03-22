@@ -1,0 +1,160 @@
+The personal literature search of a scientist is strongly governed by
+subjective influences.. If he delegates his literature search he should always 
+be aware of the problems necessarily emanating from his subjective view.. This
+prevents him from imposing unsatisfiable demands on the delegated search,
+particularly with respect to its expected performance, and makes him conscious
+of the fact that in order to satisfy his entire information need he cannot 
+dispense with the browsing serendipity of his personal literature search.. He
+will also better understand the peculiarities of the documentary methods needed
+for operating large and continuously growing systems as compared with the 
+methods sufficient for his personal file..
+   The information scientist on the other hand, in charge of establishing, 
+operating, and evaluating retrieval systems of high performance and survival 
+power, should take into consideration the pronouncedly subjective character of
+fundamental notions such as "information" and "order".. This gives him a better
+understanding of the kind of inquiries submitted to him and of the inherently,
+even if latently, subjective character of several fundamental operations in 
+storage and retrieval and will cause him to refrain from futile attempts to 
+make such operations more "objective" and formal.. Such a better mutual
+understanding will be bound to promote advance in methodology and psychology of 
+scientific communication..
+.X
+18	1	525
+117	1	525
+124	1	525
+126	1	525
+127	2	525
+129	1	525
+145	1	525
+165	2	525
+190	1	525
+191	1	525
+197	1	525
+211	1	525
+214	1	525
+218	1	525
+243	1	525
+307	1	525
+330	1	525
+357	1	525
+376	1	525
+378	1	525
+445	1	525
+449	1	525
+450	1	525
+451	1	525
+452	1	525
+459	2	525
+468	1	525
+476	1	525
+484	1	525
+492	1	525
+508	1	525
+511	1	525
+512	1	525
+514	1	525
+518	1	525
+520	1	525
+523	1	525
+524	2	525
+525	5	525
+526	2	525
+527	1	525
+529	2	525
+530	2	525
+533	1	525
+534	2	525
+546	1	525
+553	1	525
+574	1	525
+579	1	525
+590	1	525
+594	1	525
+603	1	525
+604	1	525
+606	1	525
+609	1	525
+610	1	525
+611	1	525
+612	1	525
+616	1	525
+621	2	525
+625	1	525
+626	1	525
+630	1	525
+633	1	525
+635	1	525
+636	2	525
+637	2	525
+640	1	525
+641	1	525
+642	2	525
+648	1	525
+650	1	525
+668	1	525
+670	1	525
+671	1	525
+674	1	525
+683	1	525
+689	1	525
+692	1	525
+696	1	525
+699	1	525
+702	1	525
+703	2	525
+705	1	525
+708	1	525
+715	1	525
+726	1	525
+727	1	525
+728	1	525
+730	1	525
+731	1	525
+732	2	525
+733	2	525
+734	2	525
+736	2	525
+738	1	525
+739	1	525
+740	1	525
+741	1	525
+742	1	525
+743	1	525
+744	1	525
+755	1	525
+797	1	525
+819	1	525
+820	1	525
+823	1	525
+826	2	525
+827	2	525
+877	1	525
+879	2	525
+883	1	525
+1004	1	525
+1035	1	525
+1077	2	525
+1078	1	525
+1089	1	525
+1091	1	525
+1207	1	525
+1231	2	525
+1264	1	525
+1297	1	525
+1303	1	525
+1305	1	525
+1306	1	525
+1313	1	525
+1356	1	525
+1364	1	525
+1368	1	525
+1370	2	525
+1372	2	525
+1373	1	525
+1374	1	525
+1375	1	525
+1376	1	525
+1377	1	525
+1383	1	525
+1396	1	525
+1396	1	525

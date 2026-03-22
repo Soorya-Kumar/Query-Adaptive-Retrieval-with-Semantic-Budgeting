@@ -1,0 +1,49 @@
+The need for libraries to cooperate has long been recognized, as countless
+articles written within the past decade will attest.  Moreover, the necessity to
+combine forces has never been as apparent as it is today.  Because the cost of 
+self-sufficiency has become undeniably prohibitive, libraries can no longer 
+afford to act as free agents.  Voluntary library
+cooperation is no natural manifestation of social interaction.  Rhetoric alone 
+is a impotent agent of change.  In truth, cooperative programs succeed only 
+as long as each participant perceives the arrangement as beneficial to his
+institution.
+.X
+90	1	939
+207	1	939
+231	1	939
+261	1	939
+295	1	939
+299	1	939
+334	1	939
+340	2	939
+354	1	939
+361	1	939
+431	2	939
+549	1	939
+608	1	939
+610	1	939
+617	1	939
+620	1	939
+815	1	939
+872	1	939
+910	1	939
+938	1	939
+939	5	939
+940	1	939
+941	1	939
+955	1	939
+991	1	939
+992	1	939
+996	1	939
+1009	1	939
+1080	1	939
+1221	1	939
+1236	1	939
+1318	1	939
+1365	1	939
+1390	2	939
+1424	1	939
+1435	1	939
+1436	1	939
+1441	1	939
+1441	1	939

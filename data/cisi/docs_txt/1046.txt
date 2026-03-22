@@ -1,0 +1,36 @@
+The work to which this chapter forms a preface arises out of a deep
+and prolonged dissatisfaction which the author has felt with both
+past and present theories of the structure of language.  This
+dissatisfaction may be understood more readily, and the suggestions
+which make up the body of this work may appear in clearer perspective,
+if I begin with a few remarks of an autobiographical nature.
+The intrinsic importance of these remarks is minimal, but they may
+provide a useful background for what follows.
+.X
+117	1	1046
+168	3	1046
+175	1	1046
+317	2	1046
+320	2	1046
+332	1	1046
+417	1	1046
+443	1	1046
+546	1	1046
+558	2	1046
+572	3	1046
+590	2	1046
+608	1	1046
+628	1	1046
+664	1	1046
+902	1	1046
+1045	1	1046
+1046	6	1046
+1047	1	1046
+1118	1	1046
+1213	1	1046
+1232	1	1046
+1327	1	1046
+1389	1	1046
+1399	3	1046
+1443	3	1046
+1443	3	1046

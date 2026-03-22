@@ -1,0 +1,66 @@
+The paper describes a technique which enables an on line computer based
+information retrieval system to aid the indexers by selecting possible index 
+terms to be assigned to a new document entering the system..
+   The method analyses the index terms assigned to the references cited by the 
+new article.. This produces a list of index terms weighted according to their 
+expected correlation with the subject matter of the new article.. Thus, the 
+indexer is presented with the weighted list of proposed indexing terms as an 
+aid..
+   An evaluation is made of the results produced by the technique for a trial
+set of documents.. These documents have already been indexed for the MEDLARS 
+system.. The list of actual index terms for this trial set of documents is 
+compared with the set of index terms proposed by the technique for each 
+document.. The results of this comparison are encouraging, and they are 
+discussed in the paper..
+   The economic aspects of implementing the technique in a working information 
+retrieval system is considered.. This included the expected benefits, and an 
+estimate of the cost of using the technique as an aid in terms of computer 
+time and indexer time..
+.X
+39	1	446
+50	1	446
+172	1	446
+174	1	446
+175	1	446
+176	1	446
+191	1	446
+194	1	446
+212	1	446
+274	1	446
+326	1	446
+332	1	446
+396	1	446
+417	1	446
+446	6	446
+458	1	446
+473	1	446
+485	2	446
+489	2	446
+493	1	446
+499	3	446
+500	2	446
+503	1	446
+517	2	446
+522	1	446
+527	2	446
+572	2	446
+576	1	446
+577	1	446
+579	1	446
+615	1	446
+616	1	446
+632	1	446
+640	1	446
+773	1	446
+830	1	446
+902	1	446
+958	1	446
+1033	1	446
+1084	1	446
+1207	1	446
+1279	1	446
+1283	1	446
+1327	1	446
+1387	1	446
+1426	1	446
+1426	1	446

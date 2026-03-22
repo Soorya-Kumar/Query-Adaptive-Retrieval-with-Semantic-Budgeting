@@ -1,0 +1,107 @@
+Part I of this paper described the first steps in mapping the scientific
+literature, using a new technique - co-citation - to measure the degree of
+similarity among documents.  The work developed directly from an earlier
+paper which defined this measure, and explored its relationship to other
+citation measures for identifying relationships among documents.  We now
+report the outcome of an attempt to create 'maps' of the scientific literature.
+The scales of these maps have been systematically manipulated so that they
+present, not only an overview of all highly-cited papers in natural science, but
+also a detailed view of a single scientific specialty.  At each level we have
+systematically sought indications of the validity of the mapping operation,
+and have indications that the maps display at least certain important aspects
+of the specialty structure of science. 
+.X
+19	1	1274
+37	1	1274
+39	1	1274
+40	1	1274
+41	1	1274
+47	2	1274
+62	1	1274
+88	1	1274
+97	1	1274
+102	3	1274
+103	1	1274
+104	1	1274
+106	2	1274
+108	1	1274
+113	2	1274
+228	1	1274
+229	1	1274
+233	1	1274
+253	1	1274
+310	1	1274
+313	1	1274
+314	1	1274
+318	1	1274
+359	1	1274
+363	1	1274
+377	3	1274
+379	1	1274
+395	1	1274
+409	1	1274
+462	1	1274
+469	1	1274
+503	1	1274
+505	1	1274
+560	1	1274
+573	1	1274
+604	1	1274
+605	1	1274
+618	1	1274
+632	6	1274
+635	1	1274
+667	1	1274
+737	1	1274
+748	1	1274
+749	1	1274
+751	1	1274
+764	2	1274
+765	2	1274
+777	1	1274
+778	2	1274
+782	1	1274
+804	1	1274
+805	1	1274
+853	1	1274
+875	1	1274
+883	1	1274
+893	1	1274
+952	1	1274
+1016	2	1274
+1061	1	1274
+1084	1	1274
+1085	1	1274
+1086	1	1274
+1087	1	1274
+1182	1	1274
+1200	1	1274
+1201	1	1274
+1234	3	1274
+1273	3	1274
+1274	13	1274
+1277	2	1274
+1278	2	1274
+1280	2	1274
+1285	5	1274
+1287	1	1274
+1291	1	1274
+1300	1	1274
+1301	2	1274
+1302	2	1274
+1304	3	1274
+1312	1	1274
+1313	11	1274
+1337	1	1274
+1338	2	1274
+1341	1	1274
+1342	1	1274
+1344	2	1274
+1347	1	1274
+1380	1	1274
+1386	1	1274
+1387	1	1274
+1419	1	1274
+1428	1	1274
+1444	4	1274
+1444	4	1274

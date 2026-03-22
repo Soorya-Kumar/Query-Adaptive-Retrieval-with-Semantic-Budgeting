@@ -1,0 +1,53 @@
+The paper describes some properties of simple interconversion devices which
+enable material initially subject indexed by a particular indexing system to be
+made available to other institutions using different indexing languages in such 
+a form as to be readily integrated into their indexes.. Reference is made to the
+outline Intermediate Lexicon which is the germinal form of a switching language
+for the field of information science.. Difficulties and problems in effecting 
+satisfactory information transfer through such an interconversion scheme are
+explored, and suggestions made for the lines upon which further research needs
+to be undertaken.. The author was the Classification Research Group 
+representative on the international working party concerned with the 
+Intermediate Lexicon..
+.X
+16	1	796
+114	1	796
+154	2	796
+159	1	796
+194	1	796
+212	1	796
+257	1	796
+429	1	796
+458	1	796
+489	1	796
+493	1	796
+498	1	796
+501	1	796
+582	1	796
+583	1	796
+627	1	796
+653	1	796
+655	1	796
+688	1	796
+770	1	796
+795	1	796
+796	6	796
+797	1	796
+798	2	796
+801	1	796
+802	4	796
+838	1	796
+902	1	796
+906	1	796
+907	1	796
+914	1	796
+989	1	796
+1089	1	796
+1209	1	796
+1289	1	796
+1294	1	796
+1392	1	796
+1405	1	796
+1431	2	796
+1448	1	796
+1448	1	796

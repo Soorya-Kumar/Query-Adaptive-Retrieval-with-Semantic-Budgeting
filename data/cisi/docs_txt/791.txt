@@ -1,0 +1,177 @@
+Since 1960, and especially during the past three years, many papers have
+appeared about particular manifestations and applications of a certain class
+of empirical laws to a field that may be labelled conveniently 'Bibliometrics'.
+This term, resuscitated by Alan Pritchard (see page 348), denotes,
+in my paraphrase, quantitative treatment of the properties of recorded
+discourse and behaviour appertaining to it.
+  In this field the law cited is usually that named after Bradford or
+Zipf according to whether the interest is in vocabulary or periodical
+literature or physical access, in the rate of diminishing returns, or in the
+cumulative yield from a given input.  The behaviour is hyperbolic; that is,
+the product of fixed powers of the variables is constant.  This type of
+behaviour has been observed for a century or so in fields ranging from
+meteorology to economics, and has given rise to many particular explanations
+appropriate to the particular fields.  Thus it has received many names 
+according to its exponents, in both senses of that word.
+.X
+4	1	791
+9	1	791
+19	1	791
+33	1	791
+36	1	791
+43	1	791
+44	1	791
+47	1	791
+50	1	791
+55	1	791
+57	2	791
+65	1	791
+71	1	791
+72	1	791
+73	1	791
+74	1	791
+75	2	791
+77	1	791
+78	1	791
+79	1	791
+81	1	791
+82	1	791
+83	1	791
+86	1	791
+102	1	791
+103	1	791
+123	1	791
+131	1	791
+153	1	791
+156	1	791
+162	1	791
+184	1	791
+193	1	791
+195	1	791
+201	1	791
+203	1	791
+204	1	791
+205	1	791
+207	1	791
+211	1	791
+212	1	791
+222	1	791
+223	1	791
+233	2	791
+245	1	791
+267	2	791
+277	1	791
+279	1	791
+280	1	791
+296	1	791
+297	1	791
+298	1	791
+300	1	791
+301	1	791
+302	1	791
+309	1	791
+314	1	791
+329	3	791
+358	1	791
+359	6	791
+364	1	791
+379	1	791
+395	1	791
+416	3	791
+450	1	791
+477	1	791
+486	1	791
+505	1	791
+511	2	791
+515	1	791
+521	1	791
+535	1	791
+565	1	791
+567	1	791
+573	1	791
+586	1	791
+587	1	791
+592	2	791
+614	1	791
+625	1	791
+629	1	791
+631	1	791
+634	2	791
+638	1	791
+651	1	791
+665	1	791
+667	1	791
+700	1	791
+720	1	791
+728	1	791
+747	1	791
+748	8	791
+750	1	791
+751	3	791
+759	1	791
+765	4	791
+767	2	791
+777	1	791
+778	8	791
+785	1	791
+786	3	791
+787	3	791
+788	1	791
+789	1	791
+791	24	791
+792	1	791
+793	2	791
+800	3	791
+804	1	791
+811	2	791
+816	1	791
+818	1	791
+823	1	791
+843	1	791
+844	1	791
+846	1	791
+852	1	791
+872	1	791
+875	1	791
+893	4	791
+894	1	791
+915	1	791
+925	3	791
+948	1	791
+958	1	791
+961	1	791
+962	1	791
+964	1	791
+970	1	791
+983	1	791
+984	1	791
+994	1	791
+1015	1	791
+1019	2	791
+1030	3	791
+1037	1	791
+1081	1	791
+1082	1	791
+1083	4	791
+1085	5	791
+1086	3	791
+1087	1	791
+1182	2	791
+1196	1	791
+1200	1	791
+1201	2	791
+1242	1	791
+1247	1	791
+1268	1	791
+1278	1	791
+1285	2	791
+1337	1	791
+1338	1	791
+1341	1	791
+1354	1	791
+1386	1	791
+1401	1	791
+1417	1	791
+1418	1	791
+1422	1	791
+1422	1	791

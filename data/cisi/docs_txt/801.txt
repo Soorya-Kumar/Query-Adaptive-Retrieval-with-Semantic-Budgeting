@@ -1,0 +1,87 @@
+Extension of the Selective Dissemination of Information system required the
+adoption of computer-based techniques.. The indexing language adopted is UDC 
+and it was necessary to construct user profiles based on the classification..
+Profiles have been compiled for individual clients of the service, for works
+within the British Steel Corporation, and for broad fields of activity within 
+the iron and steel industry.. Use of the service has shown that UDC provides a 
+satisfactory basis for profile compilation.. The majority of profiles so far 
+constructed have relevance of over 95%, based on user assessment.. Possible 
+future developments in the compilation of the profiles are considered..
+.X
+2	1	801
+38	1	801
+84	1	801
+152	1	801
+159	1	801
+161	1	801
+197	1	801
+257	1	801
+260	1	801
+375	1	801
+429	1	801
+445	1	801
+454	1	801
+472	1	801
+488	1	801
+489	2	801
+490	1	801
+491	2	801
+492	1	801
+493	2	801
+494	1	801
+495	1	801
+496	1	801
+497	1	801
+498	1	801
+499	1	801
+500	1	801
+501	1	801
+503	1	801
+506	1	801
+507	1	801
+554	1	801
+579	1	801
+581	1	801
+582	1	801
+583	2	801
+584	1	801
+586	1	801
+591	1	801
+593	1	801
+594	1	801
+595	1	801
+596	1	801
+597	1	801
+599	1	801
+600	1	801
+603	1	801
+604	1	801
+606	1	801
+653	1	801
+655	1	801
+659	1	801
+688	1	801
+723	1	801
+724	1	801
+795	1	801
+796	1	801
+797	2	801
+798	1	801
+801	6	801
+802	1	801
+805	1	801
+806	1	801
+814	1	801
+836	1	801
+866	1	801
+867	1	801
+956	1	801
+986	1	801
+989	2	801
+1126	1	801
+1294	1	801
+1298	1	801
+1299	1	801
+1327	1	801
+1405	2	801
+1405	2	801

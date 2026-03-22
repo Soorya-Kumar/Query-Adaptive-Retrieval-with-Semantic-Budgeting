@@ -1,0 +1,70 @@
+This is an interim report on continuing
+studies of library operations at Massachusetts
+Institute of Technology being made by
+members of the Institute's Operations Research
+Project in cooperation with the librarians and
+library staff.  In this report, which is based
+on actual observations of on-the-premise use
+made of the Science Library, various statistics
+measuring the kind, degree, and intensity of use
+are tabulated.  In addition there are some
+suggested measures of effectiveness of the library.
+A unique outcome of the survey has been the
+construction and verification of a mathematical
+model employing probability theory to measure
+rate and kind of use of library material
+together with length of stay of library patrons.
+Such models, characteristic of an operations
+research approach, give promise of furthering
+the goal of effective library management and
+planning.
+.X
+31	5	31
+36	1	31
+41	1	31
+46	3	31
+181	1	31
+182	1	31
+183	2	31
+184	1	31
+193	2	31
+195	1	31
+198	1	31
+201	3	31
+206	1	31
+207	1	31
+208	1	31
+266	1	31
+269	2	31
+359	1	31
+373	1	31
+379	1	31
+395	1	31
+415	1	31
+475	1	31
+748	1	31
+760	1	31
+767	2	31
+774	1	31
+778	2	31
+891	1	31
+905	1	31
+925	1	31
+952	1	31
+953	1	31
+964	2	31
+968	1	31
+977	1	31
+1009	1	31
+1018	1	31
+1019	2	31
+1086	1	31
+1173	1	31
+1203	2	31
+1240	1	31
+1352	1	31
+1359	1	31
+1397	1	31
+1417	1	31
+1451	1	31
+1451	1	31

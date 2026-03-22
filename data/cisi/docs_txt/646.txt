@@ -1,0 +1,119 @@
+This paper considers conceptual and methodological components of information 
+science evaluation studies.. The paper discusses the judgmental process of 
+evaluation and the scientific nature of evaluation study in the context of 
+purpose statements; criteria; the selection of variables and data collection 
+and analysis techniques; and requirements of validity, reproducibility and 
+reliability..  Industrial value analysis/engineering methodology is described
+and related to assessments of information products and services.. The
+state-of-the-art of evaluation study in information science is analyzed with 
+respect to 1.the scope of evaluation studies; 2. the use of laboratory-type
+environments; 3. the use of surrogate judges; 4. selection of variables; 5.
+frequency of study; and 6. comparabilty of study results.. Evaluation study is
+seen as essential to the management of information centers and systems and as
+having approachable growth potential..
+.X
+28	1	646
+125	1	646
+127	1	646
+128	3	646
+129	2	646
+130	1	646
+157	1	646
+167	1	646
+190	1	646
+223	1	646
+225	1	646
+234	2	646
+280	1	646
+304	1	646
+306	1	646
+338	1	646
+363	1	646
+381	1	646
+389	1	646
+393	1	646
+432	1	646
+459	3	646
+460	1	646
+461	1	646
+468	2	646
+494	1	646
+514	1	646
+518	1	646
+532	1	646
+560	1	646
+580	1	646
+595	1	646
+615	1	646
+622	1	646
+625	2	646
+639	1	646
+642	1	646
+643	1	646
+644	1	646
+645	1	646
+646	9	646
+647	3	646
+649	1	646
+650	1	646
+651	2	646
+652	1	646
+708	1	646
+736	1	646
+737	1	646
+738	1	646
+739	1	646
+741	1	646
+752	1	646
+765	1	646
+785	1	646
+818	1	646
+820	1	646
+822	2	646
+823	2	646
+826	3	646
+827	4	646
+829	1	646
+879	1	646
+883	1	646
+885	1	646
+888	1	646
+895	1	646
+919	1	646
+925	1	646
+942	1	646
+943	2	646
+944	2	646
+948	1	646
+1003	1	646
+1017	1	646
+1049	1	646
+1070	1	646
+1085	1	646
+1091	1	646
+1206	1	646
+1237	1	646
+1263	1	646
+1282	1	646
+1291	1	646
+1315	1	646
+1340	1	646
+1356	1	646
+1357	1	646
+1368	1	646
+1370	1	646
+1372	1	646
+1374	3	646
+1375	1	646
+1376	2	646
+1377	1	646
+1378	1	646
+1390	1	646
+1401	1	646
+1405	1	646
+1437	1	646
+1440	1	646
+1445	1	646
+1450	1	646
+1453	1	646
+1453	1	646

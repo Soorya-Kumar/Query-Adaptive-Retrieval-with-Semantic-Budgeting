@@ -1,0 +1,94 @@
+The co-joining of "design" with "evaluation" that is called for by this
+chapter posed organizational and inclusion-exclusion problems for the
+author.  In part, "design" and "evaluation" prescribe two separate sets
+of activities, the former pertaining to the planning, development, and
+testing of new information system structures and modification of existing
+structures, the latter to appraisals and assessments of operational
+systems and system components.  However, "design" includes not only the
+formulation of goals and objectives for systems but also provisions for
+evaluation in accordance with expectations.  "Evaluation" applies to
+testing design concepts and to trying out preliminary implementations
+for the purpose of improving initial designs, as well as to the
+appraisal of operating systems.  Appraisals at any stage of system
+operability may yield data that indicate the need for system modifications
+that require redesign and assessment.  Thus, portions of "design" and
+"evaluation" are closely interrelated, as Katter demonstrated in
+his 1969 review.
+  "Design" and "evaluation" may be examined methodologically or with
+respect to outcomes of the application of methodologies.  Increasingly,
+designers and evaluators have been acknowledging the dependence of
+outcomes on sound procedural conceptualizations.  The current literature
+discloses research on the processes of design and evaluation as well as on
+their products.
+.X
+120	1	128
+128	6	128
+129	1	128
+130	2	128
+135	1	128
+167	1	128
+191	1	128
+223	1	128
+225	1	128
+234	1	128
+244	1	128
+245	1	128
+280	1	128
+291	1	128
+330	1	128
+339	1	128
+370	1	128
+376	1	128
+387	1	128
+393	1	128
+453	1	128
+459	1	128
+468	1	128
+494	1	128
+560	1	128
+575	1	128
+599	1	128
+621	1	128
+623	1	128
+629	1	128
+630	1	128
+639	1	128
+646	3	128
+647	2	128
+648	1	128
+651	1	128
+652	2	128
+692	1	128
+729	1	128
+744	1	128
+748	1	128
+757	1	128
+765	1	128
+818	1	128
+822	1	128
+823	2	128
+827	2	128
+831	1	128
+888	1	128
+893	1	128
+919	1	128
+925	2	128
+943	1	128
+944	1	128
+1003	1	128
+1070	1	128
+1085	1	128
+1291	1	128
+1315	1	128
+1340	1	128
+1374	1	128
+1375	1	128
+1376	2	128
+1390	1	128
+1401	1	128
+1402	1	128
+1403	1	128
+1437	1	128
+1445	1	128
+1457	1	128
+1457	1	128

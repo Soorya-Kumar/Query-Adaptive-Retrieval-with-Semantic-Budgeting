@@ -1,0 +1,27 @@
+The characteristics to be referred to in differentiating the R&D user needs
+are defined; depending on the administrative status of the user, information
+catered to him must possess the corresponding degree of generalization..
+.X
+161	1	1107
+718	1	1107
+719	1	1107
+1093	1	1107
+1094	1	1107
+1095	1	1107
+1099	1	1107
+1102	3	1107
+1106	1	1107
+1107	8	1107
+1110	2	1107
+1113	1	1107
+1115	2	1107
+1116	1	1107
+1142	1	1107
+1167	1	1107
+1179	1	1107
+1222	1	1107
+1228	1	1107
+1326	1	1107
+1446	1	1107
+1459	1	1107
+1459	1	1107

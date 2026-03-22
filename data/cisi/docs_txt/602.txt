@@ -1,0 +1,57 @@
+At the frontiers of an active area of science, social structure based upon 
+communication is demonstrated.. Using sociometric techniques, an informal
+communication network was identified which included 73% of the scientists..
+Within the network was a core group of scientists who were the focus of a
+disproportionately large number of contacts and who were differentiated from
+others by greater productivity, higher citation record and wider readership..
+Information transferred to these scientists is so situated that it could be
+transmitted to 95% of the network scientists through one intermediary scientist
+or less..
+.X
+39	1	602
+89	1	602
+98	1	602
+100	1	602
+105	1	602
+107	1	602
+111	2	602
+113	1	602
+161	1	602
+163	1	602
+191	1	602
+243	1	602
+312	1	602
+356	1	602
+359	1	602
+459	1	602
+475	1	602
+545	1	602
+560	2	602
+592	1	602
+594	1	602
+602	5	602
+607	1	602
+618	1	602
+632	1	602
+728	1	602
+972	1	602
+1010	1	602
+1030	1	602
+1044	1	602
+1062	1	602
+1082	1	602
+1083	1	602
+1085	1	602
+1284	1	602
+1291	1	602
+1293	1	602
+1296	2	602
+1298	1	602
+1300	1	602
+1301	1	602
+1302	1	602
+1303	1	602
+1346	1	602
+1347	1	602
+1444	1	602
+1444	1	602

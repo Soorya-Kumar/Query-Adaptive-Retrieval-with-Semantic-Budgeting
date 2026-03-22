@@ -1,0 +1,8 @@
+The purpose of this paper is to develop an approach to a practical
+treatment for the wet deacidification of paper in books stored in libraries.
+.X
+337	2	969
+969	5	969
+971	3	969
+1211	1	969
+1211	1	969

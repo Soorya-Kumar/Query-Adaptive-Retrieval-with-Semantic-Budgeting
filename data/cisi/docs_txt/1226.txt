@@ -1,0 +1,29 @@
+An account is given of the principles for automatic decipherment of 
+historical documents which are used by te VINITI group under the leadership of
+M. A. Probst.. The author considers problems of dividing texts into blocks,
+classification of morphemes into auxiliary and root morphemes by means of the
+variational principle, and establishment of correspondences between related
+languages..
+.X
+151	1	1226
+359	1	1226
+416	2	1226
+504	1	1226
+759	1	1226
+765	2	1226
+773	1	1226
+778	1	1226
+798	1	1226
+1114	1	1226
+1118	1	1226
+1122	2	1226
+1123	1	1226
+1133	1	1226
+1141	1	1226
+1159	2	1226
+1172	1	1226
+1173	1	1226
+1182	1	1226
+1226	9	1226
+1381	2	1226
+1381	2	1226

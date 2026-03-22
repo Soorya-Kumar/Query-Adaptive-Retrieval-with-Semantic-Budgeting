@@ -1,0 +1,144 @@
+Relatively few studies have been concerned with the use of biomedical
+books.. This paper reports an investigation into use made of library books
+by biomedical investigators.. Based on cancelled charge slips collected at the
+Yale Medical Library circulation desk, telephone appointments were made to
+interview those research investigators whose books has been returned the
+previous day.. The interviewer obtained answers from the investigator to a
+questionnaire to discover how the investigator had learned of a book, if the
+book had been useful, and, if useful, how it had been used.. During the 
+six-month study period, 30.4 percent of researchers' volumes returned were
+monographs.. Almost four-fifths of books borrowed supplied information wanted,
+and about four-fifths of books used had been printed in the previous decade..
+Nine-tenths of the use of books was research-related, the other tenth being
+for lecture preparation..
+.X
+31	1	184
+33	2	184
+36	5	184
+41	2	184
+42	1	184
+46	1	184
+57	1	184
+76	1	184
+89	2	184
+90	1	184
+97	1	184
+102	1	184
+111	1	184
+112	1	184
+161	1	184
+163	1	184
+181	2	184
+182	2	184
+183	7	184
+184	11	184
+193	6	184
+195	2	184
+198	2	184
+199	2	184
+201	5	184
+202	2	184
+203	6	184
+204	5	184
+205	3	184
+209	1	184
+210	1	184
+212	1	184
+217	1	184
+220	1	184
+222	1	184
+225	1	184
+233	1	184
+267	1	184
+269	2	184
+284	1	184
+286	1	184
+294	1	184
+359	1	184
+373	1	184
+395	2	184
+415	1	184
+543	1	184
+545	1	184
+552	3	184
+587	2	184
+588	1	184
+605	1	184
+613	2	184
+614	1	184
+624	1	184
+638	1	184
+667	1	184
+735	2	184
+747	1	184
+748	1	184
+750	2	184
+751	1	184
+753	1	184
+759	1	184
+760	1	184
+765	1	184
+766	2	184
+767	3	184
+774	1	184
+775	1	184
+778	2	184
+782	1	184
+783	1	184
+784	2	184
+787	1	184
+788	1	184
+789	1	184
+791	1	184
+792	1	184
+793	2	184
+799	1	184
+800	3	184
+808	2	184
+828	1	184
+891	1	184
+905	2	184
+952	1	184
+953	2	184
+959	1	184
+964	1	184
+968	1	184
+977	1	184
+983	1	184
+1009	1	184
+1016	1	184
+1018	1	184
+1019	1	184
+1023	1	184
+1030	1	184
+1055	2	184
+1081	1	184
+1082	1	184
+1083	1	184
+1085	1	184
+1086	1	184
+1087	1	184
+1090	1	184
+1135	1	184
+1151	1	184
+1201	1	184
+1240	1	184
+1260	1	184
+1275	1	184
+1276	1	184
+1278	2	184
+1280	1	184
+1285	1	184
+1286	1	184
+1287	1	184
+1302	1	184
+1335	1	184
+1359	1	184
+1390	1	184
+1397	4	184
+1401	1	184
+1417	3	184
+1418	1	184
+1428	1	184
+1432	2	184
+1432	2	184

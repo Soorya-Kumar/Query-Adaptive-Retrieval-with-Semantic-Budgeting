@@ -1,0 +1,26 @@
+It was our original intention to include the cost of book selection with
+the cost of ordering, as part of the total acquisition process.  We also
+attempted to get indirect costs, such as rent and utilities.  Very few of
+the libraries were able to supply these figures so we based our survey on direct
+cost only.  We found from the preliminary survey that book selection statistics
+were extremely difficult to determine, since all the professional staff in the
+libraries concerned participated in book selection, with the chief librarian
+performing most of it.  As a result, the cost of book selection was exceedingly
+high and threw the cost of ordering out of proportion.
+.X
+249	1	974
+250	1	974
+331	1	974
+365	1	974
+408	1	974
+834	1	974
+848	1	974
+849	1	974
+922	1	974
+938	1	974
+974	5	974
+984	2	974
+997	1	974
+1317	1	974
+1359	1	974
+1359	1	974

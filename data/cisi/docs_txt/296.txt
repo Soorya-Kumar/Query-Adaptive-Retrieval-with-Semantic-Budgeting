@@ -1,0 +1,57 @@
+This paper reviews a recent study on the influence of participative 
+management on library performance.. Because most of the recent theoretical and 
+empirical research being done in this area is ignored and an invalid measure of
+participation in decision making is used, the study provides no basis for the
+generalization that in increase in the library staff's participation in 
+decision making will increase the library's effectiveness..
+.X
+9	1	296
+172	1	296
+207	1	296
+222	1	296
+223	1	296
+283	1	296
+285	1	296
+293	1	296
+296	5	296
+297	1	296
+298	3	296
+300	1	296
+301	2	296
+302	2	296
+304	1	296
+358	1	296
+364	1	296
+418	1	296
+515	1	296
+535	1	296
+625	1	296
+629	1	296
+631	1	296
+634	1	296
+791	1	296
+811	1	296
+816	1	296
+818	1	296
+823	1	296
+843	1	296
+844	1	296
+846	1	296
+915	1	296
+925	1	296
+961	1	296
+962	1	296
+964	1	296
+994	1	296
+1015	3	296
+1069	1	296
+1070	1	296
+1150	1	296
+1214	1	296
+1233	1	296
+1242	1	296
+1247	1	296
+1268	2	296
+1354	1	296
+1454	1	296
+1454	1	296

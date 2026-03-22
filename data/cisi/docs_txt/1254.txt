@@ -1,0 +1,56 @@
+This is a factual report of the investigation.. It includes all the 
+numerical results which were judged to be worth reporting.. The whole of the 
+data collected for the investigation is available on punched cards, and
+further analyzes can be made from these, if required, by members of Aslib..
+   The broad significance of the results, and any conclusions to be drawn from
+them, are discussed in papers now being prepared for publication elsewhere.. In
+this report only such discussion is included as is necessary to clarify the
+data presented..
+.X
+48	1	1254
+137	1	1254
+147	1	1254
+167	1	1254
+210	1	1254
+241	1	1254
+355	2	1254
+382	1	1254
+456	1	1254
+458	1	1254
+475	1	1254
+614	1	1254
+635	1	1254
+638	1	1254
+658	1	1254
+748	1	1254
+753	1	1254
+756	1	1254
+757	1	1254
+760	1	1254
+763	1	1254
+771	1	1254
+772	1	1254
+787	1	1254
+788	2	1254
+792	1	1254
+821	1	1254
+831	1	1254
+900	1	1254
+952	1	1254
+953	1	1254
+986	1	1254
+1050	1	1254
+1083	1	1254
+1210	1	1254
+1254	7	1254
+1256	1	1254
+1260	1	1254
+1275	1	1254
+1278	1	1254
+1291	1	1254
+1302	1	1254
+1369	1	1254
+1373	1	1254
+1404	1	1254
+1418	1	1254
+1418	1	1254

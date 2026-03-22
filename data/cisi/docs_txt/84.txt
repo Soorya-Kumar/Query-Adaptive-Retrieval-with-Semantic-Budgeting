@@ -1,0 +1,67 @@
+Eighty-two documents and 30 questions, in documentation and related areas, 
+was compared to find answer-providing documents (documents from which answers to 
+questions can be inferred).. Two judges (documentation experts) made 
+comparisons independently.. They discussed their disagreements, attempting to
+resolve them.. In each case the positive judge was first asked to indicate what
+answer he inferred, and from what document passage(s).. The further discussion
+depended on the details of each case.. In general, the resolution procedures 
+used will resolve a disagreement about whether a document is answer-providing
+or reduce it to a familiar kind of scientific disagreement (about a passage's
+meaning, a statement's correctness, or an inference's correctness).. This seems
+better than treating relevance judgements as subjective and not open to 
+rational discussion..
+.X
+29	1	84
+35	1	84
+38	1	84
+42	1	84
+43	1	84
+58	3	84
+68	3	84
+70	1	84
+84	5	84
+175	1	84
+444	1	84
+445	1	84
+447	1	84
+449	1	84
+474	1	84
+486	1	84
+488	1	84
+489	1	84
+490	1	84
+491	1	84
+492	1	84
+493	1	84
+494	1	84
+495	1	84
+496	1	84
+497	1	84
+499	1	84
+500	1	84
+532	1	84
+571	1	84
+581	1	84
+583	1	84
+584	1	84
+586	1	84
+625	1	84
+659	1	84
+660	1	84
+762	1	84
+764	1	84
+795	1	84
+801	1	84
+893	1	84
+986	1	84
+1016	1	84
+1030	1	84
+1045	1	84
+1084	1	84
+1195	1	84
+1201	1	84
+1235	1	84
+1281	1	84
+1285	1	84
+1294	1	84
+1294	1	84

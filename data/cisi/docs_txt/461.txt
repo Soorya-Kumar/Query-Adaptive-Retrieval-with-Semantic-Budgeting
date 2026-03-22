@@ -1,0 +1,46 @@
+The present book embodies a change in structure and focus to reflect
+the fact that the reader of today's book is much more likely to be an
+interested college student with a great awareness of the current information
+revolution than was the case ten years ago.  Thus, hardware, materials, and
+processes used in connection with information systems are discussed first,
+in Chapters Two through Four.  The subject of information retrieval per se
+begins with Chapters Five and Six, which have to do with librarianship 
+and documentation.  Because of their somewhat historical slant, these
+chapters (along with Seven) are the only ones taken from the 1963 book
+which adhere to their original character.  Chapter Seven presents a simplified
+concept of an information system and its components, and paves the way for
+discussion of computerized retrieval in the chapters to follow, especially
+for data retrieval in Chapter Eight and document retrieval in Chapter Nine.
+Chapters Ten through Twelve, on language processing, evaluation, and user
+studies, describe important facets of the information retrieval field that have
+developed strongly since 1963.
+
+.X
+6	1	461
+125	1	461
+127	1	461
+129	1	461
+363	2	461
+403	1	461
+432	1	461
+460	1	461
+461	6	461
+551	1	461
+580	1	461
+622	1	461
+642	1	461
+643	1	461
+644	1	461
+645	1	461
+646	1	461
+649	1	461
+650	1	461
+708	1	461
+736	1	461
+737	1	461
+738	1	461
+739	1	461
+741	1	461
+1374	1	461
+1376	1	461
+1376	1	461

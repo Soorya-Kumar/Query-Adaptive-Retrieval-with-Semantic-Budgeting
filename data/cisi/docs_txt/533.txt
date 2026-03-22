@@ -1,0 +1,41 @@
+In this article we examine the concept of the "information user", and 
+attempt to describe some of the dynamics of the situation by discussing some of
+our data relative to "intraindividual variations" (changes which occur within
+individual scientists as their scientific work progresses) and "interindividual
+variations" (physical vs social scientists, basic vs applied scientists, 
+experienced vs inexperienced scientists, and scientists' working in the same
+subject-matter area vs scientists who recently changed their areas).. All of
+these were found to produce significant variation in the information needs of 
+scientists and in the sources they used to satisfy these needs.. Some 
+implications of these findings relative to information technology are 
+discussed..
+.X
+48	2	533
+98	2	533
+124	1	533
+126	1	533
+439	1	533
+440	2	533
+449	1	533
+456	2	533
+514	1	533
+525	1	533
+526	1	533
+532	1	533
+533	5	533
+574	1	533
+594	1	533
+604	1	533
+611	1	533
+616	1	533
+640	1	533
+728	1	533
+733	1	533
+823	1	533
+1303	1	533
+1305	1	533
+1306	1	533
+1313	1	533
+1319	1	533
+1338	1	533
+1338	1	533

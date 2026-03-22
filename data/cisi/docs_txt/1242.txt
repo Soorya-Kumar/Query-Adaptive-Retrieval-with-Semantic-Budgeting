@@ -1,0 +1,64 @@
+This Institute was designed both to encourage the use of
+quantitative measurement and to teach the techniques necessary
+for such use.  It was hoped that an emphasis on statistical
+measurement would upgrade administrative and research skills
+and thus contribute to more efficient and effective library
+management.
+  Studies of librarians' academic backgrounds have indicated
+a preponderance of humanities and social science majors in
+the field.  Too often librarians have had only a few courses in
+mathematics, and some actually have a psychological antipathy
+toward numbers.  This anti-mathematics syndrome has
+kept librarians from taking proper advantage of quantitative
+methods.
+.X
+9	1	1242
+158	1	1242
+207	1	1242
+222	1	1242
+223	1	1242
+249	1	1242
+292	1	1242
+296	1	1242
+297	1	1242
+298	1	1242
+300	1	1242
+301	1	1242
+302	1	1242
+358	1	1242
+364	1	1242
+515	1	1242
+535	1	1242
+616	1	1242
+625	1	1242
+629	1	1242
+631	1	1242
+634	1	1242
+791	1	1242
+811	1	1242
+816	1	1242
+818	1	1242
+823	2	1242
+841	1	1242
+842	1	1242
+843	1	1242
+844	1	1242
+846	1	1242
+915	1	1242
+925	1	1242
+948	1	1242
+961	1	1242
+962	1	1242
+964	1	1242
+994	1	1242
+1015	1	1242
+1242	6	1242
+1247	1	1242
+1250	1	1242
+1268	1	1242
+1317	1	1242
+1354	1	1242
+1401	1	1242
+1403	1	1242
+1428	1	1242
+1428	1	1242

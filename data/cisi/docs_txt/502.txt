@@ -1,0 +1,48 @@
+This study is based on the data from a survey of catalog use at three 
+university libraries and one public library.. Both "known-item" searches and
+"subject" searches were analyzed.. The characteristics of the user population 
+were examined and methodological problems of the survey were discussed.. A
+relation was found between the academic rank of the catalog users and type of 
+search that they carry out.. Some of the factors influencing the success or 
+failure of the search were analyzed, and the meaning of "success" for the two
+types of search was discussed.. The study investigated tends in search 
+strategies as well as degree of perseverance of catalog searchers..Implications 
+for the design of modern information retrieval systems were pointed out..
+.X
+63	1	502
+175	1	502
+207	2	502
+217	1	502
+234	1	502
+348	1	502
+389	1	502
+390	1	502
+487	1	502
+502	6	502
+579	1	502
+596	1	502
+600	1	502
+601	1	502
+781	1	502
+799	1	502
+805	1	502
+807	1	502
+811	3	502
+863	1	502
+864	1	502
+925	1	502
+948	1	502
+956	1	502
+963	3	502
+970	1	502
+987	1	502
+988	1	502
+989	1	502
+994	1	502
+1152	1	502
+1265	1	502
+1294	1	502
+1327	1	502
+1395	1	502
+1445	1	502
+1445	1	502

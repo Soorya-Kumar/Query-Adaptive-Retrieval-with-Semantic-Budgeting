@@ -1,0 +1,27 @@
+Parameters of information flows are identified as reflected in VINITI's
+abstract journals carrying materials in shipbuilding and the related fields..
+The objective of the large-scale analysis of these flows is to support the
+development of an automated system of ship design and the industry's sci-tech
+information subsystem..  More than 1400 periodicals and serials have been
+identified that are relevant to the field..  The file of secondary publications
+in the field carried by VINITI abstract journals since 1956 amounted to 185,000
+items..
+.X
+359	1	1114
+362	1	1114
+416	1	1114
+616	1	1114
+748	1	1114
+759	1	1114
+765	2	1114
+778	1	1114
+1111	1	1114
+1114	8	1114
+1122	4	1114
+1123	1	1114
+1172	1	1114
+1173	1	1114
+1182	1	1114
+1226	1	1114
+1355	1	1114
+1355	1	1114

@@ -1,0 +1,33 @@
+Scientific research is expensive and the practical application of its
+results is even more expensive.  Information services are relatively
+inexpensive and, by constantly improving their scope and efficiency and
+encouraging the scientist to make the best use of them, we can minimize
+duplication and inefficiency in research and development.  This is the
+justification for the present survey and for all the work on user needs
+which has preceded it. 
+.X
+2	1	771
+32	1	771
+96	1	771
+132	1	771
+161	1	771
+475	1	771
+658	2	771
+771	5	771
+788	1	771
+965	1	771
+1095	1	771
+1099	1	771
+1102	1	771
+1111	1	771
+1151	1	771
+1154	1	771
+1158	1	771
+1254	1	771
+1321	1	771
+1330	1	771
+1361	1	771
+1408	1	771
+1446	1	771
+1447	1	771
+1447	1	771

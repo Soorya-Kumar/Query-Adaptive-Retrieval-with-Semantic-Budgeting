@@ -1,0 +1,59 @@
+Two recent articles in this journal (Konigova [1], Cooper [2]) have gone
+beyond the usual slapdash use of the words "relevant" and "relevance," and
+have attempted to explicate the concept further.  Both attempts only partially
+succeed.  Konigova proposes three types:  formal relevance, subject/content
+relevance and subjective relevance (or pertinency).  This classification has
+validity, but is not further elaborated, and indeed she reverts to a less
+precise language; for example, in defining "second order noise," she uses the
+ambiguous phrase "a formally relevant document which is not really relevant" -
+presumably meaning not subjectively relevant, according to the real need of
+the enquirer.  And in her mathematics, as she admits, "no account is taken of
+the subjective relevance (pertinence)."  Yet this is surely the true aim of the
+system.
+.X
+15	1	447
+29	1	447
+35	1	447
+42	1	447
+43	1	447
+58	1	447
+70	1	447
+84	1	447
+152	1	447
+313	1	447
+444	2	447
+445	3	447
+447	7	447
+449	3	447
+474	1	447
+486	1	447
+514	1	447
+523	1	447
+532	2	447
+554	1	447
+557	1	447
+574	1	447
+625	2	447
+639	1	447
+660	1	447
+740	1	447
+741	1	447
+752	1	447
+762	1	447
+764	1	447
+803	1	447
+806	1	447
+893	1	447
+1016	1	447
+1030	1	447
+1045	1	447
+1084	1	447
+1195	1	447
+1201	1	447
+1235	1	447
+1281	1	447
+1285	1	447
+1319	1	447
+1327	1	447
+1386	1	447
+1386	1	447

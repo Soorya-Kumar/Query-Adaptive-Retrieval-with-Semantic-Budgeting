@@ -1,0 +1,39 @@
+Describes the characteristics, performance, and potential of SKED (Sort-Key
+Edit), a generalized computer program for creating sort keys for MARC II 
+records at the user's option.. SKED and a modification of the IBM S/360 DOS
+tape sort/merge program form the basis for a comprehensive program for 
+arranging catalog by computer..
+.X
+24	1	855
+75	1	855
+78	1	855
+80	1	855
+119	1	855
+122	2	855
+177	1	855
+214	1	855
+218	1	855
+250	1	855
+281	1	855
+336	2	855
+340	1	855
+348	1	855
+375	1	855
+654	3	855
+852	1	855
+853	1	855
+854	1	855
+855	7	855
+856	1	855
+903	1	855
+907	1	855
+908	1	855
+972	1	855
+984	1	855
+986	1	855
+1011	3	855
+1012	1	855
+1188	1	855
+1379	1	855
+1385	1	855
+1385	1	855

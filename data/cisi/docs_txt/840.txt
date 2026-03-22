@@ -1,0 +1,32 @@
+A simple model of a two-stage hierarchical library system is described.. The
+model indicates, in terms of "user costs" and library "viability", how the 
+branch library should be stocked.. The most significant factor used in the 
+analysis is shown to be the ratio of the two actual user costs, rather than the 
+actual costs themselves.. It is shown that the viability level of stock 
+provision of the branch library is determined by this ratio..
+
+
+.X
+81	1	840
+222	1	840
+267	1	840
+494	3	840
+515	3	840
+587	1	840
+786	1	840
+787	2	840
+788	1	840
+792	3	840
+823	1	840
+840	5	840
+925	4	840
+948	1	840
+1085	1	840
+1219	1	840
+1324	1	840
+1365	2	840
+1400	1	840
+1401	2	840
+1416	1	840
+1417	2	840
+1417	2	840

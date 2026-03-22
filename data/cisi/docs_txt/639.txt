@@ -1,0 +1,105 @@
+With budget constraints, the problems of cost and effectiveness have 
+advanced to the top of priority list of all information services managers..
+Determining and monitoring effectiveness should be cost-effective also..
+   The author traces the cost-effectiveness problems back to the genesis of an 
+information system.. Performance parameters and their shifting in the desired 
+direction are briefly discussed.. The monthly statement is intended to assist a
+manager in budgeting and planning and it should also alert him to any 
+irregularities in costs and effectiveness, either in time or among individual 
+services.. If adopted more widely it could even serve as a means of comparison 
+between centers if due consideration is given to varying conditions..
+.X
+18	1	639
+34	1	639
+49	1	639
+53	1	639
+59	1	639
+128	1	639
+129	1	639
+130	1	639
+164	1	639
+167	1	639
+202	1	639
+213	1	639
+223	1	639
+224	1	639
+225	1	639
+234	1	639
+243	1	639
+280	1	639
+381	1	639
+393	1	639
+421	1	639
+434	1	639
+447	1	639
+465	1	639
+466	1	639
+468	1	639
+490	1	639
+491	1	639
+494	1	639
+506	1	639
+507	1	639
+510	1	639
+512	1	639
+514	1	639
+534	1	639
+591	2	639
+595	1	639
+603	1	639
+604	1	639
+622	1	639
+623	1	639
+629	1	639
+633	1	639
+639	5	639
+646	1	639
+647	1	639
+651	1	639
+659	1	639
+676	1	639
+711	1	639
+722	1	639
+723	1	639
+726	1	639
+728	1	639
+730	1	639
+731	1	639
+732	1	639
+752	1	639
+765	1	639
+779	1	639
+806	1	639
+809	1	639
+810	1	639
+813	1	639
+814	1	639
+818	1	639
+820	1	639
+822	3	639
+823	1	639
+827	1	639
+828	1	639
+870	1	639
+879	1	639
+925	1	639
+943	1	639
+944	1	639
+947	1	639
+1070	1	639
+1085	1	639
+1091	1	639
+1283	1	639
+1298	1	639
+1299	1	639
+1363	1	639
+1366	1	639
+1367	1	639
+1368	1	639
+1374	2	639
+1390	1	639
+1396	1	639
+1401	1	639
+1437	1	639
+1441	1	639
+1441	1	639

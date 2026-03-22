@@ -1,0 +1,23 @@
+A critical analysis is given of existing classification
+schemes for reviews.  The author proposes to distinguish
+between two main review types: orienting and informative
+ones.  The importance is stressed of informative
+(analytical and abstracting) reviews, which contain
+new information under the conditions of information
+crisis being interpreted as overproduction of documents
+rather than new knowledge.
+.X
+37	1	1115
+63	1	1115
+166	2	1115
+907	1	1115
+1107	2	1115
+1110	2	1115
+1111	1	1115
+1112	1	1115
+1113	1	1115
+1115	6	1115
+1142	1	1115
+1446	2	1115
+1447	1	1115
+1447	1	1115

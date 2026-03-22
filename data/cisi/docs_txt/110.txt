@@ -1,0 +1,70 @@
+The norms of scientific behavior as
+described by Merton include the
+prescription that scientific achievements
+are to be judged without reference to
+scientists' social characteristics.  This
+article will attempt to assess the extent
+to which this norm is followed with
+respect to the evaluation of articles by
+scientific journals.
+.X
+48	1	110
+76	1	110
+89	1	110
+95	1	110
+102	1	110
+104	2	110
+105	1	110
+106	1	110
+107	1	110
+110	7	110
+111	2	110
+112	2	110
+113	2	110
+155	1	110
+157	1	110
+161	1	110
+170	1	110
+314	1	110
+356	1	110
+456	1	110
+544	1	110
+545	2	110
+560	2	110
+582	2	110
+584	1	110
+589	1	110
+592	1	110
+655	1	110
+656	1	110
+685	1	110
+788	1	110
+789	1	110
+793	1	110
+1030	2	110
+1050	1	110
+1062	3	110
+1063	1	110
+1209	1	110
+1256	1	110
+1284	1	110
+1285	2	110
+1287	2	110
+1290	1	110
+1291	2	110
+1293	2	110
+1294	1	110
+1295	1	110
+1296	1	110
+1297	2	110
+1300	2	110
+1302	1	110
+1315	1	110
+1319	1	110
+1340	1	110
+1344	1	110
+1345	1	110
+1346	2	110
+1347	2	110
+1386	2	110
+1386	2	110

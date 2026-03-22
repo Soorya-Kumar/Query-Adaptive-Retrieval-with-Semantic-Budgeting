@@ -1,0 +1,16 @@
+This work describes a native Soviet experiment in creating machine translation
+and the automatic annotation of texts in foreign languages.
+Also generalizes the theoretical results of research in the area of probabilistic
+text processing within the system "man-machine'man".
+.X
+25	1	1409
+180	1	1409
+363	1	1409
+455	1	1409
+1117	1	1409
+1119	1	1409
+1137	1	1409
+1140	1	1409
+1141	1	1409
+1409	5	1409
+1409	5	1409

@@ -1,0 +1,95 @@
+Citation indexes to large bodies of science literature can often list far
+more citing references under the known cited reference than the user can 
+afford the time to look up.. By providing some additional information, beyond 
+the minimal association of the citing reference with the cited reference, a 
+citation index could provide the means of the user to select from a long list 
+those citing references which are most relevant to his immediate search 
+requirement.. Means of providing this selectivity are discussed.. Particular 
+attention is given to the possibility of adding short codes to the citation 
+entries which would be informative of the way in which the citing publication
+is operationally related to the cited one (this method is an integral feature 
+of the Shepard's legal citations).. A scheme of citation relationships of 
+potential value to users of science literature is presented.. These 
+relationships were tested on a sampling of physics literature.. The suggested 
+categories include indicators of the relation of the citing reference to the
+scientific process in general, as well as indicators of its relationship to the
+cited reference in particular.. Assignment of the categories to a citation 
+requires the exercise of judgment, as in subject indexing, but does not involve
+the use of subject terminology.. An illustration is provided of the application 
+from a citation index to physics literature..
+.X
+19	1	47
+37	1	47
+39	1	47
+40	1	47
+41	1	47
+43	1	47
+47	6	47
+48	1	47
+50	1	47
+65	1	47
+75	1	47
+88	1	47
+97	1	47
+102	2	47
+103	1	47
+106	1	47
+113	1	47
+233	1	47
+253	1	47
+313	1	47
+359	1	47
+377	2	47
+379	1	47
+395	1	47
+503	1	47
+505	1	47
+513	1	47
+560	1	47
+573	1	47
+586	1	47
+618	1	47
+632	2	47
+635	1	47
+667	1	47
+748	1	47
+749	1	47
+751	1	47
+764	2	47
+765	1	47
+777	1	47
+778	2	47
+782	1	47
+791	1	47
+804	1	47
+805	1	47
+893	1	47
+952	1	47
+958	1	47
+1016	1	47
+1061	1	47
+1085	1	47
+1086	1	47
+1087	1	47
+1182	1	47
+1200	1	47
+1210	1	47
+1274	2	47
+1277	2	47
+1278	2	47
+1280	2	47
+1285	1	47
+1287	1	47
+1300	1	47
+1301	2	47
+1302	2	47
+1304	1	47
+1308	1	47
+1313	3	47
+1338	1	47
+1344	1	47
+1347	1	47
+1380	1	47
+1428	1	47
+1444	2	47
+1444	2	47

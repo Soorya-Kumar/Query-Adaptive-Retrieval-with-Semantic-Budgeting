@@ -1,0 +1,20 @@
+This paper describes methods of studying information requests on source
+information, analyzes results of questionnaire distribution.
+On the basis of the questionnaire answers a card file of the subject requests
+and list of requests on source information was formed.
+Since the study these requests determines the content and purpose of the
+information process, the author suggests that the study of requests be the
+first phase of information process.
+.X
+763	1	1155
+772	1	1155
+1095	4	1155
+1096	1	1155
+1099	2	1155
+1103	1	1155
+1155	5	1155
+1156	4	1155
+1158	3	1155
+1160	2	1155
+1166	1	1155
+1166	1	1155

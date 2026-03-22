@@ -1,0 +1,37 @@
+A general measure of retrieval effectiveness having full metric properties 
+and treating the "retrieval system - arbiter of relevance"situation 
+symmetrically, is the Marczewski-Steinhaus metric, D, measuring the distance 
+between the set of relevant documents, A, and set of retrieved documents, B, 
+according to D = 1 -(n (A ^ B)/n(A u B)).. D can be expressed as a function of 
+Presicion and Recall, or of Generality, Fallout and Recall, and of other sets 
+of traditional measures.. Acceptance of the measure allows criteria for 
+retrieval optimality and degeneracy to be stated, defined by minimum and 
+constant  values of D respectively.. Precision_Recall degeneracy curves for D 
+are given and compared with those for another general measure: the probability
+that a document will be correctly identified by a retrieval system.. 
+Statistical extensions of D are examined, and these and other properties of the
+metric are illustrated with seven examples..
+.X
+54	1	519
+73	3	519
+175	1	519
+319	1	519
+390	1	519
+509	3	519
+519	5	519
+565	1	519
+587	1	519
+625	1	519
+649	1	519
+660	1	519
+764	1	519
+780	3	519
+785	1	519
+810	1	519
+824	1	519
+829	2	519
+895	2	519
+1091	1	519
+1307	3	519
+1427	1	519
+1427	1	519

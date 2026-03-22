@@ -1,0 +1,90 @@
+A decision model for book acquisitions has been developed to simulate the
+intellectual processes used in acquiring these materials in academic libraries..
+It consists of a flow chart, weighted inputs and an equation, which when solved
+indicates whether a library should add the title to its collection, refer it to
+a cooperative group, defer the decision or drop it altogether.. Inputs to the 
+model need further study and development, but the model is a step in defining
+and quantifying the decision process..
+.X
+33	1	651
+115	1	651
+128	1	651
+129	1	651
+130	1	651
+141	1	651
+167	1	651
+223	1	651
+225	1	651
+234	2	651
+267	1	651
+280	1	651
+304	1	651
+306	1	651
+338	1	651
+363	1	651
+393	2	651
+409	1	651
+468	1	651
+494	1	651
+614	1	651
+638	1	651
+639	1	651
+645	1	651
+646	2	651
+647	4	651
+651	5	651
+739	1	651
+748	1	651
+751	1	651
+765	2	651
+778	1	651
+786	1	651
+791	1	651
+793	1	651
+800	1	651
+811	1	651
+818	1	651
+822	1	651
+823	1	651
+827	1	651
+881	1	651
+882	1	651
+883	1	651
+884	1	651
+885	1	651
+886	1	651
+887	1	651
+917	1	651
+925	2	651
+942	1	651
+943	2	651
+944	2	651
+947	1	651
+948	2	651
+983	1	651
+999	1	651
+1000	1	651
+1001	1	651
+1002	1	651
+1003	1	651
+1004	1	651
+1017	1	651
+1019	1	651
+1049	1	651
+1059	1	651
+1060	1	651
+1070	1	651
+1085	1	651
+1206	1	651
+1237	1	651
+1374	1	651
+1375	1	651
+1376	1	651
+1378	1	651
+1390	1	651
+1401	1	651
+1437	1	651
+1440	1	651
+1450	1	651
+1453	1	651
+1453	1	651

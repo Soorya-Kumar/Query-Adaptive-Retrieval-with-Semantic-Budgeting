@@ -1,0 +1,27 @@
+Certain structural properties of information distributions are explored,
+as well as the gnosiological aspects of informational relations and the 
+capabilities of an information retrieval system based on information 
+distribution methods ("MIR")..
+.X
+808	1	1125
+1095	1	1125
+1097	1	1125
+1099	1	1125
+1101	1	1125
+1102	1	1125
+1103	1	1125
+1109	1	1125
+1111	1	1125
+1118	1	1125
+1123	2	1125
+1125	5	1125
+1127	1	1125
+1128	1	1125
+1161	1	1125
+1169	1	1125
+1173	1	1125
+1174	1	1125
+1179	2	1125
+1181	1	1125
+1285	1	1125
+1285	1	1125

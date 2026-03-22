@@ -1,0 +1,62 @@
+At the June 1962 Convention of the Medical Library Association in
+Chicago, Illinois, Mr. Stanley Truelson, now Librarian of the University of
+Rochester School of Medicine and Dentistry, circulated a petition
+requesting the collection and publication of medical school library
+statistics.  Forty-eight medical school head librarians signed the
+petition indicating their approval, and a committee for this purpose was formed 
+by Dr. Vilma Proctor, Chairman of the Medical School Libraries Group of
+the Medical Library Association.
+  This committee, composed of Mr. Truelson, Dr.Proctor, and myself,
+studied the questionnaires already in use, such as that of the U.S. Office
+of Education.  These were rejected as not meeting the needs of our
+specialized group of libraries.  As a guide for selecting the terminology
+in the questionnaire, we used the American Library Association's Definitions
+for Library Statistics; a Preliminary Draft (Chicago, 1961).
+  After several drafts, a sample questionnaire was approved by the
+committee and distributed to all the medical school libraries in the United
+States and Canada.  The Canadian medical school libraries were included
+as a result of communications with Miss Doreen Fraser, Librarian of the
+Bio-Medical Library of the University of British Columbia and Dr. J.
+Wendell McLeod of the Association of Canadian Medical Colleges.
+.X
+31	1	181
+36	1	181
+41	1	181
+46	1	181
+181	5	181
+182	2	181
+183	2	181
+184	2	181
+193	1	181
+195	1	181
+198	1	181
+201	2	181
+203	1	181
+204	1	181
+205	1	181
+206	1	181
+207	2	181
+208	2	181
+217	1	181
+269	1	181
+395	1	181
+415	1	181
+748	1	181
+760	1	181
+767	1	181
+774	1	181
+778	1	181
+891	3	181
+905	1	181
+952	1	181
+953	1	181
+964	1	181
+968	1	181
+1009	1	181
+1018	1	181
+1019	1	181
+1240	1	181
+1359	1	181
+1397	1	181
+1417	1	181
+1417	1	181

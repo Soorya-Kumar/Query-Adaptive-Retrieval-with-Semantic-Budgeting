@@ -1,0 +1,47 @@
+Developing from the definitions of the concept language a terminological
+represented model of the communication process can be deduced that shows
+the transfer of meaning between communicator and recipient through
+communication channels and mediators.  The distinguished communication
+structures are communication sequences, chains, nets and systems.  With an
+universal definition of data as fixed representations of facts by means of
+signs the various meanings of the term "information" are terminological to
+differentiate as "information," "information process" and "informations."
+The theory of signs makes the differentiation of syntactical, semantical,
+sigmatical and pragmatical information possible.  Adequate to communication
+process and system we can determine informing process and information system.
+.X
+29	1	1077
+58	1	1077
+60	1	1077
+85	1	1077
+117	1	1077
+165	3	1077
+169	1	1077
+445	2	1077
+451	1	1077
+476	1	1077
+525	2	1077
+590	2	1077
+609	1	1077
+621	2	1077
+641	1	1077
+656	1	1077
+668	1	1077
+670	1	1077
+671	1	1077
+674	1	1077
+683	1	1077
+689	2	1077
+715	1	1077
+762	1	1077
+797	1	1077
+814	1	1077
+819	1	1077
+901	1	1077
+1022	1	1077
+1045	1	1077
+1074	1	1077
+1077	7	1077
+1231	3	1077
+1309	1	1077
+1309	1	1077

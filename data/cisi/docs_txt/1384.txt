@@ -1,0 +1,27 @@
+The fate of the American institutional phenomenon, the public
+library, is in question.  Its position has never been truly secure
+in terms of general use or public support except in the large cities
+until recent years, and for a few short periods of marked progress
+countrywide.
+.X
+208	1	1384
+298	1	1384
+358	1	1384
+376	1	1384
+385	1	1384
+470	1	1384
+910	1	1384
+935	1	1384
+1005	1	1384
+1006	1	1384
+1018	1	1384
+1049	1	1384
+1056	1	1384
+1145	2	1384
+1186	1	1384
+1227	1	1384
+1240	1	1384
+1333	1	1384
+1384	6	1384
+1396	1	1384
+1396	1	1384

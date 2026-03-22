@@ -1,0 +1,39 @@
+This paper describes the key points that characterize
+CAS' approach to large scale scientific-technical information
+systems that must handle over 100,000 documents per year.
+The first of these points is the "single analysis/multiple
+use" concept.  Intellectual ability is a rare commodity 
+and essential to an information service.  Therefore, it makes
+sense to conserve that commodity and not use manpower to
+perform repetitive jobs or to waste effort analyzing information.
+.X
+150	1	347
+165	1	347
+175	1	347
+252	2	347
+254	1	347
+347	6	347
+355	1	347
+371	1	347
+452	1	347
+465	1	347
+480	1	347
+641	1	347
+671	1	347
+673	1	347
+676	1	347
+681	1	347
+682	1	347
+683	1	347
+687	1	347
+689	1	347
+704	1	347
+714	1	347
+716	1	347
+717	1	347
+718	1	347
+719	1	347
+1010	1	347
+1452	1	347
+1460	1	347
+1460	1	347

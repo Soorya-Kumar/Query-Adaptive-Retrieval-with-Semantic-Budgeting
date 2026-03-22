@@ -1,0 +1,61 @@
+It is often assumed that the amount of interindexer consistency experienced 
+under a given method of indexing is somehow indicative of the quality of the 
+indexing.. To explore this assumption, two hypotheses are stated concerning the 
+possible connection between interindexer consistency and indexing quality.. A
+specific counter-example is then exhibited which shows both hypotheses to be
+invalid.. Although a mathematical analysis of the counterexample yields certain
+insights, the general relationship between interindexer consistency and 
+successful retrieval is more subtle than might have been expected.. It is
+concluded that until equations describing this relationship have been derived, 
+measurements of inter-indexer consistency will have little meaning as clues to
+indexing quality..
+.X
+30	1	82
+45	1	82
+52	1	82
+71	2	82
+72	1	82
+73	2	82
+74	1	82
+75	3	82
+77	2	82
+78	3	82
+79	2	82
+80	1	82
+81	5	82
+82	6	82
+83	2	82
+86	1	82
+153	1	82
+154	1	82
+156	1	82
+175	1	82
+211	1	82
+212	2	82
+245	1	82
+247	1	82
+277	1	82
+279	1	82
+280	1	82
+486	1	82
+581	1	82
+653	1	82
+666	1	82
+720	1	82
+748	1	82
+781	1	82
+785	1	82
+786	1	82
+787	1	82
+788	1	82
+789	1	82
+791	1	82
+799	1	82
+838	1	82
+853	1	82
+925	1	82
+984	1	82
+1294	1	82
+1393	1	82
+1431	1	82
+1431	1	82

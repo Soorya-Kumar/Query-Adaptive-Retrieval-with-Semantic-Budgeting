@@ -1,0 +1,64 @@
+Therefore the purpose of this book remains the same as that of Textbook on
+Mechanized Information Retrieval - to teach basics to those who have had no
+previous exposure either to the field or to computers, or both.  Therefore,
+the action is slowed to the point where the logical principles of information
+retrieval systems are laid bare.  Other books have been published that emphasize
+computer programming - this one does not.
+.X
+45	1	454
+151	1	454
+161	1	454
+174	1	454
+197	1	454
+310	1	454
+375	1	454
+422	1	454
+445	1	454
+454	7	454
+472	1	454
+477	1	454
+479	1	454
+483	1	454
+485	1	454
+501	1	454
+503	1	454
+504	1	454
+506	1	454
+507	1	454
+554	1	454
+564	1	454
+579	1	454
+591	1	454
+593	1	454
+594	1	454
+595	1	454
+596	1	454
+597	1	454
+599	1	454
+600	1	454
+603	1	454
+604	1	454
+606	1	454
+653	1	454
+661	1	454
+662	1	454
+663	1	454
+723	1	454
+724	1	454
+769	1	454
+781	1	454
+801	1	454
+802	1	454
+805	1	454
+806	1	454
+836	1	454
+866	1	454
+867	1	454
+956	1	454
+989	1	454
+1298	1	454
+1299	1	454
+1327	2	454
+1405	1	454
+1419	1	454
+1419	1	454

@@ -1,0 +1,35 @@
+The subject of switching and finite automata theory needs no introduction.
+It has become a part of every computer science and electrical
+engineering curriculum, and rightly so.  It provides techniques useful
+in a wide variety of applications and helps develop a way of thinking that
+leads to understanding of the structure, behavior, and limitations and
+capabilities of logical machines.  In this book I have tried to cover the
+whole subject, starting with introductory material and leading to the
+more advanced topics, assuming a minimal technical background on the
+part of the reader.  I did not attempt to provide detailed techniques
+for the design of specific circuits, but rather to formulate methods and to
+develop algorithms that can be applied to a broad class of problems.
+For once such general principles are understood, the relevance of specific
+procedures and their applicability to given problems are a matter of
+engineering decisions.
+.X
+228	1	1398
+329	1	1398
+397	3	1398
+416	1	1398
+417	3	1398
+430	4	1398
+442	1	1398
+443	4	1398
+455	4	1398
+464	3	1398
+495	1	1398
+511	1	1398
+524	1	1398
+745	4	1398
+1194	1	1398
+1204	3	1398
+1396	1	1398
+1398	5	1398
+1427	3	1398
+1427	3	1398

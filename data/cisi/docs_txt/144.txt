@@ -1,0 +1,29 @@
+The process of preparing programs for a digital computer is especially
+attractive because it not only can be economically and scientifically
+rewarding, it can also be an aesthetic experience much like composing
+poetry or music.  This book is the first volume of a seven-volume set
+of books that has been designed to train the reader in the various skills
+which go into a programmer's craft.
+.X
+51	1	144
+61	1	144
+114	2	144
+131	1	144
+144	5	144
+175	2	144
+176	1	144
+419	1	144
+458	1	144
+577	1	144
+644	1	144
+660	1	144
+662	1	144
+664	1	144
+1081	1	144
+1082	1	144
+1201	1	144
+1227	1	144
+1270	1	144
+1327	1	144
+1444	1	144
+1444	1	144

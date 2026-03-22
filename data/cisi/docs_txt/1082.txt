@@ -1,0 +1,109 @@
+One of the most intriguing problems of modern science is the obscure nature 
+of its own growth.  Indeed, there are few notable scientists who have not, at 
+one time or another, given serious thought to the questions of how their 
+particular science has reached its present state and what will be the course of
+its future development.  These questions seem to be of such importance to 
+scientists that they have emerged as fundamental scientific problems in their
+own right.
+  Goffman and Newill have pointed out that the process by which ideas spread 
+within a population of scientists possesses epidemiological properties and can 
+therefore be investigated as an epidemic process.  Consequently, a new set of 
+mathematical tools can be applied to the problem of explaining the nature of 
+scientific development. In particular, this approach makes it possible to 
+establish the relative importance of past lines of inquiry within a given area 
+of scientific research, and to predict the future behavior of existing lines
+of investigation as well as the emergence of important new ones within the 
+given area.
+  The purpose of this communication is to demonstrate this method by applying it
+to the development of knowledge about mast cells.  In his recent comprehensive 
+survey of this subject, Prof. Hens Selye has assembled a "full bibliography" 
+in which "every aspect of the mast cell is dealt with."  This bibliography 
+constitutes ideal data for the application of epidemic theory to the spread of 
+scientific ideas, since it provides us with  all the contributions to the 
+subject area, from Ehrlich's discovery of the mast cell in 1877 until 1963. 
+.X
+33	2	1082
+36	1	1082
+39	1	1082
+44	1	1082
+48	1	1082
+57	2	1082
+76	1	1082
+81	1	1082
+101	1	1082
+105	1	1082
+144	1	1082
+184	1	1082
+193	1	1082
+195	1	1082
+201	1	1082
+203	1	1082
+204	1	1082
+205	1	1082
+228	2	1082
+229	1	1082
+233	2	1082
+267	1	1082
+359	2	1082
+395	1	1082
+416	1	1082
+471	1	1082
+505	1	1082
+544	1	1082
+560	2	1082
+587	1	1082
+599	1	1082
+602	1	1082
+605	1	1082
+618	1	1082
+631	1	1082
+632	1	1082
+667	3	1082
+724	1	1082
+748	2	1082
+750	2	1082
+751	1	1082
+759	2	1082
+765	2	1082
+767	1	1082
+775	1	1082
+778	2	1082
+784	1	1082
+787	2	1082
+791	1	1082
+792	1	1082
+793	1	1082
+800	2	1082
+803	1	1082
+893	1	1082
+1010	1	1082
+1030	1	1082
+1044	1	1082
+1063	1	1082
+1081	5	1082
+1082	12	1082
+1083	2	1082
+1085	1	1082
+1086	1	1082
+1088	2	1082
+1201	3	1082
+1219	1	1082
+1227	1	1082
+1270	1	1082
+1278	1	1082
+1285	1	1082
+1286	3	1082
+1287	2	1082
+1290	1	1082
+1300	1	1082
+1308	1	1082
+1312	1	1082
+1334	1	1082
+1335	1	1082
+1338	1	1082
+1341	1	1082
+1401	1	1082
+1417	2	1082
+1418	2	1082
+1444	2	1082
+1444	2	1082

@@ -1,0 +1,66 @@
+A librarian attempting to do a literature search currently
+faces an eight-month gap in access to the literature of
+his field through Library Literature.  In April 1968,
+librarians made a rare examination of their own literature
+and considered this gap and other information problems
+in librarianship.  The Albany Conference on the Bibliographic
+Control of Library Science Literature recommended the
+establishment of a fast announcement service for library
+schools (1).  A monthly Keyword in Context (KWIC) index
+serving the whole range of information-oriented professions 
+was a specific proposal which was favored by one conference
+group to meet the need for current information (2).
+.X
+38	3	583
+84	1	583
+159	2	583
+162	1	583
+175	1	583
+257	1	583
+348	1	583
+382	1	583
+429	2	583
+488	1	583
+489	2	583
+490	1	583
+491	1	583
+492	1	583
+493	2	583
+494	1	583
+495	1	583
+496	1	583
+497	1	583
+498	1	583
+499	1	583
+500	1	583
+501	1	583
+565	1	583
+581	1	583
+582	2	583
+583	8	583
+584	1	583
+585	1	583
+586	2	583
+608	1	583
+653	1	583
+655	2	583
+659	1	583
+688	1	583
+749	1	583
+795	1	583
+796	1	583
+797	2	583
+798	2	583
+799	1	583
+801	2	583
+802	1	583
+858	1	583
+859	1	583
+861	1	583
+986	1	583
+1027	1	583
+1144	1	583
+1294	2	583
+1327	1	583
+1405	1	583
+1405	1	583

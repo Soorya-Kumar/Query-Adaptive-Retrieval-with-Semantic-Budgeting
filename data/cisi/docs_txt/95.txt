@@ -1,0 +1,73 @@
+The recent upsurge of interest in the behavioral aspects of scientific and 
+technical communication and information flow has two distinct sources, a 
+theoretical one in the development of communication research, and a practical 
+one in the concerns of policy makers in scientific organizations and 
+information services.
+  For some time past, the attention of sociologists and social psychologists 
+studying communication processes, once focused on so-called mass phenomena
+and mass publics, has turned to the interplay of communication processes with 
+more and more definitely delineated and mapped aspects of social structure.  
+One aspect of this shift in interest has been the increasing attention paid by 
+behavioral scientists to the systems supplying information of a specialized 
+sort, and to the publics which are consumers of this specialized information. 
+The scientific and applied professions have been most prominent among the 
+publics so studied.
+.X
+29	1	95
+35	1	95
+42	1	95
+43	1	95
+52	1	95
+70	1	95
+73	1	95
+76	1	95
+81	1	95
+95	8	95
+98	1	95
+100	1	95
+104	1	95
+105	1	95
+107	1	95
+109	1	95
+110	1	95
+161	1	95
+312	1	95
+386	2	95
+398	1	95
+420	1	95
+456	1	95
+475	1	95
+544	2	95
+578	1	95
+582	2	95
+584	1	95
+589	2	95
+594	1	95
+595	1	95
+624	1	95
+655	2	95
+656	1	95
+657	1	95
+967	1	95
+1030	1	95
+1038	1	95
+1045	1	95
+1054	1	95
+1063	1	95
+1154	1	95
+1232	1	95
+1281	2	95
+1284	1	95
+1287	1	95
+1295	1	95
+1296	1	95
+1297	1	95
+1298	1	95
+1300	3	95
+1312	1	95
+1313	1	95
+1345	1	95
+1358	1	95
+1386	1	95
+1408	1	95
+1408	1	95

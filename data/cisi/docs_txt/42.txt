@@ -1,0 +1,92 @@
+Analysis of the problems of defining the mutual relevancies of queries and 
+document-collections indicates that they essentially involve the problem of
+conceptual relatedness.. In order to consider the later problem, the question 
+of concept-formation is first discussed, which in turn requires a definition of
+concept.. An extensional interpretation is suggested whereby a concept is 
+associated with a class of conceptually-similar documents.. Users' similarity-
+judgments then provide the empirical data for formal definitions of concept and
+conceptual relatedness.. It is found, however, that certain very general 
+difficulties rule out the possibility of defining concepts and their 
+relatedness by the method proposed.. Since this method is based on human 
+relevance-judgments, it seems a natural one to adopt, so that its collapse has
+serious practical and theoretical consequences.. An alternative approach is 
+therefore proposed whose elaboration will form Part II of this article..
+.X
+3	1	42
+20	1	42
+28	1	42
+29	1	42
+35	2	42
+42	7	42
+43	2	42
+52	1	42
+58	1	42
+60	1	42
+70	2	42
+72	1	42
+73	1	42
+79	1	42
+81	1	42
+84	1	42
+85	1	42
+95	1	42
+129	1	42
+152	1	42
+172	1	42
+184	1	42
+193	1	42
+202	1	42
+420	1	42
+444	2	42
+445	1	42
+447	1	42
+449	1	42
+469	1	42
+474	1	42
+486	1	42
+532	1	42
+564	1	42
+565	1	42
+578	1	42
+582	1	42
+585	1	42
+589	1	42
+594	1	42
+595	1	42
+599	1	42
+625	1	42
+640	1	42
+652	1	42
+655	1	42
+656	1	42
+657	1	42
+660	1	42
+661	1	42
+663	1	42
+665	1	42
+714	2	42
+761	1	42
+762	3	42
+764	1	42
+803	1	42
+893	1	42
+907	1	42
+1016	1	42
+1022	1	42
+1030	1	42
+1045	2	42
+1054	1	42
+1084	1	42
+1154	1	42
+1195	1	42
+1201	1	42
+1232	1	42
+1235	1	42
+1268	1	42
+1281	2	42
+1285	1	42
+1295	1	42
+1298	1	42
+1394	1	42
+1407	1	42
+1407	1	42

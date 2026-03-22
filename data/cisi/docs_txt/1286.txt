@@ -1,0 +1,108 @@
+Since 1868 the number of mathematical publications per year
+(measured by counts of titles abstracted) has grown from about 800
+to 13,000 at an average continuous compound rate of about 2.5 percent
+per year, doubling about four times a century.  Deviations from the
+exponential curve are clearly related to war, depression, and recovery.  If the
+total number of publications prior to 1868 is estimated by extrapolating from
+the curve of annual output, the cumulative grand total of mathematical titles
+grows from 41,000 in 1867 to 419,000 by the end of 1965.  Deviations from
+an exponential growth of 2.5 percent per year are negligible except for two
+"pauses" during world wars, after which the observations continue parallel
+to the theoretical curve.  The well-known hypothesis of exponential
+growth of the scientific literature is strongly confirmed but at a rate less
+than half that found by Price and other investigators.	The discrepancy appears
+to be due to the failure of previous studies to take into account the
+titles published before the beginnings of the time series used.
+.X
+33	4	1286
+36	1	1286
+41	1	1286
+48	2	1286
+61	1	1286
+89	1	1286
+97	1	1286
+101	1	1286
+102	1	1286
+104	1	1286
+105	1	1286
+106	1	1286
+111	1	1286
+112	1	1286
+163	1	1286
+183	1	1286
+184	1	1286
+193	1	1286
+199	1	1286
+203	1	1286
+210	1	1286
+225	1	1286
+233	1	1286
+269	1	1286
+373	1	1286
+544	1	1286
+545	1	1286
+552	1	1286
+560	1	1286
+587	1	1286
+605	2	1286
+613	1	1286
+614	1	1286
+631	1	1286
+638	1	1286
+667	1	1286
+735	1	1286
+747	1	1286
+750	2	1286
+753	1	1286
+766	1	1286
+767	1	1286
+775	2	1286
+782	1	1286
+784	2	1286
+788	1	1286
+789	1	1286
+793	1	1286
+800	2	1286
+808	1	1286
+905	1	1286
+907	1	1286
+953	1	1286
+977	1	1286
+983	1	1286
+1016	1	1286
+1023	1	1286
+1030	1	1286
+1055	1	1286
+1063	1	1286
+1081	1	1286
+1082	3	1286
+1087	1	1286
+1088	1	1286
+1090	1	1286
+1135	1	1286
+1142	1	1286
+1255	1	1286
+1260	1	1286
+1268	1	1286
+1275	1	1286
+1276	1	1286
+1278	1	1286
+1280	1	1286
+1285	3	1286
+1286	7	1286
+1287	4	1286
+1302	1	1286
+1308	1	1286
+1312	1	1286
+1334	1	1286
+1335	2	1286
+1338	1	1286
+1341	1	1286
+1346	1	1286
+1380	1	1286
+1390	1	1286
+1397	1	1286
+1417	1	1286
+1428	1	1286
+1432	1	1286
+1432	1	1286

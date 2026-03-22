@@ -1,0 +1,52 @@
+By virtue of its peculiar links with the reward system in science,
+the communication system plays a central part in the maintenance 
+and growth of science.  It is the means by which the individual
+scientist relates to the social system:  he publishes his work to
+gain recognition, and reads the publications of others to maintain his
+knowledge.  The formal communication system also forms the basis for 
+the allocation of rewards: instrumental and consumatory.  Thus it is
+a means of exercising social control.
+    The informal communication system, although important, is the distaff
+side.  Its recognition is personal with more immediate and consumatory
+rewards.  Legitimation of objective or methods of work is rarely given by
+the social system through informal systems of communication, though it is
+growing in importance as an information dissemination system.
+.X
+33	1	1341
+39	1	1341
+41	1	1341
+48	1	1341
+50	1	1341
+89	1	1341
+102	2	1341
+103	1	1341
+104	1	1341
+105	1	1341
+108	1	1341
+113	2	1341
+233	2	1341
+473	1	1341
+632	1	1341
+748	1	1341
+784	2	1341
+791	1	1341
+893	2	1341
+1082	1	1341
+1085	1	1341
+1273	1	1341
+1274	1	1341
+1285	1	1341
+1286	1	1341
+1287	2	1341
+1291	1	1341
+1302	1	1341
+1304	1	1341
+1313	1	1341
+1335	1	1341
+1338	2	1341
+1341	5	1341
+1344	1	1341
+1346	1	1341
+1347	1	1341
+1444	1	1341
+1444	1	1341

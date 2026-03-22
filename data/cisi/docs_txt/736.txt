@@ -1,0 +1,148 @@
+In 1971 the Committee on Chemical Information of the
+National Academy of Sciences, National Research Council,
+recognized the problem of large data bases and accordingly
+created a subcommittee to investigate the problem and its
+impact on chemical information.
+  The first task of the Large Data Base Subcommittee was
+to survey organizations that generate and/or process large
+data bases.  Giering has indicated several different ways in
+which one can view a data base as being large.  It can be
+large in terms of having a large number of entries or
+records (or bibliographic references).  It can be large in
+the sense of having a large number of fields or data
+elements, which implies a degree of complexity.  It can be
+thought of as large in the sense of having a large number
+of searchable or selectable elements, and it also can be
+large in the most readily understandable sense of having
+a large number of characters in storage.
+.X
+18	1	736
+120	1	736
+124	2	736
+125	1	736
+127	3	736
+129	2	736
+145	1	736
+190	1	736
+191	1	736
+197	2	736
+211	1	736
+214	1	736
+218	1	736
+243	1	736
+307	1	736
+330	1	736
+357	1	736
+363	1	736
+376	1	736
+378	1	736
+382	1	736
+432	1	736
+450	1	736
+451	1	736
+452	1	736
+459	3	736
+460	1	736
+461	1	736
+468	1	736
+484	1	736
+492	1	736
+506	1	736
+508	1	736
+511	1	736
+512	1	736
+514	1	736
+518	1	736
+520	1	736
+523	1	736
+524	2	736
+525	2	736
+526	1	736
+527	1	736
+529	2	736
+530	2	736
+534	2	736
+546	1	736
+553	1	736
+579	1	736
+580	1	736
+594	1	736
+603	1	736
+604	1	736
+606	1	736
+609	1	736
+610	1	736
+611	1	736
+612	1	736
+622	1	736
+625	1	736
+626	1	736
+630	1	736
+633	1	736
+634	1	736
+635	1	736
+636	2	736
+637	2	736
+642	4	736
+643	2	736
+644	1	736
+645	1	736
+646	1	736
+648	2	736
+649	1	736
+650	2	736
+692	1	736
+696	2	736
+699	1	736
+702	1	736
+703	2	736
+705	2	736
+708	2	736
+726	1	736
+727	1	736
+728	1	736
+730	1	736
+731	1	736
+732	2	736
+733	2	736
+734	3	736
+736	5	736
+737	1	736
+738	2	736
+739	2	736
+740	1	736
+741	2	736
+742	2	736
+743	2	736
+744	1	736
+755	1	736
+795	1	736
+820	1	736
+826	3	736
+827	2	736
+877	1	736
+879	2	736
+883	2	736
+1004	1	736
+1035	1	736
+1078	1	736
+1089	1	736
+1091	1	736
+1146	1	736
+1207	1	736
+1264	1	736
+1297	1	736
+1303	1	736
+1356	1	736
+1364	1	736
+1368	1	736
+1370	2	736
+1372	2	736
+1373	1	736
+1374	3	736
+1375	2	736
+1376	2	736
+1377	1	736
+1383	1	736
+1396	1	736
+1396	1	736

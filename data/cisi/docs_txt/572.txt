@@ -1,0 +1,117 @@
+This paper defines the relationship between linguistics
+and information science in terms of a common interest
+in natural language.  The notion of automated processing
+of natural language - i.e., machine simulation of
+the language processing activities of a human - provides
+novel possibilities for interaction between linguists,
+who have a theoretical interest in such activities,
+and information scientists, who have more practical
+goals, e.g. simulating the language processing activities
+of an indexer with a machine.
+  The concept of a natural language information system
+is introduced as a framework for reviewing automated
+language processing effort by computational
+linguists and information scientists.  In terms of this
+framework, the former have concentrated on automating
+the operations of the component for content analysis
+and representation, while the latter have emphasized
+the data management component.  The complementary
+nature of these developments allows the
+postulation of an integrated approach to automated
+language processing.  This approach, which is outlined
+in the final sections of the paper, incorporates current
+notions in linguistic theory and information science, as
+well as design features of recent computational linguistic
+models.
+.X
+39	1	572
+50	1	572
+57	1	572
+72	1	572
+75	1	572
+117	1	572
+160	1	572
+168	3	572
+172	1	572
+175	1	572
+176	1	572
+179	1	572
+180	1	572
+191	1	572
+194	1	572
+212	1	572
+274	1	572
+317	2	572
+320	1	572
+326	1	572
+329	1	572
+332	1	572
+417	2	572
+443	1	572
+446	2	572
+458	1	572
+473	1	572
+485	2	572
+503	1	572
+516	1	572
+527	1	572
+546	1	572
+558	1	572
+565	1	572
+572	11	572
+574	1	572
+577	1	572
+579	1	572
+590	2	572
+595	1	572
+596	1	572
+608	2	572
+615	1	572
+616	1	572
+619	1	572
+628	1	572
+632	1	572
+640	1	572
+664	1	572
+666	1	572
+683	1	572
+773	1	572
+790	1	572
+795	1	572
+810	1	572
+812	1	572
+813	1	572
+814	1	572
+819	1	572
+830	1	572
+870	1	572
+894	1	572
+902	2	572
+928	1	572
+958	1	572
+963	1	572
+990	1	572
+991	1	572
+1033	1	572
+1045	1	572
+1046	3	572
+1047	1	572
+1084	1	572
+1139	1	572
+1202	1	572
+1207	1	572
+1213	1	572
+1218	1	572
+1255	1	572
+1279	1	572
+1283	1	572
+1327	1	572
+1387	1	572
+1389	1	572
+1399	2	572
+1413	1	572
+1426	1	572
+1428	1	572
+1443	2	572
+1445	1	572
+1445	1	572

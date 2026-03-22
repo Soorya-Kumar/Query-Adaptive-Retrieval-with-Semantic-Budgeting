@@ -1,0 +1,55 @@
+It has been proposed recently that rule 6 of the Anglo-American Cataloging 
+Rules (AACR), relating to entry of serials, be replaced by the conventions for 
+description of serials outlined in ISBD(S): International Standard Bibliographic
+Description for Serials, which in itself incorporates (or accommodates) another 
+convention, that of the "keytitle", an essential aspect of the International 
+Standard Serial Number (ISSN).. Viewed in the current library context, this 
+recommendation is irresponsible and indefensible on both a theoretical and
+practical level..
+.X
+128	1	1003
+141	1	1003
+333	1	1003
+363	1	1003
+409	1	1003
+541	3	1003
+560	1	1003
+645	1	1003
+646	1	1003
+647	2	1003
+651	1	1003
+652	1	1003
+739	1	1003
+823	1	1003
+827	1	1003
+877	1	1003
+878	1	1003
+881	2	1003
+882	3	1003
+883	1	1003
+884	1	1003
+885	1	1003
+886	1	1003
+887	1	1003
+888	2	1003
+904	5	1003
+917	1	1003
+919	2	1003
+920	2	1003
+921	1	1003
+999	6	1003
+1000	5	1003
+1001	6	1003
+1002	6	1003
+1003	7	1003
+1004	2	1003
+1013	1	1003
+1060	1	1003
+1291	1	1003
+1315	1	1003
+1340	1	1003
+1375	1	1003
+1376	1	1003
+1437	1	1003
+1445	1	1003
+1445	1	1003

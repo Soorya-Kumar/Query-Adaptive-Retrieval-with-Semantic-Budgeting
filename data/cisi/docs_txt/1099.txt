@@ -1,0 +1,49 @@
+The most important objective factors are considered influencing the limits
+and the depth of information needs of researchers and designers, i.e. the 
+growth of information flow, the level of specialization, the qualification
+standard, the official position, the development rates of scientific or
+technical discipline in question the teamwork on scientific or engineering
+projects, the language barrier, the specifics of narrowly specialized
+terminology, as well as a number of subjective (psychological) factors
+like inclination to creative work, type of memory, the time available, methods
+of sources handling..
+   The investigations into, and account of, these factors are indispensable for
+raising the efficiency both of information systems performance and the
+activities of scientific and engineering communities served..
+   Some statistical data are cited obtained during investigations into
+information demand patterns for various personnel groups at research and
+development institutions..
+.X
+718	1	1099
+719	1	1099
+771	1	1099
+965	1	1099
+1094	1	1099
+1095	3	1099
+1096	1	1099
+1099	12	1099
+1101	3	1099
+1102	3	1099
+1103	3	1099
+1105	2	1099
+1106	1	1099
+1107	1	1099
+1121	2	1099
+1125	1	1099
+1128	1	1099
+1155	2	1099
+1156	2	1099
+1158	2	1099
+1160	1	1099
+1161	1	1099
+1166	1	1099
+1169	1	1099
+1172	1	1099
+1178	3	1099
+1179	1	1099
+1181	1	1099
+1190	1	1099
+1326	1	1099
+1330	1	1099
+1388	1	1099
+1388	1	1099

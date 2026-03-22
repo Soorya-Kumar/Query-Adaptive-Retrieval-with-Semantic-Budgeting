@@ -1,0 +1,93 @@
+The foreign-language barrier facing British scientists is a function of a,
+the amount and value of foreign scientific literature produced; b, the 
+linguistic ability of the people wishing to read it; and c, the availability
+and effectiveness of translation services.. To obtain quantitative data on 
+these points the NLL has recently conducted a survey amongst scientists and
+librarians in the United Kingdom and the present paper presents the more
+important results..
+   The survey has shown that the language problem is of considerable magnitude
+and is common to the majority of scientists and technologists.. The languages
+creating the most difficulty are Russian, German, and Japanese.. It has also 
+indicated that local translation facilities are not particularly effective and 
+that, as far as national facilities are concerned, British scientists are 
+largely unaware of existing services which might help them to overcome their 
+difficulties..
+   The results of the investigation suggest a number of lines of action which 
+the appropriate authorities might follow..  The most important would seem to be
+the publishing of a international index to translations and the creation within 
+the United Kingdom of a centralized Japanese translation service..
+.X
+2	1	760
+31	1	760
+34	1	760
+36	1	760
+37	1	760
+41	1	760
+46	1	760
+53	1	760
+76	1	760
+132	1	760
+137	2	760
+139	1	760
+152	1	760
+155	1	760
+161	1	760
+166	1	760
+181	1	760
+182	1	760
+183	2	760
+184	1	760
+193	1	760
+195	2	760
+198	1	760
+201	1	760
+203	1	760
+204	1	760
+210	1	760
+269	1	760
+371	1	760
+382	1	760
+395	1	760
+415	1	760
+456	1	760
+475	2	760
+552	1	760
+658	1	760
+711	1	760
+759	1	760
+760	16	760
+767	1	760
+770	1	760
+772	1	760
+774	2	760
+775	2	760
+776	2	760
+777	1	760
+778	1	760
+788	2	760
+789	2	760
+889	1	760
+891	1	760
+900	4	760
+905	1	760
+952	1	760
+953	1	760
+964	1	760
+967	1	760
+968	1	760
+977	1	760
+1009	1	760
+1018	1	760
+1019	1	760
+1055	1	760
+1056	1	760
+1118	1	760
+1240	1	760
+1254	1	760
+1281	1	760
+1359	1	760
+1397	1	760
+1404	1	760
+1417	1	760
+1451	1	760
+1451	1	760

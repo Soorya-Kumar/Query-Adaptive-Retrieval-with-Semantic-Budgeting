@@ -1,0 +1,68 @@
+The Ad Hoc Discussion Group on Serials Data Bases was formed as a
+result of an informal meeting held during the American Library Association's
+Conference in Las Vegas on June 26, 1973.  Those in attendance were
+primarily interested in the generation and maintenance of machine-readable
+union files of serials.  (This author's involvement in that meeting and
+the later activities of the group stems from a contract between the
+National Library of Canada and York University concerning an investigation
+of the problems associated with machine-readable serials files.)
+.X
+141	1	878
+244	1	878
+299	2	878
+333	1	878
+365	1	878
+449	1	878
+529	1	878
+530	1	878
+541	1	878
+553	1	878
+628	1	878
+630	1	878
+802	1	878
+819	1	878
+822	1	878
+854	1	878
+871	1	878
+872	1	878
+873	1	878
+874	3	878
+875	1	878
+876	1	878
+877	4	878
+878	6	878
+879	1	878
+880	1	878
+892	1	878
+904	1	878
+919	1	878
+920	1	878
+921	1	878
+940	2	878
+941	2	878
+990	1	878
+992	1	878
+993	1	878
+994	1	878
+995	1	878
+997	1	878
+998	1	878
+999	1	878
+1000	1	878
+1001	1	878
+1002	1	878
+1003	1	878
+1013	1	878
+1079	2	878
+1143	1	878
+1216	1	878
+1230	1	878
+1257	1	878
+1303	1	878
+1396	1	878
+1421	1	878
+1434	1	878
+1435	2	878
+1436	4	878
+1441	1	878
+1441	1	878

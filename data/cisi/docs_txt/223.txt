@@ -1,0 +1,114 @@
+The standardized Document Delivery Tests (DDT's) developed earlier (Bulletin
+56: 241-267, July 1968) were employed to assess the capability of ninety-two
+medical school libraries for meeting the document needs of biomedical 
+researchers, and the capability of fifteen major resource libraries for filling 
+I-L requests from biomedical libraries.. The primary test data are summarized 
+as statistics on the observed availability status of the 300 plus documents in
+the test samples, and as measures expressing capability as a function of the 
+mean time that would be required for users to obtain test sample documents..
+A mathematical model is developed in which the virtual capability of a library,
+as seen by its users, equals the algebraic sum of the basic capability afforded
+by its holdings; the combined losses attributable to use of its collection, 
+processing, relative inaccessibility, and housekeeping problems; and the gain
+realized by coupling with other resources (I-L borrowing).. For a particular 
+library, or group of libraries, empirical values for each of these variables 
+can be  calculated easily from the capability measures and the status 
+statistics.. Regression equations are derived that provide useful predictions 
+of basic capability from collection size.. The most important result of this 
+work is that cost-effectiveness analyses can now be used as practical decision 
+aids in managing a basic library service.. A program of periodic surveys and 
+further development of DDT's is recommended as appropriate for the Medical 
+Library Association..
+.X
+5	1	223
+9	1	223
+14	1	223
+90	1	223
+91	1	223
+128	1	223
+129	1	223
+130	1	223
+153	1	223
+158	1	223
+167	1	223
+170	1	223
+207	1	223
+208	1	223
+217	1	223
+222	4	223
+223	6	223
+225	1	223
+234	1	223
+266	1	223
+271	1	223
+280	1	223
+296	1	223
+297	1	223
+298	1	223
+300	1	223
+301	1	223
+302	1	223
+358	1	223
+364	1	223
+368	1	223
+393	1	223
+435	1	223
+468	1	223
+494	1	223
+515	1	223
+535	1	223
+550	1	223
+591	1	223
+615	1	223
+625	1	223
+629	1	223
+631	1	223
+634	1	223
+639	1	223
+646	1	223
+647	1	223
+651	1	223
+765	1	223
+791	1	223
+792	1	223
+811	1	223
+815	2	223
+816	2	223
+818	2	223
+822	1	223
+823	2	223
+827	1	223
+843	1	223
+844	1	223
+846	1	223
+915	1	223
+925	1	223
+943	1	223
+944	1	223
+945	1	223
+957	1	223
+961	1	223
+962	2	223
+964	2	223
+994	1	223
+1015	1	223
+1019	1	223
+1023	1	223
+1028	1	223
+1070	1	223
+1085	1	223
+1086	1	223
+1090	1	223
+1219	1	223
+1227	1	223
+1242	1	223
+1247	1	223
+1268	1	223
+1354	1	223
+1365	1	223
+1374	1	223
+1390	2	223
+1401	1	223
+1424	1	223
+1437	1	223
+1437	1	223

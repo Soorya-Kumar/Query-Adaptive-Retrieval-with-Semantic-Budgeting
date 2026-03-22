@@ -1,0 +1,39 @@
+Index entries from the subject indexes to CA can, in general, be converted
+to 'normal' or title-like phrases by applying simple tests to the positions of
+prepositions and conjunctions in the entries.. Other, more complex, entries can
+be transformed after somewhat deeper analysis.. These manipulations are a 
+necessary preliminary step to the use of the subject-index language in 
+retrieval..A scheme is outlined for automatically compiling and editing subject 
+indexes by transforming descriptive phrases with regular structure and 
+vocabulary.. These transformations, based on the formal structure of language, 
+are shown to be admirably suited to computer manipulation..
+.X
+34	1	746
+53	1	746
+160	2	746
+168	1	746
+252	1	746
+258	1	746
+326	1	746
+477	1	746
+478	1	746
+480	2	746
+558	1	746
+565	1	746
+600	1	746
+653	1	746
+674	1	746
+680	1	746
+711	1	746
+715	1	746
+746	6	746
+773	1	746
+781	1	746
+817	1	746
+825	1	746
+901	1	746
+1215	2	746
+1230	1	746
+1394	1	746
+1422	1	746
+1422	1	746

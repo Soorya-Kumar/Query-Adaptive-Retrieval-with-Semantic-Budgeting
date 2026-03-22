@@ -1,0 +1,102 @@
+Our survey, in other words, is offered within the bounds of descriptive
+or deductive statistics which seeks to analyze a group, not attempt to estimate
+the parameters of that population of which the group has been chosen as a
+sample.  The latter role is assumed by inductive statistics which makes use
+of probability sampling. Accordingly, our data are presented in those forms
+and with those statistical measures appropriate to the methods of descriptive
+statistics: arrays, frequency distributions, breakdowns by categories which
+seem of optimum value to the librarian and administrator, e.g., the frequency
+of requests for journals versus monographs, the age of journals requested,
+the types and ages of materials requested by the various types of libraries
+(university, pharmaceutical, etc.).  The tables are arranged to give evidence
+of the types of frequency distribution revealed by the Survey, as well as to
+indicate central tendency, dispersion, rank order, and possibly correlations
+for significant factors.
+.X
+2	1	552
+33	1	552
+36	1	552
+41	1	552
+76	2	552
+87	1	552
+89	2	552
+97	1	552
+102	1	552
+111	1	552
+112	1	552
+132	1	552
+137	1	552
+139	1	552
+152	1	552
+155	1	552
+163	1	552
+183	3	552
+184	3	552
+193	2	552
+195	1	552
+196	1	552
+198	1	552
+199	1	552
+201	1	552
+203	3	552
+204	3	552
+210	2	552
+225	1	552
+269	1	552
+373	1	552
+415	1	552
+475	1	552
+545	1	552
+552	5	552
+587	1	552
+605	1	552
+613	1	552
+614	1	552
+638	1	552
+735	2	552
+747	1	552
+750	1	552
+753	1	552
+760	1	552
+766	2	552
+767	1	552
+774	1	552
+775	2	552
+782	1	552
+784	2	552
+788	2	552
+789	2	552
+793	1	552
+800	1	552
+808	1	552
+828	1	552
+905	1	552
+953	1	552
+977	2	552
+983	1	552
+1016	1	552
+1023	1	552
+1030	1	552
+1055	3	552
+1056	1	552
+1087	1	552
+1090	1	552
+1135	1	552
+1147	1	552
+1260	1	552
+1275	1	552
+1276	1	552
+1278	1	552
+1280	1	552
+1285	1	552
+1286	1	552
+1287	1	552
+1302	1	552
+1335	1	552
+1390	1	552
+1397	4	552
+1417	1	552
+1428	1	552
+1432	2	552
+1451	1	552
+1451	1	552

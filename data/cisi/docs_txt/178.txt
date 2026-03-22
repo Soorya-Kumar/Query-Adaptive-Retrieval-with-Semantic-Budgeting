@@ -1,0 +1,69 @@
+During the past decade the Library of Congress, in
+common with many other research libraries, has become
+increasingly aware of pressures and strains in
+many of its operations.  These areas of concern (well
+known to librarians) include mounting arrearages in
+cataloguing and other processing activities; increasing
+complexity of manual inventory control files;
+increasing difficulty in keeping card catalogues 
+reasonably current and accurate; and
+increasing demands for a wide variety of services
+for a clientele whose needs for information
+have grown tremendously since World War II,
+and many of whom have only recently turned to
+large research libraries for help.  Five years ago an
+internal committee of the Library of Congress was
+charged to study potential applications of electronic
+data processing equipment to Library procedures;
+subsequently representatives of three computer firms
+made brief studies of Library operations which 
+intimated that certain areas could benefit substantially
+by automation.
+.X
+159	1	178
+164	1	178
+172	1	178
+178	11	178
+206	1	178
+245	2	178
+249	1	178
+287	1	178
+291	1	178
+374	1	178
+406	1	178
+408	3	178
+419	1	178
+481	1	178
+491	1	178
+507	1	178
+520	1	178
+523	1	178
+591	1	178
+623	1	178
+822	1	178
+852	1	178
+854	1	178
+857	1	178
+858	1	178
+859	1	178
+861	1	178
+907	2	178
+916	1	178
+925	1	178
+959	1	178
+960	1	178
+962	2	178
+970	1	178
+976	1	178
+997	1	178
+1007	2	178
+1011	1	178
+1033	1	178
+1043	1	178
+1071	1	178
+1252	2	178
+1317	1	178
+1358	1	178
+1371	1	178
+1400	3	178
+1400	3	178

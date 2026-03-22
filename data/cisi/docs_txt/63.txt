@@ -1,0 +1,54 @@
+The much-vaunted information explosion seems to be the manifestation of a 
+rather generalized publication inflation.. Multipublication and pretentious
+writing have become obstacles to "communication between human minds". To 
+counteract their harmful effects it will be necessary to reduce the quantity 
+and improve the quality of the printed records by filtering the material before 
+it is stored for retrieval..
+.X
+37	2	63
+59	1	63
+63	7	63
+166	1	63
+175	2	63
+348	1	63
+355	1	63
+389	1	63
+390	1	63
+481	1	63
+482	1	63
+487	1	63
+502	1	63
+579	1	63
+596	1	63
+600	1	63
+601	1	63
+717	1	63
+718	1	63
+719	1	63
+799	1	63
+805	1	63
+807	1	63
+863	1	63
+864	1	63
+907	1	63
+956	1	63
+963	1	63
+980	1	63
+987	1	63
+988	1	63
+989	1	63
+1030	1	63
+1042	1	63
+1051	1	63
+1115	1	63
+1152	1	63
+1265	1	63
+1294	1	63
+1327	1	63
+1330	1	63
+1410	1	63
+1415	1	63
+1426	1	63
+1446	2	63
+1447	1	63
+1447	1	63

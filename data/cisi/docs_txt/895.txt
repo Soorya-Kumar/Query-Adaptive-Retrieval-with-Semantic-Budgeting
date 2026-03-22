@@ -1,0 +1,54 @@
+Swets's theory of information retrieval allows the threads of document
+weighting formulae, probabilistic measures of effectiveness, and management 
+theory to be woven into a coherent pattern.. Benefits of the theory are the
+beginnings of a quantitative description of retrieval languages, a clear 
+distinction between retrieval 'systems' and 'language', a recognition that 
+retrieval performance can be tailored to suit individual needs in a systematic 
+way, and confirmation that question Generality is a pivotal feature of the 
+retrieval process.. The hypotheses involved are still in need of rigorous 
+experimental testing..    
+.X
+28	1	895
+57	1	895
+73	3	895
+157	1	895
+175	1	895
+274	1	895
+381	1	895
+389	1	895
+390	1	895
+445	1	895
+449	1	895
+468	1	895
+514	1	895
+518	1	895
+519	2	895
+577	1	895
+587	1	895
+595	1	895
+615	1	895
+625	1	895
+634	1	895
+643	1	895
+644	1	895
+646	1	895
+649	2	895
+652	1	895
+660	1	895
+752	2	895
+754	1	895
+764	1	895
+780	3	895
+785	2	895
+812	1	895
+820	1	895
+822	1	895
+824	1	895
+827	1	895
+829	4	895
+830	1	895
+895	6	895
+1091	2	895
+1282	2	895
+1307	3	895
+1307	3	895

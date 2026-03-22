@@ -1,0 +1,32 @@
+The information demands, or information needs, of current scientific
+research are similar in many respects to the information needs in
+other forms of scholarship.  But this is not true in all cases, and the focus 
+of this paper is on the needs of the research scientists.  In discussing the
+information needs of the scientist, I shall not limit myself to those for
+which library work is immediately relevant; in fact, a good part of this
+paper will call attention to the importance of those aspects of scientific
+communication that take place outside libraries and, indeed, outside 
+literature. (There are, of course, very few aspects of scientific communication 
+to which library work is not at least indirectly relevant.)
+.X
+41	1	965
+50	1	965
+131	1	965
+132	1	965
+147	1	965
+202	1	965
+395	1	965
+771	1	965
+772	1	965
+891	1	965
+907	1	965
+928	1	965
+965	6	965
+973	1	965
+1037	1	965
+1099	1	965
+1158	1	965
+1187	1	965
+1330	1	965
+1408	1	965
+1408	1	965

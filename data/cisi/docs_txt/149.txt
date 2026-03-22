@@ -1,0 +1,54 @@
+The investigation dealt with the effect which different devices have on the
+performance of index languages.. It appeared that the most important 
+consideration was the specificity of the index terms; within the context of the
+conditions existing in this test, single-word terms were more effective than 
+concept terms or a controlled vocabulary..
+.X
+61	1	149
+70	1	149
+72	1	149
+75	2	149
+114	2	149
+149	13	149
+174	1	149
+175	1	149
+228	1	149
+229	1	149
+258	1	149
+359	1	149
+382	1	149
+388	1	149
+389	1	149
+390	1	149
+474	1	149
+486	1	149
+494	1	149
+554	1	149
+558	1	149
+565	3	149
+587	1	149
+608	1	149
+653	1	149
+750	1	149
+751	1	149
+761	1	149
+762	1	149
+781	1	149
+785	1	149
+792	1	149
+795	1	149
+804	1	149
+956	1	149
+961	1	149
+1085	1	149
+1086	1	149
+1144	1	149
+1163	1	149
+1255	1	149
+1265	1	149
+1282	1	149
+1294	1	149
+1309	1	149
+1399	1	149
+1414	1	149
+1414	1	149

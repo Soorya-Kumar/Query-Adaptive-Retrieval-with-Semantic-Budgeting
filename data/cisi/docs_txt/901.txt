@@ -1,0 +1,41 @@
+At one time or another many authors must have faced the dilemma of
+whether to gather their articles published on a certain topic and republish
+them as a collection of essays or whether to rework them into an entirely
+new book.  I decided in favor of the first course with regard to the articles
+I had written during the last fifteen years on language and information,
+in particular on the more technical and applied aspects, leaving for some
+future occasion my papers on the philosophy of language.
+.X
+29	1	901
+58	1	901
+72	1	901
+160	1	901
+165	1	901
+445	1	901
+451	1	901
+477	1	901
+558	1	901
+565	1	901
+590	1	901
+600	1	901
+609	1	901
+633	1	901
+643	1	901
+653	1	901
+656	1	901
+659	1	901
+689	1	901
+746	1	901
+762	1	901
+781	1	901
+795	1	901
+814	2	901
+824	1	901
+825	1	901
+901	7	901
+1077	1	901
+1215	1	901
+1231	1	901
+1394	1	901
+1422	1	901
+1422	1	901

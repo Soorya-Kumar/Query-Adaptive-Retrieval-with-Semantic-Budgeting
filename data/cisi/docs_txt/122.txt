@@ -1,0 +1,44 @@
+The rapidly growing rate at which information is produced and
+used in our complex society has presented us with major problems
+in information transfer.  We encounter these problems not only
+in libraries, information centers, and schools, but also in many
+of the operations of government and business.  The handling of large
+amounts of information is becoming a dominant theme in the management
+of our way of life.  We are a technologically oriented society, and
+we have naturally turned to our communications technology to help
+us perform our enormous information transfer task.  Beginning with
+the telegraph and continuing through the telephone, through radio 
+and television to the communications satellite, the methods of
+electrical signal transmission have served to distribute information
+to its ultimate users.
+.X
+24	1	122
+74	1	122
+75	1	122
+119	5	122
+122	6	122
+336	1	122
+365	1	122
+394	1	122
+452	1	122
+453	1	122
+526	1	122
+528	1	122
+612	1	122
+684	1	122
+855	2	122
+872	1	122
+903	1	122
+907	1	122
+908	1	122
+940	1	122
+955	2	122
+1011	3	122
+1143	1	122
+1247	1	122
+1264	1	122
+1367	1	122
+1435	1	122
+1436	1	122
+1451	1	122
+1451	1	122

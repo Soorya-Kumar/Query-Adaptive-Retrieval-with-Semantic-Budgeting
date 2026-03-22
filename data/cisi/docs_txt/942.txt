@@ -1,0 +1,45 @@
+The battle lines are being drawn for a great debate
+over the emotionally and politically charged issue of how library
+and information services are to be funded in the coming decades.
+Most librarians will be on the side of "conservatism" and "democracy,"
+favoring the continuation of traditional modes of tax-supported public
+library service with information freely available to all
+as a matter of right.  Information industry people, publishers,
+government officials, engineers, and even, perhaps, authors will be
+on the side of "progress" and "profits," advocating a new concept of
+for-profit or pay libraries, user charges, and information as a salable 
+commodity.
+.X
+10	1	942
+145	1	942
+152	1	942
+167	1	942
+234	1	942
+304	1	942
+306	1	942
+338	1	942
+526	1	942
+551	1	942
+646	1	942
+647	1	942
+651	1	942
+879	1	942
+942	8	942
+943	1	942
+944	1	942
+947	1	942
+948	1	942
+1009	1	942
+1017	1	942
+1049	1	942
+1206	1	942
+1237	1	942
+1258	1	942
+1305	1	942
+1306	1	942
+1378	1	942
+1390	1	942
+1440	1	942
+1450	1	942
+1453	1	942
+1453	1	942

@@ -1,0 +1,137 @@
+The aforementioned studies are related to the
+problem of information exchange in psychology.
+Journals are a part of the formal channel of scientific
+communication as well as storage elements for
+the summary accounts of research undertakings.
+Analysis of bibliographical citations thus can
+reveal certain characteristics of the pattern of
+information flow created by scientists in their
+work.  The potential usefulness of this type of
+investigation is increased when it becomes
+possible to examine the trends through time of the
+communication network under consideration, and also 
+when different communication networks can be compared.
+  The present paper deals with some of the
+characteristics of bibliographical citations in the
+same 21 psychological journals published both in
+1950 and in 1960. The list of journals used, along
+with the abbreviations to be used here, is given in
+Table 1; it includes 8 journals published by the
+American Psychological Association and 13 journals
+published by other organizations.
+.X
+19	1	97
+33	1	97
+36	1	97
+37	1	97
+39	2	97
+40	1	97
+41	1	97
+47	1	97
+88	1	97
+89	1	97
+97	7	97
+102	2	97
+103	1	97
+111	1	97
+112	1	97
+163	1	97
+170	1	97
+183	1	97
+184	1	97
+193	1	97
+199	1	97
+203	1	97
+210	1	97
+225	1	97
+233	1	97
+253	1	97
+269	1	97
+313	1	97
+359	1	97
+373	1	97
+377	1	97
+379	2	97
+395	1	97
+505	1	97
+545	1	97
+552	1	97
+560	1	97
+573	1	97
+587	1	97
+605	1	97
+613	1	97
+614	1	97
+618	4	97
+632	3	97
+635	4	97
+638	1	97
+667	1	97
+735	1	97
+747	1	97
+748	1	97
+749	1	97
+750	1	97
+751	1	97
+753	1	97
+764	1	97
+765	1	97
+766	1	97
+767	1	97
+775	1	97
+777	1	97
+778	1	97
+782	2	97
+784	1	97
+788	1	97
+789	1	97
+793	1	97
+800	1	97
+804	1	97
+805	1	97
+808	1	97
+893	1	97
+905	1	97
+952	1	97
+953	1	97
+977	1	97
+983	1	97
+1016	2	97
+1023	1	97
+1030	2	97
+1055	1	97
+1061	1	97
+1085	1	97
+1086	1	97
+1087	4	97
+1090	1	97
+1135	1	97
+1182	1	97
+1200	1	97
+1260	1	97
+1274	1	97
+1275	4	97
+1276	1	97
+1277	1	97
+1278	2	97
+1280	2	97
+1283	1	97
+1285	1	97
+1286	1	97
+1287	3	97
+1301	1	97
+1302	6	97
+1304	1	97
+1313	1	97
+1335	1	97
+1338	1	97
+1344	1	97
+1347	1	97
+1380	2	97
+1390	1	97
+1397	1	97
+1417	1	97
+1428	2	97
+1432	1	97
+1444	1	97
+1444	1	97

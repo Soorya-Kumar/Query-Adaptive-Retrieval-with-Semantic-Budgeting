@@ -1,0 +1,92 @@
+Concurrently with the RECON Pilot Project, the RECON working Task Force 
+undertook to consider certain basic questions of retrospect conversation
+that are of national scope.
+  First, is it feasible to define a level or subset of the MARC format that 
+would allow a library using the lower level to be part of a future national
+network?
+  Second, is it possible to use machine-readable records from a variety of 
+sources in a national bibliographic store as a way to reduce the conversion
+effort on the national level?
+  Third, what are the problems of producing a National Union Catalog from 
+machine-readable records?
+  As these studies and the pilot project progressed, it also became apparent 
+that there were many practical difficulties in carrying out a large-scale 
+conversion project.  Therefore, it seemed essential to investigate alternative 
+strategies for RECON that might yield broad benefits in a reasonable short 
+time span.
+.X
+92	1	1079
+141	2	1079
+232	1	1079
+241	1	1079
+244	1	1079
+246	1	1079
+299	3	1079
+331	1	1079
+333	3	1079
+358	1	1079
+365	1	1079
+406	1	1079
+449	1	1079
+522	1	1079
+529	1	1079
+530	2	1079
+553	1	1079
+627	2	1079
+628	3	1079
+630	1	1079
+802	1	1079
+819	1	1079
+822	1	1079
+825	1	1079
+854	1	1079
+871	1	1079
+872	1	1079
+873	2	1079
+874	4	1079
+875	3	1079
+876	2	1079
+877	2	1079
+878	2	1079
+879	1	1079
+880	1	1079
+883	1	1079
+892	3	1079
+896	1	1079
+930	1	1079
+940	2	1079
+941	5	1079
+946	1	1079
+948	1	1079
+950	1	1079
+978	1	1079
+988	1	1079
+990	1	1079
+992	1	1079
+993	1	1079
+994	2	1079
+995	3	1079
+996	1	1079
+997	3	1079
+998	2	1079
+1033	1	1079
+1079	7	1079
+1143	1	1079
+1153	1	1079
+1189	1	1079
+1216	2	1079
+1230	1	1079
+1251	1	1079
+1257	1	1079
+1303	1	1079
+1351	2	1079
+1379	1	1079
+1396	2	1079
+1403	1	1079
+1420	2	1079
+1421	1	1079
+1434	3	1079
+1435	4	1079
+1436	2	1079
+1442	2	1079
+1442	2	1079

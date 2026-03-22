@@ -1,0 +1,42 @@
+Technical communication patterns in two research and development laboratories
+were examined using modified sociometric techniques.. The structure of 
+technical communication networks in the two laboratories results from the 
+interaction of both social relations and work structure.. The sociometric 
+"stars" in the technical communication network who provide other members of the
+organization with information either make greater use of individuals outside
+the organization or read the literature more than other members of the 
+laboratory..
+.X
+15	10	15
+32	1	15
+102	1	15
+103	1	15
+105	2	15
+139	1	15
+152	1	15
+313	2	15
+356	1	15
+447	1	15
+449	1	15
+475	1	15
+560	1	15
+574	1	15
+592	1	15
+625	1	15
+658	1	15
+803	1	15
+1036	1	15
+1048	1	15
+1186	2	15
+1187	1	15
+1188	1	15
+1235	1	15
+1291	1	15
+1319	1	15
+1321	1	15
+1329	1	15
+1333	1	15
+1386	1	15
+1387	1	15
+1408	2	15
+1408	2	15

@@ -1,0 +1,91 @@
+Many ongoing selective dissemination systems designers assume that the 
+librarian can be omitted from active participation in execution of the master
+plan.. ISI's four years of experience with ASCA service have shown that 
+librarians must be an integral part of the system and engage in a active 
+dialogue between users and the machine.. Specific examples of how 
+librarians can best serve the information needs of scientists using SDI systems
+are examined.. It is the basic contention of this paper that the librarian
+should serve as an intermediary between users and the numerous new information
+media.. In this manner the librarian can filter and translate the requirements
+of individual scientists to conform with the inherent limitations of all
+machine systems while exploiting their capabilities to the fullest..
+.X
+13	1	213
+18	1	213
+34	1	213
+49	1	213
+53	1	213
+59	1	213
+65	1	213
+75	1	213
+76	2	213
+121	1	213
+156	1	213
+164	1	213
+202	1	213
+213	5	213
+214	1	213
+224	2	213
+243	1	213
+381	1	213
+382	3	213
+421	1	213
+465	2	213
+466	2	213
+490	1	213
+491	2	213
+495	1	213
+506	2	213
+507	1	213
+510	1	213
+512	1	213
+591	1	213
+595	1	213
+603	1	213
+604	1	213
+622	1	213
+623	1	213
+629	1	213
+633	1	213
+639	1	213
+659	1	213
+676	2	213
+696	1	213
+711	1	213
+720	1	213
+722	1	213
+723	1	213
+726	1	213
+728	1	213
+730	1	213
+731	1	213
+732	1	213
+779	1	213
+790	1	213
+809	1	213
+810	1	213
+813	1	213
+814	1	213
+820	1	213
+822	1	213
+828	1	213
+870	2	213
+879	1	213
+914	1	213
+986	1	213
+1055	1	213
+1083	1	213
+1086	1	213
+1091	1	213
+1283	1	213
+1295	1	213
+1297	1	213
+1298	1	213
+1299	1	213
+1362	1	213
+1363	2	213
+1366	1	213
+1367	1	213
+1368	1	213
+1396	1	213
+1396	1	213

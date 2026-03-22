@@ -1,0 +1,47 @@
+I see from the programme that I am supposed to talk on an information  
+language for MARC, and it is true that the work I have been doing for the past
+year or so has been under the auspices of the MARC Project.  But the subject
+indexing system we have developed is concerned as much with BNB's plans for
+computer production from 1971 as with the MARC tapes as such, and I hope to
+show that we have also gone some way towards developing a compatible
+general system with even wider application.  Before coming to this, however, it
+is necessary to describe briefly some of the day to day pressures of work which
+caused BNB to look to the computer for help.  From this we can see how the
+computer forced us to reconsider our whole approach to subject indexing.
+.X
+159	5	159
+178	1	159
+257	1	159
+260	1	159
+348	1	159
+429	1	159
+489	1	159
+493	1	159
+498	1	159
+501	1	159
+582	1	159
+583	2	159
+585	1	159
+653	1	159
+655	2	159
+688	1	159
+796	1	159
+797	2	159
+798	2	159
+799	1	159
+801	1	159
+802	1	159
+838	1	159
+852	1	159
+854	1	159
+857	1	159
+858	2	159
+859	2	159
+861	2	159
+970	1	159
+1043	1	159
+1252	1	159
+1268	1	159
+1395	1	159
+1405	1	159
+1405	1	159

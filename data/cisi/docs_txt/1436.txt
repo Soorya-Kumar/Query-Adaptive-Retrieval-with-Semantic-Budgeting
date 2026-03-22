@@ -1,0 +1,71 @@
+An International Serials Data System (ISDS) is being established within
+the framework of UNISIST - a world science information system.  Each serial 
+will be assigned an International Standard Serial Number (ISSN).  An 
+International Centre for the Registration of Serial Publications, with
+headquarters in Paris, will be responsible for specifying the characteristics
+of the world register and maintaining an up-to-date file of serial titles.
+National and regional centres will supply input on new titles to the register
+and act as a link between the international centre and individual users.
+.X
+119	1	1436
+122	1	1436
+141	1	1436
+244	1	1436
+299	1	1436
+333	1	1436
+361	1	1436
+365	2	1436
+394	1	1436
+449	1	1436
+453	1	1436
+526	1	1436
+528	1	1436
+529	1	1436
+530	1	1436
+553	1	1436
+612	1	1436
+628	1	1436
+630	1	1436
+802	1	1436
+819	1	1436
+822	1	1436
+854	1	1436
+871	1	1436
+872	3	1436
+873	1	1436
+874	2	1436
+875	1	1436
+876	1	1436
+877	3	1436
+878	4	1436
+879	1	1436
+880	1	1436
+892	1	1436
+939	1	1436
+940	4	1436
+941	3	1436
+990	1	1436
+992	1	1436
+993	1	1436
+994	1	1436
+995	1	1436
+996	1	1436
+997	1	1436
+998	1	1436
+1079	2	1436
+1080	1	1436
+1143	2	1436
+1216	1	1436
+1230	1	1436
+1247	1	1436
+1257	1	1436
+1264	1	1436
+1303	1	1436
+1367	1	1436
+1396	1	1436
+1421	1	1436
+1434	1	1436
+1435	4	1436
+1436	6	1436
+1441	1	1436
+1441	1	1436

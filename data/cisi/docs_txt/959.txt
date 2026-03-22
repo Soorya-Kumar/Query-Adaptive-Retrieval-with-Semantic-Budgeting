@@ -1,0 +1,82 @@
+Mathematical models of library operations are presented, allowing managers to
+estimate measures of effectiveness for a library.. These models describe the
+amount of use made of resources by a user in a visit, the distribution of book
+circulation in a collection, the dependence of circulation on time, and the 
+effect of multiple copies on user satisfaction.. Predictions are made on the 
+basis of the models of the consequence of breaking of central library into 
+branch libraries.. The effect, in terms of frustrated use, of removing the 
+least-used books from a collection is discussed, as are strategies for for
+duplication.. The emphasis is on facilitating getting results from models; for
+this purpose graphic techniques supplement the mathematical formulas..
+.X
+4	1	959
+5	1	959
+33	1	959
+36	1	959
+90	1	959
+161	1	959
+178	1	959
+183	1	959
+184	1	959
+193	1	959
+194	1	959
+199	1	959
+201	1	959
+202	1	959
+203	1	959
+204	1	959
+205	1	959
+207	1	959
+209	1	959
+212	1	959
+217	1	959
+220	1	959
+222	1	959
+245	1	959
+284	1	959
+286	1	959
+287	1	959
+288	1	959
+291	1	959
+292	1	959
+294	1	959
+364	1	959
+401	1	959
+406	1	959
+408	1	959
+543	1	959
+588	1	959
+591	1	959
+613	1	959
+624	1	959
+766	1	959
+799	1	959
+800	1	959
+808	1	959
+811	1	959
+816	1	959
+865	1	959
+915	1	959
+916	1	959
+925	3	959
+938	1	959
+957	2	959
+959	8	959
+960	3	959
+961	3	959
+962	4	959
+964	1	959
+972	1	959
+984	1	959
+1005	1	959
+1007	1	959
+1018	1	959
+1033	1	959
+1149	1	959
+1151	1	959
+1333	1	959
+1352	1	959
+1353	1	959
+1400	3	959
+1401	1	959
+1401	1	959

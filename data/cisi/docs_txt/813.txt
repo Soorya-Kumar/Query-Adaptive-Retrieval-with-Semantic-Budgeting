@@ -1,0 +1,181 @@
+The choice of the suitable data base for providing an information service is
+governed by factors of coverage, performance, and cost.. The cost of the data 
+base to subscribers is a known quantity, and the coverage is decided by the data
+base producers..
+   This paper describes an investigation into the relative performance of the
+four major Chemical Abstracts Service magnetic tape data-base, Chemical Titles 
+(CT), which contains the titles of citations only, Chemical Abstracts 
+Condensates (CAC), which contains titles enriched with keyword phrases,
+Chemical-Biological Activities (CBAC),and Polymer Science and Technology (POST),
+both of which contain full digests in addition to titles..
+   The performance was measured in terms of the relative currency of the four
+data-bases, on the retrieval efficiency of profiles searched against them.. 
+Fifty questions from industrial and government research organizations were used 
+in the experiment.. Search profiles corresponding to these questions were
+constructed for searching against each database, output was assessed for 
+relevance by users, and profile performance figures (precision and recall 
+ratios) were calculated for each profile.. The overall retrieval efficiency of
+profiles searched against data-bases containing titles only,
+titles-plus-keywords, and titles-plus-digests, was calculated, and these results 
+are presented..
+.X
+18	2	813
+34	1	813
+38	1	813
+49	1	813
+51	1	813
+53	1	813
+57	1	813
+59	1	813
+69	1	813
+71	1	813
+75	1	813
+77	1	813
+79	1	813
+91	1	813
+125	1	813
+145	1	813
+150	1	813
+164	2	813
+168	1	813
+175	1	813
+176	2	813
+202	1	813
+211	1	813
+213	1	813
+224	1	813
+243	1	813
+315	1	813
+329	1	813
+378	1	813
+382	1	813
+421	2	813
+439	1	813
+440	2	813
+448	1	813
+452	1	813
+453	1	813
+465	1	813
+466	1	813
+467	2	813
+468	1	813
+480	1	813
+483	1	813
+484	1	813
+486	1	813
+488	1	813
+490	2	813
+491	3	813
+493	1	813
+495	1	813
+503	1	813
+506	3	813
+507	2	813
+508	1	813
+509	1	813
+510	4	813
+511	1	813
+512	3	813
+514	2	813
+517	2	813
+520	3	813
+521	1	813
+522	1	813
+523	1	813
+524	1	813
+526	1	813
+527	1	813
+528	2	813
+531	1	813
+565	2	813
+566	1	813
+572	1	813
+576	1	813
+580	2	813
+581	1	813
+582	1	813
+591	1	813
+595	2	813
+596	2	813
+603	5	813
+604	2	813
+608	2	813
+609	3	813
+612	1	813
+619	2	813
+622	2	813
+623	2	813
+629	2	813
+631	1	813
+632	1	813
+633	3	813
+639	1	813
+659	2	813
+676	1	813
+696	1	813
+699	1	813
+700	1	813
+705	1	813
+707	1	813
+711	1	813
+715	1	813
+722	1	813
+723	2	813
+726	4	813
+727	2	813
+728	2	813
+729	1	813
+730	2	813
+731	2	813
+732	1	813
+754	2	813
+755	1	813
+790	1	813
+805	1	813
+807	1	813
+809	3	813
+810	3	813
+812	3	813
+813	9	813
+814	5	813
+817	1	813
+820	4	813
+822	3	813
+824	1	813
+825	1	813
+827	1	813
+828	1	813
+866	1	813
+870	4	813
+873	1	813
+879	1	813
+894	2	813
+928	1	813
+963	1	813
+990	1	813
+991	1	813
+1051	1	813
+1078	1	813
+1089	1	813
+1091	4	813
+1143	1	813
+1255	1	813
+1264	1	813
+1283	1	813
+1294	1	813
+1298	2	813
+1299	1	813
+1302	1	813
+1303	1	813
+1327	1	813
+1363	1	813
+1366	2	813
+1367	2	813
+1368	2	813
+1396	3	813
+1413	1	813
+1419	1	813
+1427	1	813
+1445	1	813
+1448	2	813
+1448	2	813

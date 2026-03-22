@@ -1,0 +1,79 @@
+As the formal communication system of science has become less able to
+supply information with the rapidity that scientists require, increasing
+attention has been paid to the structure of communication in science.. How are
+scientific publications utilized by scientists? What is accomplished by the
+circulation of scientific information on an informal basis? How does the social
+organization among scientists facilitate or inhibit these processes?
+   Three types of studies have been conducted in this area: (a) studies of the
+scientific literature itself; (b) studies of how scientists obtain the 
+information which they need for their research; and (c) studies of the
+relationship between scientists who conduct research in the same areas.. For the
+most part, studies of formal communication and information gathering have been
+conducted in the absence of all but the most rudimentary theoretical models, as
+has been pointed out in at least three recent reviews of these studies (Libbey
+and Zaltman, 1967, p. 64; Paisley, 1968; Storer, 1968, p. 12).. The lack of
+theory can be attributed partly to the practical orientation of many of the 
+studies and also to the fact that an adequate model cannot be based on any one
+of these types of studies alone.. A useful theory must integrate knowledge from
+all three types.. In this article, we will review these studies and will 
+describe a teoretical model which has been designed to fill this purpose..
+.X
+33	1	544
+89	2	544
+95	2	544
+98	1	544
+100	1	544
+101	1	544
+102	1	544
+105	4	544
+107	1	544
+109	1	544
+110	1	544
+113	1	544
+155	1	544
+157	1	544
+312	1	544
+314	1	544
+356	2	544
+386	2	544
+398	1	544
+544	5	544
+560	3	544
+582	1	544
+605	1	544
+656	1	544
+667	1	544
+685	1	544
+750	1	544
+775	1	544
+800	1	544
+1030	1	544
+1050	1	544
+1062	1	544
+1063	2	544
+1081	1	544
+1082	1	544
+1088	1	544
+1256	1	544
+1284	2	544
+1285	2	544
+1286	1	544
+1287	1	544
+1290	1	544
+1291	2	544
+1293	1	544
+1294	1	544
+1295	1	544
+1296	1	544
+1297	1	544
+1300	3	544
+1308	1	544
+1312	2	544
+1313	1	544
+1319	1	544
+1334	1	544
+1345	1	544
+1346	2	544
+1386	3	544
+1408	1	544
+1408	1	544

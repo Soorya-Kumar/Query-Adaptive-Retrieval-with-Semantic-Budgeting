@@ -1,0 +1,66 @@
+The library of the University of East Anglia has been organized on the basis
+of subject specialization, a system which the author believes to be applicable
+to small and medium-sized universities.  A comparison of university structure
+and university library structure shows how the system can bring about
+organizational strains and conflict situations in respect of career patterns
+of senior staff members.  The need to recognize academic considerations for
+library promotions is stressed and a case made out for the fullest involvement
+of all senior library staff in policy-making.
+.X
+4	1	843
+9	1	843
+207	1	843
+222	1	843
+223	1	843
+268	1	843
+293	1	843
+296	1	843
+297	1	843
+298	2	843
+300	1	843
+301	1	843
+302	1	843
+303	1	843
+358	1	843
+364	1	843
+418	1	843
+515	1	843
+535	1	843
+559	1	843
+625	1	843
+629	1	843
+631	1	843
+634	1	843
+768	1	843
+774	1	843
+791	1	843
+811	1	843
+816	1	843
+818	2	843
+823	2	843
+842	1	843
+843	6	843
+844	4	843
+845	1	843
+846	1	843
+915	1	843
+961	2	843
+962	1	843
+964	1	843
+985	1	843
+994	1	843
+1015	1	843
+1020	2	843
+1021	1	843
+1069	1	843
+1070	1	843
+1214	1	843
+1233	1	843
+1242	1	843
+1247	1	843
+1253	1	843
+1268	1	843
+1354	1	843
+1401	1	843
+1424	1	843
+1424	1	843

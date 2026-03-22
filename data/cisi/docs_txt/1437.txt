@@ -1,0 +1,56 @@
+In this article Stephen Green, a member of the British delegation to the 
+Intergovernmental Conference on the Planning of National Documentation,
+Library and Archives Infrastructures, gives his views on the results of
+the conference and its implications for the future development of
+national information systems (NATIS) in member states.
+.X
+128	1	1437
+129	1	1437
+130	1	1437
+167	1	1437
+223	1	1437
+225	1	1437
+234	1	1437
+280	1	1437
+335	1	1437
+342	1	1437
+393	1	1437
+434	1	1437
+468	1	1437
+494	1	1437
+639	1	1437
+643	1	1437
+644	1	1437
+645	1	1437
+646	1	1437
+647	1	1437
+651	1	1437
+765	1	1437
+818	1	1437
+822	1	1437
+823	1	1437
+827	1	1437
+881	1	1437
+882	1	1437
+885	1	1437
+888	1	1437
+904	1	1437
+925	1	1437
+943	1	1437
+944	1	1437
+947	1	1437
+999	1	1437
+1000	1	1437
+1001	1	1437
+1002	1	1437
+1003	1	1437
+1004	1	1437
+1060	1	1437
+1070	1	1437
+1085	1	1437
+1374	1	1437
+1390	1	1437
+1401	1	1437
+1437	6	1437
+1441	1	1437
+1441	1	1437

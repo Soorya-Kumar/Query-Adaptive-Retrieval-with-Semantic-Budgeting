@@ -1,0 +1,77 @@
+The expression "satisfying a requester's information
+need" is often used, but its meaning is obscure.  The
+literature on "information need" in relation to
+retrieval suggests three different (though not inconsistent)
+possible interpretations.  However, each of these
+interpretations is itself fundamentally unclear. The
+various obscurities involved are indicated by critical
+questions, which those who write of information need
+are invited to answer.
+.X
+29	5	29
+35	1	29
+42	1	29
+43	1	29
+58	3	29
+66	1	29
+68	1	29
+69	1	29
+70	1	29
+84	1	29
+95	1	29
+165	1	29
+175	1	29
+261	1	29
+274	1	29
+346	1	29
+382	1	29
+444	1	29
+445	2	29
+447	1	29
+449	1	29
+451	2	29
+458	1	29
+474	1	29
+475	1	29
+476	1	29
+477	1	29
+478	1	29
+479	1	29
+480	1	29
+484	1	29
+485	1	29
+486	1	29
+532	1	29
+566	1	29
+590	1	29
+609	1	29
+625	1	29
+656	1	29
+660	1	29
+680	1	29
+689	1	29
+704	1	29
+762	2	29
+764	1	29
+781	1	29
+814	1	29
+893	1	29
+901	1	29
+967	2	29
+1016	1	29
+1030	1	29
+1038	1	29
+1045	1	29
+1077	1	29
+1084	1	29
+1094	1	29
+1118	1	29
+1175	1	29
+1195	1	29
+1201	1	29
+1231	1	29
+1235	1	29
+1281	2	29
+1285	1	29
+1358	1	29
+1358	1	29

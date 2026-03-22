@@ -1,0 +1,60 @@
+The motivation for this investigation derived from a
+series of visits to institutions which were deeply committed
+to the design, development, and operation of non-traditional
+automated information systems.  At the time of the visits,
+the systems seemed to be working technically but, paradoxically,
+they did not appear to have made a significant impact on the
+respective user communities.  Although few people associated
+with the systems openly expressed concern, there were non-verbal
+indicators which suggested that some people were becoming nervous.
+Since all of the systems represented high expenditures of time
+and money, a feeling of uneasiness seemed quite appropriate.
+.X
+10	1	433
+115	1	433
+161	1	433
+190	1	433
+225	1	433
+234	1	433
+236	1	433
+244	1	433
+295	1	433
+297	1	433
+300	1	433
+303	1	433
+304	1	433
+305	1	433
+306	1	433
+358	2	433
+385	1	433
+394	1	433
+433	8	433
+459	1	433
+534	1	433
+624	1	433
+631	1	433
+647	1	433
+654	1	433
+702	1	433
+731	1	433
+732	1	433
+817	1	433
+820	1	433
+823	1	433
+825	1	433
+826	1	433
+827	1	433
+828	1	433
+937	1	433
+946	1	433
+947	1	433
+948	1	433
+972	1	433
+1017	1	433
+1058	1	433
+1146	1	433
+1230	1	433
+1257	1	433
+1373	1	433
+1390	1	433
+1390	1	433

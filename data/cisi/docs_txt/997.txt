@@ -1,0 +1,86 @@
+The Ohio College Library Center is a regional library network.. Its on-line 
+shared cataloging system has been operational since 18 October 1971,and utilizes
+cathode ray tube terminals located in the center's fifty-three member 
+libraries.. These terminals are connected to the Sigma 5 computer in Columbus by
+a multiple line, multiple party synchronous transmission telephone network.. 
+Between January and June 1972 the system operated at an annual rate of 500,000 
+works cataloged and over 3,400,000 catalog cards produced .. These cards are
+individualized to fit the requirements of each member and are produced in packs
+designated for particular catalogs..
+.X
+79	1	997
+92	2	997
+141	2	997
+178	1	997
+235	1	997
+244	1	997
+246	2	997
+247	1	997
+299	2	997
+326	1	997
+333	2	997
+361	1	997
+365	1	997
+382	1	997
+522	1	997
+529	1	997
+530	1	997
+608	1	997
+627	1	997
+628	1	997
+630	1	997
+822	1	997
+825	2	997
+854	1	997
+871	1	997
+872	2	997
+873	2	997
+874	2	997
+875	2	997
+876	2	997
+877	1	997
+878	1	997
+879	1	997
+880	1	997
+883	1	997
+892	2	997
+930	1	997
+940	1	997
+941	3	997
+950	2	997
+966	1	997
+974	1	997
+978	1	997
+988	1	997
+990	1	997
+991	1	997
+994	2	997
+995	1	997
+996	1	997
+997	10	997
+998	2	997
+1000	1	997
+1071	1	997
+1079	3	997
+1143	1	997
+1153	2	997
+1189	1	997
+1216	3	997
+1230	1	997
+1251	1	997
+1252	1	997
+1257	1	997
+1266	2	997
+1303	1	997
+1351	1	997
+1371	1	997
+1395	2	997
+1396	2	997
+1420	1	997
+1421	1	997
+1434	1	997
+1435	2	997
+1436	1	997
+1441	1	997
+1442	1	997
+1442	1	997

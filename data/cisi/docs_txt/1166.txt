@@ -1,0 +1,13 @@
+State-of-the-art in reference information servicing and training of
+specialists for information establishments is described..
+.X
+598	1	1166
+1093	1	1166
+1095	1	1166
+1096	1	1166
+1099	1	1166
+1155	1	1166
+1156	1	1166
+1160	1	1166
+1166	5	1166
+1166	5	1166

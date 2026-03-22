@@ -1,0 +1,51 @@
+A campus delivery service is one way to increase accessibility of library 
+materials.. This report provides an overview of such a service, evaluates its
+performance, notes the economic implications, and concludes that the service
+can solve some of the problems of decentralized collections..
+.X
+9	1	297
+96	1	297
+207	1	297
+216	1	297
+222	1	297
+223	1	297
+296	1	297
+297	5	297
+298	2	297
+300	1	297
+301	1	297
+302	1	297
+358	1	297
+364	1	297
+433	1	297
+515	1	297
+535	1	297
+625	1	297
+629	1	297
+631	1	297
+634	1	297
+791	1	297
+811	1	297
+816	1	297
+818	1	297
+823	1	297
+843	1	297
+844	1	297
+846	1	297
+891	1	297
+915	1	297
+951	1	297
+952	1	297
+961	1	297
+962	1	297
+964	1	297
+994	1	297
+1015	1	297
+1242	1	297
+1247	1	297
+1268	1	297
+1339	1	297
+1354	1	297
+1365	1	297
+1390	1	297
+1390	1	297

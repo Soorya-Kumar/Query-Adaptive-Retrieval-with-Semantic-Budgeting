@@ -1,0 +1,15 @@
+A rational scheme for a scientific (or technical) article is proposed which
+is bound to improve its informativeness by purely formal means..
+.X
+1105	1	1177
+1116	1	1177
+1160	5	1177
+1168	1	1177
+1173	1	1177
+1177	6	1177
+1181	1	1177
+1281	1	1177
+1382	1	1177
+1446	1	1177
+1447	1	1177
+1447	1	1177

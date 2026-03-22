@@ -1,0 +1,44 @@
+Any who have the arduous task of assisting a student
+through that ultimate of academic exercises, the preparation
+and defense of a dissertation, are likely to define happiness
+as a good book written by an advisee.  This book is a cause
+of joy.  The author expended much more effort than is usually
+the case to gain even the smallest detail, because the subject
+matter is strangely intractable, hedged round with perplexities
+and not a few vested interests.  Letters and reports get locked
+away where they may not be seen except by the most persistent
+investigator and one who somehow meets criteria that no one else
+can claim.  In the end, the author deserves the praise and the
+advisor is well rewarded with the inner satisfaction that comes
+from participation in an important investigation finished as an
+influential and well-written book.
+.X
+141	1	1420
+299	2	1420
+333	2	1420
+522	1	1420
+530	1	1420
+627	2	1420
+628	2	1420
+873	1	1420
+874	2	1420
+875	2	1420
+876	1	1420
+892	2	1420
+941	2	1420
+994	1	1420
+995	2	1420
+996	1	1420
+997	1	1420
+998	1	1420
+1079	2	1420
+1153	1	1420
+1189	1	1420
+1251	1	1420
+1351	2	1420
+1396	1	1420
+1420	6	1420
+1434	2	1420
+1435	2	1420
+1442	2	1420
+1442	2	1420

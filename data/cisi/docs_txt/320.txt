@@ -1,0 +1,72 @@
+The Teachable Language Comprehender (TLC) is a program
+designed to be capable of being taught to "comprehend"
+English text.  When text which the program has not seen before
+is input to it, it comprehends that text by correctly relating
+each (explicit or implicit) assertion of the new text to a large
+memory.  This memory is a "semantic network" representing
+factual assertions about the world.
+  The program also creates copies of the parts of its memory
+which have been found to relate to the new text, adapting
+and combining these copies to represent the meaning of the
+new text.  By this means, the meaning of all text the program
+successfully comprehends is encoded into the same format as
+that of the memory.  In this form it can be added into the
+memory.
+  Both factual assertions for the memory and the capabilities
+for correctly relating text to the memory's prior content are to
+be taught to the program as they are needed.  TLC presently
+contains a relatively small number of examples of such
+assertions and capabilities, but within the system, notations for
+expressing either of these are provided.  Thus the program
+now corresponds to a general process for comprehending
+language, and it provides a methodology for adding the
+additional information this process requires to actually
+comprehend text of any particular kind.
+  The memory structure and comprehension process of TLC
+allow new factual assertions and capabilities for relating
+text to such stored assertions and capabilities for relating
+text to such stored assertions to generalize automatically.
+That is, once such an assertion or capability is put into the
+system, it becomes available to help comprehend a great many
+other sentences in the future.
+.X
+61	1	320
+77	1	320
+79	1	320
+117	1	320
+168	2	320
+175	1	320
+274	1	320
+317	2	320
+320	6	320
+458	1	320
+459	1	320
+488	1	320
+489	1	320
+493	1	320
+498	1	320
+499	1	320
+526	1	320
+546	1	320
+558	1	320
+570	1	320
+572	1	320
+579	1	320
+581	1	320
+590	1	320
+606	1	320
+626	1	320
+659	1	320
+664	1	320
+754	1	320
+790	1	320
+814	1	320
+826	1	320
+1035	1	320
+1046	2	320
+1118	1	320
+1294	1	320
+1399	1	320
+1427	1	320
+1443	3	320
+1443	3	320

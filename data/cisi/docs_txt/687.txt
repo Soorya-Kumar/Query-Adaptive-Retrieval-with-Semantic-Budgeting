@@ -1,0 +1,46 @@
+The Index Chemicus Registry System (ICRS), launched in 1968 with the support
+of a dozen industrial and governmental organizations, is now a current 
+operational monthly service.  Subscribers receive magnetic tapes and printouts,
+in which the weekly issues of Index Chemicus (IC) have been encoded in Wiswesser
+Line Notations (WLN).  Over 13,000 compounds per month are provided in
+machine language.  The canonical WLN is also provided in alphabetized printouts.
+Encoding of over 400,000 new chemical compounds from IC has already been 
+completed, including all those reported in 1967, 1968, and 1969.  Since the 
+tapes also include title and other bibliographic information, this paper 
+describes the use of supporting software provided for SDI search systems
+employing "word" and other searching terms, in addition to the WLN fragments.
+Use of the monthly and annual printouts are illustrated for those searches
+which do not require computer manipulation.
+.X
+164	1	687
+165	1	687
+252	1	687
+253	2	687
+254	1	687
+347	1	687
+491	1	687
+512	1	687
+591	1	687
+641	1	687
+669	2	687
+671	1	687
+673	2	687
+674	1	687
+679	1	687
+683	2	687
+687	10	687
+689	1	687
+697	1	687
+714	2	687
+726	1	687
+805	1	687
+809	1	687
+1026	1	687
+1087	1	687
+1089	1	687
+1285	1	687
+1287	1	687
+1302	1	687
+1362	1	687
+1452	4	687
+1452	4	687

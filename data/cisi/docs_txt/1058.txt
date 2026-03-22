@@ -1,0 +1,56 @@
+Microforms enjoy only limited acceptance in research libraries, largely
+because of user resistance.  A growing number of published studies indicate
+that improper production, inadequate bibliographic access, lack of 
+standardization, defects in equipment design, maintenance problems,
+poor environments for microform usage, and certain inherent characteristics
+of the microforms themselves all combine to make their use inconvenient.
+Solutions to most of these problems have existed for some time, but the
+microform industry has been slow to correct them.  Some positive developments
+have occurred in the last two years, but the major problems remain. 
+.X
+10	2	1058
+11	1	1058
+143	1	1058
+190	1	1058
+225	1	1058
+232	1	1058
+244	1	1058
+268	1	1058
+286	1	1058
+304	1	1058
+305	2	1058
+306	1	1058
+358	1	1058
+383	1	1058
+385	1	1058
+394	1	1058
+433	1	1058
+459	1	1058
+534	1	1058
+551	1	1058
+702	1	1058
+721	1	1058
+731	1	1058
+732	1	1058
+817	1	1058
+820	1	1058
+823	1	1058
+825	1	1058
+826	1	1058
+827	1	1058
+828	1	1058
+886	1	1058
+887	1	1058
+947	1	1058
+948	1	1058
+1017	1	1058
+1020	1	1058
+1021	1	1058
+1058	6	1058
+1059	1	1058
+1060	1	1058
+1146	1	1058
+1230	1	1058
+1257	1	1058
+1390	1	1058
+1390	1	1058

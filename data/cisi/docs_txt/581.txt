@@ -1,0 +1,122 @@
+A computer program for automatic identification of "full form" case
+citations in legal literature (e.g., Rutherford v. Geddes, 4 Wall. 220,
+18 L. Ed. 343; Southland Industries, Inc. v. Federal Communications
+Commission, 1938, 69 App. D.C., 82, 99 F.2D 117) has been developed
+by this group and is now operational.. 
+   The level of performance of this program known as "The Citation
+Identifier" is high.. In a recent computer run, The Citation
+Identifier scanned ther full texts of 191 randomly selected decisions
+of U.S. Court of Appeals (some 400,000 words of running text) and 
+located correctly 2,220 full-form citations out of a total of 2,227
+(that is, better than 99% of the total).. Only seven misses and three
+false drops occurred..
+   Of 2,220 full-form citations located correctly, 1944 (87%) were
+identified perfectly.. In addition, there were 276 partial identifications
+containing two types of errors:  (1) partial identifications in which some
+citation terms were mistakenly lopped off by the program ("short hits");
+and (2) partial identifications that contained words improperly included
+in the citations ("long hits").
+   Both types of errors are, for the most part, easily correctible and
+can be largely eliminated by suitable changes in the program..
+   The Citation Identifier operates rather rapidly.. In a recent test run,
+the total time required to process some 400,000 running words of text
+was approximately 15 1/2 minutes.. This speed could be further increased
+by suitable changes in the computer program..
+   An extension of The Citation Identifier to reduced-form citations (e.g.,
+"the Geddes decision", "the Southland Industries case") is now in preparation..    
+.X
+30	1	581
+38	1	581
+51	1	581
+69	1	581
+71	2	581
+75	1	581
+77	3	581
+78	1	581
+79	3	581
+80	1	581
+81	1	581
+82	1	581
+83	1	581
+84	1	581
+154	1	581
+168	2	581
+175	1	581
+176	1	581
+212	1	581
+247	1	581
+315	2	581
+317	1	581
+320	1	581
+382	1	581
+420	1	581
+448	1	581
+480	1	581
+483	1	581
+484	1	581
+486	1	581
+488	3	581
+489	2	581
+490	2	581
+491	3	581
+492	2	581
+493	3	581
+494	1	581
+495	1	581
+496	2	581
+497	2	581
+498	2	581
+499	3	581
+500	1	581
+503	1	581
+507	1	581
+509	1	581
+510	1	581
+512	1	581
+517	1	581
+520	1	581
+522	1	581
+527	1	581
+528	1	581
+531	1	581
+565	1	581
+566	1	581
+570	1	581
+581	6	581
+583	1	581
+584	1	581
+586	1	581
+596	1	581
+603	1	581
+608	1	581
+633	1	581
+659	3	581
+666	2	581
+715	1	581
+754	1	581
+790	2	581
+795	1	581
+801	1	581
+805	1	581
+809	1	581
+810	1	581
+812	1	581
+813	1	581
+814	1	581
+817	1	581
+824	1	581
+825	1	581
+838	1	581
+853	1	581
+894	1	581
+986	1	581
+1035	1	581
+1051	1	581
+1294	4	581
+1327	1	581
+1393	1	581
+1419	1	581
+1427	1	581
+1431	1	581
+1443	1	581
+1443	1	581

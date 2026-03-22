@@ -1,0 +1,82 @@
+An abstract, as defined here, is an abbreviated, accurate representation
+of a document.. The following recommendations are made for the guidance of
+authors and editors, so that abstracts in primary documents may be both
+helpful to their readers and reproducible with little or no change in
+secondary publications and services..
+   Prepare an abstract for every formal item in journals and proceedings,
+and for each separately published report, pamphlet, thesis, monograph, 
+and patent.. Place the abstract as early as possible in the document..
+Make the abstract as informative as the document will permit, so that
+readers may decide whether they need to read the entire document.. State the
+purpose, methods results, and conclusions presented in the document, either
+in that order or with initial emphasis on findings..
+   Make each abstract self-contained but concise; retain the basic information
+and tone of the original document..  Keep abstracts of most papers to 
+fewer than 250 words, abstracts of reports and theses to fewer than 500 words
+(preferably on one page), and abstracts of short communications to fewer
+than 100 words.. Write most abstracts in a single paragraph.. Normally
+employ complete, connected sentences; active verbs; ad the third person..
+Employ standard nomenclature, or define unfamiliar terms, abbreviations, and
+symbols the first time they occur in the abstract..
+.X
+35	2	657
+42	1	657
+43	1	657
+52	1	657
+70	1	657
+73	1	657
+81	1	657
+91	1	657
+95	1	657
+166	1	657
+175	2	657
+324	1	657
+420	2	657
+429	1	657
+491	1	657
+496	1	657
+499	1	657
+503	2	657
+513	1	657
+517	1	657
+571	2	657
+576	2	657
+578	1	657
+582	3	657
+588	1	657
+589	4	657
+594	1	657
+595	1	657
+603	1	657
+613	1	657
+614	1	657
+618	1	657
+655	1	657
+656	1	657
+657	10	657
+666	1	657
+685	1	657
+686	1	657
+690	1	657
+691	1	657
+712	2	657
+721	1	657
+722	1	657
+724	1	657
+725	1	657
+958	1	657
+987	1	657
+988	1	657
+1012	1	657
+1054	2	657
+1144	1	657
+1154	1	657
+1208	1	657
+1232	1	657
+1281	1	657
+1293	2	657
+1295	2	657
+1296	1	657
+1298	1	657
+1302	1	657
+1302	1	657

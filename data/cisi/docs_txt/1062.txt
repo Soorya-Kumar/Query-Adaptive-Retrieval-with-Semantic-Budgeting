@@ -1,0 +1,69 @@
+The referee system in science involves the systematic use of judges to
+assess the acceptability of manuscripts submitted for publication.  The
+referee is thus an example of status-judges who are charged with evaluating
+the quality of role-performance in a social system.  They are found in
+every institutional sphere.  Other kinds of status-judges include teachers
+assessing the quality of work by students (and, as a recent institutional
+change, students officially assessing the quality of performance by teachers),
+critics in the arts, supervisors in industry and coaches and managers in
+sports.  Status-judges are integral to any system of social control through
+their evaluation of role-performance and their allocation of rewards for
+that performance.  They influence the motivation to maintain or to raise
+standards of performance.
+.X
+48	1	1062
+89	2	1062
+98	1	1062
+100	1	1062
+102	1	1062
+104	1	1062
+105	1	1062
+106	1	1062
+107	2	1062
+110	3	1062
+111	3	1062
+112	1	1062
+113	1	1062
+155	1	1062
+157	1	1062
+170	1	1062
+314	1	1062
+356	1	1062
+359	1	1062
+456	1	1062
+544	1	1062
+545	1	1062
+560	2	1062
+582	1	1062
+592	1	1062
+602	1	1062
+656	1	1062
+685	1	1062
+793	1	1062
+1030	2	1062
+1050	1	1062
+1062	7	1062
+1083	1	1062
+1085	1	1062
+1209	1	1062
+1256	1	1062
+1284	1	1062
+1285	2	1062
+1287	1	1062
+1290	1	1062
+1291	3	1062
+1293	2	1062
+1294	1	1062
+1295	1	1062
+1296	2	1062
+1297	1	1062
+1301	1	1062
+1302	2	1062
+1319	1	1062
+1335	1	1062
+1340	1	1062
+1344	1	1062
+1346	2	1062
+1347	1	1062
+1386	1	1062
+1386	1	1062

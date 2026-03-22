@@ -1,0 +1,19 @@
+This volume is intended mainly as a source book for
+project and program ideas for libraries now engaged in working
+with the disadvantaged or planning to do so.  It is also
+hoped that it will give an overview of the progress to date in
+work with the disadvantaged by bringing together much of the
+thinking and many of the ideas that have appeared in literature
+or in conferences in the last few years.
+.X
+272	1	1006
+376	1	1006
+910	1	1006
+935	1	1006
+1006	5	1006
+1049	1	1006
+1145	1	1006
+1227	1	1006
+1384	1	1006
+1396	1	1006
+1396	1	1006

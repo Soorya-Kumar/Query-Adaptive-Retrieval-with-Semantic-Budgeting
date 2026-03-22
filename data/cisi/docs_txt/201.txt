@@ -1,0 +1,129 @@
+The purpose of this investigation was to produce a title list of current
+journals suppling upwards of 75 percent of demand at the Columbia and Yale 
+Medical Libraries.. Columbia received nearly 2,000 journals and Yale over
+1,500; findings are based upon an analysis of canceled charge slips for issues
+published from 1959 through June 1962.. This combined study of recorded usage
+for six months in the Columbia Medical Library (12.9 percent of circulation
+during January through June 1962) and for one year in the Yale Medical Library
+(12.5 percent of 1961/62 circulation) revealed that a core of 262 journals
+supplied 80 percent of use of titles published in the 1959 to mid-1962
+period.. However, it is probable that current issues of all titles received
+were used at least once within the libraries.. Titles of sixty-seven journals
+which supplied slightly more than 50 percent of use are listed..
+.X
+31	3	201
+33	1	201
+36	4	201
+41	1	201
+46	1	201
+57	1	201
+76	1	201
+89	1	201
+90	1	201
+121	1	201
+161	1	201
+181	2	201
+182	2	201
+183	5	201
+184	5	201
+185	1	201
+189	1	201
+193	7	201
+195	3	201
+196	2	201
+198	3	201
+199	1	201
+201	16	201
+202	1	201
+203	6	201
+204	5	201
+205	4	201
+209	1	201
+210	1	201
+211	1	201
+212	1	201
+217	2	201
+219	1	201
+220	2	201
+222	1	201
+233	1	201
+267	1	201
+269	2	201
+284	1	201
+286	1	201
+294	1	201
+359	2	201
+373	3	201
+379	1	201
+395	2	201
+415	1	201
+475	1	201
+543	1	201
+552	1	201
+554	1	201
+587	1	201
+588	1	201
+613	1	201
+614	1	201
+624	1	201
+638	1	201
+667	1	201
+735	1	201
+748	2	201
+750	1	201
+751	1	201
+759	1	201
+760	1	201
+765	1	201
+766	1	201
+767	3	201
+774	1	201
+778	2	201
+784	1	201
+787	1	201
+791	1	201
+792	1	201
+793	1	201
+799	1	201
+800	2	201
+808	1	201
+821	2	201
+828	1	201
+889	1	201
+891	2	201
+905	2	201
+952	1	201
+953	1	201
+959	1	201
+964	1	201
+968	1	201
+977	3	201
+1009	1	201
+1018	1	201
+1019	2	201
+1055	1	201
+1081	1	201
+1082	1	201
+1083	1	201
+1085	1	201
+1086	2	201
+1151	1	201
+1173	1	201
+1201	1	201
+1203	3	201
+1240	1	201
+1256	1	201
+1275	2	201
+1278	1	201
+1302	1	201
+1352	3	201
+1355	1	201
+1359	1	201
+1369	2	201
+1397	5	201
+1401	1	201
+1417	2	201
+1418	1	201
+1432	1	201
+1451	1	201
+1451	1	201

@@ -1,0 +1,57 @@
+The goal of this book, Library Automation: Experience, Methodology,
+and Technology of the Library as an Information System, is to
+provide a perspective of the library functions that have been or
+might be mechanized or automated, an outline of the methodology
+of the systems approach, an overview of the technology available to
+the library, and a projection of the prospects for library automation.
+  There is a concern in every library for the proper handling and
+control of a veritable flood of material and for the prompt and
+convenient fulfillment of service demands.  That concern is matched by
+excitement about the possibilities for effective use of the computers
+and communications network in many library functions.  Knowledge,
+the library's stock-in-trade, is being generated at an unprecedented
+rate and sought after with unprecedented intensity.  Technology, the
+driving force behind the library's problems and one hope for future
+solution, is being advanced to unprecedented levels.
+.X
+119	1	916
+177	1	916
+178	1	916
+214	1	916
+235	1	916
+241	1	916
+287	2	916
+289	1	916
+291	1	916
+348	1	916
+406	2	916
+408	3	916
+548	1	916
+594	1	916
+597	1	916
+598	1	916
+601	1	916
+836	1	916
+849	1	916
+863	1	916
+864	1	916
+865	1	916
+866	1	916
+868	1	916
+897	2	916
+916	5	916
+925	1	916
+936	1	916
+959	1	916
+960	1	916
+962	1	916
+979	1	916
+986	1	916
+1007	2	916
+1012	1	916
+1033	1	916
+1052	1	916
+1084	1	916
+1248	1	916
+1400	1	916
+1400	1	916

@@ -1,0 +1,15 @@
+This book considers the basic aspects of this complex problem - the historical
+and social essence of language and thought, their interaction in historical
+evolution, the essence of linguistic meaning in relation to the content side
+of thought, and the physiological mechanism of the processes of abstraction,
+generalization, etc.
+.X
+362	1	1459
+585	1	1459
+1093	1	1459
+1107	1	1459
+1138	1	1459
+1141	1	1459
+1169	2	1459
+1459	5	1459
+1459	5	1459

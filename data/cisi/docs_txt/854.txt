@@ -1,0 +1,62 @@
+A preliminary report on planning for network design undertaken by the
+Reference Round Table of the Texas Library Association and the State Advisory
+Council to Library services and Construction Act Title III Texas Program..
+Necessary components of a network are discussed, and network transactions of
+eighteen Dallas area libraries analyzed using a methodology and quantitative
+measures developed for this project..
+.X
+24	1	854
+75	1	854
+78	1	854
+80	1	854
+141	1	854
+159	1	854
+177	1	854
+178	1	854
+244	1	854
+281	1	854
+299	1	854
+336	1	854
+365	1	854
+529	1	854
+630	1	854
+822	1	854
+852	2	854
+853	1	854
+854	6	854
+855	1	854
+857	1	854
+858	2	854
+859	1	854
+861	1	854
+871	1	854
+872	1	854
+873	1	854
+874	1	854
+875	1	854
+876	1	854
+877	1	854
+878	1	854
+879	1	854
+880	2	854
+892	1	854
+940	1	854
+941	1	854
+970	1	854
+984	1	854
+990	1	854
+994	1	854
+997	1	854
+998	1	854
+1011	1	854
+1043	1	854
+1079	1	854
+1143	1	854
+1230	1	854
+1252	1	854
+1257	1	854
+1303	1	854
+1396	1	854
+1435	1	854
+1436	1	854
+1436	1	854

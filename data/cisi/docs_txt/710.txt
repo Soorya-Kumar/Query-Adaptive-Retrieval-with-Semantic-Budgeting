@@ -1,0 +1,17 @@
+The status of MSSS is described.. Problems and experiences that have been
+encountered in three years of commmercial operation of this system are 
+reported and discussed..
+.X
+116	1	710
+130	1	710
+357	1	710
+671	1	710
+690	1	710
+699	2	710
+702	1	710
+707	1	710
+710	5	710
+738	1	710
+742	1	710
+993	1	710
+993	1	710

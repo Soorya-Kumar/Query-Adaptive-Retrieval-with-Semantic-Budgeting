@@ -1,0 +1,49 @@
+The purpose of a chemical information system must not be restricted
+to the storage and retrieval of facts.  It is equally important that the system
+shall provide methods which enable a scientist to assemble and to correlate
+the facts.  Chemical information systems are required primarily as a service
+to research chemists to enable them to keep up to date with current
+developments in their fields of interest, and the establishment of information
+services has relieved the chemist of many of his problems of literature
+searching and information storage and organization.
+.X
+116	1	254
+117	1	254
+165	1	254
+252	1	254
+254	7	254
+327	3	254
+347	1	254
+568	2	254
+641	2	254
+668	2	254
+670	1	254
+671	2	254
+673	2	254
+677	1	254
+678	1	254
+679	1	254
+682	1	254
+683	1	254
+687	1	254
+689	2	254
+690	2	254
+693	1	254
+694	1	254
+695	1	254
+698	1	254
+700	1	254
+704	1	254
+706	1	254
+707	1	254
+714	1	254
+730	2	254
+738	1	254
+833	1	254
+890	2	254
+1026	1	254
+1072	1	254
+1092	2	254
+1292	1	254
+1452	2	254
+1452	2	254

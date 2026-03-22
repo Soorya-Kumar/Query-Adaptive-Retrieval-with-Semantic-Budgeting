@@ -1,0 +1,50 @@
+Scientific disciplines can be regarded as social devices which have, as one
+function, the analysis and reduction of raw information to assimilated 
+knowledge of a type which can be transmitted through professional training..
+Data on information flow in psychology reveal feedback to scientific workers
+and result in refinements of the product of research; later disseminations are 
+interwoven with processes of evaluation and selection and are directed toward 
+the creation of an integrated and tested body of knowledge.. The reported data 
+finish an empirical base for Ziman's consensual model of science and illuminate 
+difficulties which have arisen in the design and implementation of information 
+systems..
+.X
+47	1	513
+48	1	513
+91	1	513
+102	1	513
+113	1	513
+429	1	513
+503	1	513
+513	5	513
+545	1	513
+582	2	513
+588	1	513
+589	1	513
+603	1	513
+613	1	513
+614	1	513
+618	1	513
+657	1	513
+685	2	513
+686	2	513
+691	1	513
+721	1	513
+722	2	513
+724	1	513
+725	2	513
+770	1	513
+776	2	513
+958	1	513
+987	1	513
+988	1	513
+1030	1	513
+1208	1	513
+1210	1	513
+1290	1	513
+1293	1	513
+1300	1	513
+1302	1	513
+1308	1	513
+1313	1	513
+1313	1	513

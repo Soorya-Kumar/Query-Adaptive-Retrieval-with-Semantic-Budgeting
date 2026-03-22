@@ -1,0 +1,127 @@
+In an attempt to further amplify the characteristics of the cardiovascular
+serial literature, citation patterns were studied.. As previously shown, 
+one-third of the 5,860 papers from the National Heart Institute grantees for
+1967 appeared within 13 journals (3).. After the exclusion of the abstract
+journals, the remaining journals were used to obtain a basic pool of 300
+cardiovascular related articles.. Science Citation Index was used to
+gather statistics relative to citing author, journal and year.. The 300
+articles in the basic pool were cited a total of 2,545 times during this
+four-year period (1967-1970).. The figures concerning citation rate by
+year serve to uphold the idea that journal citation reaches a peak during
+the third year after publication.. Also some definite patterns of self-citation
+were noted.. It was found that, when analyzed on the basis of first author, 
+15 percent of the 2,545 citations were self-citations.. The ten basic 
+journals tend to be cited mostly within themselves; one-third of the
+citations were found in these journals.. Although the citations were
+found throughout 349 journals, indicating an extensive scatter, a
+relatively high percentage of papers were found in few journals..
+.X
+33	2	613
+36	2	613
+41	1	613
+89	1	613
+90	1	613
+91	1	613
+97	1	613
+102	1	613
+111	1	613
+112	1	613
+161	1	613
+163	1	613
+183	2	613
+184	2	613
+193	2	613
+199	2	613
+201	1	613
+202	1	613
+203	2	613
+204	1	613
+205	1	613
+209	1	613
+210	1	613
+212	1	613
+217	1	613
+220	1	613
+222	1	613
+225	1	613
+269	1	613
+284	1	613
+286	1	613
+294	1	613
+373	1	613
+377	1	613
+429	1	613
+513	1	613
+543	1	613
+545	1	613
+552	1	613
+582	1	613
+587	1	613
+588	3	613
+589	1	613
+603	1	613
+605	2	613
+613	6	613
+614	2	613
+618	1	613
+624	1	613
+638	1	613
+657	1	613
+685	1	613
+686	1	613
+691	1	613
+721	1	613
+722	1	613
+724	1	613
+725	1	613
+735	1	613
+747	1	613
+750	1	613
+753	1	613
+766	1	613
+767	1	613
+770	1	613
+775	1	613
+776	1	613
+782	1	613
+784	1	613
+788	1	613
+789	1	613
+793	1	613
+799	1	613
+800	2	613
+808	2	613
+905	1	613
+953	1	613
+958	1	613
+959	1	613
+977	1	613
+983	1	613
+987	1	613
+988	1	613
+1016	1	613
+1023	1	613
+1030	1	613
+1055	1	613
+1087	2	613
+1090	1	613
+1135	1	613
+1151	1	613
+1208	1	613
+1260	1	613
+1275	1	613
+1276	1	613
+1278	1	613
+1280	1	613
+1285	1	613
+1286	1	613
+1287	1	613
+1293	1	613
+1302	3	613
+1335	1	613
+1390	1	613
+1397	1	613
+1417	1	613
+1428	1	613
+1432	1	613
+1432	1	613

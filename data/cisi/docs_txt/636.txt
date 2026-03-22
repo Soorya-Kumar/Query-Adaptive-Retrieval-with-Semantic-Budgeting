@@ -1,0 +1,179 @@
+Some new text searching retrieval techniques are described which retrieve
+not documents but sentences from documents and sometimes (on occasions
+determined by the computer) multi-sentence sequences.. Since the goal of the
+techniques is retrieval of answer-providing documents, "answer-passages" are
+retrieved.. An "answer-passage" is a passage which is either answer-providing
+or "answer-indicative," i.e., it permits inferring that the document 
+containing it is answer-providing.. In most cases answer-sentences, i.e., 
+single-sentence answer-passages, are retrieved.. This has great advantages
+for screening retrieval output..
+   Two new automatic procedures for measuring closeness of relation
+between clue words in a sentence are described.. One approximates
+syntactic closeness by counting the number of intervening "syntactic
+joints" (roughly speaking, prepositions, conjunctions and punctuation
+marks) between successive clue words.. The other measure uses word
+proximity in a new way.. The two measures perform about equally well..
+   The computer uses "enclosure" and "connector words" for determining
+when a multi-sentence passage should be retrieved.. However, no procedure
+was found in this study for retrieving multi-paragraph answer-passages, 
+which were the only answer-passages occurring in 6% of the papers..
+   In a test of the techniques they failed to retrieve two 
+answer-providing documents (7% of those to be retrieved) because of
+one multi-paragraph answer-passage and one complete failure
+of clue word selection.. For the other answer-providing documents they
+retrieved at all recall levels with greater precision than SMART, 
+which has produced the best previously reported recall-precision results..
+   The retrieval questions (mostly from real users) and documents used in
+this study were from the field of information science.. The results of the
+study are surprisingly good for retrieval in such a "soft science," and
+it is reasonable to hope that in less "soft" sciences and technologies
+the techniques described will work even better.. On this basis a 
+dissemination and retrieval system of the near future is predicted..
+.X
+18	1	636
+75	1	636
+86	1	636
+124	2	636
+125	1	636
+127	2	636
+129	1	636
+145	1	636
+165	1	636
+175	1	636
+190	1	636
+191	1	636
+197	1	636
+211	1	636
+214	1	636
+218	1	636
+243	1	636
+307	1	636
+330	1	636
+357	1	636
+376	1	636
+378	1	636
+381	1	636
+382	1	636
+389	1	636
+390	1	636
+448	1	636
+450	1	636
+451	1	636
+452	2	636
+459	2	636
+468	1	636
+484	2	636
+492	1	636
+508	1	636
+511	2	636
+512	1	636
+514	3	636
+516	1	636
+518	2	636
+520	2	636
+521	1	636
+522	1	636
+523	2	636
+524	2	636
+525	2	636
+526	2	636
+527	2	636
+528	1	636
+529	3	636
+530	2	636
+534	2	636
+546	1	636
+553	1	636
+570	1	636
+575	1	636
+576	1	636
+579	1	636
+586	1	636
+594	1	636
+603	1	636
+604	1	636
+606	1	636
+608	1	636
+609	2	636
+610	2	636
+611	1	636
+612	1	636
+615	1	636
+625	2	636
+626	2	636
+630	1	636
+633	1	636
+635	1	636
+636	6	636
+637	2	636
+642	2	636
+643	1	636
+648	1	636
+650	1	636
+659	1	636
+692	1	636
+696	1	636
+699	1	636
+700	1	636
+702	1	636
+703	2	636
+705	2	636
+707	1	636
+708	1	636
+726	2	636
+727	2	636
+728	1	636
+730	1	636
+731	1	636
+732	2	636
+733	2	636
+734	2	636
+736	2	636
+738	1	636
+739	1	636
+740	1	636
+741	1	636
+742	1	636
+743	1	636
+744	1	636
+754	1	636
+755	1	636
+812	1	636
+817	1	636
+820	2	636
+824	1	636
+826	2	636
+827	2	636
+875	1	636
+877	1	636
+879	2	636
+883	1	636
+894	1	636
+1004	1	636
+1035	1	636
+1078	1	636
+1089	1	636
+1091	1	636
+1207	1	636
+1264	1	636
+1294	1	636
+1297	1	636
+1303	2	636
+1313	1	636
+1327	2	636
+1356	1	636
+1364	2	636
+1366	1	636
+1367	1	636
+1368	2	636
+1370	2	636
+1372	2	636
+1373	1	636
+1374	1	636
+1375	1	636
+1376	1	636
+1377	1	636
+1383	1	636
+1396	1	636
+1419	1	636
+1419	1	636
