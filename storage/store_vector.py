@@ -7,7 +7,7 @@ from typing import List, Optional
 import numpy as np
 
 QDRANT_URL = "http://localhost:6333"
-COLLECTION = "CISI1"
+COLLECTION = "chunks"
 VECTOR_DIM = 768  # match your embed model
 
 

@@ -6,7 +6,7 @@ from descriptors.schema import ChunkDescriptor
 import json
 
 # update credentials
-DSN = "postgresql://user:password@localhost:5432/cisi1"
+DSN = "postgresql://user:password@localhost:5432/fyp1"
 
 def get_conn():
     return psycopg2.connect(DSN)

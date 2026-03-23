@@ -4,7 +4,7 @@ from pydantic import BaseModel, Field
 from typing import Optional
 
 OLLAMA_URL = "http://localhost:11434/api/chat"
-MODEL = "qwen2.5:7b-instruct"
+MODEL = "mistral:7b"
 
 SYSTEM_PROMPT = """You are a query analyzer for a document retrieval system. Your task is to parse user queries and extract structured intent, depth, and temporal metadata.
 
