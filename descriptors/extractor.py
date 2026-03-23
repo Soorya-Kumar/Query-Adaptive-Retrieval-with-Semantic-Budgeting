@@ -31,6 +31,7 @@ coarse (2–3):
 CRITICAL CONSTRAINTS
 -----------------------------------
 - NO redundancy across levels
+- Ignore the random noise (numbers following .X) at the end of the chunk
 - NO vague terms (e.g., "system", "approach", "study")
 - Tags must be 1–3 words (prefer canonical forms)
 - Prefer terms used in research literature
@@ -145,16 +146,27 @@ def extract_descriptors(chunk_text: str) -> ChunkDescriptor:
     response = post_with_retries(OLLAMA_URL, json=payload)
     response.raise_for_status()
 
-    raw = response.json()["message"]["content"].strip()
-
-    # Strip accidental markdown fences
-    if raw.startswith("```"):
-        raw = raw.split("```")[1]
-        if raw.startswith("json"):
-            raw = raw[4:]
+    raw = response.json().get("message", {}).get("content", "")
     raw = raw.strip()
 
-    data = json.loads(raw)        
+    # extract fenced JSON if present anywhere in the output
+    m = re.search(r"```(?:json\s*)?(.*?)```", raw, re.DOTALL | re.IGNORECASE)
+    if m:
+        raw = m.group(1).strip()
+    else:
+        # fallback: extract the first {...} JSON object in the text
+        m2 = re.search(r"(\{.*\})", raw, re.DOTALL)
+        if m2:
+            raw = m2.group(1).strip()
+
+    if not raw:
+        raise ValueError(f"Empty or missing JSON in model response; full response: {response.text!r}")
+
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError as e:
+        raise ValueError(f"Failed to parse JSON from model output: {e}; extracted snippet: {raw[:1000]!r}")
+
     # Normalize anchor_year to Optional[int]
     ay = data.get("anchor_year", None)
 
@@ -170,14 +182,12 @@ def extract_descriptors(chunk_text: str) -> ChunkDescriptor:
             for k in ("year", "year_of_publication", "date"):
                 if k in val:
                     return _to_int_year(val[k])
-            # try any numeric-like fields
             for v in val.values():
                 y = _to_int_year(v)
                 if y:
                     return y
             return None
         if isinstance(val, list):
-            # try first plausible element
             for item in val:
                 y = _to_int_year(item)
                 if y:
