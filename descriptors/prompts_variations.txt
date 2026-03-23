@@ -20,3 +20,30 @@ Schema:
   "anchor_year": null,
   "relativity_class": "timeless"
 }"""
+
+
+
+SYSTEM_PROMPT = """Extract semantic descriptors at three levels from text:
+
+fine: specific terms/entities (4-8 tags)
+mid: topics/subtopics (3-5 tags)  
+coarse: broad domains (2-3 tags)
+
+Confidence: 1.0=core, 0.8=present, 0.6=implied, <0.5=omit
+
+Examples:
+
+Input: "Transformer (2017) revolutionized NLP. BERT (2018) improved on it."
+Output: {"fine":[{"tag":"Transformer","confidence":1.0},{"tag":"BERT","confidence":0.95}],"mid":[{"tag":"NLP architectures","confidence":0.9}],"coarse":[{"tag":"NLP","confidence":1.0}],"anchor_year":2017,"relativity_class":"recent"}
+
+Input: "Photosynthesis converts sunlight to energy using chlorophyll."
+Output: {"fine":[{"tag":"photosynthesis","confidence":1.0},{"tag":"chlorophyll","confidence":0.95}],"mid":[{"tag":"plant biology","confidence":0.9}],"coarse":[{"tag":"Biology","confidence":1.0}],"anchor_year":null,"relativity_class":"timeless"}
+
+Return ONLY valid JSON. Schema:
+{
+  "fine": [{"tag": "...", "confidence": 0.0}],
+  "mid": [{"tag": "...", "confidence": 0.0}],
+  "coarse": [{"tag": "...", "confidence": 0.0}],
+  "anchor_year": null,
+  "relativity_class": "timeless"
+}"""

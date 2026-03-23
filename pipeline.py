@@ -1,5 +1,6 @@
 import numpy as np
 from typing import List, Optional
+import os
 
 from utils import color_print
 
@@ -79,16 +80,32 @@ def ingest_file(path: str):
     print(f"Done: {doc.doc_id}")
     color_print("Ingestion file complete.")
 
+
 def ingest_directory(dir_path: str):
     init_collection()
+    checkpoint_file = "ingestion_checkpoint.txt"
+
+    # Load completed documents from checkpoint
+    completed_docs = set()
+    if os.path.exists(checkpoint_file):
+        with open(checkpoint_file, "r") as f:
+            completed_docs = set(f.read().splitlines())
+
     docs = load_directory(dir_path)
     print(f"Found {len(docs)} documents")
+
     for doc in docs:
+        if doc.doc_id in completed_docs:
+            print(f"Skipping {doc.doc_id} (already ingested)")
+            continue
         chunks = chunk_document(doc)
         print(f"Ingesting {doc.doc_id}: {len(chunks)} chunks")
         for i, chunk in enumerate(chunks):
             print(f"  [{i+1}/{len(chunks)}] {chunk.chunk_id}")
             ingest_chunk(chunk)
+        # Save progress to checkpoint
+        with open(checkpoint_file, "a") as f:
+            f.write(f"{doc.doc_id}\n")
     print("Ingestion complete.")
     color_print("Ingestion directory complete.")
 
