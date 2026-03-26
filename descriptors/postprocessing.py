@@ -16,7 +16,7 @@ def _dedup(tags: List[TagWithConfidence]) -> List[TagWithConfidence]:
         if not is_dup:
             kept.append(candidate)
     return kept
-
+3
 
 def postprocess(descriptor: ChunkDescriptor) -> ChunkDescriptor:
     def filter_and_dedup(tags: List[TagWithConfidence]) -> List[TagWithConfidence]:

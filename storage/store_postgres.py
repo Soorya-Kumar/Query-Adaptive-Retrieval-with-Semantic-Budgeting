@@ -5,7 +5,6 @@ import numpy as np
 from descriptors.schema import ChunkDescriptor
 import json
 
-# update credentials
 DSN = "postgresql://user:password@localhost:5432/fyp1"
 
 def get_conn():
@@ -107,7 +106,6 @@ def _to_or_tsquery(text: str) -> str:
     return " | ".join(tokens)
 
 def bm25_search(query: str, top_k: int = 500) -> List[dict]:
-    """Full-text search over chunk.raw_text using OR semantics for high recall."""
     sql = """
     WITH q AS (SELECT to_tsquery('english', %s) AS query)
     SELECT c.chunk_id,

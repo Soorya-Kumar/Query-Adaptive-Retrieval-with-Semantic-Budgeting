@@ -11,12 +11,12 @@ def _cosine(a: np.ndarray, b: np.ndarray) -> float:
 
 
 def _level_score(
-    query_tags: List[tuple],   # [(tag, conf, vec), ...]
-    doc_tags: List[tuple],     # [(tag, conf, vec), ...]
+    query_tags: List[tuple],   
+    doc_tags: List[tuple],     
 ) -> float:
     """
     score = Σ_i Σ_j cos(query[i], doc[j]) x doc_conf[j]
-    then normalized by number of pairs to stay bounded
+    then normalized by no of pairs to be bounded
     """
     if not query_tags or not doc_tags:
         return 0.0
@@ -34,10 +34,6 @@ def _temporal_score(
     doc_anchor: Optional[int],
     lam: float,
 ) -> float:
-    """
-    score = exp(-λ × |query_anchor - doc_anchor|)
-    Returns 1.0 if either anchor is missing or λ=0
-    """
     if lam == 0.0 or query_anchor is None or doc_anchor is None:
         return 1.0
     return float(np.exp(-lam * abs(query_anchor - doc_anchor)))
@@ -45,15 +41,9 @@ def _temporal_score(
 
 def score_chunk(
     eq: EncodedQuery,
-    doc_level_embeddings: dict[str, List[tuple]],  # from descriptor_store.fetch_descriptor_embeddings
+    doc_level_embeddings: dict[str, List[tuple]], 
     doc_anchor_year: Optional[int],
 ) -> float:
-    """
-    final_score = semantic_score + temporal_score
-
-    semantic_score = α·coarse_score + β·mid_score + γ·fine_score
-    temporal_score = exp(-λ × |query_anchor - doc_anchor|)
-    """
     w = eq.weights
 
     coarse_score = _level_score(eq.level_embeddings["coarse"], doc_level_embeddings["coarse"])

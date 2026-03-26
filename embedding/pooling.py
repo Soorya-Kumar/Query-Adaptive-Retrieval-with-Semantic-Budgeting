@@ -4,7 +4,6 @@ from descriptors.schema import ChunkDescriptor, TagWithConfidence
 from embedding.encoding import embed
 
 
-# Default granularity weights (α, β, γ) — overridden at query time
 DEFAULT_WEIGHTS = {"coarse": 0.2, "mid": 0.35, "fine": 0.45}
 
 
@@ -28,7 +27,7 @@ def pool(
     gamma: float = DEFAULT_WEIGHTS["fine"],
 ) -> np.ndarray:
     """
-    pooled = α * coarse_pool + β * mid_pool + γ * fine_pool
+    pooled = alpha * coarse_pool + beta * mid_pool + gamma * fine_pool
     Falls back gracefully if a level is empty.
     """
     coarse_vec = _pool_level(descriptor.coarse)

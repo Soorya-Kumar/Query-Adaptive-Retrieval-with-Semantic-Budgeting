@@ -10,11 +10,8 @@ class QueryWeights:
     lam: float     # temporal decay λ
 
 
-# Weights table keyed by (semantic_depth, temporal_intent)
-# Logic: deeper queries → more fine weight
-#        temporal queries → higher λ (stronger decay)
 _WEIGHT_TABLE: dict[tuple[str, str], QueryWeights] = {
-    # shallow queries — broad strokes, low temporal sensitivity
+    # shallow queries — broad strokes
     ("shallow", "any"):        QueryWeights(0.50, 0.35, 0.15, 0.0),
     ("shallow", "recent"):     QueryWeights(0.45, 0.35, 0.20, 0.3),
     ("shallow", "historical"): QueryWeights(0.45, 0.35, 0.20, 0.5),
@@ -40,10 +37,8 @@ def resolve(analysis: QueryAnalysis) -> QueryWeights:
     key = (analysis.semantic_depth, analysis.temporal_intent)
     weights = _WEIGHT_TABLE.get(key, _DEFAULT)
 
-    # Sanity check: weights should sum to 1.0
     total = weights.alpha + weights.beta + weights.gamma
     if abs(total - 1.0) > 1e-6:
-        # Normalize
         weights = QueryWeights(
             alpha=weights.alpha / total,
             beta=weights.beta / total,

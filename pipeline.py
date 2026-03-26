@@ -36,7 +36,7 @@ def ingest_chunk(chunk: Chunk):
             level_embeddings[level].append((t.tag, t.confidence, vec))
     color_print("Embedded descriptors")
 
-    # 3. Compute pooled vector (default weights at index time)
+    # 3. Compute pooled vector 
     pooled_vector = pool(descriptor)
     color_print("Pooled vector")
 
@@ -58,7 +58,7 @@ def ingest_chunk(chunk: Chunk):
     )
     color_print("Stored descriptors in Postgres")
 
-    # 6. Upsert pooled vector + metadata payload into Qdrant
+    # 6. Upsert pooled vector + metadata Qdrant
     upsert_chunk(
         chunk_id=chunk.chunk_id,
         pooled_vector=pooled_vector,
@@ -116,7 +116,7 @@ def ingest_directory(dir_path: str):
 def query(
     text: str,
     retrieve_top_k: int = 500,
-    rerank_top_k: int = 20,
+    rerank_top_k: int = 5,
 ) -> List[dict]:
     # 1. Encode query (analyze + weight + embed)
     eq = encode(text)
@@ -134,9 +134,6 @@ def query(
     print(f"  top-{rerank_top_k} after rerank")
 
     return results
-
-
-# ── Entry point ───────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
     import sys

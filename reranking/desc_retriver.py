@@ -5,10 +5,6 @@ from storage.store_postgres import fetch_descriptor_embeddings, fetch_chunk_meta
 
 
 def rerank(eq: EncodedQuery, candidates: List[dict], top_k: int = 20) -> List[dict]:
-    """
-    candidates: output of retrieval pipeline [{"chunk_id": ..., "rrf_score": ...}]
-    Returns top_k chunks sorted by final_score descending.
-    """
     scored = []
 
     for item in candidates:

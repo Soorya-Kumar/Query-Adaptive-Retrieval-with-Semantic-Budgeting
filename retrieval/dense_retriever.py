@@ -4,7 +4,6 @@ from typing import List
 
 
 def dense_retrieve(eq: EncodedQuery, top_k: int = 500) -> List[dict]:
-    """ANN search in Qdrant with metadata pre-filtering from query analysis."""
     analysis = eq.analysis
 
     anchor_year_range = None
@@ -16,6 +15,6 @@ def dense_retrieve(eq: EncodedQuery, top_k: int = 500) -> List[dict]:
     return search(
         query_vector=eq.pooled_vector,
         top_k=top_k,
-        #relativity_class=analysis.relativity_class,
+        relativity_class=analysis.relativity_class,
         anchor_year_range=anchor_year_range,
     )
